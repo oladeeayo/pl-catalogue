@@ -1,0 +1,2 @@
+row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
+2026:990:in:1,2026,990,Coventry City,in,1240763,Caleb Yirenkyi,20,Central Midfield,18000000.0,FC Nordsjaelland,Coventry City,27000000.0,€27.00m,permanent,6490356,575.0,2026-10-05T21:50:18+00:00,Yirenkyi

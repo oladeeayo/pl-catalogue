@@ -1,10 +1,12 @@
 import asyncio
+from pathlib import Path
 
 from pydoll.browser.chromium.chrome import Chrome
 from pydoll.browser.options import ChromiumOptions
 
 PAGE = "https://understat.com/league/EPL/2026"
 API = "https://understat.com/getLeagueData/EPL/2026"
+OUT = Path(__file__).parent / "sources" / "understat_league.json"
 
 
 async def main():
@@ -19,7 +21,8 @@ async def main():
         await asyncio.sleep(3)
         resp = await tab.request.get(API)
         print("status:", resp.status_code, "len:", len(resp.text))
-        with open("understat_league.json", "w", encoding="utf-8") as f:
+        OUT.parent.mkdir(exist_ok=True)
+        with open(OUT, "w", encoding="utf-8") as f:
             f.write(resp.text)
 
 

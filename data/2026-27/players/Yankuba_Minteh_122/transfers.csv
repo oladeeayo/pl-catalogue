@@ -1,0 +1,4 @@
+row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
+2024:1237:in:2,2024,1237,Brighton & Hove Albion,in,1012534,Yankuba Minteh,19,Right Winger,16000000.0,Newcastle United,Brighton & Hove Albion,35000000.0,€35.00m,permanent,5083812,122.0,2026-10-05T21:50:18+00:00,Minteh
+2024:762:in:6,2024,762,Newcastle United,in,1012534,Yankuba Minteh,19,Right Winger,16000000.0,Feyenoord Rotterdam,Newcastle United,,End of loan30/06/2024,end_loan,4434568,122.0,2026-10-05T21:50:18+00:00,Minteh
+2023:762:in:4,2023,762,Newcastle United,in,1012534,Yankuba Minteh,18,Right Winger,2000000.0,Odense Boldklub,Newcastle United,8000000.0,€8.00m,permanent,4434566,122.0,2026-10-05T21:50:18+00:00,Minteh

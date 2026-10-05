@@ -1,0 +1,3 @@
+row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
+2025:29:in:8,2025,29,Everton FC,in,215810,Tom King,30,Goalkeeper,200000.0,Wolverhampton Wanderers,Everton FC,,?,unknown,5867232,228.0,2026-10-05T21:50:18+00:00,King
+2023:543:in:6,2023,543,Wolverhampton Wanderers,in,215810,Tom King,28,Goalkeeper,175000.0,Northampton Town,Wolverhampton Wanderers,0.0,free transfer,free,4472724,228.0,2026-10-05T21:50:18+00:00,King

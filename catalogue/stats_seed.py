@@ -17,6 +17,7 @@ import pandas as pd
 
 DB = Path(__file__).parent / "catalogue.db"
 ROOT = Path(__file__).parent.parent
+SRC = ROOT / "sources"
 SEASON = "2026-27"
 
 LETTERS = {"ø": "o", "Ø": "O", "đ": "d", "Đ": "D", "ł": "l", "Ł": "L",
@@ -38,16 +39,16 @@ def run(verbose=True):
             print(m, flush=True)
 
     con = sqlite3.connect(DB)
-    stats_path = ROOT / "pl_sot_xg_all_matched.csv"
+    stats_path = SRC / "pl_sot_xg_all_matched.csv"
     if not stats_path.exists():
         log(f"SKIP stats_seed: {stats_path.name} missing (see README data setup); "
             "keeping existing season_stats")
         con.close()
         return {"rows": 0, "players": 0, "unmatched": 0, "skipped": True}
     stats = pd.read_csv(stats_path, encoding="utf-8")
-    fbids = (pd.read_csv(ROOT / "_fbref_ids.csv", encoding="utf-8")
-             if (ROOT / "_fbref_ids.csv").exists() else None)
-    rp_path = ROOT / "reep_people.csv"
+    fbids = (pd.read_csv(SRC / "_fbref_ids.csv", encoding="utf-8")
+             if (SRC / "_fbref_ids.csv").exists() else None)
+    rp_path = SRC / "reep_people.csv"
     rp = (pd.read_csv(rp_path, dtype=str, low_memory=False)
           if rp_path.exists() else None)
     if fbids is None or rp is None:
@@ -122,20 +123,11 @@ def run(verbose=True):
                 ambiguous = True
         return None, ("ambiguous" if ambiguous else "no match")
 
-    fetched = date.today().isoformat()
-    n_id = n_name = n_loose = 0
-    no_match = []
-    loose_hits = []
-    upserts = []
-    METRICS = [("fbref", "nineties", "90s"), ("fbref", "goals", "Gls"),
-               ("fbref", "shots", "Sh"), ("fbref", "sot", "SoT"),
-               ("fbref", "sot_pct", "SoT%"), ("understat", "xg", "xG")]
-
-    for _, r in stats.iterrows():
-        pid, via = None, "no match"
-        fbname = norm(r["Player"])
+    def resolve(fbname):
+        """Resolution chain for one FBref name -> (pid, via)."""
         fbid = name2fbid.get(fbname)
         rrow = fb2row.get(str(fbid).strip()) if fbid is not None else None
+        pid, via = None, "no match"
         # 1) exact id chain
         if rrow is not None:
             code = rrow.get("key_opta_numeric")
@@ -158,7 +150,20 @@ def run(verbose=True):
             pid = loose(fbname)
             if pid is not None:
                 via = "loose"
-                loose_hits.append((r["Player"], pid))
+        return pid, via
+
+    fetched = date.today().isoformat()
+    n_id = n_name = n_loose = 0
+    no_match = []
+    loose_hits = []
+    upserts = []
+    METRICS = [("fbref", "nineties", "90s"), ("fbref", "goals", "Gls"),
+               ("fbref", "shots", "Sh"), ("fbref", "sot", "SoT"),
+               ("fbref", "sot_pct", "SoT%"), ("understat", "xg", "xG")]
+
+    for _, r in stats.iterrows():
+        fbname = norm(r["Player"])
+        pid, via = resolve(fbname)
         if pid is None:
             no_match.append((r["Player"], via))
             continue
@@ -166,12 +171,63 @@ def run(verbose=True):
             n_id += 1
         elif via == "loose":
             n_loose += 1
+            loose_hits.append((r["Player"], pid))
         else:
             n_name += 1
         for source, metric, col in METRICS:
             v = r.get(col)
             if pd.notna(v):
                 upserts.append((int(pid), SEASON, source, metric, float(v), fetched))
+
+    # Additional FBref stat pages (same 427-row squad tables, same resolver)
+    EXTRA = [
+        ("fbref_passing_2026_27.csv", {
+            "Cmp": "passes_cmp", "Att": "passes_att", "Cmp%": "passes_pct",
+            "TotDist": "pass_totdist", "PrgDist": "pass_prgdist",
+            "Ast": "assists", "A-xAG": "axag", "KP": "key_passes",
+            "1/3": "pass_final_third", "PPA": "passes_ppa",
+            "CrsPA": "passes_crspa"}),
+        ("fbref_possession_2026_27.csv", {
+            "Touches": "touches", "Def Pen": "touches_def_pen",
+            "Def 3rd": "touches_def_3rd", "Mid 3rd": "touches_mid_3rd",
+            "Att 3rd": "touches_att_3rd", "Att Pen": "touches_att_pen",
+            "Att": "carry_att", "Succ": "carry_succ",
+            "Succ%": "carry_succ_pct", "Carries": "carries",
+            "TotDist": "carry_totdist", "PrgDist": "carry_prgdist",
+            "1/3": "carry_final_third", "CPA": "cpa", "Mis": "miscontrols",
+            "Dis": "dispossessed", "Rec": "receptions"}),
+        ("fbref_defense_2026_27.csv", {
+            "Tkl": "tackles", "TklW": "tackles_won",
+            "Def 3rd": "tackles_def_3rd", "Mid 3rd": "tackles_mid_3rd",
+            "Att 3rd": "tackles_att_3rd", "Att": "dribblers_faced",
+            "Tkl%": "dribblers_tackled_pct", "Lost": "dribblers_lost",
+            "Blocks": "blocks", "Sh": "blocks_sh", "Pass": "blocks_pass",
+            "Int": "interceptions", "Tkl+Int": "tackles_plus_int",
+            "Clr": "clearances", "Err": "errors"}),
+        ("fbref_misc_2026_27.csv", {
+            "CrdY": "yellow_cards", "CrdR": "red_cards",
+            "2CrdY": "second_yellow", "Fls": "fouls", "Fld": "fouled",
+            "Off": "offsides", "Crs": "crosses", "PKwon": "pen_won",
+            "PKcon": "pen_conceded", "OG": "own_goals"}),
+    ]
+    extra_unmatched = 0
+    for fname, cmap in EXTRA:
+        path = SRC / fname
+        if not path.exists():
+            log(f"skip {fname} (missing)")
+            continue
+        df = pd.read_csv(path, encoding="utf-8")
+        n_before = len(upserts)
+        for _, r in df.iterrows():
+            pid, _via = resolve(norm(r.get("Player")))
+            if pid is None:
+                extra_unmatched += 1
+                continue
+            for col, metric in cmap.items():
+                v = r.get(col)
+                if pd.notna(v):
+                    upserts.append((int(pid), SEASON, "fbref", metric, float(v), fetched))
+        log(f"{fname}: +{len(upserts) - n_before} values")
 
     con.executemany(
         """INSERT INTO season_stats (player_id, season, source, metric, value, fetched_at)

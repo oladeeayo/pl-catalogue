@@ -1,0 +1,5 @@
+row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
+2025:1237:in:25,2025,1237,Brighton & Hove Albion,in,1110406,Ibrahim Osman,21,Left Winger,8000000.0,AJ Auxerre,Brighton & Hove Albion,,End of loan18/01/2026,end_loan,5761623,600.0,2026-10-05T21:50:18+00:00,Osman
+2025:1237:in:17,2025,1237,Brighton & Hove Albion,in,1110406,Ibrahim Osman,20,Left Winger,10000000.0,Feyenoord Rotterdam,Brighton & Hove Albion,,End of loan30/06/2025,end_loan,5197328,600.0,2026-10-05T21:50:18+00:00,Osman
+2025:1237:in:9,2025,1237,Brighton & Hove Albion,in,1110406,Ibrahim Osman,21,Left Winger,7000000.0,Birmingham City,Brighton & Hove Albion,,End of loan31/05/2026,end_loan,6130850,600.0,2026-10-05T21:50:18+00:00,Osman
+2024:1237:in:8,2024,1237,Brighton & Hove Albion,in,1110406,Ibrahim Osman,19,Left Winger,12000000.0,FC Nordsjaelland,Brighton & Hove Albion,19500000.0,€19.50m,permanent,4882105,600.0,2026-10-05T21:50:18+00:00,Osman

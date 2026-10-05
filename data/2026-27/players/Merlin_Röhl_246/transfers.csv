@@ -1,0 +1,3 @@
+row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
+2026:29:in:2,2026,29,Everton FC,in,608832,Merlin Röhl,23,Central Midfield,16000000.0,SC Freiburg,Everton FC,25000000.0,€25.00m,permanent,6282884,246.0,2026-10-05T21:50:18+00:00,Röhl
+2025:29:in:7,2025,29,Everton FC,in,608832,Merlin Röhl,23,Central Midfield,12000000.0,SC Freiburg,Everton FC,2000000.0,Loan fee:€2.00m,loan_fee,5911679,246.0,2026-10-05T21:50:18+00:00,Röhl

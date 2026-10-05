@@ -201,7 +201,7 @@ def run(verbose=True):
             if v and len(v.split()[-1]) > 2:
                 by_last.setdefault(v.split()[-1], set()).add(pid)
 
-    rp_path = ROOT / "reep_people.csv"
+        rp_path = ROOT / "sources" / "reep_people.csv"
     by_us = {}
     if rp_path.exists():
         rp = pd.read_csv(rp_path, usecols=["type", "key_understat",

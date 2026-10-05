@@ -1,0 +1,3 @@
+row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
+2026:11:in:8,2026,11,Arsenal FC,in,890719,Ethan Nwaneri,19,Attacking Midfield,35000000.0,Olympique Marseille,Arsenal FC,,End of loan30/06/2026,end_loan,6139048,22.0,2026-10-05T21:50:18+00:00,Nwaneri
+2024:11:in:6,2024,11,Arsenal FC,in,890719,Ethan Nwaneri,17,Attacking Midfield,8000000.0,Arsenal FC U21,Arsenal FC,,-,unknown,5294971,22.0,2026-10-05T21:50:18+00:00,Nwaneri

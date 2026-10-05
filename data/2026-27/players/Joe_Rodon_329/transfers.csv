@@ -1,0 +1,3 @@
+row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
+2023:148:in:26,2023,148,Tottenham Hotspur,in,297212,Joe Rodon,26,Centre-Back,8000000.0,Leeds United,Tottenham Hotspur,,End of loan31/05/2024,end_loan,4575542,329.0,2026-10-05T21:50:18+00:00,Rodon
+2023:148:in:14,2023,148,Tottenham Hotspur,in,297212,Joe Rodon,25,Centre-Back,7000000.0,Stade Rennais FC,Tottenham Hotspur,,End of loan30/06/2023,end_loan,3985081,329.0,2026-10-05T21:50:18+00:00,Rodon

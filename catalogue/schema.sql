@@ -301,3 +301,40 @@ CREATE TABLE IF NOT EXISTS us_appearances (
     PRIMARY KEY (fixture_id, us_player_id)
 );
 CREATE INDEX IF NOT EXISTS idx_us_app_player ON us_appearances(player_id);
+
+-- Expected-points projection (xp_model.py, model 'ols-v1').
+-- One row per (player, gw) for the whole season: forecast for future GWs,
+-- backtest actual for finished ones. Rebuilt every run.
+CREATE TABLE IF NOT EXISTS xp_projection (
+    player_id   INTEGER NOT NULL REFERENCES players(player_id),
+    gw          INTEGER NOT NULL,
+    xp          REAL NOT NULL,               -- predicted FPL points
+    actual      REAL,                        -- total_points when the GW finished
+    model       TEXT NOT NULL,               -- e.g. 'ols-v1'
+    fitted_at   TEXT NOT NULL,               -- ISO timestamp of the fit
+    PRIMARY KEY (player_id, gw)
+);
+
+-- Transfermarkt transfer history (enrich_transfers.py), full replace per fetch.
+CREATE TABLE IF NOT EXISTS transfer_history (
+    row_key          TEXT PRIMARY KEY,       -- saison:club:direction:row_index
+    saison_id        INTEGER NOT NULL,       -- TM season id (2026 = 2026/27)
+    tm_club_id       INTEGER,                -- TM club the file is listed under
+    club_name        TEXT,
+    direction        TEXT,                   -- 'in' | 'out' (from that club's view)
+    tm_id            INTEGER,                -- TM player id
+    player_name      TEXT,
+    age              INTEGER,
+    position         TEXT,
+    market_value_eur REAL,
+    from_club        TEXT,
+    to_club          TEXT,
+    fee_eur          REAL,                   -- parsed fee, NULL if not numeric
+    fee_text         TEXT,                   -- verbatim, e.g. 'Loan fee: €2.80m'
+    fee_type         TEXT,                   -- permanent|loan|loan_fee|free|end_loan|unknown
+    transfer_id      INTEGER,                -- TM transfer id (when present)
+    player_id        INTEGER REFERENCES players(player_id),  -- matched FPL player
+    fetched_at       TEXT NOT NULL
+);
+CREATE INDEX IF NOT EXISTS idx_th_player ON transfer_history(player_id);
+CREATE INDEX IF NOT EXISTS idx_th_saison ON transfer_history(saison_id);

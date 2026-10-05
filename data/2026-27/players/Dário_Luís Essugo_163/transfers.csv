@@ -1,0 +1,2 @@
+row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
+2025:631:in:7,2025,631,Chelsea FC,in,670717,Dário Essugo,20,Defensive Midfield,20000000.0,Sporting CP,Chelsea FC,22270000.0,€22.27m,permanent,5577632,163.0,2026-10-05T21:50:18+00:00,D.Essugo

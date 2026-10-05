@@ -1,0 +1,5 @@
+row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
+2026:1237:in:21,2026,1237,Brighton & Hove Albion,in,648046,Evan Ferguson,21,Centre-Forward,20000000.0,AS Roma,Brighton & Hove Albion,,End of loan30/06/2026,end_loan,5803395,139.0,2026-10-05T21:50:18+00:00,Ferguson
+2025:1237:in:23,2025,1237,Brighton & Hove Albion,in,648046,Evan Ferguson,20,Centre-Forward,25000000.0,West Ham United,Brighton & Hove Albion,,End of loan30/06/2025,end_loan,5499384,139.0,2026-10-05T21:50:18+00:00,Ferguson
+2024:379:in:10,2024,379,West Ham United,in,648046,Evan Ferguson,20,Centre-Forward,40000000.0,Brighton & Hove Albion,West Ham United,,loan transfer,loan,5499336,139.0,2026-10-05T21:50:18+00:00,Ferguson
+2022:1237:in:8,2022,1237,Brighton & Hove Albion,in,648046,Evan Ferguson,17,Centre-Forward,600000.0,Brighton & Hove Albion U21,Brighton & Hove Albion,,-,unknown,4210824,139.0,2026-10-05T21:50:18+00:00,Ferguson

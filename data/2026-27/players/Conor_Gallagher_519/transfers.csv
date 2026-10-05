@@ -1,0 +1,3 @@
+row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
+2025:148:in:3,2025,148,Tottenham Hotspur,in,488362,Conor Gallagher,25,Central Midfield,35000000.0,Atlético de Madrid,Tottenham Hotspur,40000000.0,€40.00m,permanent,6118653,519.0,2026-10-05T21:50:18+00:00,Gallagher
+2022:631:in:19,2022,631,Chelsea FC,in,488362,Conor Gallagher,22,Central Midfield,25000000.0,Chelsea FC U21,Chelsea FC,,-,unknown,3869535,519.0,2026-10-05T21:50:18+00:00,Gallagher

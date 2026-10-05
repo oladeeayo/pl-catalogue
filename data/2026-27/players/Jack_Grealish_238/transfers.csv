@@ -1,0 +1,4 @@
+row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
+2026:29:in:7,2026,29,Everton FC,in,203460,Jack Grealish,30,Left Winger,20000000.0,Manchester City,Everton FC,,loan transfer,loan,6558243,238.0,2026-10-05T21:50:18+00:00,Grealish
+2025:29:in:9,2025,29,Everton FC,in,203460,Jack Grealish,29,Left Winger,28000000.0,Manchester City,Everton FC,,loan transfer,loan,5857535,238.0,2026-10-05T21:50:18+00:00,Grealish
+2025:281:in:12,2025,281,Manchester City,in,203460,Jack Grealish,30,Left Winger,20000000.0,Everton FC,Manchester City,,End of loan30/06/2026,end_loan,5857536,238.0,2026-10-05T21:50:18+00:00,Grealish

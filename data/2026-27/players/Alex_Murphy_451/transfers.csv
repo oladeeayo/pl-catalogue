@@ -1,0 +1,2 @@
+row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
+2025:762:in:9,2025,762,Newcastle United,in,900601,Alex Murphy,21,Left-Back,300000.0,Newcastle United U21,Newcastle United,,-,unknown,5994174,451.0,2026-10-05T21:50:18+00:00,A.Murphy

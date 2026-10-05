@@ -144,6 +144,55 @@ def run(verbose=True):
               f"{cov}% of players in latest snapshot (>=72% required)")
         check("market values present", n_val > 0, f"{n_val} valued rows")
 
+    # --- expected points (xp_model) ---
+    lines.append("")
+    if not con.execute("SELECT 1 FROM sqlite_master WHERE type='table'"
+                       " AND name='xp_projection'").fetchone():
+        check("xp table", False, "missing xp_projection (xp_model not run)")
+    else:
+        n_xp = con.execute("SELECT COUNT(*) FROM xp_projection").fetchone()[0]
+        n_xp_players = con.execute(
+            "SELECT COUNT(DISTINCT player_id) FROM xp_projection").fetchone()[0]
+        n_eligible = con.execute(
+            "SELECT COUNT(*) FROM players WHERE removed=0").fetchone()[0]
+        bt = con.execute(
+            "SELECT AVG(ABS(actual - xp)), COUNT(*) FROM xp_projection"
+            " WHERE actual IS NOT NULL AND gw > (SELECT MIN(gw) FROM gws"
+            " WHERE finished=1)").fetchone()
+        bt_mae, bt_n = bt[0], bt[1]
+        nxt = con.execute(
+            "SELECT gw FROM gws WHERE finished=0 ORDER BY gw LIMIT 1").fetchone()
+        n_next = con.execute(
+            "SELECT COUNT(*) FROM xp_projection WHERE gw=?", (nxt["gw"],)).fetchone()[0] \
+            if nxt else 0
+        lines.append(f"xp_projection: {n_xp} rows, {n_xp_players} players, "
+                     f"backtest MAE={None if bt_mae is None else round(bt_mae, 3)} "
+                     f"over {bt_n} rows")
+        check("xp coverage", n_xp_players == n_eligible,
+              f"{n_xp_players}/{n_eligible} eligible players projected")
+        check("xp rows", n_xp > 0 and (not nxt or n_next == n_xp_players),
+              f"{n_xp} rows; next GW (#{nxt['gw'] if nxt else '-'}) has {n_next}")
+        check("xp backtest mae", bt_mae is None or bt_mae < 2.0,
+              f"{None if bt_mae is None else round(bt_mae, 3)} (<2.0 required)")
+
+    # --- transfer history (enrich_transfers): informational ---
+    lines.append("")
+    if not con.execute("SELECT 1 FROM sqlite_master WHERE type='table'"
+                       " AND name='transfer_history'").fetchone():
+        lines.append("[INFO] transfer_history not present (enrich_transfers not run)")
+    else:
+        n_th = con.execute("SELECT COUNT(*) FROM transfer_history").fetchone()[0]
+        n_saisons = con.execute(
+            "SELECT COUNT(DISTINCT saison_id) FROM transfer_history").fetchone()[0]
+        n_matched = con.execute(
+            "SELECT COUNT(*) FROM transfer_history WHERE player_id IS NOT NULL"
+        ).fetchone()[0]
+        n_fees = con.execute(
+            "SELECT COUNT(*) FROM transfer_history WHERE fee_eur IS NOT NULL"
+        ).fetchone()[0]
+        lines.append(f"transfer_history: {n_th} rows over {n_saisons} seasons, "
+                     f"{n_matched} matched to FPL players, {n_fees} with fees")
+
     lines.append("")
     lines.append(("ALL CHECKS PASSED" if not fails else f"FAILURES: {', '.join(fails)}"))
     report = "\n".join(lines)

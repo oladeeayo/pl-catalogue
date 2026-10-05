@@ -1,0 +1,4 @@
+row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
+2026:281:in:2,2026,281,Manchester City,in,567576,Elliot Anderson,23,Defensive Midfield,110000000.0,Nottingham Forest,Manchester City,135000000.0,€135.00m,permanent,6396999,481.0,2026-10-05T21:50:18+00:00,Anderson
+2024:703:in:1,2024,703,Nottingham Forest,in,567576,Elliot Anderson,21,Defensive Midfield,15000000.0,Newcastle United,Nottingham Forest,41200000.0,€41.20m,permanent,5083810,481.0,2026-10-05T21:50:18+00:00,Anderson
+2022:762:in:7,2022,762,Newcastle United,in,567576,Elliot Anderson,19,Defensive Midfield,200000.0,Newcastle United U21,Newcastle United,,-,unknown,3977899,481.0,2026-10-05T21:50:18+00:00,Anderson

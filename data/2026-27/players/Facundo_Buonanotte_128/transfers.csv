@@ -1,0 +1,8 @@
+row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
+2026:1237:in:19,2026,1237,Brighton & Hove Albion,in,983989,Facundo Buonanotte,21,Attacking Midfield,12000000.0,Leeds United,Brighton & Hove Albion,,End of loan30/06/2026,end_loan,6120917,128.0,2026-10-05T21:50:18+00:00,Buonanotte
+2025:1237:in:31,2025,1237,Brighton & Hove Albion,in,983989,Facundo Buonanotte,21,Attacking Midfield,18000000.0,Chelsea FC,Brighton & Hove Albion,,End of loan14/01/2026,end_loan,5909683,128.0,2026-10-05T21:50:18+00:00,Buonanotte
+2025:1237:in:16,2025,1237,Brighton & Hove Albion,in,983989,Facundo Buonanotte,20,Attacking Midfield,20000000.0,Leicester City,Brighton & Hove Albion,,End of loan30/06/2025,end_loan,5186094,128.0,2026-10-05T21:50:18+00:00,Buonanotte
+2025:631:in:9,2025,631,Chelsea FC,in,983989,Facundo Buonanotte,20,Attacking Midfield,20000000.0,Brighton & Hove Albion,Chelsea FC,2300000.0,Loan fee:€2.30m,loan_fee,5909682,128.0,2026-10-05T21:50:18+00:00,Buonanotte
+2025:399:in:11,2025,399,Leeds United,in,983989,Facundo Buonanotte,21,Attacking Midfield,18000000.0,Brighton & Hove Albion,Leeds United,,loan transfer,loan,6120916,128.0,2026-10-05T21:50:18+00:00,Buonanotte
+2024:1003:in:9,2024,1003,Leicester City,in,983989,Facundo Buonanotte,19,Attacking Midfield,18000000.0,Brighton & Hove Albion,Leicester City,,loan transfer,loan,5186093,128.0,2026-10-05T21:50:18+00:00,Buonanotte
+2022:1237:in:5,2022,1237,Brighton & Hove Albion,in,983989,Facundo Buonanotte,18,Attacking Midfield,9000000.0,CA Rosario Central,Brighton & Hove Albion,6000000.0,€6.00m,permanent,4129528,128.0,2026-10-05T21:50:18+00:00,Buonanotte

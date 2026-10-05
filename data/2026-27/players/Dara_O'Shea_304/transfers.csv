@@ -1,0 +1,3 @@
+row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
+2024:677:in:6,2024,677,Ipswich Town,in,401320,Dara O'Shea,25,Centre-Back,7000000.0,Burnley FC,Ipswich Town,14200000.0,€14.20m,permanent,5222968,304.0,2026-10-05T21:50:18+00:00,O'Shea
+2023:1132:in:7,2023,1132,Burnley FC,in,401320,Dara O'Shea,24,Centre-Back,5000000.0,West Bromwich Albion,Burnley FC,7800000.0,€7.80m,permanent,4452190,304.0,2026-10-05T21:50:18+00:00,O'Shea

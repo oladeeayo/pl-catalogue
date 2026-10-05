@@ -1,0 +1,2 @@
+row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
+2025:289:in:7,2025,289,Sunderland AFC,in,727089,Noah Sadiki,20,Central Midfield,12000000.0,Union Saint-Gilloise,Sunderland AFC,17000000.0,€17.00m,permanent,5751541,545.0,2026-10-05T21:50:18+00:00,Sadiki

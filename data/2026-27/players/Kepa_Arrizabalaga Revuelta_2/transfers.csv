@@ -1,0 +1,5 @@
+row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
+2025:11:in:7,2025,11,Arsenal FC,in,192279,Kepa Arrizabalaga,30,Goalkeeper,10000000.0,Chelsea FC,Arsenal FC,5800000.0,€5.80m,permanent,5741708,2.0,2026-10-05T21:50:18+00:00,Arrizabalaga
+2025:631:in:17,2025,631,Chelsea FC,in,192279,Kepa Arrizabalaga,30,Goalkeeper,10000000.0,AFC Bournemouth,Chelsea FC,,End of loan30/06/2025,end_loan,5233430,2.0,2026-10-05T21:50:18+00:00,Arrizabalaga
+2024:989:in:8,2024,989,AFC Bournemouth,in,192279,Kepa Arrizabalaga,29,Goalkeeper,12000000.0,Chelsea FC,AFC Bournemouth,3600000.0,Loan fee:€3.60m,loan_fee,5233429,2.0,2026-10-05T21:50:18+00:00,Arrizabalaga
+2024:631:in:19,2024,631,Chelsea FC,in,192279,Kepa Arrizabalaga,29,Goalkeeper,12000000.0,Real Madrid,Chelsea FC,,End of loan30/06/2024,end_loan,4582540,2.0,2026-10-05T21:50:18+00:00,Arrizabalaga

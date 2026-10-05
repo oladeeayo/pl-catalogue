@@ -1,6 +1,6 @@
 {
   "season": "2026-27",
-  "exported_at": "2026-10-05T21:52:01",
+  "exported_at": "2026-10-05T23:23:38",
   "gw_range": [
     1,
     5
@@ -12,10 +12,12 @@
     "player_fixture_rows": 3216,
     "shots": 1398,
     "market_rows": 530,
-    "season_stats_rows": 4041,
+    "season_stats_rows": 8628,
     "history_rows": 2109,
+    "xp_rows": 25346,
+    "transfer_rows": 1897,
     "player_folders": 667,
-    "csv_files": 4014
+    "csv_files": 4683
   },
   "sources": [
     "fpl",

@@ -1,0 +1,2 @@
+row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
+2026:3008:in:7,2026,3008,Hull City,in,1279984,Lucas Herrington,18,Centre-Back,8000000.0,Colorado Rapids,Hull City,14800000.0,€14.80m,permanent,6499315,585.0,2026-10-05T21:50:18+00:00,Herrington

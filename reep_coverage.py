@@ -1,8 +1,10 @@
 import re
+from pathlib import Path
 
 import pandas as pd
 
-html = open("pl_shooting.html", encoding="utf-8").read()
+SRC = Path(__file__).parent / "sources"
+html = (SRC / "pl_shooting.html").read_text(encoding="utf-8")
 ids = re.findall(r'/players/([0-9a-f]{8})/[^"]*"[^>]*>([^<]+)</a>', html)
 seen = {}
 for i, n in ids:
@@ -12,10 +14,10 @@ for i, n in ids:
     seen.setdefault(i, n)
 print("links found:", len(ids), "unique:", len(seen))
 fbids = pd.DataFrame(seen.items(), columns=["key_fbref", "name_html"])
-fbids.to_csv("_fbref_ids.csv", index=False)
+fbids.to_csv(SRC / "_fbref_ids.csv", index=False)
 
 rp = pd.read_csv(
-    "reep_people.csv",
+    SRC / "reep_people.csv",
     dtype=str,
     low_memory=False,
 )

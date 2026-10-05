@@ -1,0 +1,2 @@
+row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
+2026:631:in:7,2026,631,Chelsea FC,in,596122,Pep Chavarría,28,Left-Back,10000000.0,Rayo Vallecano,Chelsea FC,19000000.0,€19.00m,permanent,6496638,583.0,2026-10-05T21:50:18+00:00,Chavarria

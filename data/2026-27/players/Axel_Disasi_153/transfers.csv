@@ -1,0 +1,7 @@
+row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
+2026:631:in:17,2026,631,Chelsea FC,in,386047,Axel Disasi,28,Centre-Back,15000000.0,West Ham United,Chelsea FC,,End of loan30/06/2026,end_loan,6164153,153.0,2026-10-05T21:50:18+00:00,Disasi
+2026:873:in:10,2026,873,Crystal Palace,in,386047,Axel Disasi,28,Centre-Back,15000000.0,Chelsea FC,Crystal Palace,,loan transfer,loan,6536348,153.0,2026-10-05T21:50:18+00:00,Disasi
+2025:631:in:27,2025,631,Chelsea FC,in,386047,Axel Disasi,27,Centre-Back,22000000.0,Aston Villa,Chelsea FC,,End of loan30/06/2025,end_loan,5502066,153.0,2026-10-05T21:50:18+00:00,Disasi
+2025:379:in:9,2025,379,West Ham United,in,386047,Axel Disasi,27,Centre-Back,15000000.0,Chelsea FC,West Ham United,2000000.0,Loan fee:€2.00m,loan_fee,6164154,153.0,2026-10-05T21:50:18+00:00,Disasi
+2024:405:in:10,2024,405,Aston Villa,in,386047,Axel Disasi,26,Centre-Back,30000000.0,Chelsea FC,Aston Villa,6000000.0,Loan fee:€6.00m,loan_fee,5502065,153.0,2026-10-05T21:50:18+00:00,Disasi
+2023:631:in:5,2023,631,Chelsea FC,in,386047,Axel Disasi,25,Centre-Back,30000000.0,AS Monaco,Chelsea FC,45000000.0,€45.00m,permanent,4557797,153.0,2026-10-05T21:50:18+00:00,Disasi

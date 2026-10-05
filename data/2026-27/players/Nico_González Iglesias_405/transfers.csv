@@ -1,0 +1,3 @@
+row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
+2026:762:in:2,2026,762,Newcastle United,in,466805,Nico González,24,Defensive Midfield,40000000.0,Manchester City,Newcastle United,56000000.0,€56.00m,permanent,6537702,405.0,2026-10-05T21:50:18+00:00,N.Gonzalez
+2024:281:in:2,2024,281,Manchester City,in,466805,Nico González,23,Defensive Midfield,18000000.0,FC Porto,Manchester City,60000000.0,€60.00m,permanent,5501673,405.0,2026-10-05T21:50:18+00:00,N.Gonzalez

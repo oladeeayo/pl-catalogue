@@ -1,0 +1,2 @@
+row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
+2026:989:in:2,2026,989,AFC Bournemouth,in,948275,Álvaro Rodríguez,22,Centre-Forward,10000000.0,Elche CF,AFC Bournemouth,25000000.0,€25.00m,permanent,6427485,81.0,2026-10-05T21:50:18+00:00,Rodríguez

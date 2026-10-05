@@ -1,0 +1,2 @@
+row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
+2026:990:in:3,2026,990,Coventry City,in,986288,Sidiki Chérif,19,Centre-Forward,18000000.0,Fenerbahce,Coventry City,24500000.0,€24.50m,permanent,6517484,599.0,2026-10-05T21:50:18+00:00,Cherif

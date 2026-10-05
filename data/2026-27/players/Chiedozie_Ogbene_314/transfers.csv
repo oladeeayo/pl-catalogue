@@ -1,0 +1,4 @@
+row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
+2026:677:in:17,2026,677,Ipswich Town,in,392591,Chiedozie Ogbene,29,Right Winger,4000000.0,Lincoln City,Ipswich Town,,End of loan01/01/2027,end_loan,6558418,314.0,2026-10-05T21:50:18+00:00,Ogbene
+2024:677:in:9,2024,677,Ipswich Town,in,392591,Chiedozie Ogbene,27,Right Winger,8000000.0,Luton Town,Ipswich Town,9500000.0,€9.50m,permanent,5231020,314.0,2026-10-05T21:50:18+00:00,Ogbene
+2023:1031:in:10,2023,1031,Luton Town,in,392591,Chiedozie Ogbene,26,Right Winger,2000000.0,Rotherham United,Luton Town,0.0,free transfer,free,4459418,314.0,2026-10-05T21:50:18+00:00,Ogbene

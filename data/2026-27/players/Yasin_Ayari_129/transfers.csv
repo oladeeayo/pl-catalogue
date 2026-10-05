@@ -1,0 +1,4 @@
+row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
+2023:1237:in:24,2023,1237,Brighton & Hove Albion,in,667287,Yasin Ayari,20,Central Midfield,5000000.0,Coventry City,Brighton & Hove Albion,,End of loan04/01/2024,end_loan,4598287,129.0,2026-10-05T21:50:18+00:00,Ayari
+2023:1237:in:18,2023,1237,Brighton & Hove Albion,in,667287,Yasin Ayari,20,Central Midfield,4500000.0,Blackburn Rovers,Brighton & Hove Albion,,End of loan31/05/2024,end_loan,4802591,129.0,2026-10-05T21:50:18+00:00,Ayari
+2022:1237:in:6,2022,1237,Brighton & Hove Albion,in,667287,Yasin Ayari,19,Central Midfield,4000000.0,AIK,Brighton & Hove Albion,4000000.0,€4.00m,permanent,4249800,129.0,2026-10-05T21:50:18+00:00,Ayari

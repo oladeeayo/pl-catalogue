@@ -1,0 +1,3 @@
+row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
+2025:29:in:3,2025,29,Everton FC,in,475188,Kiernan Dewsbury-Hall,26,Attacking Midfield,20000000.0,Chelsea FC,Everton FC,28650000.0,€28.65m,permanent,5839683,236.0,2026-10-05T21:50:18+00:00,Dewsbury-Hall
+2024:631:in:3,2024,631,Chelsea FC,in,475188,Kiernan Dewsbury-Hall,25,Attacking Midfield,30000000.0,Leicester City,Chelsea FC,35400000.0,€35.40m,permanent,5088322,236.0,2026-10-05T21:50:18+00:00,Dewsbury-Hall

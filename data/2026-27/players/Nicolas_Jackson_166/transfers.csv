@@ -1,0 +1,4 @@
+row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
+2026:405:in:2,2026,405,Aston Villa,in,776890,Nicolas Jackson,25,Centre-Forward,40000000.0,Chelsea FC,Aston Villa,55500000.0,€55.50m,permanent,6543093,166.0,2026-10-05T21:50:18+00:00,N.Jackson
+2026:631:in:12,2026,631,Chelsea FC,in,776890,Nicolas Jackson,25,Centre-Forward,40000000.0,Bayern Munich,Chelsea FC,,End of loan30/06/2026,end_loan,5911929,166.0,2026-10-05T21:50:18+00:00,N.Jackson
+2023:631:in:6,2023,631,Chelsea FC,in,776890,Nicolas Jackson,22,Centre-Forward,30000000.0,Villarreal CF,Chelsea FC,37000000.0,€37.00m,permanent,4466454,166.0,2026-10-05T21:50:18+00:00,N.Jackson

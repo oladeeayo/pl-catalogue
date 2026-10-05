@@ -1,0 +1,3 @@
+row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
+2025:631:in:22,2025,631,Chelsea FC,in,910905,Mamadou Sarr,20,Centre-Back,25000000.0,RC Strasbourg Alsace,Chelsea FC,,End of loan02/02/2026,end_loan,5827278,150.0,2026-10-05T21:50:18+00:00,M.Sarr
+2025:631:in:8,2025,631,Chelsea FC,in,910905,Mamadou Sarr,19,Centre-Back,20000000.0,RC Strasbourg Alsace,Chelsea FC,14000000.0,€14.00m,permanent,5695929,150.0,2026-10-05T21:50:18+00:00,M.Sarr

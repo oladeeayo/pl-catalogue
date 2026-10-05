@@ -1,0 +1,2 @@
+row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
+2026:281:in:10,2026,281,Manchester City,in,1187640,Ryan McAidoo,18,Right Winger,,Manchester City U21,Manchester City,,-,unknown,6511990,621.0,2026-10-05T21:50:18+00:00,McAidoo

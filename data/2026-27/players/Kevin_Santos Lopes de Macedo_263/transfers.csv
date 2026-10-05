@@ -1,0 +1,2 @@
+row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
+2025:931:in:1,2025,931,Fulham FC,in,900195,Kevin,22,Left Winger,12000000.0,Shakhtar Donetsk,Fulham FC,40000000.0,€40.00m,permanent,5911807,263.0,2026-10-05T21:50:18+00:00,Kevin

@@ -1,0 +1,2 @@
+row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
+2025:11:in:2,2025,11,Arsenal FC,in,325443,Viktor Gyökeres,27,Centre-Forward,75000000.0,Sporting CP,Arsenal FC,69870000.0,€69.87m,permanent,5813562,25.0,2026-10-05T21:50:18+00:00,Gyökeres

@@ -1,0 +1,3 @@
+row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
+2026:289:in:8,2026,289,Sunderland AFC,in,661208,Leo Hjelde,22,Centre-Back,1500000.0,Sheffield United,Sunderland AFC,,End of loan30/06/2026,end_loan,6161750,538.0,2026-10-05T21:50:18+00:00,Hjelde
+2022:399:in:18,2022,399,Leeds United,in,661208,Leo Hjelde,19,Centre-Back,1200000.0,Rotherham United,Leeds United,,End of loan31/05/2023,end_loan,4219626,538.0,2026-10-05T21:50:18+00:00,Hjelde

@@ -1,0 +1,3 @@
+row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
+2025:1237:in:11,2025,1237,Brighton & Hove Albion,in,406634,Matt O'Riley,25,Central Midfield,20000000.0,Olympique Marseille,Brighton & Hove Albion,,End of loan02/02/2026,end_loan,5912668,126.0,2026-10-05T21:50:18+00:00,O'Riley
+2024:1237:in:6,2024,1237,Brighton & Hove Albion,in,406634,Matt O'Riley,23,Central Midfield,20000000.0,Celtic FC,Brighton & Hove Albion,29500000.0,€29.50m,permanent,5226232,126.0,2026-10-05T21:50:18+00:00,O'Riley

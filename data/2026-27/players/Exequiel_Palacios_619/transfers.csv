@@ -1,0 +1,2 @@
+row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
+2026:677:in:4,2026,677,Ipswich Town,in,401578,Exequiel Palacios,27,Central Midfield,25000000.0,Bayer 04 Leverkusen,Ipswich Town,22500000.0,€22.50m,permanent,6540609,619.0,2026-10-05T21:50:18+00:00,Palacios

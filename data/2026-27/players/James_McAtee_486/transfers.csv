@@ -1,0 +1,5 @@
+row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
+2025:703:in:5,2025,703,Nottingham Forest,in,583199,James McAtee,22,Attacking Midfield,20000000.0,Manchester City,Nottingham Forest,25500000.0,€25.50m,permanent,5868703,486.0,2026-10-05T21:50:18+00:00,McAtee
+2023:281:in:10,2023,281,Manchester City,in,583199,James McAtee,21,Attacking Midfield,12000000.0,Sheffield United,Manchester City,,End of loan31/05/2024,end_loan,4622768,486.0,2026-10-05T21:50:18+00:00,McAtee
+2023:281:in:9,2023,281,Manchester City,in,583199,James McAtee,20,Attacking Midfield,12000000.0,Manchester City U21,Manchester City,,-,unknown,4564497,486.0,2026-10-05T21:50:18+00:00,McAtee
+2023:350:in:11,2023,350,Sheffield United,in,583199,James McAtee,20,Attacking Midfield,12000000.0,Manchester City,Sheffield United,,loan transfer,loan,4622765,486.0,2026-10-05T21:50:18+00:00,McAtee

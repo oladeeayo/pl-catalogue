@@ -1,0 +1,6 @@
+row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
+2026:405:in:14,2026,405,Aston Villa,in,581672,Samuel Iling-Junior,22,Left Winger,6500000.0,Pisa Sporting Club,Aston Villa,,End of loan30/06/2026,end_loan,6162660,49.0,2026-10-05T21:50:18+00:00,Iling Jr
+2025:405:in:24,2025,405,Aston Villa,in,581672,Samuel Iling-Junior,21,Left Winger,10000000.0,Middlesbrough FC,Aston Villa,,End of loan30/06/2025,end_loan,5498393,49.0,2026-10-05T21:50:18+00:00,Iling Jr
+2025:405:in:23,2025,405,Aston Villa,in,581672,Samuel Iling-Junior,22,Left Winger,10000000.0,West Bromwich Albion,Aston Villa,,End of loan01/02/2026,end_loan,5910053,49.0,2026-10-05T21:50:18+00:00,Iling Jr
+2024:405:in:16,2024,405,Aston Villa,in,581672,Samuel Iling-Junior,21,Left Winger,11000000.0,Bologna FC 1909,Aston Villa,,End of loan02/02/2025,end_loan,5228714,49.0,2026-10-05T21:50:18+00:00,Iling Jr
+2024:405:in:6,2024,405,Aston Villa,in,581672,Samuel Iling-Junior,20,Left Winger,13000000.0,Juventus FC,Aston Villa,14000000.0,€14.00m,permanent,5084355,49.0,2026-10-05T21:50:18+00:00,Iling Jr

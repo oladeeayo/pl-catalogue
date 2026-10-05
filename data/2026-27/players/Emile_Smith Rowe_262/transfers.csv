@@ -1,0 +1,2 @@
+row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
+2024:931:in:1,2024,931,Fulham FC,in,392765,Emile Smith Rowe,24,Attacking Midfield,22000000.0,Arsenal FC,Fulham FC,31800000.0,€31.80m,permanent,5167406,262.0,2026-10-05T21:50:18+00:00,Smith Rowe

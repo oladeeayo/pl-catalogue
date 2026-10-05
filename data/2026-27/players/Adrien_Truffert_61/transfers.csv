@@ -1,0 +1,2 @@
+row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
+2025:989:in:7,2025,989,AFC Bournemouth,in,654539,Adrien Truffert,23,Left-Back,15000000.0,Stade Rennais FC,AFC Bournemouth,13500000.0,€13.50m,permanent,5707679,61.0,2026-10-05T21:50:18+00:00,Truffert

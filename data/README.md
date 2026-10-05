@@ -8,18 +8,21 @@ The database is the source of truth; this tree is a view, wiped and rebuilt each
 data/2026-27/
 ├── players/                    # one folder per player — all data collected on them
 │   └── First_Last_id/
-│       ├── profile.csv         # identity + live snapshot + season + market (1 row, 77 cols)
+│       ├── profile.csv         # identity + live snapshot + season + market (1 row)
 │       ├── gw.csv              # their per-GW performance rows (fixture context + result)
 │       ├── season_stats.csv    # FBref + Understat season metrics (long format)
 │       ├── shots.csv           # Understat shot events they took (x, y, xG, body part…)
 │       ├── history.csv         # prior-season FPL career history
-│       └── market.csv          # Transfermarkt value/contract snapshots (time series)
+│       ├── market.csv          # Transfermarkt value/contract snapshots (time series)
+│       └── transfers.csv       # their transfer history (fees, loans, 5 seasons)
 ├── gws/                        # one slice per matchweek (only played GWs)
-│   ├── gw1.csv … gw5.csv       # every player's row in that GW (44 cols)
-│   └── merged_gw.csv           # all GWs stacked
-├── players.csv                 # merged master: 667 rows × 77 cols, every source flattened
+│   ├── gw1.csv … gw5.csv       # every player's row in that GW
+│   ├── merged_gw.csv           # all GWs stacked
+│   └── xP1.csv                 # expected points: player × GW, xp vs actual vs err
+├── players.csv                 # merged master: 667 rows, every source flattened
 ├── shots.csv                   # all 1,398 shot events
 ├── market.csv                  # market-value snapshots by fetch_date (grows daily)
+├── transfers.csv               # all 1,897 transfer rows (5 seasons)
 ├── gw_calendar.csv             # GW metadata: deadlines, averages, most-*
 ├── fixtures.csv                # 380 fixtures with scores + Understat match link
 ├── clubs.csv                   # 20 clubs (league position, form, provider ids)
@@ -36,6 +39,12 @@ data/2026-27/
   blank until the fixture finishes.
 - **`expected_goals`** (gw) — Opta xG via FPL; **`understat_xg`** — Understat model xG.
   They differ by design (understat_xg is from `season_stats`, summed appearances).
+- **`xp` / `actual` / `err`** (gws/xP1.csv) — modelled expected points for that GW,
+  actual FPL points, and the error (`actual − xp`). Future GWs have `xp` only
+  (forecast), finished GWs have all three. `was_home` + `opponent` give fixture context.
+- **`fee_type` / `fee_eur`** (transfers.csv) — permanent / loan / loan_fee / free /
+  end_loan / unknown; euros (blank = undisclosed). `player_id` is filled only when
+  the Transfermarkt person could be matched to an FPL player (839 of 1,897 rows).
 - **`x`, `y`, `xg`** (shots) — Understat normalized coordinates (0–1, attacker shoots
   toward x=1) and expected-goal value.
 - Empty files are normal — header-only means "no rows yet" (didn't play / no history).
@@ -47,8 +56,10 @@ data/2026-27/
 | players / clubs / fixtures | 667 / 20 / 380 |
 | player-fixture rows | 3,216 |
 | shot events | 1,398 (99.4% player-resolved) |
-| season metric rows | 4,041 (FBref + Understat) |
+| season metric rows | 8,628 (420 players) |
 | market snapshots | 530 players, €13.1bn |
+| transfer rows | 1,897 (522 players with per-player files) |
+| expected-points rows | 25,346 (backtest MAE 1.19) |
 | prior-season history rows | 2,109 |
 
 ## Coming categories

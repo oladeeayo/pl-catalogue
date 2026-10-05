@@ -162,7 +162,7 @@ def run(verbose=True):
     # ---- identity indexes ----
     idx = FPLIndex(con=con)
     by_tm = {}
-    rp_path = ROOT / "reep_people.csv"
+    rp_path = ROOT / "sources" / "reep_people.csv"
     if rp_path.exists():
         rp = pd.read_csv(rp_path, dtype=str, low_memory=False,
                          usecols=["type", "key_transfermarkt", "key_opta_numeric"])

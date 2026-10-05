@@ -1,0 +1,2 @@
+row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
+2026:873:in:2,2026,873,Crystal Palace,in,945021,Anan Khalaili,21,Right-Back,23000000.0,Union Saint-Gilloise,Crystal Palace,24500000.0,€24.50m,permanent,6506148,588.0,2026-10-05T21:50:18+00:00,Khalaili

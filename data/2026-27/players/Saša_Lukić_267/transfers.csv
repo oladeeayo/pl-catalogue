@@ -1,0 +1,3 @@
+row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
+2026:677:in:8,2026,677,Ipswich Town,in,245056,Saša Lukić,29,Central Midfield,10000000.0,Fulham FC,Ipswich Town,10500000.0,€10.50m,permanent,6489963,267.0,2026-10-05T21:50:18+00:00,Lukić
+2022:931:in:3,2022,931,Fulham FC,in,245056,Saša Lukić,26,Central Midfield,13000000.0,Torino FC,Fulham FC,9800000.0,€9.80m,permanent,4253203,267.0,2026-10-05T21:50:18+00:00,Lukić

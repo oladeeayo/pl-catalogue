@@ -14,7 +14,7 @@ from pathlib import Path
 import pandas as pd
 
 DB = Path(__file__).parent / "catalogue.db"
-REEP = Path(__file__).parent.parent / "reep_people.csv"
+REEP = Path(__file__).parent.parent / "sources" / "reep_people.csv"
 
 LETTERS = {"ø": "o", "Ø": "O", "đ": "d", "Đ": "D", "ł": "l", "Ł": "L",
            "æ": "ae", "Æ": "AE", "ß": "ss", "œ": "oe", "Œ": "OE", "ð": "d", "þ": "th"}

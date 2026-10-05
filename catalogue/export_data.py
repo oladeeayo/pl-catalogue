@@ -12,7 +12,9 @@
       gws/                          PER-GW: one slice per matchweek
         gw1.csv ... gwN.csv         player rows for that GW (only played GWs)
         merged_gw.csv               all GWs stacked
+        xP1.csv                     expected points: xp forecast vs actual, all GWs
       players.csv                   merged master: one row per player, all sources
+      transfers.csv                 Transfermarkt transfer history (5 seasons)
       shots.csv                     all shot events
       market.csv                    all market-value snapshots (time series)
       gw_calendar.csv               GW metadata: deadlines, averages, most-*
@@ -76,13 +78,11 @@ MASTER_COLS = [
     "gws_played", "fixtures_played", "season_minutes", "season_starts",
     "season_goals", "season_assists", "season_clean_sheets", "season_saves",
     "season_bonus", "season_bps", "season_points", "season_xg", "season_xa",
-    "fbref_goals", "fbref_nineties", "fbref_shots", "fbref_sot", "fbref_sot_pct",
-    "understat_xg", "understat_xa", "understat_npg", "understat_shots",
-    "understat_key_passes",
     "prior_seasons", "prior_total_points", "prior_minutes",
     "tm_id", "tm_name", "market_value_eur", "contract_until", "joined_date",
     "foot", "dob_tm", "age_at_fetch", "position_tm",
 ]
+# season_stats pivot columns (fbref_*, understat_*, ...) are appended dynamically
 
 HISTORY_COLS = None
 SHOTS_COLS = None
@@ -156,6 +156,23 @@ def run(verbose=True):
         " LEFT JOIN clubs oc ON oc.club_id = pf.opponent_team"
         " LEFT JOIN fixtures f ON f.fixture_id = pf.fixture_id"
         " ORDER BY pf.gw, c.name, p.web_name", con)
+    fx_sched = pd.read_sql(
+        "SELECT gw, home_club, away_club FROM fixtures", con)
+    try:
+        xp = pd.read_sql(
+            "SELECT x.player_id, x.gw, x.xp, x.actual, p.club_id"
+            " FROM xp_projection x JOIN players p ON p.player_id=x.player_id",
+            con)
+    except (sqlite3.Error, pd.errors.DatabaseError):
+        xp = pd.DataFrame(columns=["player_id", "gw", "xp", "actual", "club_id"])
+    try:
+        transfers = pd.read_sql(
+            "SELECT t.*, p.web_name AS fpl_name FROM transfer_history t"
+            " LEFT JOIN players p ON p.player_id = t.player_id"
+            " ORDER BY t.saison_id DESC, t.club_name, t.direction, t.player_name",
+            con)
+    except (sqlite3.Error, pd.errors.DatabaseError):
+        transfers = pd.DataFrame()
     con.close()
 
     shots["player_id"] = shots["player_id"].astype("Int64")
@@ -215,7 +232,34 @@ def run(verbose=True):
               .merge(prior, on="player_id", how="left"))
     master["price"] = master["now_cost"] / 10.0
     master = master.sort_values(["club_id", "element_type", "web_name"])
-    master_out = master.reindex(columns=MASTER_COLS)
+    metric_cols = sorted(c for c in pivot.columns if c != "player_id")
+    master_out = master.reindex(
+        columns=MASTER_COLS + [c for c in metric_cols if c not in MASTER_COLS])
+
+    # ---- expected points: forecast vs actual, with fixture context ----
+    xp_out = pd.DataFrame()
+    if len(xp):
+        home_s = fx_sched[["gw", "home_club", "away_club"]].rename(
+            columns={"home_club": "club_id", "away_club": "opp_club"})
+        home_s["was_home"] = 1
+        away_s = fx_sched[["gw", "away_club", "home_club"]].rename(
+            columns={"away_club": "club_id", "home_club": "opp_club"})
+        away_s["was_home"] = 0
+        sched = pd.concat([home_s, away_s], ignore_index=True)
+        team_name = dict(zip(clubs["club_id"], clubs["team"]))
+        xp_out = (xp.merge(sched, on=["club_id", "gw"], how="left")
+                  .merge(players[["player_id", "web_name", "element_type"]],
+                         on="player_id", how="left")
+                  .merge(clubs[["club_id", "team"]], on="club_id", how="left"))
+        xp_out["opponent"] = xp_out["opp_club"].map(team_name)
+        xp_out["position"] = xp_out["element_type"].map(POS)
+        xp_out["err"] = (xp_out["actual"] - xp_out["xp"]).round(3)
+        xp_out["xp"] = xp_out["xp"].round(3)
+        xp_out = xp_out.rename(columns={"player_id": "element",
+                                        "web_name": "name"})[
+            ["gw", "element", "name", "position", "team", "opponent",
+             "was_home", "xp", "actual", "err"]]
+        xp_out = xp_out.sort_values(["gw", "xp"], ascending=[True, False])
 
     # ---- rebuild the tree ----
     if OUT.exists():
@@ -226,7 +270,11 @@ def run(verbose=True):
     for gw_num, chunk in gw.groupby("gw"):
         _write(chunk, OUT / "gws" / f"gw{gw_num}.csv")
     _write(gw, OUT / "gws" / "merged_gw.csv")
+    if len(xp_out):
+        _write(xp_out, OUT / "gws" / "xP1.csv")
     _write(master_out, OUT / "players.csv")
+    if len(transfers):
+        _write(transfers, OUT / "transfers.csv")
 
     name_map = dict(zip(players["player_id"], players["web_name"]))
     for el in ("most_selected", "most_transferred_in", "most_captained",
@@ -246,6 +294,11 @@ def run(verbose=True):
     shots_resolved = shots[shots["player_id"].notna()]
     shots_by_player = dict(tuple(shots_resolved.groupby("player_id")))
     market_by_player = dict(tuple(market.groupby("player_id")))
+    transfers_matched = (transfers[transfers["player_id"].notna()]
+                         if len(transfers) and "player_id" in transfers.columns
+                         else transfers.iloc[0:0])
+    transfers_by_player = dict(tuple(transfers_matched.groupby("player_id")))
+    transfers_cols = list(transfers.columns) if len(transfers) else ["row_key"]
     master_idx = master_out.set_index("player_id")
 
     n_folders = 0
@@ -264,6 +317,8 @@ def run(verbose=True):
                folder / "shots.csv")
         _write(market_by_player.get(pid, pd.DataFrame(columns=MARKET_COLS)),
                folder / "market.csv")
+        _write(transfers_by_player.get(pid, pd.DataFrame(columns=transfers_cols)),
+               folder / "transfers.csv")
         n_folders += 1
 
     gw_files = sorted(int(p.stem[2:]) for p in (OUT / "gws").glob("gw*.csv"))
@@ -280,6 +335,8 @@ def run(verbose=True):
             "market_rows": int(len(market)),
             "season_stats_rows": int(len(stats_long)),
             "history_rows": int(len(history)),
+            "xp_rows": int(len(xp_out)),
+            "transfer_rows": int(len(transfers)),
             "player_folders": n_folders,
             "csv_files": sum(1 for _ in OUT.rglob("*.csv")),
         },

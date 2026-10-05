@@ -1,0 +1,2 @@
+row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
+2026:873:in:5,2026,873,Crystal Palace,in,881116,Darío Osorio,22,Right Winger,15000000.0,FC Midtjylland,Crystal Palace,2000000.0,Loan fee:€2.00m,loan_fee,6558708,647.0,2026-10-05T21:50:18+00:00,Osorio

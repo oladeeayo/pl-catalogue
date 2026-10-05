@@ -1,0 +1,4 @@
+row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
+2026:1237:in:12,2026,1237,Brighton & Hove Albion,in,933018,Tommy Watson,21,Left Winger,7000000.0,Leicester City,Brighton & Hove Albion,,End of loan31/05/2027,end_loan,6476701,133.0,2026-10-05T21:50:18+00:00,Watson
+2025:1237:in:13,2025,1237,Brighton & Hove Albion,in,933018,Tommy Watson,20,Left Winger,7000000.0,Millwall FC,Brighton & Hove Albion,,End of loan31/05/2026,end_loan,6158320,133.0,2026-10-05T21:50:18+00:00,Watson
+2025:1237:in:3,2025,1237,Brighton & Hove Albion,in,933018,Tommy Watson,19,Left Winger,8000000.0,Sunderland AFC,Brighton & Hove Albion,12000000.0,€12.00m,permanent,5596652,133.0,2026-10-05T21:50:18+00:00,Watson
