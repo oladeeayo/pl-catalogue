@@ -8,14 +8,15 @@
 __pycache__/
 *.py[cod]
 
-# --- data & outputs (regenerable: see README data flow) ---
-*.csv
-*.json
-*.html
-*.png
-*.db
+# --- browser session junk & logs ---
+*.cookies.json
 *.log
-validation_report.txt
+
+# --- scratch/probe outputs (not curated data) ---
+pl_shooting_dom.html
+understat_rendered.html
+understat_players.html
+understat_epl.html
 
 # --- root scratch & one-off experiments (curated pipeline scripts kept) ---
 /*.py

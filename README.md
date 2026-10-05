@@ -59,6 +59,25 @@ understat_fetch.py ─► understat_league.json ──────────�
                                                             plot_quadrants.py ◄─┘ ─► quadrant PNG
 ```
 
+## What's in the repo
+
+Everything is committed — source code **and** data, so a clone is immediately usable:
+
+| Artifact | Category | Size |
+|---|---|---|
+| `catalogue/catalogue.db` | the built SQLite catalogue (all tables, live at GW5) | 1.7 MB |
+| `reep_people.csv` | identity crosswalk (from [withqwerty/reep](https://github.com/withqwerty/reep)) | 63 MB |
+| `pl_shooting.html` | FBref Premier League shooting table (raw capture) | 0.9 MB |
+| `fbref_sot_2026_27.csv`, `_fbref_ids.csv` | FBref extracts (SoT/goals + FBref id map) | 38 KB |
+| `understat_league.json` | Understat season data (players, fixtures, shots) | 289 KB |
+| `pl_sot_xg_all_matched.csv` | merged FBref+Understat season metrics (stats_seed input) | 43 KB |
+| `pl_sot_vs_xg_top50.csv`, `pl_sot_xg_top50_quadrants.csv` | chart datasets | 8 KB |
+| `pl_sot_vs_xg_quadrants.png`, `pl_sot_vs_xg_top50.png` | rendered charts | 0.5 MB |
+| `catalogue/validation_report.txt` | latest validation output (all 22 checks pass) | 2 KB |
+
+`catalogue/run.log` and browser cookies are gitignored; scratch/probe scripts are
+excluded (only the curated pipeline lives here).
+
 ## Quickstart
 
 **Requirements:** Python 3.10+ (`pip install pandas requests matplotlib`), Chrome
@@ -68,22 +87,19 @@ understat_fetch.py ─► understat_league.json ──────────�
 git clone https://github.com/oladeeayo/pl-catalogue.git
 cd pl-catalogue
 
-# 1. external identity crosswalk (~65 MB, one-time):
-#    https://github.com/withqwerty/reep  →  place reep_people.csv in the project root
+# ready to use - the catalogue DB and all source data are committed:
+python catalogue/validate.py          # 22 checks → ALL CHECKS PASSED
 
-# 2. one-time stat sources (optional; weekly run works without them):
-python fbref_scrape.py        # browser + Cloudflare turnstile → pl_shooting.html
-python fbref_extract.py       # → fbref_sot_2026_27.csv
-python understat_fetch.py     # → understat_league.json
-python merge_sot_xg.py        # → pl_sot_xg_all_matched.csv
-
-# 3. build the catalogue:
+# full weekly refresh (FPL + Understat + Transfermarkt + validation):
 python catalogue/run_weekly.py
-```
 
-Without `reep_people.csv` / the stat CSVs the pipeline **skips those steps with a
-warning** (keeping whatever is already in the DB); validation then tells you exactly
-what coverage is missing.
+# regenerate stat sources / chart (optional):
+python fbref_scrape.py                # browser + Cloudflare turnstile → pl_shooting.html
+python fbref_extract.py               # → fbref_sot_2026_27.csv
+python understat_fetch.py             # → understat_league.json
+python merge_sot_xg.py                # → pl_sot_xg_all_matched.csv
+python plot_quadrants.py              # → quadrant chart PNG
+```
 
 ## Weekly automation
 

@@ -1,0 +1,44 @@
+PL catalogue validation - 2026-10-05
+============================================================
+row counts: clubs=20, players=667, gws=38, fixtures=380, player_fixture=3216, player_snapshot=667, player_season_prior=2109, season_stats=4041
+
+[PASS] clubs: 20 (expect 20)
+[PASS] gws: 38 (expect 38)
+[PASS] fixtures: 380 (expect 380)
+[PASS] players: 667 (expect ~667)
+[PASS] player_fixture has rows: 3216
+[PASS] player_fixture->fixtures: 0 orphan rows
+[PASS] player_fixture->players: 0 orphan rows
+[PASS] players have club: 0 without club
+[PASS] fixtures scheduled: 0 without gw
+
+per-GW detail:
+[PASS] GW1: 10 fixtures, 610 player rows, 31.3 xG, 948 pts
+[PASS] GW2: 10 fixtures, 626 player rows, 34.1 xG, 891 pts
+[PASS] GW3: 10 fixtures, 654 player rows, 28.6 xG, 912 pts
+[PASS] GW4: 10 fixtures, 659 player rows, 26.7 xG, 921 pts
+[PASS] GW5: 10 fixtures, 667 player rows, 32.4 xG, 966 pts
+[PASS] finished fixtures in player_fixture: finished fixtures with zero player rows (bench-only matches can be legit - inspect)
+
+coverage reep_id: 637/667 (95.5%)
+coverage key_fbref: 480/667 (72.0%)
+coverage key_understat: 511/667 (76.6%)
+coverage key_transfermarkt: 628/667 (94.2%)
+coverage date_of_birth: 666/667 (99.9%)
+coverage nationality: 613/667 (91.9%)
+coverage season_stats players: 419/667 (62.8%)
+latest snapshot: 667 players
+[PASS] identity coverage: reep_id >70% required
+[PASS] season_stats coverage: stats >40% required (grows with enrichment)
+
+understat: us_shots=1398 (99.4% resolved), us_appearances=1538, finished fixtures linked=50/50
+xG cross-check (finished): understat=166.9 vs FPL/Opta=153.1 (diff 13.8, expect same ballpark)
+[PASS] understat fixture linkage: every finished fixture has us_match_id
+[PASS] understat shots: 1398 shot rows
+[PASS] understat shot resolve: 99.4% of shots resolve to an FPL player (>=75% required)
+
+market values (2026-10-05): 530/667 players (79.5%), 530 valued, total €13.1bn
+[PASS] market coverage: 79.5% of players in latest snapshot (>=72% required)
+[PASS] market values present: 530 valued rows
+
+ALL CHECKS PASSED

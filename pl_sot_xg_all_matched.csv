@@ -1,0 +1,420 @@
+Player,Squad,Pos,Age,90s,Sh,SoT,SoT%,Gls,xG,min_diff,sh_diff,src,uPlayer,G-xG,SoT-xG,SoT/xG
+Brenden Aaronson,Leeds United,MF,25-348,2.2,1.0,1.0,100.0,0.0,0.02,0.0,0.0,reep-id,Brenden Aaronson,-0.02,0.98,50.0
+Tammy Abraham,Aston Villa,FW,29-003,0.8,0.0,0.0,,0.0,0.0,9.0,0.0,reep-id,Tammy Abraham,0.0,0.0,
+Joshua Acheampong,Chelsea,DF,20-153,2.5,0.0,0.0,,0.0,0.0,7.0,0.0,reep-id,Josh Acheampong,0.0,0.0,
+Tyler Adams,Bournemouth,MF,27-233,3.1,1.0,1.0,100.0,0.0,0.02,7.0,0.0,reep-id,Tyler Adams,-0.02,0.98,50.0
+Tosin Adarabioyo,Tottenham,DF,29-011,0.1,0.0,0.0,,0.0,0.0,6.0,0.0,reep-id,Tosin Adarabioyo,0.0,0.0,
+Ola Aina,Nottingham,"MF,DF",29-362,3.4,2.0,1.0,50.0,0.0,0.04,9.0,0.0,reep-id,Ola Aina,-0.04,0.96,25.0
+Semi Ajayi,Hull City,DF,32-330,4.7,3.0,1.0,33.3,1.0,0.94,3.0,0.0,reep-id,Semi Ajayi,0.06,0.06,1.06
+Kristoffer Ajer,Brentford,DF,28-171,5.0,2.0,1.0,50.0,0.0,0.13,0.0,0.0,reep-id,Kristoffer Ajer,-0.13,0.87,7.69
+Chuba Akpom,Ipswich Town,"FW,MF",30-361,0.9,2.0,1.0,50.0,1.0,0.5,9.0,0.0,reep-id,Chuba Akpom,0.5,0.5,2.0
+Carlos Alcaraz,Everton,MF,23-309,0.1,2.0,1.0,50.0,0.0,0.14,7.0,0.0,reep-id,Carlos Alcaraz,-0.14,0.86,7.14
+Omar Alderete,Sunderland,DF,29-283,0.3,0.0,0.0,,0.0,0.0,6.0,0.0,reep-id,Omar Alderete,0.0,0.0,
+Alisson,Liverpool,GK,34-003,5.0,0.0,0.0,,0.0,0.0,0.0,0.0,reep-id,Alisson,0.0,0.0,
+Ethan Ampadu,Leeds United,MF,26-021,5.0,2.0,0.0,0.0,0.0,0.04,0.0,0.0,reep-id,Ethan Ampadu,-0.04,-0.04,0.0
+Joachim Andersen,Fulham,DF,30-127,2.1,0.0,0.0,,0.0,0.0,1.0,0.0,reep-id,Joachim Andersen,0.0,0.0,
+Elliot Anderson,Manchester City,MF,23-333,4.6,4.0,1.0,25.0,0.0,0.08,4.0,0.0,reep-id,Elliot Anderson,-0.08,0.92,12.5
+Jaidon Anthony,Brentford,MF,26-308,3.0,5.0,1.0,20.0,1.0,0.98,0.0,0.0,reep-id,Jaidon Anthony,0.02,0.02,1.02
+Taiwo Awoniyi,Coventry City,FW,29-054,2.6,6.0,2.0,33.3,0.0,1.33,0.0,0.0,reep-id,Taiwo Awoniyi,-1.33,0.67,1.5
+Yasin Ayari,Brighton,MF,22-364,3.7,10.0,3.0,30.0,1.0,0.88,6.0,0.0,reep-id,Yasin Ayari,0.12,2.12,3.41
+Daniel Ballard,Sunderland,DF,27-013,5.0,5.0,0.0,0.0,0.0,0.18,0.0,0.0,reep-id,Dan Ballard,-0.18,-0.18,0.0
+Valentín Barco,Chelsea,MF,22-074,1.3,2.0,0.0,0.0,0.0,0.13,5.0,0.0,reep-id,Valentín Barco,-0.13,-0.13,0.0
+Ross Barkley,Aston Villa,MF,32-304,3.4,7.0,1.0,14.3,0.0,0.31,10.0,0.0,reep-id,Ross Barkley,-0.31,0.69,3.23
+Harvey Barnes,Newcastle,MF,28-300,5.0,8.0,4.0,50.0,1.0,0.86,0.0,0.0,reep-id,Harvey Barnes,0.14,3.14,4.65
+Thierno Barry,Everton,FW,23-349,4.6,17.0,5.0,29.4,2.0,3.85,11.0,0.0,reep-id,Thierno Barry,-1.85,1.15,1.3
+Calvin Bassey,Fulham,DF,26-278,5.0,3.0,2.0,66.7,0.0,0.15,0.0,0.0,reep-id,Calvin Bassey,-0.15,1.85,13.33
+Walter Benítez,Crystal Palace,GK,33-259,2.0,0.0,0.0,,0.0,0.0,0.0,0.0,reep-id,Walter Benítez,0.0,0.0,
+Rodrigo Bentancur,Tottenham,MF,29-102,4.1,1.0,0.0,0.0,0.0,0.03,9.0,0.0,reep-id,Rodrigo Bentancur,-0.03,-0.03,0.0
+Sander Berge,Fulham,MF,28-233,3.9,2.0,1.0,50.0,0.0,0.08,1.0,0.0,reep-id,Sander Berge,-0.08,0.92,12.5
+Beto,Everton,FW,28-247,0.4,2.0,0.0,0.0,0.0,0.11,11.0,0.0,reep-id,Beto,-0.11,-0.11,0.0
+Jaka Bijol,Leeds United,DF,27-242,1.8,2.0,0.0,0.0,0.0,0.08,5.0,0.0,reep-id,Jaka Bijol,-0.08,-0.08,0.0
+Marco Bizot,Aston Villa,GK,35-209,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,reep-id,Marco Bizot,0.0,0.0,
+Oscar Bobb,Fulham,MF,23-085,3.8,4.0,1.0,25.0,0.0,0.5,14.0,0.0,reep-id,Oscar Bobb,-0.5,0.5,2.0
+Jayden Bogle,Leeds United,MF,26-070,4.1,6.0,4.0,66.7,2.0,1.25,7.0,0.0,reep-id,Jayden Bogle,0.75,2.75,3.2
+Olivier Boscagli,Brighton,"DF,MF",28-321,4.8,3.0,1.0,33.3,0.0,0.07,7.0,0.0,reep-id,Olivier Boscagli,-0.07,0.93,14.29
+Sven Botman,Newcastle,DF,26-266,5.0,2.0,1.0,50.0,0.0,0.05,0.0,0.0,reep-id,Sven Botman,-0.05,0.95,20.0
+Jarrad Branthwaite,Everton,DF,24-100,5.0,3.0,3.0,100.0,0.0,0.32,0.0,0.0,reep-id,Jarrad Branthwaite,-0.32,2.68,9.38
+Brian Brobbey,Sunderland,FW,24-246,4.4,11.0,5.0,45.5,3.0,2.92,8.0,0.0,reep-id,Brian Brobbey,0.08,2.08,1.71
+David Brooks,Bournemouth,"FW,MF",29-089,0.5,0.0,0.0,,0.0,0.0,11.0,0.0,reep-id,David Brooks,0.0,0.0,
+Emi Buendía,Aston Villa,"MF,FW",29-284,4.5,9.0,2.0,22.2,1.0,0.76,8.0,0.0,reep-id,Emiliano Buendía,0.24,1.24,2.63
+Moisés Caicedo,Chelsea,MF,24-337,0.2,0.0,0.0,,0.0,0.0,4.0,0.0,reep-id,Moisés Caicedo,0.0,0.0,
+Riccardo Calafiori,Arsenal,DF,24-139,4.6,7.0,1.0,14.3,0.0,0.81,10.0,0.0,reep-id,Riccardo Calafiori,-0.81,0.19,1.23
+Dominic Calvert-Lewin,Leeds United,FW,29-203,4.7,11.0,6.0,54.5,2.0,3.34,1.0,0.0,reep-id,Dominic Calvert-Lewin,-1.34,2.66,1.8
+Jaydee Canvot,Crystal Palace,DF,20-068,4.0,1.0,0.0,0.0,0.0,0.02,0.0,0.0,reep-id,Jaydee Canvot,-0.02,-0.02,0.0
+Fabio Carvalho,Brentford,"FW,MF",24-036,0.0,1.0,1.0,100.0,1.0,0.55,2.0,0.0,reep-id,Fabio Carvalho,0.45,0.45,1.82
+Matty Cash,Aston Villa,DF,29-059,3.3,1.0,0.0,0.0,0.0,0.08,6.0,0.0,reep-id,Matthew Cash,-0.08,-0.08,0.0
+Timothy Castagne,Fulham,DF,30-304,4.5,4.0,2.0,50.0,0.0,0.65,7.0,0.0,reep-id,Timothy Castagne,-0.65,1.35,3.08
+Shea Charles,Fulham,MF,22-334,3.4,2.0,0.0,0.0,0.0,0.06,1.0,0.0,reep-id,Shea Charles,-0.06,-0.06,0.0
+Rayan Cherki,Manchester City,MF,23-049,3.4,9.0,4.0,44.4,3.0,1.06,7.0,0.0,reep-id,Mathis Cherki,1.94,2.94,3.77
+Ben Chilwell,Crystal Palace,"DF,MF",29-288,0.3,2.0,1.0,50.0,1.0,0.46,7.0,0.0,reep-id,Ben Chilwell,0.54,0.54,2.17
+Ryan Christie,Bournemouth,MF,31-225,1.2,4.0,0.0,0.0,0.0,0.7,13.0,0.0,reep-id,Ryan Christie,-0.7,-0.7,0.0
+Nathan Collins,Brentford,DF,25-158,2.2,5.0,1.0,20.0,0.0,0.61,2.0,0.0,reep-id,Nathan Collins,-0.61,0.39,1.64
+Levi Colwill,Chelsea,DF,23-221,3.8,1.0,0.0,0.0,0.0,0.05,2.0,0.0,reep-id,Levi Colwill,-0.05,-0.05,0.0
+Lewis Cook,Bournemouth,MF,29-244,2.0,0.0,0.0,,0.0,0.0,3.0,0.0,reep-id,Lewis Cook,0.0,0.0,
+Jorge Cuenca,Fulham,DF,26-322,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,reep-id,Jorge Cuenca,0.0,0.0,
+Matheus Cunha,Manchester Utd,FW,27-131,4.5,13.0,4.0,30.8,1.0,0.56,12.0,0.0,reep-id,Matheus Cunha,0.44,3.44,7.14
+Diogo Dalot,Manchester Utd,DF,27-201,3.9,8.0,1.0,12.5,0.0,0.33,0.0,0.0,reep-id,Diogo Dalot,-0.33,0.67,3.03
+Mikkel Damsgaard,Brentford,MF,26-094,3.2,4.0,1.0,25.0,0.0,0.14,1.0,0.0,reep-id,Mikkel Damsgaard,-0.14,0.86,7.14
+Kevin Danso,Sunderland,DF,28-016,3.0,1.0,1.0,100.0,0.0,0.05,0.0,0.0,reep-id,Kevin Danso,-0.05,0.95,20.0
+Leif Davis,Ipswich Town,DF,26-278,5.0,6.0,3.0,50.0,2.0,1.75,0.0,0.0,reep-id,Leif Davis,0.25,1.25,1.71
+Maxim De Cuyper,Brighton,MF,25-287,4.7,7.0,1.0,14.3,1.0,1.48,8.0,0.0,reep-id,Maxim De Cuyper,-0.48,-0.48,0.68
+Liam Delap,Nottingham,FW,23-239,3.1,12.0,1.0,8.3,1.0,1.12,3.0,0.0,reep-id,Liam Delap,-0.12,-0.12,0.89
+Kiernan Dewsbury-Hall,Everton,MF,28-029,5.0,18.0,5.0,27.8,1.0,1.45,0.0,0.0,reep-id,Kiernan Dewsbury-Hall,-0.45,3.55,3.45
+Rúben Dias,Manchester City,DF,29-144,5.0,2.0,1.0,50.0,0.0,0.16,0.0,0.0,reep-id,Rúben Dias,-0.16,0.84,6.25
+Issa Diop,Ipswich Town,DF,29-269,5.0,1.0,0.0,0.0,0.0,0.07,0.0,0.0,reep-id,Issa Diop,-0.07,-0.07,0.0
+El Hadji Malick Diouf,Brentford,"DF,MF",21-281,0.5,0.0,0.0,,0.0,0.0,13.0,0.0,reep-id,El Hadji Malick Diouf,0.0,0.0,
+Axel Disasi,Crystal Palace,DF,28-208,1.5,0.0,0.0,,0.0,0.0,3.0,0.0,reep-id,Axel Disasi,0.0,0.0,
+Jeremy Doku,Manchester City,"FW,MF",24-131,0.2,1.0,0.0,0.0,0.0,0.12,8.0,0.0,reep-id,Jéremy Doku,-0.12,-0.12,0.0
+Nicolás Domínguez,Nottingham,MF,28-099,0.0,0.0,0.0,,0.0,0.0,1.0,0.0,reep-id,Nicolás Domínguez,0.0,0.0,
+Gianluigi Donnarumma,Manchester City,GK,27-222,5.0,0.0,0.0,,0.0,0.0,0.0,0.0,reep-id,Gianluigi Donnarumma,0.0,0.0,
+Max Dowman,Arsenal,MF,16-278,0.1,0.0,0.0,,0.0,0.0,1.0,0.0,reep-id,Max Dowman,0.0,0.0,
+Cody Drameh,Hull City,"DF,MF",24-301,0.7,1.0,0.0,0.0,0.0,0.04,3.0,0.0,reep-id,Cody Drameh,-0.04,-0.04,0.0
+Lewis Dunk,Brighton,DF,34-318,4.0,1.0,1.0,100.0,1.0,0.02,0.0,0.0,reep-id,Lewis Dunk,0.98,0.98,50.0
+John Egan,Hull City,DF,33-350,4.9,2.0,1.0,50.0,0.0,0.03,2.0,0.0,reep-id,John Egan,-0.03,0.97,33.33
+Anthony Elanga,Newcastle,MF,24-161,2.6,4.0,3.0,75.0,2.0,0.42,7.0,0.0,reep-id,Anthony Elanga,1.58,2.58,7.14
+Julio Enciso,Ipswich Town,MF,22-255,4.6,17.0,4.0,23.5,0.0,1.34,4.0,0.0,reep-id,Julio Enciso,-1.34,2.66,2.99
+Eberechi Eze,Arsenal,"FW,MF",28-098,1.0,1.0,0.0,0.0,0.0,0.04,11.0,0.0,reep-id,Eberechi Eze,-0.04,-0.04,0.0
+Bruno Fernandes,Manchester Utd,MF,32-027,5.0,19.0,5.0,26.3,3.0,3.05,0.0,0.0,reep-id,Bruno Fernandes,-0.05,1.95,1.64
+Mateus Fernandes,Tottenham,MF,22-087,2.8,6.0,1.0,16.7,0.0,0.17,5.0,0.0,reep-id,Mateus Fernandes,-0.17,0.83,5.88
+Enzo Fernández,Manchester City > Chelsea,MF,25-261,3.0,5.0,2.0,40.0,1.0,0.38,4.0,0.0,reep-id,Enzo Fernández,0.62,1.62,5.26
+Zian Flemming,Ipswich Town,"FW,MF",28-065,0.7,5.0,3.0,60.0,1.0,0.87,11.0,0.0,reep-id,Zian Flemming,0.13,2.13,3.45
+Phil Foden,Manchester City,MF,26-130,2.4,6.0,1.0,16.7,0.0,1.56,3.0,0.0,reep-id,Phil Foden,-1.56,-0.56,0.64
+Wesley Fofana,Chelsea,DF,25-292,3.5,0.0,0.0,,0.0,0.0,5.0,0.0,reep-id,Wesley Fofana,0.0,0.0,
+Jeremie Frimpong,Liverpool,DF,25-299,2.0,1.0,0.0,0.0,0.0,0.01,1.0,0.0,reep-id,Jeremie Frimpong,-0.01,-0.01,0.0
+Darnell Furlong,Ipswich Town,"DF,MF",30-339,0.2,0.0,0.0,,0.0,0.0,3.0,0.0,reep-id,Darnell Furlong,0.0,0.0,
+Cody Gakpo,Liverpool,MF,27-151,4.1,10.0,1.0,10.0,1.0,0.53,4.0,0.0,reep-id,Cody Gakpo,0.47,0.47,1.89
+Conor Gallagher,Tottenham,MF,26-241,1.5,2.0,1.0,50.0,1.0,0.4,2.0,0.0,reep-id,Conor Gallagher,0.6,0.6,2.5
+Ben Gannon-Doak,Bournemouth,MF,20-328,0.2,3.0,0.0,0.0,0.0,0.18,12.0,0.0,reep-id,Ben Doak,-0.18,-0.18,0.0
+Alejandro Garnacho,Aston Villa,MF,22-096,0.4,0.0,0.0,,0.0,0.0,10.0,0.0,reep-id,Alejandro Garnacho,0.0,0.0,
+James Garner,Everton,MF,25-206,3.7,3.0,1.0,33.3,0.0,0.14,2.0,0.0,reep-id,James Garner,-0.14,0.86,7.14
+Joe Gelhardt,Hull City,"FW,MF",24-154,0.1,3.0,0.0,0.0,0.0,0.09,7.0,0.0,reep-id,Joe Gelhardt,-0.09,-0.09,0.0
+Morgan Gibbs-White,Nottingham,MF,26-251,5.0,9.0,3.0,33.3,1.0,1.45,0.0,0.0,reep-id,Morgan Gibbs-White,-0.45,1.55,2.07
+Ryan Giles,Hull City,DF,26-252,4.9,1.0,0.0,0.0,0.0,0.03,6.0,0.0,reep-id,Ryan John Giles,-0.03,-0.03,0.0
+João Gomes,Aston Villa,MF,25-235,1.4,0.0,0.0,,0.0,0.0,3.0,0.0,reep-id,João Gomes,0.0,0.0,
+Nicolás González,Newcastle,MF,24-275,1.8,0.0,0.0,,0.0,0.0,8.0,0.0,reep-id,Nico González,0.0,0.0,
+Ryan Gravenberch,Liverpool,MF,24-142,2.1,3.0,0.0,0.0,0.0,0.07,0.0,0.0,reep-id,Ryan Gravenberch,-0.07,-0.07,0.0
+Jack Grealish,Manchester City > Everton,"FW,MF",31-025,1.5,1.0,0.0,0.0,0.0,0.02,5.0,0.0,reep-id,Jack Grealish,-0.02,-0.02,0.0
+Jacob Greaves,Ipswich Town,DF,26-023,4.0,0.0,0.0,,0.0,0.0,0.0,0.0,reep-id,Jacob Greaves,0.0,0.0,
+Pascal Groß,Brighton,MF,35-112,5.0,10.0,3.0,30.0,3.0,1.74,0.0,0.0,reep-id,Pascal Groß,1.26,1.26,1.72
+Gabriel Gudmundsson,Leeds United,MF,27-159,2.8,0.0,0.0,,0.0,0.0,3.0,0.0,reep-id,Gabriel Gudmundsson,0.0,0.0,
+Marc Guéhi,Manchester City,"DF,MF",26-084,5.0,3.0,1.0,33.3,1.0,0.71,0.0,0.0,reep-id,Marc Guehi,0.29,0.29,1.41
+Evann Guessand,Crystal Palace,"FW,MF",25-096,0.6,1.0,1.0,100.0,0.0,0.04,5.0,0.0,reep-id,Evann Guessand,-0.04,0.96,25.0
+Bruno Guimarães,Arsenal,MF,28-323,1.4,2.0,1.0,50.0,1.0,0.08,4.0,0.0,reep-id,Bruno Guimarães,0.92,0.92,12.5
+Malo Gusto,Chelsea,"MF,DF",23-139,3.0,2.0,0.0,0.0,0.0,0.06,4.0,0.0,reep-id,Malo Gusto,-0.06,-0.06,0.0
+Joško Gvardiol,Manchester City,DF,24-255,4.8,3.0,1.0,33.3,1.0,0.43,4.0,0.0,reep-id,Josko Gvardiol,0.57,0.57,2.33
+Viktor Gyökeres,Arsenal,"FW,MF",28-123,0.3,0.0,0.0,,0.0,0.0,3.0,0.0,reep-id,Viktor Gyokeres,0.0,0.0,
+Erling Haaland,Manchester City,FW,26-076,5.0,20.0,10.0,50.0,5.0,4.76,0.0,0.0,reep-id,Erling Haaland,0.24,5.24,2.1
+Lewis Hall,Newcastle,DF,22-027,5.0,5.0,2.0,40.0,1.0,0.32,0.0,0.0,reep-id,Lewis Hall,0.68,1.68,6.25
+Gustavo Hamer,Coventry City,MF,29-103,0.4,0.0,0.0,,0.0,0.0,9.0,0.0,reep-id,Gustavo Hamer,0.0,0.0,
+Kai Havertz,Arsenal,FW,27-116,4.9,10.0,6.0,60.0,2.0,1.18,1.0,0.0,reep-id,Kai Havertz,0.82,4.82,5.08
+Jan Paul van Hecke,Tottenham,DF,26-119,5.0,5.0,2.0,40.0,1.0,1.04,0.0,0.0,reep-id,Jan Paul van Hecke,-0.04,0.96,1.92
+Dean Henderson,Crystal Palace,GK,29-207,3.0,0.0,0.0,,0.0,0.0,0.0,0.0,reep-id,Dean Henderson,0.0,0.0,
+Jordan Henderson,Chelsea,MF,36-110,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,reep-id,Jordan Henderson,0.0,0.0,
+Rico Henry,Brentford,"DF,MF",29-089,0.0,0.0,0.0,,0.0,0.0,1.0,0.0,reep-id,Rico Henry,0.0,0.0,
+Aaron Hickey,Brentford,DF,24-117,1.7,1.0,0.0,0.0,0.0,0.04,6.0,0.0,reep-id,Aaron Hickey,-0.04,-0.04,0.0
+James Hill,Bournemouth,DF,24-268,5.0,0.0,0.0,,0.0,0.0,0.0,0.0,reep-id,James Hill,0.0,0.0,
+Piero Hincapié,Arsenal,DF,24-269,0.4,0.0,0.0,,0.0,0.0,10.0,0.0,reep-id,Piero Hincapié,0.0,0.0,
+Jack Hinshelwood,Brighton,MF,21-177,0.7,3.0,2.0,66.7,2.0,1.4,6.0,0.0,reep-id,Jack Hinshelwood,0.6,0.6,1.43
+Callum Hudson-Odoi,Nottingham,"FW,MF",25-332,0.0,0.0,0.0,,0.0,0.0,1.0,0.0,reep-id,Callum Hudson-Odoi,0.0,0.0,
+Will Hughes,Crystal Palace,MF,31-171,0.3,0.0,0.0,,0.0,0.0,7.0,0.0,reep-id,Will Hughes,0.0,0.0,
+Tim Iroegbunam,Hull City > Everton,MF,23-097,0.7999999999999999,2.0,0.0,0.0,0.0,0.1,13.0,0.0,reep-id,Tim Iroegbunam,-0.1,-0.1,0.0
+Alexander Isak,Liverpool,FW,27-014,4.6,15.0,7.0,46.7,4.0,3.73,3.0,0.0,reep-id,Alexander Isak,0.27,3.27,1.88
+Wilson Isidor,Sunderland,"FW,MF",26-039,1.3,5.0,2.0,40.0,1.0,1.11,17.0,0.0,reep-id,Wilson Isidor,-0.11,0.89,1.8
+Alex Iwobi,Fulham,MF,30-155,4.5,6.0,1.0,16.7,0.0,0.69,11.0,0.0,reep-id,Alex Iwobi,-0.69,0.31,1.45
+Nicolas Jackson,Aston Villa,FW,25-107,3.2,8.0,2.0,25.0,1.0,0.8,10.0,0.0,reep-id,Nicolas Jackson,0.2,1.2,2.5
+Daniel James,Leeds United,"FW,MF",28-329,0.6,6.0,0.0,0.0,0.0,0.27,8.0,0.0,reep-id,Daniel James,-0.27,-0.27,0.0
+Reece James,Chelsea,MF,26-301,3.3,8.0,4.0,50.0,0.0,0.25,7.0,0.0,reep-id,Reece James,-0.25,3.75,16.0
+Vitaly Janelt,Brentford,MF,28-148,5.0,4.0,2.0,50.0,2.0,0.86,0.0,0.0,reep-id,Vitaly Janelt,1.14,1.14,2.33
+Daniel Jebbison,Bournemouth,FW,23-053,0.4,1.0,1.0,100.0,0.0,0.08,7.0,0.0,reep-id,Daniel Jebbison,-0.08,0.92,12.5
+Mathias Jensen,Brentford,MF,30-277,0.7,2.0,1.0,50.0,0.0,0.09,5.0,0.0,reep-id,Mathias Jensen,-0.09,0.91,11.11
+Igor Jesus,Nottingham,FW,25-222,2.9,9.0,4.0,44.4,1.0,2.24,10.0,0.0,reep-id,Igor Jesus,-1.24,1.76,1.79
+João Pedro,Chelsea,FW,25-009,4.0,11.0,4.0,36.4,3.0,2.52,0.0,0.0,reep-id,João Pedro,0.48,1.48,1.59
+Brennan Johnson,Everton,MF,25-135,2.7,4.0,0.0,0.0,0.0,0.92,2.0,0.0,reep-id,Brennan Johnson,-0.92,-0.92,0.0
+James Justin,Leeds United,"DF,MF",28-224,5.0,4.0,2.0,50.0,0.0,0.16,0.0,0.0,reep-id,James Justin,-0.16,1.84,12.5
+Ferdi Kadioglu,Brighton,DF,26-363,3.7,4.0,1.0,25.0,0.0,0.12,3.0,0.0,reep-id,Ferdi Kadioglu,-0.12,0.88,8.33
+Arnaud Kalimuendo,Nottingham,FW,24-258,0.0,0.0,0.0,,0.0,0.0,1.0,0.0,reep-id,Arnaud Kalimuendo Muinga,0.0,0.0,
+Daichi Kamada,Crystal Palace,MF,30-061,4.9,4.0,1.0,25.0,0.0,0.46,8.0,0.0,reep-id,Daichi Kamada,-0.46,0.54,2.17
+Boubacar Kamara,Aston Villa,MF,26-316,4.9,1.0,0.0,0.0,0.0,0.08,9.0,0.0,reep-id,Boubacar Kamara,-0.08,-0.08,0.0
+Caoimhín Kelleher,Brentford,GK,27-316,5.0,0.0,0.0,,0.0,0.0,0.0,0.0,reep-id,Caoimhin Kelleher,0.0,0.0,
+Milos Kerkez,Liverpool,DF,22-332,4.3,3.0,1.0,33.3,0.0,0.08,0.0,0.0,reep-id,Milos Kerkez,-0.08,0.92,12.5
+Kevin,Fulham,MF,23-274,0.7,2.0,1.0,50.0,0.0,0.09,6.0,0.0,reep-id,Kevin,-0.09,0.91,11.11
+Abdukodir Khusanov,Manchester City,DF,22-218,3.0,0.0,0.0,,0.0,0.0,0.0,0.0,reep-id,Abduqodir Khusanov,0.0,0.0,
+Antonín Kinský,Tottenham,GK,23-206,5.0,0.0,0.0,,0.0,0.0,0.0,0.0,reep-id,Antonín Kinsky,0.0,0.0,
+Justin Kluivert,Bournemouth,MF,27-153,3.3,10.0,6.0,60.0,1.0,1.08,14.0,0.0,reep-id,Justin Kluivert,-0.08,4.92,5.56
+Ezri Konsa,Arsenal,DF,28-347,3.1,1.0,0.0,0.0,0.0,0.08,1.0,0.0,reep-id,Ezri Konsa Ngoyo,-0.08,-0.08,0.0
+Charalampos Kostoulas,Brighton,FW,19-128,3.9,13.0,5.0,38.5,2.0,1.77,4.0,0.0,reep-id,Charalampos Kostoulas,0.23,3.23,2.82
+Mateo Kovačić,Manchester City,MF,32-152,0.5,0.0,0.0,,0.0,0.0,6.0,0.0,reep-id,Mateo Kovacic,0.0,0.0,
+Mohammed Kudus,Tottenham,"FW,MF",26-064,1.4,3.0,0.0,0.0,0.0,0.13,16.0,0.0,reep-id,Mohammed Kudus,-0.13,-0.13,0.0
+Maxence Lacroix,Chelsea,DF,26-182,4.1,2.0,0.0,0.0,0.0,0.3,7.0,0.0,reep-id,Maxence Lacroix,-0.3,-0.3,0.0
+Senne Lammens,Manchester Utd,GK,24-090,5.0,0.0,0.0,,0.0,0.0,0.0,0.0,reep-id,Senne Lammens,0.0,0.0,
+Roméo Lavia,Chelsea,MF,22-272,2.9,2.0,2.0,100.0,1.0,1.23,12.0,0.0,reep-id,Romeo Lavia,-0.23,0.77,1.63
+Enzo Le Fée,Sunderland,MF,26-244,4.9,10.0,3.0,30.0,1.0,1.82,1.0,0.0,reep-id,Enzo Le Fée,-0.82,1.18,1.65
+Bernd Leno,Fulham,GK,34-215,5.0,0.0,0.0,,0.0,0.0,0.0,0.0,reep-id,Bernd Leno,0.0,0.0,
+Jefferson Lerma,Crystal Palace,"DF,MF",31-345,0.6,1.0,0.0,0.0,0.0,0.36,10.0,0.0,reep-id,Jefferson Lerma,-0.36,-0.36,0.0
+Rico Lewis,Manchester City,DF,21-318,0.6,1.0,1.0,100.0,0.0,0.35,5.0,0.0,reep-id,Rico Lewis,-0.35,0.65,2.86
+Keane Lewis-Potter,Brentford,DF,25-225,4.5,9.0,2.0,22.2,1.0,1.15,13.0,0.0,reep-id,Keane Lewis-Potter,-0.15,0.85,1.74
+Victor Lindelöf,Aston Villa,DF,32-080,5.0,1.0,1.0,100.0,0.0,0.6,0.0,0.0,reep-id,Victor Lindelöf,-0.6,0.4,1.67
+Tino Livramento,Newcastle,"DF,MF",23-327,0.4,0.0,0.0,,0.0,0.0,5.0,0.0,reep-id,Valentino Livramento,0.0,0.0,
+Sean Longstaff,Leeds United,MF,28-340,0.1,0.0,0.0,,0.0,0.0,2.0,0.0,reep-id,Sean Longstaff,0.0,0.0,
+Florentino Luís,Ipswich Town,MF,27-047,0.4,0.0,0.0,,0.0,0.0,12.0,0.0,reep-id,Florentino Luís,0.0,0.0,
+Saša Lukić,Ipswich Town,MF,30-053,4.4,1.0,0.0,0.0,0.0,0.04,15.0,0.0,reep-id,Sasa Lukic,-0.04,-0.04,0.0
+Ian Maatsen,Aston Villa,DF,24-209,3.7,5.0,1.0,20.0,0.0,0.25,10.0,0.0,reep-id,Ian Maatsen,-0.25,0.75,4.0
+Alexis Mac Allister,Liverpool,MF,27-285,3.4,3.0,1.0,33.3,0.0,0.09,5.0,0.0,reep-id,Alexis Mac Allister,-0.09,0.91,11.11
+James Maddison,Tottenham,"FW,MF",29-316,0.7,2.0,1.0,50.0,0.0,0.09,15.0,0.0,reep-id,James Maddison,-0.09,0.91,11.11
+Noni Madueke,Arsenal,"FW,MF",24-209,0.3,0.0,0.0,,0.0,0.0,6.0,0.0,reep-id,Noni Madueke,0.0,0.0,
+Gabriel Magalhães,Arsenal,DF,28-290,5.0,5.0,2.0,40.0,0.0,1.03,0.0,0.0,reep-id,Gabriel,-1.03,0.97,1.94
+Harry Maguire,Manchester Utd,DF,33-214,5.0,6.0,1.0,16.7,0.0,0.16,0.0,0.0,reep-id,Harry Maguire,-0.16,0.84,6.25
+Kobbie Mainoo,Manchester Utd,MF,21-169,3.9,6.0,0.0,0.0,0.0,0.24,9.0,0.0,reep-id,Kobbie Mainoo,-0.24,-0.24,0.0
+Ainsley Maitland-Niles,Everton,DF,29-037,2.0,2.0,1.0,50.0,1.0,0.05,3.0,0.0,reep-id,Ainsley Maitland-Niles,0.95,0.95,20.0
+Reinildo Mandava,Sunderland,DF,32-257,4.0,0.0,0.0,,0.0,0.0,0.0,0.0,reep-id,Reinildo,0.0,0.0,
+Omar Marmoush,Tottenham,"MF,FW",27-240,3.8,7.0,1.0,14.3,0.0,0.65,2.0,1.0,reep-id,Omar Marmoush,-0.65,0.35,1.54
+Emiliano Martínez,Chelsea,GK,34-033,4.0,0.0,0.0,,0.0,0.0,0.0,0.0,reep-id,Emiliano Martinez,0.0,0.0,
+Lisandro Martínez,Manchester Utd,DF,28-260,4.0,6.0,2.0,33.3,0.0,0.16,0.0,0.0,reep-id,Lisandro Martínez,-0.16,1.84,12.5
+Jean-Philippe Mateta,Crystal Palace,FW,29-099,0.7,2.0,0.0,0.0,0.0,1.32,4.0,0.0,reep-id,Jean-Philippe Mateta,-1.32,-1.32,0.0
+Noussair Mazraoui,Manchester Utd,DF,28-325,1.1,1.0,0.0,0.0,0.0,0.09,1.0,0.0,reep-id,Noussair Mazraoui,-0.09,-0.09,0.0
+Bryan Mbeumo,Manchester Utd,MF,27-059,5.0,19.0,6.0,31.6,2.0,2.87,0.0,0.0,reep-id,Bryan Mbeumo,-0.87,3.13,2.09
+James Mcatee,Nottingham,MF,23-352,4.6,9.0,3.0,33.3,0.0,0.32,12.0,0.0,reep-id,James McAtee,-0.32,2.68,9.38
+Kasey McAteer,Ipswich Town,MF,24-317,0.5,1.0,1.0,100.0,0.0,0.02,9.0,0.0,reep-id,Kasey McAteer,-0.02,0.98,50.0
+Oliver McBurnie,Hull City,FW,30-123,4.9,10.0,3.0,30.0,0.0,1.64,3.0,1.0,reep-id,Oliver McBurnie,-1.64,1.36,1.83
+John McGinn,Aston Villa,MF,31-352,4.8,4.0,0.0,0.0,0.0,0.56,15.0,0.0,reep-id,John McGinn,-0.56,-0.56,0.0
+Paddy McNair,Hull City,"DF,MF",31-161,0.3,0.0,0.0,,0.0,0.0,3.0,0.0,reep-id,Paddy McNair,0.0,0.0,
+Dwight McNeil,Crystal Palace,MF,26-317,0.9,1.0,0.0,0.0,0.0,0.02,7.0,0.0,reep-id,Dwight McNeil,-0.02,-0.02,0.0
+Mikel Merino,Arsenal,MF,30-105,0.9,2.0,1.0,50.0,0.0,0.14,9.0,0.0,reep-id,Mikel Merino,-0.14,0.86,7.14
+Nikola Milenković,Nottingham,DF,28-358,3.0,2.0,0.0,0.0,0.0,0.12,0.0,0.0,reep-id,Nikola Milenkovic,-0.12,-0.12,0.0
+Lewis Miley,Newcastle,"MF,DF",20-157,4.4,1.0,0.0,0.0,0.0,0.05,9.0,0.0,reep-id,Lewis Miley,-0.05,-0.05,0.0
+Tyrone Mings,Aston Villa,DF,33-206,2.9,4.0,0.0,0.0,0.0,0.21,4.0,0.0,reep-id,Tyrone Mings,-0.21,-0.21,0.0
+Tyrick Mitchell,Crystal Palace,MF,27-034,4.7,5.0,2.0,40.0,2.0,1.03,7.0,0.0,reep-id,Tyrick Mitchell,0.97,0.97,1.94
+Mikey Moore,Tottenham,MF,19-055,1.0,4.0,3.0,75.0,0.0,0.63,0.0,0.0,reep-id,Mikey Moore,-0.63,2.37,4.76
+Cristhian Mosquera,Arsenal,DF,22-100,1.9,0.0,0.0,,0.0,0.0,1.0,0.0,reep-id,Cristhian Mosquera,0.0,0.0,
+Mason Mount,Manchester Utd,MF,27-268,0.1,1.0,0.0,0.0,0.0,0.04,1.0,0.0,reep-id,Mason Mount,-0.04,-0.04,0.0
+Mykhailo Mudryk,Tottenham,MF,25-273,0.2,0.0,0.0,,0.0,0.0,3.0,0.0,reep-id,Mykhailo Mudryk,0.0,0.0,
+Nordi Mukiele,Sunderland,DF,28-338,4.0,5.0,1.0,20.0,0.0,1.13,0.0,0.0,reep-id,Nordi Mukiele,-1.13,-0.13,0.88
+Rodrigo Muniz,Fulham,FW,25-154,0.5,3.0,2.0,66.7,0.0,0.22,14.0,0.0,reep-id,Rodrigo Muniz,-0.22,1.78,9.09
+Daniel Muñoz,Nottingham > Crystal Palace,MF,30-132,2.9,6.0,2.0,33.3,0.0,0.63,2.0,0.0,reep-id,Daniel Muñoz,-0.63,1.37,3.17
+Murillo,Nottingham,DF,24-093,5.0,5.0,0.0,0.0,0.0,0.35,0.0,0.0,reep-id,Murillo,-0.35,-0.35,0.0
+Jacob Murphy,Newcastle,MF,31-223,2.0,2.0,0.0,0.0,0.0,0.04,2.0,0.0,reep-id,Jacob Murphy,-0.04,-0.04,0.0
+Vitaliy Mykolenko,Everton,DF,27-129,5.0,1.0,0.0,0.0,0.0,0.09,0.0,0.0,reep-id,Vitalii Mykolenko,-0.09,-0.09,0.0
+Iliman Ndiaye,Manchester City > Everton,MF,26-213,4.3,7.0,3.0,42.9,0.0,0.38,3.0,0.0,reep-id,Iliman Ndiaye,-0.38,2.62,7.89
+Dan Ndoye,Nottingham,MF,25-345,3.5,11.0,2.0,18.2,1.0,1.73,17.0,0.0,reep-id,Dan Ndoye,-0.73,0.27,1.16
+Pedro Neto,Chelsea,MF,26-210,3.7,7.0,4.0,57.1,1.0,1.07,10.0,0.0,reep-id,Pedro Neto,-0.07,2.93,3.74
+Luca Netz,Nottingham,"DF,MF",23-143,0.3,0.0,0.0,,0.0,0.0,6.0,0.0,reep-id,Luca Netz,0.0,0.0,
+Rio Ngumoha,Liverpool,MF,18-037,1.1,2.0,0.0,0.0,0.0,0.39,2.0,0.0,reep-id,Rio Ngumoha,-0.39,-0.39,0.0
+Eddie Nketiah,Crystal Palace,"MF,FW",27-128,1.9,4.0,2.0,50.0,0.0,1.34,15.0,0.0,reep-id,Eddie Nketiah,-1.34,0.66,1.49
+Lukas Nmecha,Leeds United,FW,27-295,0.8,3.0,0.0,0.0,0.0,0.2,15.0,0.0,reep-id,Lukas Nmecha,-0.2,-0.2,0.0
+Matheus Nunes,Manchester City,DF,28-039,2.4,0.0,0.0,,0.0,0.0,5.0,0.0,reep-id,Matheus Nunes,0.0,0.0,
+Jake O'Brien,Everton,DF,25-143,0.2,0.0,0.0,,0.0,0.0,4.0,0.0,reep-id,Jake O&#039;Brien,0.0,0.0,
+Luke O'Nien,Sunderland,DF,31-318,0.7,1.0,0.0,0.0,0.0,0.02,6.0,0.0,reep-id,Luke O&#039;Nien,-0.02,-0.02,0.0
+Matt O'Riley,Brighton,MF,25-318,0.1,1.0,1.0,100.0,0.0,0.58,1.0,0.0,reep-id,Matt O&#039;Riley,-0.58,0.42,1.72
+Dara O'Shea,Ipswich Town,DF,27-215,5.0,1.0,0.0,0.0,0.0,0.02,0.0,0.0,reep-id,Dara O&#039;Shea,-0.02,-0.02,0.0
+Noah Okafor,Leeds United,"MF,FW",26-134,3.3,5.0,1.0,20.0,1.0,0.2,11.0,0.0,reep-id,Noah Okafor,0.8,0.8,5.0
+Frank Onyeka,Coventry City,MF,28-277,3.5,1.0,1.0,100.0,0.0,0.04,3.0,0.0,reep-id,Frank Onyeka,-0.04,0.96,25.0
+William Osula,Newcastle,FW,23-062,0.6,2.0,0.0,0.0,0.0,0.06,3.0,0.0,reep-id,William Osula,-0.06,-0.06,0.0
+Dango Ouattara,Brentford,MF,24-236,2.0,4.0,0.0,0.0,0.0,0.07,0.0,0.0,reep-id,Dango Ouattara,-0.07,-0.07,0.0
+Cole Palmer,Chelsea,MF,24-152,4.9,17.0,5.0,29.4,2.0,1.82,4.0,0.0,reep-id,Cole Palmer,0.18,3.18,2.75
+Đorđe Petrović,Bournemouth,GK,26-362,5.0,0.0,0.0,,0.0,0.0,0.0,0.0,reep-id,Djordje Petrovic,0.0,0.0,
+Jaden Philogene Bidace,Ipswich Town,"FW,MF",24-239,0.6,2.0,1.0,50.0,0.0,0.03,8.0,0.0,reep-id,Jaden Philogene-Bidace,-0.03,0.97,33.33
+Jordan Pickford,Everton,GK,32-212,5.0,0.0,0.0,,0.0,0.0,0.0,0.0,reep-id,Jordan Pickford,0.0,0.0,
+Ethan Pinnock,Coventry City,DF,33-129,3.1,2.0,0.0,0.0,0.0,0.09,1.0,0.0,reep-id,Ethan Pinnock,-0.09,-0.09,0.0
+Yéremy Pino,Crystal Palace,MF,23-350,3.4,6.0,1.0,16.7,0.0,0.64,2.0,0.0,reep-id,Yeremi Pino,-0.64,0.36,1.56
+Pedro Porro,Tottenham,"DF,MF",27-022,2.2,7.0,1.0,14.3,0.0,0.24,0.0,0.0,reep-id,Pedro Porro,-0.24,0.76,4.17
+Jacob Ramsey,Newcastle,MF,25-130,0.8,2.0,1.0,50.0,1.0,0.15,8.0,0.0,reep-id,Jacob Ramsey,0.85,0.85,6.67
+Marcus Rashford,Manchester Utd,MF,28-339,3.9,13.0,4.0,30.8,0.0,1.32,8.0,0.0,reep-id,Marcus Rashford,-1.32,2.68,3.03
+David Raya,Arsenal,GK,31-020,5.0,0.0,0.0,,0.0,0.0,0.0,0.0,reep-id,David Raya,0.0,0.0,
+Rayan,Bournemouth,MF,20-063,4.8,12.0,4.0,33.3,0.0,1.59,14.0,0.0,reep-id,Rayan,-1.59,2.41,2.52
+Vitor Reis,Manchester City,DF,20-266,0.0,0.0,0.0,,0.0,0.0,1.0,0.0,reep-id,Vitor Reis,0.0,0.0,
+Chadi Riad,Crystal Palace,DF,23-110,0.8,0.0,0.0,,0.0,0.0,5.0,0.0,reep-id,Chadi Riad,0.0,0.0,
+Declan Rice,Arsenal,MF,27-264,4.6,4.0,0.0,0.0,0.0,0.09,4.0,0.0,reep-id,Declan Rice,-0.09,-0.09,0.0
+Chris Richards,Crystal Palace,DF,26-191,5.0,2.0,2.0,100.0,0.0,0.06,0.0,0.0,reep-id,Chris Richards,-0.06,1.94,33.33
+Richarlison,Tottenham,FW,29-148,0.7,0.0,0.0,,0.0,0.0,6.0,0.0,reep-id,Richarlison,0.0,0.0,
+Chris Rigg,Sunderland,MF,19-109,0.2,0.0,0.0,,0.0,0.0,4.0,0.0,reep-id,Chris Rigg,0.0,0.0,
+Andy Robertson,Tottenham,DF,32-208,4.1,2.0,1.0,50.0,0.0,0.1,2.0,0.0,reep-id,Andrew Robertson,-0.1,0.9,10.0
+Antonee Robinson,Fulham,DF,29-058,4.8,4.0,0.0,0.0,0.0,0.33,5.0,0.0,reep-id,Antonee Robinson,-0.33,-0.33,0.0
+Joe Rodon,Leeds United,DF,28-348,1.4,1.0,0.0,0.0,0.0,0.03,3.0,0.0,reep-id,Joe Rodon,-0.03,-0.03,0.0
+Morgan Rogers,Chelsea,MF,24-071,4.9,15.0,5.0,33.3,3.0,1.44,3.0,0.0,reep-id,Morgan Rogers,1.56,3.56,3.47
+Georginio Rutter,Brighton,FW,24-168,1.2,3.0,0.0,0.0,0.0,0.14,5.0,0.0,reep-id,Georginio Rutter,-0.14,-0.14,0.0
+Noah Sadiki,Sunderland,MF,21-292,4.6,7.0,3.0,42.9,0.0,0.91,11.0,0.0,reep-id,Noah Sadiki,-0.91,2.09,3.3
+Bukayo Saka,Arsenal,MF,25-030,4.6,15.0,9.0,60.0,3.0,4.27,8.0,0.0,reep-id,Bukayo Saka,-1.27,4.73,2.11
+Robert Sánchez,Chelsea,GK,28-321,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,reep-id,Robert Sánchez,0.0,0.0,
+Ibrahim Sangaré,Nottingham,MF,28-307,1.2,2.0,0.0,0.0,0.0,0.02,8.0,0.0,reep-id,Ibrahim Sangare,-0.02,-0.02,0.0
+Andrey Santos,Manchester Utd,MF,22-155,0.9,0.0,0.0,,0.0,0.0,1.0,0.0,reep-id,Andrey Santos,0.0,0.0,
+Ismaila Sarr,Crystal Palace,"FW,MF",28-222,0.1,0.0,0.0,,0.0,0.0,2.0,0.0,reep-id,Ismaila Sarr,0.0,0.0,
+Sávio,Tottenham,MF,22-178,2.7,6.0,3.0,50.0,0.0,0.4,1.0,0.0,reep-id,Sávio,-0.4,2.6,7.5
+Kevin Schade,Brentford,MF,24-312,5.0,13.0,6.0,46.2,3.0,1.65,0.0,0.0,reep-id,Kevin Schade,1.35,4.35,3.64
+Fabian Schär,Newcastle,DF,34-289,0.3,0.0,0.0,,0.0,0.0,7.0,0.0,reep-id,Fabian Schär,0.0,0.0,
+Kjell Scherpen,Ipswich Town,GK,26-255,4.0,0.0,0.0,,0.0,0.0,0.0,0.0,reep-id,Kjell Scherpen,0.0,0.0,
+Alex Scott,Bournemouth,MF,23-045,4.9,7.0,1.0,14.3,1.0,0.61,8.0,0.0,reep-id,Alex Scott,0.39,0.39,1.64
+Matz Sels,Nottingham,GK,34-221,5.0,0.0,0.0,,0.0,0.0,0.0,0.0,reep-id,Matz Sels,0.0,0.0,
+Antoine Semenyo,Manchester City,MF,26-271,5.0,7.0,4.0,57.1,2.0,0.4,0.0,0.0,reep-id,Antoine Semenyo,1.6,3.6,10.0
+Marcos Senesi,Tottenham,DF,29-148,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,reep-id,Marcos Senesi,0.0,0.0,
+Benjamin Šeško,Manchester Utd,FW,23-127,0.9,4.0,1.0,25.0,1.0,0.51,14.0,0.0,reep-id,Benjamin Sesko,0.49,0.49,1.96
+Ryan Sessegnon,Fulham,"DF,FW",26-140,0.6,3.0,1.0,33.3,0.0,0.14,11.0,0.0,reep-id,Ryan Sessegnon,-0.14,0.86,7.14
+Luke Shaw,Manchester Utd,DF,31-085,3.7,2.0,0.0,0.0,0.0,0.05,6.0,0.0,reep-id,Luke Shaw,-0.05,-0.05,0.0
+Ellis Simms,Coventry City,FW,25-273,1.2,1.0,1.0,100.0,0.0,0.49,3.0,0.0,reep-id,Ellis Simms,-0.49,0.51,2.04
+Adam Smith,Bournemouth,DF,35-159,4.8,1.0,0.0,0.0,0.0,0.02,3.0,0.0,reep-id,Adam Smith,-0.02,-0.02,0.0
+Emile Smith Rowe,Fulham,MF,26-069,0.5,1.0,0.0,0.0,0.0,0.06,14.0,0.0,reep-id,Emile Smith-Rowe,-0.06,-0.06,0.0
+Dominic Solanke,Tottenham,FW,29-021,1.9,5.0,1.0,20.0,0.0,0.37,8.0,0.0,reep-id,Dominic Solanke,-0.37,0.63,2.7
+Jørgen Strand Larsen,Crystal Palace,FW,26-241,3.3,6.0,4.0,66.7,1.0,0.36,2.0,0.0,reep-id,Jørgen Strand Larsen,0.64,3.64,11.11
+Pascal Struijk,Brighton,DF,27-055,1.1,1.0,0.0,0.0,0.0,0.08,0.0,0.0,reep-id,Pascal Struijk,-0.08,-0.08,0.0
+Dominik Szoboszlai,Liverpool,MF,25-345,4.9,13.0,5.0,38.5,1.0,1.26,0.0,0.0,reep-id,Dominik Szoboszlai,-0.26,3.74,3.97
+Ao Tanaka,Leeds United,MF,28-025,2.8,5.0,0.0,0.0,0.0,0.8,5.0,0.0,reep-id,Ao Tanaka,-0.8,-0.8,0.0
+Matt Targett,Hull City,"DF,MF",31-017,0.1,0.0,0.0,,0.0,0.0,6.0,0.0,reep-id,Matt Targett,0.0,0.0,
+James Tarkowski,Everton,DF,33-320,5.0,4.0,1.0,25.0,1.0,0.14,0.0,0.0,reep-id,James Tarkowski,0.86,0.86,7.14
+Marcus Tavernier,Bournemouth,MF,27-197,4.7,13.0,8.0,61.5,3.0,1.69,11.0,0.0,reep-id,Marcus Tavernier,1.31,6.31,4.73
+Mathys Tel,Tottenham,MF,21-161,2.9,6.0,1.0,16.7,0.0,0.25,2.0,0.0,reep-id,Mathys Tel,-0.25,0.75,4.0
+Kenny Tete,Fulham,DF,30-361,0.3,0.0,0.0,,0.0,0.0,1.0,0.0,reep-id,Kenny Tete,0.0,0.0,
+Malick Thiaw,Newcastle,DF,25-058,5.0,0.0,0.0,,0.0,0.0,0.0,0.0,reep-id,Malick Thiaw,0.0,0.0,
+Youri Tielemans,Manchester Utd,MF,29-151,4.5,7.0,3.0,42.9,0.0,0.36,3.0,0.0,reep-id,Youri Tielemans,-0.36,2.64,8.33
+Jurriën Timber,Arsenal,DF,25-110,1.2,0.0,0.0,,0.0,0.0,4.0,0.0,reep-id,Jurriën Timber,0.0,0.0,
+Takehiro Tomiyasu,Crystal Palace,DF,27-334,2.1,0.0,0.0,,0.0,0.0,0.0,0.0,reep-id,Takehiro Tomiyasu,0.0,0.0,
+Sandro Tonali,Tottenham,MF,26-150,4.7,8.0,1.0,12.5,0.0,0.25,13.0,0.0,reep-id,Sandro Tonali,-0.25,0.75,4.0
+Pau Torres,Aston Villa,DF,29-262,2.1,0.0,0.0,,0.0,0.0,4.0,0.0,reep-id,Pau Torres,0.0,0.0,
+James Trafford,Leeds United,GK,23-360,5.0,0.0,0.0,,0.0,0.0,0.0,0.0,reep-id,James Trafford,0.0,0.0,
+Adrien Truffert,Bournemouth,DF,24-319,5.0,4.0,2.0,50.0,0.0,0.12,0.0,0.0,reep-id,Adrien Truffert,-0.12,1.88,16.67
+Kostas Tsimikas,Liverpool,DF,30-146,0.7,1.0,1.0,100.0,0.0,0.04,0.0,0.0,reep-id,Konstantinos Tsimikas,-0.04,0.96,25.0
+Christos Tzolis,Arsenal,MF,24-248,4.0,4.0,2.0,50.0,0.0,0.24,11.0,0.0,reep-id,Christos Tzolis,-0.24,1.76,8.33
+Destiny Udogie,Tottenham,DF,23-311,1.0,0.0,0.0,,0.0,0.0,4.0,0.0,reep-id,Iyenoma Destiny Udogie,0.0,0.0,
+Virgil van Dijk,Liverpool,DF,35-089,5.0,2.0,1.0,50.0,0.0,0.12,0.0,0.0,reep-id,Virgil van Dijk,-0.12,0.88,8.33
+Micky van de Ven,Tottenham,DF,25-169,4.0,3.0,0.0,0.0,0.0,0.73,0.0,0.0,reep-id,Micky van de Ven,-0.73,-0.73,0.0
+Bart Verbruggen,Brighton,GK,24-048,5.0,0.0,0.0,,0.0,0.0,0.0,0.0,reep-id,Bart Verbruggen,0.0,0.0,
+Luka Vušković,Brighton,DF,19-223,4.9,8.0,1.0,12.5,1.0,0.9,2.0,0.0,reep-id,Luka Vuskovic,0.1,0.1,1.11
+Christian Walton,Ipswich Town,GK,30-330,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,reep-id,Christian Walton,0.0,0.0,
+Aaron Wan-Bissaka,Aston Villa,DF,28-313,1.7,0.0,0.0,,0.0,0.0,6.0,0.0,reep-id,Aaron Wan-Bissaka,0.0,0.0,
+Danny Welbeck,Chelsea,FW,35-313,1.0,0.0,0.0,,0.0,0.0,7.0,0.0,reep-id,Danny Welbeck,0.0,0.0,
+Adam Wharton,Crystal Palace,MF,22-241,4.8,4.0,1.0,25.0,0.0,0.1,10.0,0.0,reep-id,Adam Wharton,-0.1,0.9,10.0
+Ben White,Arsenal,DF,28-362,3.5,1.0,0.0,0.0,0.0,0.13,2.0,0.0,reep-id,Ben White,-0.13,-0.13,0.0
+Mats Wieffer,Brighton,DF,26-323,1.7,2.0,0.0,0.0,0.0,0.12,12.0,0.0,reep-id,Mats Wieffer,-0.12,-0.12,0.0
+Neco Williams,Nottingham,MF,25-175,5.0,6.0,1.0,16.7,0.0,0.45,0.0,0.0,reep-id,Neco Williams,-0.45,0.55,2.22
+Estêvão Willian,Chelsea,MF,19-164,0.3,2.0,2.0,100.0,0.0,0.1,13.0,0.0,reep-id,Estêvão,-0.1,1.9,20.0
+Joe Willock,Newcastle,MF,27-046,3.2,10.0,3.0,30.0,2.0,0.86,4.0,0.0,reep-id,Joe Willock,1.14,2.14,3.49
+Callum Wilson,Brentford,FW,34-220,0.2,2.0,0.0,0.0,0.0,0.15,10.0,0.0,reep-id,Callum Wilson,-0.15,-0.15,0.0
+Harry Wilson,Leeds United,MF,29-197,1.6,1.0,0.0,0.0,0.0,0.01,3.0,0.0,reep-id,Harry Wilson,-0.01,-0.01,0.0
+Florian Wirtz,Liverpool,MF,23-155,4.5,12.0,3.0,25.0,0.0,0.96,0.0,0.0,reep-id,Florian Wirtz,-0.96,2.04,3.12
+Yoane Wissa,Newcastle,"FW,MF",30-032,4.9,9.0,3.0,33.3,1.0,2.43,2.0,0.0,reep-id,Yoane Wissa,-1.43,0.57,1.23
+Nick Woltemade,Newcastle,"FW,MF",24-233,0.2,1.0,0.0,0.0,0.0,0.02,0.0,0.0,reep-id,Nick Woltemade,-0.02,-0.02,0.0
+Chris Wood,Nottingham,FW,34-302,0.7,1.0,0.0,0.0,0.0,0.06,5.0,0.0,reep-id,Chris Wood,-0.06,-0.06,0.0
+Granit Xhaka,Sunderland,MF,34-008,5.0,1.0,0.0,0.0,0.0,0.06,0.0,0.0,reep-id,Granit Xhaka,-0.06,-0.06,0.0
+Leny Yoro,Manchester Utd,DF,20-326,0.3,0.0,0.0,,0.0,0.0,10.0,0.0,reep-id,Leny Yoro,0.0,0.0,
+Joshua Zirkzee,Manchester Utd,FW,25-136,0.2,0.0,0.0,,0.0,0.0,0.0,0.0,reep-id,Joshua Zirkzee,0.0,0.0,
+Martín Zubimendi,Arsenal,MF,27-245,1.0,3.0,0.0,0.0,0.0,0.19,10.0,0.0,reep-id,Martín Zubimendi,-0.19,-0.19,0.0
+Martin Ødegaard,Arsenal,MF,27-292,4.2,7.0,2.0,28.6,2.0,1.08,13.0,0.0,reep-id,Martin Odegaard,0.92,0.92,1.85
+David Affengruber,Fulham,DF,25-200,2.0,0.0,0.0,,0.0,0.0,0.0,0.0,name,David Affengruber,0.0,0.0,
+Honest Ahanor,Crystal Palace,DF,18-224,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,name,Honest Ahanor,0.0,0.0,
+Aurèle Amenda,Coventry City,DF,23-066,4.0,1.0,0.0,0.0,0.0,0.01,0.0,0.0,name,Aurèle Amenda,-0.01,-0.01,0.0
+Nilson Angulo,Sunderland,MF,23-108,3.5,4.0,2.0,50.0,1.0,0.7,20.0,0.0,name,Nilson Angulo,0.3,1.3,2.86
+Ronald Araújo,Liverpool,DF,27-212,3.2,0.0,0.0,,0.0,0.0,6.0,0.0,name,Ronald Araújo,0.0,0.0,
+Harrison Armstrong,Everton,MF,19-259,4.9,4.0,0.0,0.0,0.0,0.19,8.0,0.0,name,Harrison Armstrong,-0.19,-0.19,0.0
+Aladji Bamba,Newcastle,MF,20-083,0.3,0.0,0.0,,0.0,0.0,5.0,0.0,name,Aladji Bamba,0.0,0.0,
+Bradley Barcola,Liverpool,MF,24-033,1.9,2.0,1.0,50.0,0.0,0.37,2.0,0.0,name,Bradley Barcola,-0.37,0.63,2.7
+Melvin Bard,Leeds United,"DF,MF",25-333,0.2,0.0,0.0,,0.0,0.0,3.0,0.0,name,Melvin Bard,0.0,0.0,
+Lucas Bergvall,Tottenham,MF,20-245,0.9,1.0,1.0,100.0,0.0,0.04,8.0,0.0,name,Lucas Bergvall,-0.04,0.96,25.0
+Lamare Bogarde,Aston Villa,"DF,MF",22-273,0.2,0.0,0.0,,0.0,0.0,7.0,0.0,name,Lamare Bogarde,0.0,0.0,
+Ayyoub Bouaddi,Manchester City,MF,19-003,0.3,0.0,0.0,,0.0,0.0,7.0,0.0,name,Ayyoub Bouaddi,0.0,0.0,
+Kaden Braithwaite,Manchester City,DF,18-239,0.0,0.0,0.0,,0.0,0.0,1.0,0.0,name,Kaden Braithwaite,0.0,0.0,
+Pep Chavarría,Chelsea,MF,28-178,2.3,1.0,0.0,0.0,0.0,0.03,10.0,0.0,name,Pep Chavarría,-0.03,-0.03,0.0
+Sidiki Cherif,Coventry City,FW,19-294,0.3,0.0,0.0,,0.0,0.0,2.0,0.0,name,Sidiki Chérif,0.0,0.0,
+Jack Clarke,Ipswich Town,MF,25-316,1.9,4.0,2.0,50.0,1.0,0.27,3.0,0.0,name,Jack Clarke,0.73,1.73,7.41
+Costinha,Brighton,"DF,MF",26-193,0.8,2.0,1.0,50.0,0.0,0.05,14.0,0.0,name,Costinha,-0.05,0.95,20.0
+Lewie Coyle,Hull City,DF,30-355,3.9,1.0,0.0,0.0,0.0,0.08,8.0,0.0,name,Lewie Coyle,-0.08,-0.08,0.0
+Matt Crooks,Hull City,MF,32-258,2.3,0.0,0.0,,0.0,0.0,5.0,0.0,name,Matt Crooks,0.0,0.0,
+Jay Dasilva,Coventry City,"MF,DF",28-166,4.9,3.0,2.0,66.7,1.0,0.4,5.0,0.0,name,Jay Dasilva,0.6,1.6,5.0
+Promise David,Brighton,FW,25-094,0.3,1.0,0.0,0.0,0.0,0.52,7.0,0.0,name,Promise David,-0.52,-0.52,0.0
+Amar Dedić,Newcastle,DF,24-048,3.6,3.0,0.0,0.0,0.0,0.22,6.0,0.0,name,Amar Dedic,-0.22,-0.22,0.0
+Habib Diarra,Sunderland,MF,22-275,0.3,1.0,0.0,0.0,0.0,0.02,1.0,0.0,name,Habib Diarra,-0.02,-0.02,0.0
+Tyler Dibling,Everton,MF,20-207,0.3,3.0,1.0,33.3,0.0,0.25,4.0,0.0,name,Tyler Dibling,-0.25,0.75,4.0
+Ousmane Diomande,Nottingham,DF,22-305,1.8,2.0,0.0,0.0,0.0,0.07,3.0,0.0,name,Ousmane Diomande,-0.07,-0.07,0.0
+Patrick Dorgu,Manchester Utd,"MF,DF",21-344,1.9,6.0,1.0,16.7,0.0,0.97,2.0,0.0,name,Patrick Dorgu,-0.97,0.03,1.03
+Sindre Egeli,Ipswich Town,"FW,MF",20-106,0.1,0.0,0.0,,0.0,0.0,1.0,0.0,name,Sindre Egeli,0.0,0.0,
+Nico Elvedi,Leeds United,DF,30-005,3.6,2.0,1.0,50.0,0.0,0.16,3.0,0.0,name,Nico Elvedi,-0.16,0.84,6.25
+Emersonn,Ipswich Town,FW,22-081,3.5,9.0,4.0,44.4,2.0,1.37,19.0,0.0,name,Emersonn,0.63,2.63,2.92
+Evanilson,Bournemouth,FW,26-364,4.7,8.0,2.0,25.0,0.0,0.92,7.0,0.0,name,Evanilson,-0.92,1.08,2.17
+Milan van Ewijk,Coventry City,"MF,DF",26-027,4.0,0.0,0.0,,0.0,0.0,0.0,0.0,name,Milan van Ewijk,0.0,0.0,
+Matias Fernandez-Pardo,Newcastle,"MF,FW",21-244,1.8,1.0,0.0,0.0,0.0,0.05,0.0,0.0,name,Matias Fernandez-Pardo,-0.05,-0.05,0.0
+Malick Fofana,Sunderland,"FW,MF",21-188,0.7,3.0,3.0,100.0,0.0,0.43,17.0,0.0,name,Malick Fofana,-0.43,2.57,6.98
+Gonzalo García,Fulham,FW,22-195,4.7,15.0,2.0,13.3,1.0,2.53,5.0,0.0,name,Gonzalo García,-1.53,-0.53,0.79
+Tyrique George,Everton,MF,20-243,3.4,10.0,2.0,20.0,1.0,0.38,13.0,0.0,name,Tyrique George,0.62,1.62,5.26
+Diego Gómez,Brighton,MF,23-192,4.8,14.0,4.0,28.6,0.0,1.22,10.0,0.0,name,Diego Gómez,-1.22,2.78,3.28
+Zavier Gozo,Crystal Palace,MF,19-197,0.3,0.0,0.0,,0.0,0.0,5.0,0.0,name,Zavier Gozo,0.0,0.0,
+Archie Gray,Tottenham,DF,20-207,3.4,3.0,1.0,33.3,0.0,0.33,9.0,0.0,name,Archie Gray,-0.33,0.67,3.03
+Matt Grimes,Coventry City,MF,31-082,4.9,4.0,0.0,0.0,0.0,0.08,4.0,0.0,name,Matt Grimes,-0.08,-0.08,0.0
+Hayden Hackney,Everton,MF,24-101,1.6,2.0,0.0,0.0,0.0,0.08,9.0,0.0,name,Hayden Hackney,-0.08,-0.08,0.0
+Jorrel Hato,Chelsea,"MF,DF",20-212,2.9,1.0,0.0,0.0,0.0,0.03,8.0,0.0,name,Jorrel Hato,-0.03,-0.03,0.0
+Ayden Heaven,Manchester Utd,DF,20-013,1.0,2.0,0.0,0.0,0.0,0.13,0.0,0.0,name,Ayden Heaven,-0.13,-0.13,0.0
+George Hemmings,Aston Villa,MF,19-215,3.3,1.0,1.0,100.0,0.0,0.26,1.0,0.0,name,George Hemmings,-0.26,0.74,3.85
+Lucas Herrington,Hull City,DF,19-030,2.2,1.0,0.0,0.0,0.0,0.01,8.0,0.0,name,Lucas Herrington,-0.01,-0.01,0.0
+Jens Hjertø-Dahl,Hull City,MF,20-339,0.1,0.0,0.0,,0.0,0.0,2.0,0.0,name,Jens Hjertø-Dahl,0.0,0.0,
+Lukáš Horníček,Newcastle,GK,24-084,5.0,0.0,0.0,,0.0,0.0,0.0,0.0,name,Lukás Hornícek,0.0,0.0,
+Trai Hume,Sunderland,MF,24-201,2.3,3.0,0.0,0.0,0.0,0.15,11.0,0.0,name,Trai Hume,-0.15,-0.15,0.0
+Jérémy Jacquet,Liverpool,DF,21-084,4.6,0.0,0.0,,0.0,0.0,7.0,0.0,name,Jérémy Jacquet,0.0,0.0,
+Jair,Nottingham,DF,21-212,4.0,2.0,0.0,0.0,0.0,0.04,0.0,0.0,name,Jair,-0.04,-0.04,0.0
+Michael Kayode,Brentford,DF,22-087,3.3,6.0,1.0,16.7,1.0,0.86,7.0,0.0,name,Michael Kayode,0.14,0.14,1.16
+Anan Khalaili,Crystal Palace,MF,22-032,4.2,7.0,1.0,14.3,1.0,0.91,1.0,0.0,name,Anan Khalaili,0.09,0.09,1.1
+Joshua King,Fulham,MF,19-275,4.7,14.0,7.0,50.0,2.0,1.36,5.0,0.0,name,Joshua King,0.64,5.64,5.15
+Lewis Koumas,Liverpool,"FW,MF",21-016,0.3,2.0,1.0,50.0,0.0,0.17,6.0,0.0,name,Lewis Koumas,-0.17,0.83,5.88
+Shea Lacey,Manchester Utd,FW,19-174,0.1,0.0,0.0,,0.0,0.0,1.0,0.0,name,Shea Lacey,0.0,0.0,
+Hugo Larsson,Fulham,MF,22-100,0.4,1.0,0.0,0.0,0.0,0.09,4.0,0.0,name,Hugo Larsson,-0.09,-0.09,0.0
+Joël Latibeaudière,Coventry City,"DF,MF",26-272,0.0,0.0,0.0,,0.0,0.0,1.0,0.0,name,Joel Latibeaudiere,0.0,0.0,
+Myles Lewis-Skelly,Arsenal,MF,20-009,3.0,3.0,0.0,0.0,0.0,0.16,10.0,0.0,name,Myles Lewis-Skelly,-0.16,-0.16,0.0
+Daizen Maeda,Ipswich Town,MF,28-350,2.9,3.0,2.0,66.7,0.0,0.78,1.0,0.0,name,Daizen Maeda,-0.78,1.22,2.56
+Johan Manzambi,Aston Villa,MF,20-356,1.1,4.0,2.0,50.0,1.0,0.86,4.0,0.0,name,Johan Manzambi,0.14,1.14,2.33
+Ephron Mason-Clark,Coventry City,MF,27-041,2.6,4.0,2.0,50.0,0.0,0.33,6.0,0.0,name,Ephron Mason-Clark,-0.33,1.67,6.06
+Ibrahim Mbaye,Aston Villa,FW,18-254,0.4,1.0,1.0,100.0,0.0,0.02,12.0,0.0,name,Ibrahim Mbaye,-0.02,0.98,50.0
+Ryan Mcaidoo,Manchester City,FW,18-103,0.1,1.0,0.0,0.0,0.0,0.18,0.0,0.0,name,Ryan McAidoo,-0.18,-0.18,0.0
+Nobel Mendy,Hull City,DF,22-032,2.8,4.0,3.0,75.0,1.0,0.56,8.0,0.0,name,Nobel Mendy,0.44,2.44,5.36
+Dayann Methalie,Sunderland,DF,20-232,1.0,1.0,0.0,0.0,0.0,0.01,0.0,0.0,name,Dayann Methalie,-0.01,-0.01,0.0
+Thomas Meunier,Sunderland,"MF,DF",35-023,4.4,7.0,4.0,57.1,0.0,0.56,17.0,0.0,name,Thomas Meunier,-0.56,3.44,7.14
+Stephen Mfuni,Coventry City,DF,18-235,1.0,0.0,0.0,,0.0,0.0,0.0,0.0,name,Stephen Mfuni,0.0,0.0,
+Liam Millar,Hull City,"FW,MF",27-008,0.6,3.0,1.0,33.3,1.0,0.36,8.0,0.0,name,Liam Millar,0.64,0.64,2.78
+Óscar Mingueza,Crystal Palace,"DF,MF",27-145,0.2,0.0,0.0,,0.0,0.0,3.0,0.0,name,Óscar Mingueza,0.0,0.0,
+Hidemasa Morita,Hull City,MF,31-148,0.5,0.0,0.0,,0.0,0.0,3.0,0.0,name,Hidemasa Morita,0.0,0.0,
+Tarik Muharemovic,Leeds United,DF,23-219,5.0,5.0,1.0,20.0,0.0,0.38,0.0,0.0,name,Tarik Muharemovic,-0.38,0.62,2.63
+Romaine Mundle,Sunderland,MF,23-164,0.0,1.0,1.0,100.0,0.0,0.26,1.0,0.0,name,Romaine Mundle,-0.26,0.74,3.85
+Víctor Muñoz,Liverpool,MF,23-084,2.9,7.0,2.0,28.6,1.0,0.48,0.0,0.0,name,Víctor Muñoz,0.52,1.52,4.17
+Brooke Norton-Cuffy,Hull City,"DF,MF",22-266,0.4,1.0,0.0,0.0,0.0,0.07,5.0,0.0,name,Brooke Norton-Cuffy,-0.07,-0.07,0.0
+Marcelino Núñez,Ipswich Town,MF,26-218,1.6,1.0,0.0,0.0,0.0,0.06,2.0,0.0,name,Marcelino Núñez,-0.06,-0.06,0.0
+Nico O'Reilly,Manchester City,MF,21-198,1.8,3.0,1.0,33.3,0.0,0.72,0.0,0.0,name,Nico O&#039;Reilly,-0.72,0.28,1.39
+Ibrahim Osman,Brighton,"FW,MF",21-310,0.5,2.0,0.0,0.0,0.0,0.14,13.0,0.0,name,Ibrahim Osman,-0.14,-0.14,0.0
+Darío Osorio,Crystal Palace,"FW,MF",22-254,0.0,0.0,0.0,,0.0,0.0,1.0,0.0,name,Darío Osorio,0.0,0.0,
+César Palacios,Fulham,MF,21-328,2.5,8.0,2.0,25.0,1.0,1.1,13.0,0.0,name,César Palacios,-0.1,0.9,1.82
+Exequiel Palacios,Ipswich Town,MF,28-000,3.1,0.0,0.0,,0.0,0.0,1.0,0.0,name,Exequiel Palacios,0.0,0.0,
+Geovany Quenda,Chelsea,MF,19-158,0.3,1.0,0.0,0.0,0.0,0.03,3.0,0.0,name,Geovany Quenda,-0.03,-0.03,0.0
+Álvaro Rodríguez,Bournemouth,FW,22-083,0.1,0.0,0.0,,0.0,0.0,1.0,0.0,name,Alvaro Rodríguez,0.0,0.0,
+Robin Roefs,Sunderland,GK,23-261,5.0,0.0,0.0,,0.0,0.0,0.0,0.0,name,Robin Roefs,0.0,0.0,
+Merlin Röhl,Everton,DF,24-092,2.8,0.0,0.0,,0.0,0.0,5.0,0.0,name,Merlin Röhl,0.0,0.0,
+Jack Rudoni,Coventry City,MF,26-132,3.3,6.0,3.0,50.0,0.0,1.42,7.0,0.0,name,Jack Rudoni,-1.42,1.58,2.11
+Matteo Ruggeri,Aston Villa,DF,24-086,1.3,1.0,0.0,0.0,0.0,0.02,10.0,0.0,name,Matteo Ruggeri,-0.02,-0.02,0.0
+Carl Rushworth,Coventry City,GK,25-095,5.0,0.0,0.0,,0.0,0.0,0.0,0.0,name,Carl Rushworth,0.0,0.0,
+Tatsuhiro Sakamoto,Coventry City,"FW,MF",29-348,0.4,1.0,0.0,0.0,0.0,0.03,7.0,0.0,name,Tatsuhiro Sakamoto,-0.03,-0.03,0.0
+Mamadou Sangare,Brentford,MF,24-101,3.6,6.0,1.0,16.7,0.0,0.37,7.0,0.0,name,Mamadou Sangaré,-0.37,0.63,2.7
+Xaver Schlager,Nottingham,MF,29-007,4.2,6.0,1.0,16.7,0.0,0.17,4.0,0.0,name,Xaver Schlager,-0.17,0.83,5.88
+Jannik Schuster,Brentford,DF,20-142,2.8,1.0,0.0,0.0,0.0,0.11,2.0,0.0,name,Jannik Schuster,-0.11,-0.11,0.0
+António Silva,Bournemouth,DF,22-340,5.0,4.0,1.0,25.0,0.0,1.19,0.0,0.0,name,António Silva,-1.19,-0.19,0.84
+Regan Slater,Hull City,MF,27-024,4.9,4.0,2.0,50.0,0.0,0.14,2.0,0.0,name,Regan Slater,-0.14,1.86,14.29
+Anton Stach,Leeds United,MF,27-324,5.0,7.0,2.0,28.6,1.0,1.12,0.0,0.0,name,Anton Stach,-0.12,0.88,1.79
+Sean Steur,Newcastle,MF,18-267,2.5,0.0,0.0,,0.0,0.0,3.0,0.0,name,Sean Steur,0.0,0.0,
+Elliot Stroud,Hull City,MF,24-105,2.8,3.0,0.0,0.0,0.0,0.07,8.0,0.0,name,Elliot Stroud,-0.07,-0.07,0.0
+Zion Suzuki,Aston Villa,GK,24-045,4.0,0.0,0.0,,0.0,0.0,0.0,0.0,name,Zion Suzuki,0.0,0.0,
+Michael Svoboda,Brighton,DF,27-355,0.1,0.0,0.0,,0.0,0.0,6.0,0.0,name,Michael Svoboda,0.0,0.0,
+Chemsdine Talbi,Sunderland,MF,21-149,0.4,0.0,0.0,,0.0,0.0,7.0,0.0,name,Chemsdine Talbi,0.0,0.0,
+Loum Tchaouna,Coventry City,MF,23-027,2.4,6.0,2.0,33.3,0.0,0.21,2.0,0.0,name,Loum Tchaouna,-0.21,1.79,9.52
+Bobby Thomas,Coventry City,DF,25-248,4.9,10.0,0.0,0.0,0.0,0.29,1.0,0.0,name,Bobby Thomas,-0.29,-0.29,0.0
+Sorba Thomas,Hull City,MF,27-044,1.3,3.0,0.0,0.0,0.0,0.13,5.0,0.0,name,Sorba Thomas,-0.13,-0.13,0.0
+Brandon Thomas-Asante,Coventry City,"MF,FW",27-280,2.5,5.0,3.0,60.0,0.0,0.26,1.0,0.0,name,Brandon Thomas-Asante,-0.26,2.74,11.54
+Quinten Timber,Crystal Palace,MF,25-110,2.8,5.0,1.0,20.0,0.0,0.3,6.0,0.0,name,Quinten Timber,-0.3,0.7,3.33
+Victor Torp,Coventry City,MF,27-067,0.6,0.0,0.0,,0.0,0.0,6.0,0.0,name,Victor Torp,0.0,0.0,
+Alex Tóth,Bournemouth,MF,20-347,0.2,0.0,0.0,,0.0,0.0,3.0,0.0,name,Alex Tóth,0.0,0.0,
+Bazoumana Touré,Newcastle,MF,20-217,0.6,1.0,1.0,100.0,1.0,0.09,11.0,0.0,name,Bazoumana Touré,0.91,0.91,11.11
+Robinio Vaz,Hull City,FW,19-230,0.2,0.0,0.0,,0.0,0.0,5.0,0.0,name,Robinio Vaz,0.0,0.0,
+Malick Yalcouye,Brighton,MF,20-321,2.6,7.0,4.0,57.1,2.0,1.44,3.0,0.0,name,Malick Yalcouyé,0.56,2.56,2.78
+Caleb Yirenkyi,Coventry City,MF,20-263,3.0,1.0,0.0,0.0,0.0,0.03,1.0,0.0,name,Caleb Yirenkyi,-0.03,-0.03,0.0
+Zadok Yohanna,Brighton,FW,19-098,0.1,0.0,0.0,,0.0,0.0,2.0,0.0,name,Zadok Yohanna,0.0,0.0,
+Yehor Yarmoliuk,Brentford,MF,22-218,2.4,3.0,1.0,33.3,0.0,0.07,4.0,0.0,reep-name,Yehor Yarmolyuk,-0.07,0.93,14.29
+Bachir Belloumi,Hull City,MF,24-126,4.4,13.0,5.0,38.5,2.0,0.95,12.0,0.0,manual,Mohamed Belloumi,1.05,4.05,5.26
+Abdoul Ouattara,Ipswich Town,DF,20-348,1.5,1.0,1.0,100.0,0.0,0.01,11.0,0.0,manual,Guemissongui Ouattara,-0.01,0.99,100.0
+Mohamed Ali Cho,Hull City,"FW,MF",22-259,0.8,4.0,3.0,75.0,1.0,0.79,10.0,0.0,fuzzy,Mohamed Ali-Cho,0.21,2.21,3.8
+Alysson,Aston Villa,MF,20-153,1.0,1.0,1.0,100.0,1.0,0.25,15.0,0.0,fuzzy,Alysson Edward,0.75,0.75,4.0
+Chema,Brighton,MF,21-163,1.2,3.0,1.0,33.3,1.0,0.55,2.0,0.0,fuzzy,Chema Andres,0.45,0.45,1.82
+Abdul Fatawu Issahaku,Ipswich Town,MF,22-211,3.9,4.0,1.0,25.0,0.0,0.06,18.0,0.0,fuzzy,Abdul Fatawu,-0.06,0.94,16.67
+Lucas Gourna-Douath,Hull City,MF,23-061,1.5,1.0,0.0,0.0,0.0,0.01,3.0,0.0,fuzzy,Lucas Gourna Douath,-0.01,-0.01,0.0
+Mahdi Jazuli,Chelsea,MF,16-272,0.0,0.0,0.0,,0.0,0.0,2.0,0.0,fuzzy,Mahdi Nicoll-Jazuli,0.0,0.0,
+Igor Thiago,Brentford,FW,25-101,4.9,13.0,4.0,30.8,1.0,3.05,3.0,0.0,fuzzy,Thiago,-2.05,0.95,1.31
+Kostas Tzolakis,Hull City,GK,23-331,5.0,0.0,0.0,,0.0,0.0,0.0,0.0,fuzzy,Konstantinos Tzolakis,0.0,0.0,
