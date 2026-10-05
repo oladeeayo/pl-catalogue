@@ -1,0 +1,29 @@
+# --- other projects living in this folder ---
+/bible-video/
+/shorts_work/
+/repos/
+/Temp/
+
+# --- python ---
+__pycache__/
+*.py[cod]
+
+# --- data & outputs (regenerable: see README data flow) ---
+*.csv
+*.json
+*.html
+*.png
+*.db
+*.log
+validation_report.txt
+
+# --- root scratch & one-off experiments (curated pipeline scripts kept) ---
+/*.py
+/*.txt
+!plot_quadrants.py
+!merge_sot_xg.py
+!fbref_scrape.py
+!fbref_extract.py
+!understat_fetch.py
+!build_top50_final.py
+!reep_coverage.py
