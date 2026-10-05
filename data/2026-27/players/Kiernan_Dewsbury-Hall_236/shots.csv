@@ -1,0 +1,19 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688593,31182,3,1,2026-08-22 14:00:00,41,236,Dewsbury-Hall,Tyrique George,0.917,0.66,0.0969,BlockedShot,OpenPlay,LeftFoot,TakeOn,h
+688594,31182,3,1,2026-08-22 14:00:00,41,236,Dewsbury-Hall,Harrison Armstrong,0.885,0.672,0.0691,Goal,OpenPlay,LeftFoot,Pass,h
+688599,31182,3,1,2026-08-22 14:00:00,50,236,Dewsbury-Hall,Iliman Ndiaye,0.771,0.683,0.0255,MissedShots,OpenPlay,LeftFoot,Pass,h
+690403,31193,12,2,2026-08-29 14:00:00,10,236,Dewsbury-Hall,,0.842,0.354,0.0336,BlockedShot,FromCorner,LeftFoot,None,a
+690406,31193,12,2,2026-08-29 14:00:00,17,236,Dewsbury-Hall,Thierno Barry,0.762,0.374,0.0165,MissedShots,FromCorner,LeftFoot,None,a
+692852,31208,30,3,2026-09-06 13:00:00,8,236,Dewsbury-Hall,Thierno Barry,0.727,0.526,0.0165,BlockedShot,SetPiece,LeftFoot,LayOff,h
+692867,31208,30,3,2026-09-06 13:00:00,58,236,Dewsbury-Hall,Tyrique George,0.859,0.603,0.0572,SavedShot,OpenPlay,RightFoot,BallTouch,h
+692871,31208,30,3,2026-09-06 13:00:00,66,236,Dewsbury-Hall,Jack Grealish,0.818,0.471,0.0421,SavedShot,FromCorner,LeftFoot,Pass,h
+692873,31208,30,3,2026-09-06 13:00:00,72,236,Dewsbury-Hall,,0.831,0.546,0.0515,BlockedShot,OpenPlay,RightFoot,None,h
+694167,31215,37,4,2026-09-12 16:30:00,23,236,Dewsbury-Hall,Thierno Barry,0.826,0.496,0.0572,BlockedShot,OpenPlay,LeftFoot,Pass,a
+694176,31215,37,4,2026-09-12 16:30:00,64,236,Dewsbury-Hall,,0.838,0.505,0.3386,SavedShot,OpenPlay,LeftFoot,BallRecovery,a
+694186,31215,37,4,2026-09-12 16:30:00,90,236,Dewsbury-Hall,Hayden Hackney,0.864,0.682,0.0396,BlockedShot,OpenPlay,LeftFoot,Pass,a
+695993,31226,43,5,2026-09-19 14:00:00,1,236,Dewsbury-Hall,,0.793,0.618,0.0313,MissedShots,OpenPlay,LeftFoot,None,h
+696001,31226,43,5,2026-09-19 14:00:00,30,236,Dewsbury-Hall,,0.768,0.499,0.0413,BlockedShot,OpenPlay,LeftFoot,None,h
+696003,31226,43,5,2026-09-19 14:00:00,32,236,Dewsbury-Hall,Jack Grealish,0.843,0.642,0.0576,BlockedShot,OpenPlay,LeftFoot,Pass,h
+696014,31226,43,5,2026-09-19 14:00:00,68,236,Dewsbury-Hall,Jack Grealish,0.841,0.665,0.0606,BlockedShot,OpenPlay,LeftFoot,Pass,h
+696015,31226,43,5,2026-09-19 14:00:00,70,236,Dewsbury-Hall,,0.918,0.321,0.045,MissedShots,FromCorner,LeftFoot,None,h
+696018,31226,43,5,2026-09-19 14:00:00,75,236,Dewsbury-Hall,Tyler Dibling,0.953,0.573,0.3731,MissedShots,OpenPlay,Head,Cross,h

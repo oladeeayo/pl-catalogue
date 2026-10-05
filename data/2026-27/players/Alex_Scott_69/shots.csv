@@ -1,0 +1,8 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+690414,31193,12,2,2026-08-29 14:00:00,40,69,Scott,Evanilson,0.841,0.429,0.1141,Goal,OpenPlay,RightFoot,Pass,h
+690427,31193,12,2,2026-08-29 14:00:00,84,69,Scott,,0.804,0.503,0.0491,BlockedShot,OpenPlay,RightFoot,Rebound,h
+692052,31201,27,3,2026-09-05 11:30:00,8,69,Scott,Adam Smith,0.827,0.428,0.065,BlockedShot,OpenPlay,RightFoot,Pass,a
+692070,31201,27,3,2026-09-05 11:30:00,61,69,Scott,James Hill,0.752,0.655,0.0144,BlockedShot,OpenPlay,RightFoot,Chipped,a
+693950,31210,32,4,2026-09-12 14:00:00,50,69,Scott,Evanilson,0.902,0.345,0.2926,MissedShots,OpenPlay,RightFoot,Chipped,h
+696436,31228,49,5,2026-09-20 13:00:00,86,69,Scott,David Brooks,0.809,0.6,0.0261,BlockedShot,OpenPlay,RightFoot,TakeOn,h
+696437,31228,49,5,2026-09-20 13:00:00,89,69,Scott,,0.73,0.493,0.0517,MissedShots,DirectFreekick,RightFoot,Standard,h

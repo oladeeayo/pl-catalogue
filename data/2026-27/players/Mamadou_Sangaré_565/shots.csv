@@ -1,0 +1,7 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688746,31185,2,1,2026-08-22 16:30:00,47,565,M.Sangaré,Nathan Collins,0.857,0.55,0.0392,SavedShot,FromCorner,LeftFoot,HeadPass,h
+691100,31197,17,2,2026-08-30 13:00:00,23,565,M.Sangaré,,0.861,0.409,0.0623,BlockedShot,SetPiece,RightFoot,None,a
+691102,31197,17,2,2026-08-30 13:00:00,40,565,M.Sangaré,Mikkel Damsgaard,0.849,0.517,0.0986,MissedShots,OpenPlay,LeftFoot,Pass,a
+691114,31197,17,2,2026-08-30 13:00:00,70,565,M.Sangaré,,0.846,0.515,0.044,BlockedShot,OpenPlay,LeftFoot,Aerial,a
+692406,31205,22,3,2026-09-05 14:00:00,48,565,M.Sangaré,Keane Lewis-Potter,0.962,0.411,0.1057,MissedShots,OpenPlay,Head,Cross,h
+692409,31205,22,3,2026-09-05 14:00:00,52,565,M.Sangaré,Dango Ouattara,0.723,0.502,0.0165,MissedShots,OpenPlay,LeftFoot,Pass,h

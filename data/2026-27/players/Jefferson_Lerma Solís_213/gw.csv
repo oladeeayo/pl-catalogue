@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,213,152551,Lerma,MID,Crystal Palace,Everton,0,L,0,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,50,10665,0,0,0
+2,213,152551,Lerma,MID,Crystal Palace,Man City,1,L,1,4,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,50,10302,204,1450,-1246
+3,213,152551,Lerma,MID,Crystal Palace,Fulham,0,W,3,2,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,49,9259,496,1742,-1246
+4,213,152551,Lerma,MID,Crystal Palace,Ipswich Town,1,L,2,3,34,6,0,1,0,0,0,1,0,0,0,0,0,0,0,3,2.2,0.3,0.0,0.3,1,0,0,1,0.0,0.0,0.0,0.48,49,8598,327,1133,-806
+5,213,152551,Lerma,MID,Crystal Palace,Leeds,0,D,0,0,44,45,0,0,0,0,0,0,0,0,0,0,1,0,0,3,15.4,0.5,11.0,2.7,6,3,2,11,0.26,0.0,0.26,0.77,49,7985,179,856,-677

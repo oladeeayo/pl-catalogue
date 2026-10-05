@@ -1,0 +1,5 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+691098,31197,17,2,2026-08-30 13:00:00,13,96,Damsgaard,Keane Lewis-Potter,0.918,0.732,0.0429,SavedShot,OpenPlay,RightFoot,Pass,a
+691109,31197,17,2,2026-08-30 13:00:00,56,96,Damsgaard,Nathan Collins,0.9,0.416,0.0168,MissedShots,FromCorner,Head,Aerial,a
+693962,31210,32,4,2026-09-12 14:00:00,88,96,Damsgaard,Michael Kayode,0.917,0.5,0.0579,MissedShots,SetPiece,Head,Aerial,a
+695609,31220,41,5,2026-09-18 19:00:00,38,96,Damsgaard,Keane Lewis-Potter,0.761,0.627,0.0212,MissedShots,OpenPlay,RightFoot,Pass,h

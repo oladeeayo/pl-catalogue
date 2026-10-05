@@ -1,0 +1,5 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688740,31185,2,1,2026-08-22 16:30:00,32,98,Janelt,,0.913,0.464,0.4442,Goal,OpenPlay,RightFoot,Rebound,h
+688751,31185,2,1,2026-08-22 16:30:00,52,98,Janelt,Kevin Schade,0.893,0.658,0.0439,BlockedShot,OpenPlay,LeftFoot,Rebound,h
+692413,31205,22,3,2026-09-05 14:00:00,56,98,Janelt,,0.854,0.53,0.3617,Goal,OpenPlay,LeftFoot,None,h
+695612,31220,41,5,2026-09-18 19:00:00,42,98,Janelt,,0.722,0.545,0.0119,BlockedShot,OpenPlay,LeftFoot,Rebound,h

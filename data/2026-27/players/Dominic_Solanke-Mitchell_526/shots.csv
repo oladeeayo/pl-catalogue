@@ -1,0 +1,6 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688761,31185,2,1,2026-08-22 16:30:00,86,526,Solanke,,0.84,0.6,0.0417,BlockedShot,OpenPlay,LeftFoot,None,a
+690595,31194,15,2,2026-08-29 16:30:00,91,526,Solanke,Iyenoma Destiny Udogie,0.91,0.529,0.1275,BlockedShot,OpenPlay,LeftFoot,Pass,h
+692364,31203,28,3,2026-09-05 14:00:00,87,526,Solanke,Mohammed Kudus,0.921,0.498,0.1317,MissedShots,OpenPlay,Head,Cross,a
+695672,31221,48,5,2026-09-19 11:30:00,33,526,Solanke,,0.961,0.581,0.049,BlockedShot,FromCorner,Head,None,h
+695683,31221,48,5,2026-09-19 11:30:00,65,526,Solanke,Sávio,0.914,0.561,0.0219,MissedShots,FromCorner,Head,Aerial,h

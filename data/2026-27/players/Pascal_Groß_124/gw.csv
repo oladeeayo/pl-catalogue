@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,124,60307,Groß,MID,Brighton,Aston Villa,1,W,4,0,7,90,1,2,0,0,1,0,0,0,0,0,1,0,0,18,21.0,56.9,8.0,8.6,0,2,3,5,0.0,0.27,0.27,0.29,55,1308033,0,0,0
+2,124,60307,Groß,MID,Brighton,Chelsea,0,L,3,4,16,90,1,13,1,1,0,4,0,0,0,0,0,0,3,46,47.8,33.2,23.0,10.4,2,3,1,6,0.05,0.11,0.16,2.93,55,1268429,24179,105873,-81694
+3,124,60307,Groß,MID,Brighton,Leeds,1,D,1,1,23,90,1,1,0,0,0,1,0,0,0,0,1,0,0,-1,0.0,16.5,19.0,3.2,2,2,0,4,0.79,0.04,0.83,2.49,55,1691790,448315,107204,341111
+4,124,60307,Groß,MID,Brighton,Coventry City,0,W,5,0,38,90,1,17,1,2,1,0,0,0,0,0,0,0,3,56,83.8,79.1,18.0,18.1,2,2,2,6,0.82,0.19,1.01,1.33,56,1745184,283590,211348,72242
+5,124,60307,Groß,MID,Brighton,Arsenal,1,W,3,0,42,90,1,14,1,1,1,0,0,0,0,0,0,0,3,47,58.4,30.3,16.0,10.5,3,1,1,5,0.11,0.25,0.36,1.63,57,2264407,604409,105358,499051

@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,181,577411,Brau,DEF,Coventry City,Arsenal,0,L,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,40,3736,0,0,0
+2,181,577411,Brau,DEF,Coventry City,Hull City,1,L,0,1,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,40,4079,256,338,-82
+3,181,577411,Brau,DEF,Coventry City,Man City,0,L,0,1,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,40,3074,19,975,-956
+4,181,577411,Brau,DEF,Coventry City,Brighton,1,L,0,5,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,40,2631,0,477,-477
+5,181,577411,Brau,DEF,Coventry City,Nott'm Forest,0,W,1,0,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,40,2378,0,280,-280

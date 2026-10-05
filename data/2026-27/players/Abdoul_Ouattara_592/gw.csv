@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,592,572584,Ouattara,DEF,Ipswich Town,Sunderland,1,W,2,1,5,10,0,1,0,0,0,0,0,0,0,0,0,0,0,4,5.2,10.0,0.0,1.5,2,0,0,2,0.0,0.0,0.0,0.03,40,86218,0,0,0
+2,592,572584,Ouattara,DEF,Ipswich Town,Man Utd,0,L,2,5,18,17,0,1,0,0,0,1,0,0,0,0,0,0,0,-1,0.6,0.6,0.0,0.1,0,1,0,0,0.0,0.0,0.0,0.86,40,99458,2769,5866,-3097
+3,592,572584,Ouattara,DEF,Ipswich Town,Liverpool,1,L,0,2,21,12,0,1,0,0,0,0,0,0,0,0,0,0,0,4,3.6,14.0,0.0,1.8,0,2,0,0,0.0,0.02,0.02,0.0,40,100578,4401,7161,-2760
+4,592,572584,Ouattara,DEF,Ipswich Town,Crystal Palace,0,W,3,2,34,2,0,1,0,0,0,0,0,0,0,0,0,0,0,5,2.2,0.2,0.0,0.2,0,1,1,1,0.0,0.0,0.0,0.0,40,97893,3046,5631,-2585
+5,592,572584,Ouattara,DEF,Ipswich Town,Everton,0,L,0,1,43,90,1,2,0,0,0,1,0,0,0,0,0,0,0,17,20.0,11.4,9.0,4.0,5,10,3,8,0.02,0.01,0.03,2.24,40,94948,2569,5478,-2909

@@ -1,0 +1,2 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688603,31182,3,1,2026-08-22 14:00:00,65,42,Guessand,Daichi Kamada,0.788,0.436,0.0401,SavedShot,OpenPlay,RightFoot,Pass,a

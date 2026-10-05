@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,32,199796,Cash,DEF,Aston Villa,Brighton,0,L,0,4,7,90,1,-1,0,0,0,4,0,0,0,0,1,0,0,-8,12.0,1.1,0.0,1.3,5,0,2,7,0.0,0.0,0.0,3.77,45,789072,0,0,0
+2,32,199796,Cash,DEF,Aston Villa,Arsenal,1,L,0,1,20,77,1,2,0,0,0,1,0,0,0,0,0,0,0,8,14.0,1.8,7.0,2.3,2,1,4,6,0.15,0.01,0.16,1.04,45,749133,26978,106327,-79349
+3,32,199796,Cash,DEF,Aston Villa,Hull City,0,D,0,0,25,84,1,6,0,0,1,0,0,0,0,0,0,0,0,23,6.4,16.3,6.0,2.9,1,1,0,1,0.0,0.03,0.03,0.22,45,731987,41628,77307,-35679
+4,32,199796,Cash,DEF,Aston Villa,Nott'm Forest,1,L,1,2,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,45,641566,18781,99663,-80882
+5,32,199796,Cash,DEF,Aston Villa,Spurs,0,W,3,2,48,45,0,-1,0,0,0,2,0,0,0,0,1,0,0,-7,4.0,3.1,0.0,0.7,3,0,0,3,0.0,0.0,0.0,0.92,44,542880,5264,110692,-105428

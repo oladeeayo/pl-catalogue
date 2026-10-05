@@ -1,0 +1,3 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+689226,31186,7,1,2026-08-23 13:00:00,64,119,Costinha,Pascal Groß,0.76,0.459,0.0239,ShotOnPost,OpenPlay,RightFoot,Pass,h
+689230,31186,7,1,2026-08-23 13:00:00,89,119,Costinha,Ibrahim Osman,0.87,0.509,0.0281,SavedShot,OpenPlay,Head,Cross,h

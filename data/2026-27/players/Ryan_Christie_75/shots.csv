@@ -1,0 +1,5 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+696420,31228,49,5,2026-09-20 13:00:00,18,75,Christie,Alex Scott,0.959,0.682,0.0099,MissedShots,FromCorner,Head,Cross,h
+696426,31228,49,5,2026-09-20 13:00:00,35,75,Christie,Alex Scott,0.88,0.349,0.0644,BlockedShot,OpenPlay,RightFoot,HeadPass,h
+696428,31228,49,5,2026-09-20 13:00:00,52,75,Christie,Rayan,0.959,0.467,0.593,MissedShots,OpenPlay,LeftFoot,Cross,h
+696429,31228,49,5,2026-09-20 13:00:00,54,75,Christie,Alex Scott,0.83,0.715,0.0292,MissedShots,OpenPlay,LeftFoot,Pass,h

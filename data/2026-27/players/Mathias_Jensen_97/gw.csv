@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,97,207283,Jensen,MID,Brentford,Spurs,1,W,3,0,2,66,1,6,0,1,1,0,0,0,0,0,0,0,0,22,12.6,46.2,13.0,7.2,0,3,2,5,0.08,0.34,0.42,0.47,55,16245,0,0,0
+2,97,207283,Jensen,MID,Brentford,Leeds,0,D,1,1,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,55,22961,3858,1337,2521
+3,97,207283,Jensen,MID,Brentford,Sunderland,1,D,1,1,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,55,16413,569,6909,-6340
+4,97,207283,Jensen,MID,Brentford,Bournemouth,0,D,2,2,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,54,12497,42,4291,-4249
+5,97,207283,Jensen,MID,Brentford,Chelsea,1,W,3,0,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,54,10766,16,1897,-1881

@@ -1,0 +1,16 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+689748,31189,10,1,2026-08-24 19:00:00,3,40,Rogers,Cole Palmer,0.758,0.487,0.0371,BlockedShot,OpenPlay,RightFoot,Chipped,a
+689760,31189,10,1,2026-08-24 19:00:00,32,40,Rogers,João Pedro,0.803,0.546,0.074,BlockedShot,OpenPlay,RightFoot,Pass,a
+689765,31189,10,1,2026-08-24 19:00:00,40,40,Rogers,Maxence Lacroix,0.911,0.547,0.4456,Goal,OpenPlay,RightFoot,Pass,a
+691588,31196,16,2,2026-08-30 13:00:00,40,40,Rogers,,0.84,0.64,0.0307,BlockedShot,OpenPlay,RightFoot,Rebound,h
+691589,31196,16,2,2026-08-30 13:00:00,41,40,Rogers,,0.802,0.495,0.0484,MissedShots,OpenPlay,LeftFoot,None,h
+691604,31196,16,2,2026-08-30 13:00:00,71,40,Rogers,Cole Palmer,0.898,0.646,0.1,BlockedShot,OpenPlay,RightFoot,Pass,h
+693054,31209,29,3,2026-09-06 15:30:00,1,40,Rogers,Jorrel Hato,0.815,0.541,0.0367,Goal,SetPiece,RightFoot,HeadPass,a
+693066,31209,29,3,2026-09-06 15:30:00,30,40,Rogers,João Pedro,0.928,0.703,0.0593,MissedShots,OpenPlay,RightFoot,Pass,a
+693076,31209,29,3,2026-09-06 15:30:00,64,40,Rogers,Wesley Fofana,0.752,0.723,0.0133,MissedShots,OpenPlay,RightFoot,Tackle,a
+693996,31212,33,4,2026-09-12 14:00:00,6,40,Rogers,João Pedro,0.899,0.662,0.105,Goal,OpenPlay,LeftFoot,Pass,h
+694014,31212,33,4,2026-09-12 14:00:00,83,40,Rogers,Cole Palmer,0.885,0.681,0.2709,SavedShot,OpenPlay,LeftFoot,Pass,h
+695605,31220,41,5,2026-09-18 19:00:00,9,40,Rogers,,0.858,0.544,0.0713,MissedShots,OpenPlay,LeftFoot,Rebound,a
+695607,31220,41,5,2026-09-18 19:00:00,29,40,Rogers,,0.815,0.295,0.0747,SavedShot,DirectFreekick,RightFoot,Standard,a
+695610,31220,41,5,2026-09-18 19:00:00,40,40,Rogers,Pep Chavarría,0.877,0.679,0.0568,BlockedShot,OpenPlay,LeftFoot,Pass,a
+695614,31220,41,5,2026-09-18 19:00:00,51,40,Rogers,Pep Chavarría,0.708,0.626,0.0123,BlockedShot,OpenPlay,RightFoot,BallRecovery,a

@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,455,432422,Tonali,MID,Spurs,Brentford,0,L,0,3,2,90,1,2,0,0,0,3,0,0,0,0,0,0,0,14,6.2,6.4,8.0,2.1,0,3,1,4,0.04,0.06,0.1,3.87,55,376914,0,0,0
+2,455,432422,Tonali,MID,Spurs,Newcastle,1,L,0,2,15,74,1,2,0,0,0,2,0,0,0,0,0,0,0,16,5.0,26.3,4.0,3.5,1,3,0,4,0.05,0.02,0.07,0.72,55,369291,14119,52216,-38097
+3,455,432422,Tonali,MID,Spurs,Nott'm Forest,0,D,0,0,28,90,1,5,0,0,1,0,0,0,0,0,0,0,0,22,22.8,8.0,0.0,3.1,4,4,4,12,0.0,0.01,0.01,0.92,54,288825,14031,97316,-83285
+4,455,432422,Tonali,MID,Spurs,Everton,1,D,0,0,37,90,1,3,0,0,1,0,0,0,0,0,0,0,0,16,12.2,30.7,6.0,4.9,5,6,0,11,0.09,0.31,0.4,1.11,54,265893,12899,44165,-31266
+5,455,432422,Tonali,MID,Spurs,Aston Villa,1,L,2,3,48,83,1,2,0,0,0,3,0,0,0,0,0,0,0,18,16.8,17.6,10.0,4.4,1,4,6,11,0.06,0.21,0.27,1.1,54,210274,4540,60910,-56370

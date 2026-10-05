@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,221,672492,Drakes-Thomas,MID,Crystal Palace,Everton,0,L,0,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,45,8076,0,0,0
+2,221,672492,Drakes-Thomas,MID,Crystal Palace,Man City,1,L,1,4,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,45,8204,399,988,-589
+3,221,672492,Drakes-Thomas,MID,Crystal Palace,Fulham,0,W,3,2,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,45,8457,939,1191,-252
+4,221,672492,Drakes-Thomas,MID,Crystal Palace,Ipswich Town,1,L,2,3,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,45,8428,850,1076,-226
+5,221,672492,Drakes-Thomas,MID,Crystal Palace,Leeds,0,D,0,0,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,45,7788,360,990,-630

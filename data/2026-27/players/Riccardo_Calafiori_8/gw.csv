@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,8,466075,Calafiori,DEF,Arsenal,Coventry City,1,W,3,0,1,80,1,9,0,1,1,0,0,0,0,0,0,0,0,31,26.0,12.2,4.0,4.2,4,1,1,5,0.04,0.09,0.13,0.06,55,3542684,0,0,0
+2,8,466075,Calafiori,DEF,Arsenal,Aston Villa,0,W,1,0,20,90,1,11,0,1,1,0,0,0,0,0,0,0,2,30,21.2,11.9,9.0,4.2,2,4,1,3,0.11,0.46,0.57,0.33,56,4150694,310105,41633,268472
+3,8,466075,Calafiori,DEF,Arsenal,Chelsea,1,W,2,1,29,66,1,2,0,0,0,1,0,0,0,0,0,0,0,0,4.4,3.2,26.0,3.4,0,1,1,1,0.39,0.03,0.42,0.26,57,4639050,515479,118556,396923
+4,8,466075,Calafiori,DEF,Arsenal,Sunderland,0,W,2,0,36,90,1,6,0,0,1,0,0,0,0,0,0,0,0,18,8.8,1.7,7.0,1.8,4,2,0,4,0.06,0.01,0.07,1.8,58,5296821,487524,94715,392809
+5,8,466075,Calafiori,DEF,Arsenal,Brighton,0,L,0,3,42,90,1,1,0,0,0,3,0,0,0,0,0,0,0,-3,11.2,23.7,20.0,5.5,2,5,3,5,0.07,0.03,0.1,1.31,58,5451521,266900,83603,183297

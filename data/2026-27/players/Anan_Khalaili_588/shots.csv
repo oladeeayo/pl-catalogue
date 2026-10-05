@@ -1,0 +1,8 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+690088,31190,11,2,2026-08-28 19:00:00,44,588,Khalaili,Eddie Nketiah,0.778,0.22,0.016,MissedShots,OpenPlay,LeftFoot,Pass,h
+692368,31204,24,3,2026-09-05 14:00:00,19,588,Khalaili,Yeremi Pino,0.812,0.249,0.0111,MissedShots,OpenPlay,LeftFoot,Chipped,a
+692394,31204,24,3,2026-09-05 14:00:00,76,588,Khalaili,Yeremi Pino,0.873,0.459,0.3526,BlockedShot,OpenPlay,LeftFoot,Throughball,a
+694021,31213,34,4,2026-09-12 14:00:00,11,588,Khalaili,Tyrick Mitchell,0.907,0.419,0.0379,MissedShots,OpenPlay,Head,Aerial,h
+694022,31213,34,4,2026-09-12 14:00:00,13,588,Khalaili,Daichi Kamada,0.867,0.298,0.0444,Goal,OpenPlay,RightFoot,Pass,h
+694033,31213,34,4,2026-09-12 14:00:00,70,588,Khalaili,Adam Wharton,0.97,0.715,0.0474,MissedShots,OpenPlay,LeftFoot,HeadPass,h
+694036,31213,34,4,2026-09-12 14:00:00,78,588,Khalaili,,0.912,0.418,0.4043,MissedShots,OpenPlay,RightFoot,None,h

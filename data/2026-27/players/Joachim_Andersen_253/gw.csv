@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,253,174874,Andersen,DEF,Fulham,Chelsea,1,L,2,3,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,50,3342,0,0,0
+2,253,174874,Andersen,DEF,Fulham,Sunderland,0,L,0,1,19,90,1,1,0,0,0,1,0,0,0,0,1,0,0,4,17.8,12.9,2.0,3.3,8,2,0,8,0.0,0.04,0.04,2.02,50,7735,2314,630,1684
+3,253,174874,Andersen,DEF,Fulham,Crystal Palace,1,L,2,3,24,90,1,1,0,0,0,3,0,0,0,0,0,0,0,8,24.4,22.9,6.0,5.3,5,7,2,7,0.0,0.06,0.06,1.97,50,15474,5842,2138,3704
+4,253,174874,Andersen,DEF,Fulham,Liverpool,0,D,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,50,13284,1887,3265,-1378
+5,253,174874,Andersen,DEF,Fulham,Man Utd,1,D,1,1,50,10,0,1,0,0,0,1,0,0,0,0,0,0,0,0,10.0,0.0,0.0,1.0,5,0,0,5,0.0,0.0,0.0,0.36,50,14092,1831,2077,-246

@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,179,204813,Latibeaudiere,DEF,Coventry City,Arsenal,0,L,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,40,3977,0,0,0
+2,179,204813,Latibeaudiere,DEF,Coventry City,Hull City,1,L,0,1,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,40,3984,160,420,-260
+3,179,204813,Latibeaudiere,DEF,Coventry City,Man City,0,L,0,1,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,40,4150,319,480,-161
+4,179,204813,Latibeaudiere,DEF,Coventry City,Brighton,1,L,0,5,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,40,4073,277,378,-101
+5,179,204813,Latibeaudiere,DEF,Coventry City,Nott'm Forest,0,W,1,0,47,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,7.0,0.0,0.0,0.7,2,0,0,2,0.0,0.0,0.0,0.02,40,3922,155,325,-170

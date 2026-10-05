@@ -1,0 +1,2 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+689399,31188,9,1,2026-08-23 15:30:00,91,357,Frimpong,,0.737,0.33,0.0135,BlockedShot,FromCorner,LeftFoot,None,a

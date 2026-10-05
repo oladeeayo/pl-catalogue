@@ -1,0 +1,2 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+690590,31194,15,2,2026-08-29 16:30:00,71,463,Woltemade,Lewis Hall,0.91,0.622,0.0189,BlockedShot,FromCorner,Head,Cross,a

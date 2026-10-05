@@ -1,0 +1,8 @@
+player_id,season_name,total_points,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,starts,tackles,recoveries,clearances_blocks_interceptions,defensive_contribution,start_cost,end_cost
+266,2009/10,31,898,1,0,0,15,0,0,0,1,0,0,4,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,45,45
+266,2018/19,71,2188,1,1,5,51,0,0,0,0,0,0,3,389,358.0,586.7,199.0,114.5,0.0,0.0,0.0,0.0,0,0,0,0,0,50,46
+266,2020/21,27,758,1,1,1,15,0,0,0,2,0,0,2,160,170.6,278.3,124.0,57.3,0.0,0.0,0.0,0.0,0,0,0,0,0,55,52
+266,2022/23,53,968,2,1,1,13,0,0,0,2,0,0,2,217,190.4,232.1,217.0,64.2,1.44,1.51,2.95,19.69,6,0,0,0,0,50,47
+266,2023/24,70,1472,1,6,4,27,1,0,0,3,0,0,2,346,335.2,407.2,170.0,90.9,1.03,2.58,3.61,29.53,14,0,0,0,0,50,49
+266,2024/25,33,610,2,0,1,12,0,0,0,3,1,0,0,192,163.8,213.8,94.0,47.2,0.73,1.14,1.87,9.59,3,0,0,0,73,50,48
+266,2025/26,41,756,2,0,2,10,0,0,0,3,0,0,1,181,153.4,195.6,64.0,41.4,1.21,0.81,2.02,11.67,6,7,42,12,61,50,48

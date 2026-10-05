@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,240,490094,Iroegbunam,MID,Hull City,Crystal Palace,1,W,2,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,50,1417,0,0,0
+2,240,490094,Iroegbunam,MID,Hull City,Bournemouth,0,D,1,1,12,4,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,50,1093,21,348,-327
+3,240,490094,Iroegbunam,MID,Hull City,Aston Villa,1,D,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,50,1385,309,187,122
+4,240,490094,Iroegbunam,MID,Hull City,Chelsea,0,D,2,2,33,21,0,0,0,0,0,0,0,0,0,0,1,0,0,2,3.0,0.2,0.0,0.3,1,0,1,2,0.0,0.0,0.0,0.35,50,1598,334,206,128
+5,240,490094,Iroegbunam,MID,Hull City,Newcastle,0,L,1,2,46,45,0,1,0,0,0,0,0,0,0,0,0,0,0,6,6.2,11.3,10.0,2.8,0,5,2,7,0.12,0.01,0.13,0.25,50,1818,374,273,101

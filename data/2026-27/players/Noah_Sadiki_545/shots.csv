@@ -1,0 +1,8 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688617,31183,5,1,2026-08-22 14:00:00,28,545,Sadiki,Trai Hume,0.905,0.442,0.2881,SavedShot,OpenPlay,Head,Aerial,a
+691044,31195,19,2,2026-08-30 13:00:00,36,545,Sadiki,,0.812,0.529,0.0194,BlockedShot,FromCorner,RightFoot,Aerial,h
+692400,31205,22,3,2026-09-05 14:00:00,2,545,Sadiki,Brian Brobbey,0.874,0.536,0.1162,BlockedShot,OpenPlay,RightFoot,LayOff,a
+692405,31205,22,3,2026-09-05 14:00:00,24,545,Sadiki,,0.84,0.483,0.0643,BlockedShot,OpenPlay,RightFoot,None,a
+692414,31205,22,3,2026-09-05 14:00:00,61,545,Sadiki,Brian Brobbey,0.957,0.399,0.3745,SavedShot,OpenPlay,RightFoot,Pass,a
+694270,31216,36,4,2026-09-12 19:00:00,47,545,Sadiki,Dan Ballard,0.78,0.603,0.0298,MissedShots,OpenPlay,LeftFoot,Pass,h
+696478,31222,45,5,2026-09-20 13:00:00,47,545,Sadiki,Enzo Le Fée,0.748,0.559,0.0217,MissedShots,OpenPlay,LeftFoot,Pass,a

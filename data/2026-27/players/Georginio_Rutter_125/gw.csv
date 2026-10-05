@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,125,463067,Georginio,FWD,Brighton,Aston Villa,1,W,4,0,7,90,1,5,0,1,1,0,0,0,0,0,0,0,0,22,19.8,11.4,15.0,4.6,1,4,2,7,0.08,0.44,0.52,0.29,55,78765,0,0,0
+2,125,463067,Georginio,FWD,Brighton,Chelsea,0,L,3,4,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,55,98683,23887,15007,8880
+3,125,463067,Georginio,FWD,Brighton,Leeds,1,D,1,1,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,55,74079,4546,26476,-21930
+4,125,463067,Georginio,FWD,Brighton,Coventry City,0,W,5,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,54,58474,1249,18661,-17412
+5,125,463067,Georginio,FWD,Brighton,Arsenal,1,W,3,0,42,14,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0.4,0.3,4.0,0.5,0,2,0,2,0.09,0.01,0.1,0.74,54,49762,2315,12484,-10169

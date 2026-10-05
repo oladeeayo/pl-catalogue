@@ -1,0 +1,14 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688537,31181,4,1,2026-08-22 11:30:00,13,428,Cunha,Noussair Mazraoui,0.847,0.361,0.0567,SavedShot,OpenPlay,LeftFoot,Pass,a
+688553,31181,4,1,2026-08-22 11:30:00,65,428,Cunha,Luke Shaw,0.867,0.632,0.066,BlockedShot,OpenPlay,RightFoot,Pass,a
+688559,31181,4,1,2026-08-22 11:30:00,78,428,Cunha,Harry Maguire,0.954,0.435,0.0633,MissedShots,FromCorner,Head,HeadPass,a
+691311,31198,18,2,2026-08-30 15:30:00,6,428,Cunha,Marcus Rashford,0.815,0.638,0.0306,MissedShots,OpenPlay,RightFoot,Pass,h
+691346,31198,18,2,2026-08-30 15:30:00,76,428,Cunha,Youri Tielemans,0.902,0.329,0.084,SavedShot,OpenPlay,RightFoot,Pass,h
+692854,31208,30,3,2026-09-06 13:00:00,18,428,Cunha,Youri Tielemans,0.707,0.427,0.0176,BlockedShot,OpenPlay,RightFoot,Pass,a
+692857,31208,30,3,2026-09-06 13:00:00,21,428,Cunha,Marcus Rashford,0.857,0.433,0.087,MissedShots,OpenPlay,RightFoot,Pass,a
+694676,31218,39,4,2026-09-13 15:30:00,10,428,Cunha,Marcus Rashford,0.757,0.278,0.0336,MissedShots,OpenPlay,RightFoot,Pass,h
+694685,31218,39,4,2026-09-13 15:30:00,55,428,Cunha,Bryan Mbeumo,0.851,0.313,0.045,MissedShots,OpenPlay,RightFoot,Pass,h
+694693,31218,39,4,2026-09-13 15:30:00,85,428,Cunha,Kobbie Mainoo,0.766,0.554,0.0289,BlockedShot,OpenPlay,RightFoot,Pass,h
+696666,31229,50,5,2026-09-20 15:30:00,30,428,Cunha,Marcus Rashford,0.752,0.679,0.0153,BlockedShot,OpenPlay,RightFoot,Pass,a
+696684,31229,50,5,2026-09-20 15:30:00,73,428,Cunha,Lisandro Martínez,0.732,0.612,0.0164,SavedShot,OpenPlay,RightFoot,TakeOn,a
+696689,31229,50,5,2026-09-20 15:30:00,88,428,Cunha,Patrick Dorgu,0.752,0.708,0.0157,Goal,OpenPlay,RightFoot,Pass,a

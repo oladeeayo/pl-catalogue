@@ -1,0 +1,6 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+690581,31194,15,2,2026-08-29 16:30:00,48,449,Hall,Harvey Barnes,0.846,0.638,0.0564,MissedShots,OpenPlay,RightFoot,BallTouch,a
+692069,31201,27,3,2026-09-05 11:30:00,59,449,Hall,Anthony Elanga,0.811,0.342,0.0295,MissedShots,FromCorner,LeftFoot,Pass,h
+695029,31219,40,4,2026-09-14 19:00:00,53,449,Hall,Matias Fernandez-Pardo,0.79,0.723,0.0126,SavedShot,OpenPlay,LeftFoot,Pass,a
+695909,31223,46,5,2026-09-19 14:00:00,6,449,Hall,Harvey Barnes,0.894,0.69,0.0959,Goal,OpenPlay,LeftFoot,Pass,h
+695913,31223,46,5,2026-09-19 14:00:00,32,449,Hall,Jacob Murphy,0.971,0.603,0.1247,MissedShots,OpenPlay,RightFoot,Cross,h

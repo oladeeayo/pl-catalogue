@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,164,593117,Quenda,MID,Chelsea,Fulham,0,W,3,2,10,8,0,1,0,0,0,0,0,0,0,0,0,0,0,2,1.2,0.3,2.0,0.4,1,0,0,1,0.0,0.0,0.0,0.09,55,3758,0,0,0
+2,164,593117,Quenda,MID,Chelsea,Brighton,1,W,4,3,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,55,4061,231,820,-589
+3,164,593117,Quenda,MID,Chelsea,Arsenal,0,L,1,2,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,54,3704,292,1196,-904
+4,164,593117,Quenda,MID,Chelsea,Hull City,1,D,2,2,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,54,3551,154,671,-517
+5,164,593117,Quenda,MID,Chelsea,Brentford,0,L,0,3,41,19,0,1,0,0,0,2,0,0,0,0,0,0,0,3,0.4,1.8,6.0,0.8,0,0,0,0,0.03,0.01,0.04,1.2,53,3422,155,533,-378

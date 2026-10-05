@@ -1,0 +1,10 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688633,31184,6,1,2026-08-22 14:00:00,16,491,Igor Jesus,Ola Aina,0.903,0.483,0.0597,SavedShot,OpenPlay,Head,Pass,h
+688644,31184,6,1,2026-08-22 14:00:00,54,491,Igor Jesus,Ola Aina,0.933,0.53,0.1359,MissedShots,SetPiece,Head,Cross,h
+688651,31184,6,1,2026-08-22 14:00:00,73,491,Igor Jesus,James McAtee,0.918,0.455,0.0825,BlockedShot,FromCorner,Head,Cross,h
+690161,31191,14,2,2026-08-29 11:30:00,10,491,Igor Jesus,Dan Ndoye,0.977,0.511,0.8411,BlockedShot,OpenPlay,RightFoot,HeadPass,a
+690162,31191,14,2,2026-08-29 11:30:00,15,491,Igor Jesus,Dan Ndoye,0.893,0.351,0.094,BlockedShot,OpenPlay,RightFoot,LayOff,a
+690171,31191,14,2,2026-08-29 11:30:00,47,491,Igor Jesus,Ola Aina,0.873,0.426,0.1072,SavedShot,OpenPlay,RightFoot,Pass,a
+693991,31211,31,4,2026-09-12 14:00:00,87,491,Igor Jesus,Morgan Gibbs-White,0.918,0.496,0.5251,Goal,OpenPlay,RightFoot,Pass,a
+696161,31227,47,5,2026-09-19 16:30:00,75,491,Igor Jesus,Morgan Gibbs-White,0.952,0.382,0.3694,BlockedShot,OpenPlay,RightFoot,Throughball,h
+696163,31227,47,5,2026-09-19 16:30:00,78,491,Igor Jesus,Neco Williams,0.895,0.459,0.0286,BlockedShot,OpenPlay,Head,Aerial,h

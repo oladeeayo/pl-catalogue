@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,556,169359,Targett,DEF,Hull City,Man Utd,1,W,2,0,4,5,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0.4,0.0,0.0,0.0,0,1,0,0,0.0,0.0,0.0,0.07,40,218902,0,0,0
+2,556,169359,Targett,DEF,Hull City,Coventry City,0,W,1,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,40,224749,5393,15441,-10048
+3,556,169359,Targett,DEF,Hull City,Aston Villa,1,D,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,40,218007,10419,23113,-12694
+4,556,169359,Targett,DEF,Hull City,Chelsea,0,D,2,2,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,40,203969,5238,19245,-14007
+5,556,169359,Targett,DEF,Hull City,Newcastle,0,L,1,2,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,40,187250,3674,19477,-15803

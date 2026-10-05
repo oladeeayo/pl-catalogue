@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,109,489639,Verbruggen,GKP,Brighton,Aston Villa,1,W,4,0,7,90,1,6,0,0,1,0,0,0,0,0,0,0,0,25,6.6,0.0,0.0,0.7,0,4,0,0,0.0,0.0,0.0,0.29,45,1987586,0,0,0
+2,109,489639,Verbruggen,GKP,Brighton,Chelsea,0,L,3,4,16,90,1,0,0,0,0,4,1,0,0,0,0,0,0,-1,10.2,0.0,0.0,1.0,0,14,0,0,0.0,0.0,0.0,2.93,45,2133814,84756,45480,39276
+3,109,489639,Verbruggen,GKP,Brighton,Leeds,1,D,1,1,23,90,1,3,0,0,0,1,3,0,0,0,0,0,0,17,29.2,3.0,0.0,3.2,0,5,0,0,0.0,0.2,0.2,2.49,45,2293721,270948,156898,114050
+4,109,489639,Verbruggen,GKP,Brighton,Coventry City,0,W,5,0,38,90,1,8,0,0,1,0,6,0,0,0,0,0,0,39,47.8,0.0,0.0,4.8,3,7,0,0,0.0,0.0,0.0,1.33,45,2390519,248699,196972,51727
+5,109,489639,Verbruggen,GKP,Brighton,Arsenal,1,W,3,0,42,90,1,6,0,0,1,0,2,0,0,0,0,0,0,27,20.0,0.0,0.0,2.0,0,4,0,0,0.0,0.0,0.0,1.63,45,2292499,89072,136504,-47432

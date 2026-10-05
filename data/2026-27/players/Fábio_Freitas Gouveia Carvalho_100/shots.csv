@@ -1,0 +1,2 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+695627,31220,41,5,2026-09-18 19:00:00,93,100,Carvalho,,0.976,0.417,0.5489,Goal,OpenPlay,RightFoot,None,h

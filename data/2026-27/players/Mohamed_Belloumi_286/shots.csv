@@ -1,0 +1,14 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688542,31181,4,1,2026-08-22 11:30:00,20,286,Belloumi,,0.854,0.339,0.0173,MissedShots,SetPiece,LeftFoot,Aerial,h
+688552,31181,4,1,2026-08-22 11:30:00,61,286,Belloumi,Lewie Coyle,0.777,0.277,0.029,MissedShots,OpenPlay,LeftFoot,Pass,h
+690396,31192,13,2,2026-08-29 14:00:00,78,286,Belloumi,Ryan John Giles,0.984,0.406,0.072,MissedShots,OpenPlay,RightFoot,Cross,a
+692574,31207,25,3,2026-09-05 16:30:00,36,286,Belloumi,Lucas Gourna Douath,0.755,0.384,0.0207,SavedShot,OpenPlay,LeftFoot,Pass,h
+692582,31207,25,3,2026-09-05 16:30:00,64,286,Belloumi,Regan Slater,0.881,0.113,0.0222,ShotOnPost,FromCorner,LeftFoot,Pass,h
+693995,31212,33,4,2026-09-12 14:00:00,5,286,Belloumi,Regan Slater,0.903,0.294,0.0469,BlockedShot,OpenPlay,LeftFoot,Pass,a
+693998,31212,33,4,2026-09-12 14:00:00,27,286,Belloumi,Ryan John Giles,0.893,0.443,0.2825,Goal,OpenPlay,LeftFoot,Cross,a
+694001,31212,33,4,2026-09-12 14:00:00,33,286,Belloumi,Oliver McBurnie,0.828,0.456,0.0375,Goal,FromCorner,LeftFoot,Pass,a
+695910,31223,46,5,2026-09-19 14:00:00,15,286,Belloumi,,0.945,0.328,0.2836,SavedShot,OpenPlay,LeftFoot,Tackle,a
+695918,31223,46,5,2026-09-19 14:00:00,52,286,Belloumi,Regan Slater,0.87,0.289,0.0449,MissedShots,OpenPlay,LeftFoot,Pass,a
+695920,31223,46,5,2026-09-19 14:00:00,58,286,Belloumi,Oliver McBurnie,0.773,0.469,0.0352,MissedShots,OpenPlay,LeftFoot,Pass,a
+695925,31223,46,5,2026-09-19 14:00:00,72,286,Belloumi,Tim Iroegbunam,0.745,0.49,0.0211,SavedShot,OpenPlay,LeftFoot,Pass,a
+695927,31223,46,5,2026-09-19 14:00:00,79,286,Belloumi,Lucas Gourna Douath,0.773,0.357,0.0397,BlockedShot,OpenPlay,LeftFoot,Pass,a

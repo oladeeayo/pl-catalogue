@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,593,463726,Dedić,DEF,Newcastle,Liverpool,1,D,2,2,9,90,1,1,0,0,0,2,0,0,0,0,0,0,0,-1,16.4,1.2,5.0,2.3,7,2,2,9,0.03,0.0,0.03,2.98,45,20712,0,0,0
+2,593,463726,Dedić,DEF,Newcastle,Spurs,0,W,2,0,15,90,1,11,0,1,1,0,0,0,0,0,0,0,2,37,42.6,30.4,0.0,7.3,5,5,3,8,0.0,0.06,0.06,1.12,45,36928,10359,2156,8203
+3,593,463726,Dedić,DEF,Newcastle,Bournemouth,1,D,2,2,27,90,1,1,0,0,0,2,0,0,0,0,0,0,0,3,0.6,6.4,10.0,1.7,1,4,0,1,0.11,0.02,0.13,1.37,45,365061,318645,49203,269442
+4,593,463726,Dedić,DEF,Newcastle,Leeds,0,L,1,4,40,57,1,0,0,0,0,3,0,0,0,0,0,0,0,-3,10.4,2.7,0.0,1.3,3,4,3,6,0.0,0.0,0.0,1.91,45,313784,107522,115071,-7549
+5,593,463726,Dedić,DEF,Newcastle,Hull City,1,W,2,1,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,45,219257,11096,103620,-92524

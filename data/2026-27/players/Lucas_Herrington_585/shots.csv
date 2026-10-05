@@ -1,0 +1,2 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+695926,31223,46,5,2026-09-19 14:00:00,78,585,Herrington,Ryan John Giles,0.894,0.418,0.0149,BlockedShot,SetPiece,Head,Aerial,a

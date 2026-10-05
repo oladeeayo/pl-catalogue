@@ -1,0 +1,6 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+691049,31195,19,2,2026-08-30 13:00:00,66,553,Isidor,Granit Xhaka,0.875,0.589,0.0281,MissedShots,SetPiece,Head,Cross,h
+691051,31195,19,2,2026-08-30 13:00:00,70,553,Isidor,Enzo Le Fée,0.907,0.435,0.5389,ShotOnPost,OpenPlay,RightFoot,Pass,h
+691053,31195,19,2,2026-08-30 13:00:00,74,553,Isidor,Habib Diarra,0.908,0.496,0.4508,Goal,OpenPlay,RightFoot,Pass,h
+692417,31205,22,3,2026-09-05 14:00:00,74,553,Isidor,,0.811,0.285,0.0223,MissedShots,OpenPlay,RightFoot,None,a
+692418,31205,22,3,2026-09-05 14:00:00,78,553,Isidor,,0.762,0.436,0.0713,SavedShot,DirectFreekick,RightFoot,Standard,a

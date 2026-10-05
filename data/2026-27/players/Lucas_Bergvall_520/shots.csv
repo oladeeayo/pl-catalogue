@@ -1,0 +1,2 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+694184,31215,37,4,2026-09-12 16:30:00,88,520,Bergvall,Sávio,0.784,0.495,0.0372,SavedShot,OpenPlay,RightFoot,Pass,h

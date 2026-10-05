@@ -1,0 +1,6 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+691992,31200,21,3,2026-09-04 19:00:00,75,640,Flemming,,0.813,0.735,0.014,SavedShot,OpenPlay,RightFoot,None,h
+694038,31213,34,4,2026-09-12 14:00:00,82,640,Flemming,,0.92,0.57,0.102,MissedShots,FromCorner,RightFoot,None,a
+694041,31213,34,4,2026-09-12 14:00:00,89,640,Flemming,,0.962,0.458,0.6429,Goal,OpenPlay,RightFoot,Rebound,a
+694042,31213,34,4,2026-09-12 14:00:00,91,640,Flemming,Florentino Luís,0.791,0.453,0.0537,SavedShot,OpenPlay,RightFoot,Interception,a
+696025,31226,43,5,2026-09-19 14:00:00,93,640,Flemming,,0.878,0.63,0.0564,MissedShots,OpenPlay,RightFoot,None,a

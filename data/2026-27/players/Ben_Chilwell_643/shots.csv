@@ -1,0 +1,3 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+692395,31204,24,3,2026-09-05 14:00:00,76,643,Chilwell,Daichi Kamada,0.898,0.573,0.3881,Goal,OpenPlay,LeftFoot,None,a
+694039,31213,34,4,2026-09-12 14:00:00,86,643,Chilwell,Will Hughes,0.866,0.541,0.0679,MissedShots,OpenPlay,RightFoot,Cross,h

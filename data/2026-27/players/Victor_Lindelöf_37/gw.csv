@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,37,184667,Lindelöf,DEF,Aston Villa,Brighton,0,L,0,4,7,90,1,-2,0,0,0,4,0,1,0,0,0,0,0,-13,1.8,0.1,0.0,0.2,3,1,0,3,0.0,0.0,0.0,3.77,45,24630,0,0,0
+2,37,184667,Lindelöf,DEF,Aston Villa,Arsenal,1,L,0,1,20,90,1,2,0,0,0,1,0,0,0,0,0,0,0,10,15.0,1.2,0.0,1.6,6,1,1,7,0.0,0.08,0.08,1.04,45,27172,1775,4011,-2236
+3,37,184667,Lindelöf,DEF,Aston Villa,Hull City,0,D,0,0,25,90,1,6,0,0,1,0,0,0,0,0,0,0,0,28,22.4,24.9,2.0,4.9,4,3,0,4,0.0,0.08,0.08,0.57,45,29725,3211,2995,216
+4,37,184667,Lindelöf,DEF,Aston Villa,Nott'm Forest,1,L,1,2,31,90,1,1,0,0,0,2,0,0,0,0,0,0,0,2,16.4,1.1,35.0,5.3,2,0,0,2,0.44,0.01,0.45,2.28,45,33974,5112,2100,3012
+5,37,184667,Lindelöf,DEF,Aston Villa,Spurs,0,W,3,2,48,90,1,1,0,0,0,2,0,0,0,0,0,0,0,1,18.8,10.0,0.0,2.9,6,2,0,6,0.0,0.0,0.0,1.56,45,33907,3502,3917,-415

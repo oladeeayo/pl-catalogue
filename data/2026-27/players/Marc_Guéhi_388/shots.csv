@@ -1,0 +1,4 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+689242,31187,8,1,2026-08-23 13:00:00,50,388,Guéhi,Elliot Anderson,0.976,0.46,0.5327,MissedShots,FromCorner,Head,Cross,h
+689248,31187,8,1,2026-08-23 13:00:00,83,388,Guéhi,Mathis Cherki,0.929,0.517,0.1141,Goal,FromCorner,Head,Cross,h
+696473,31222,45,5,2026-09-20 13:00:00,42,388,Guéhi,,0.879,0.555,0.0649,BlockedShot,FromCorner,RightFoot,Goal,h

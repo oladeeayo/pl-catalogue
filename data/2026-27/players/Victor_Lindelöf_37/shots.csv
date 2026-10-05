@@ -1,0 +1,3 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+689208,31186,7,1,2026-08-23 13:00:00,7,37,Lindelöf,,0.015,0.536,0.0,OwnGoal,OpenPlay,OtherBodyPart,None,a
+693966,31211,31,4,2026-09-12 14:00:00,6,37,Lindelöf,,0.97,0.511,0.6032,SavedShot,OpenPlay,RightFoot,BallTouch,h

@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,256,167074,Tete,DEF,Fulham,Chelsea,1,L,2,3,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,45,24681,0,0,0
+2,256,167074,Tete,DEF,Fulham,Sunderland,0,L,0,1,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,45,25956,338,2061,-1723
+3,256,167074,Tete,DEF,Fulham,Crystal Palace,1,L,2,3,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,45,23617,430,3016,-2586
+4,256,167074,Tete,DEF,Fulham,Liverpool,0,D,0,0,35,27,0,0,0,0,0,0,0,0,0,0,1,0,0,-1,1.6,0.3,2.0,0.4,3,0,0,3,0.0,0.0,0.0,0.65,44,21818,237,2295,-2058
+5,256,167074,Tete,DEF,Fulham,Man Utd,1,D,1,1,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,44,20252,326,2073,-1747

@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,301,112520,Palmer,GKP,Ipswich Town,Sunderland,1,W,2,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,40,426453,0,0,0
+2,301,112520,Palmer,GKP,Ipswich Town,Man Utd,0,L,2,5,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,40,442454,7686,17348,-9662
+3,301,112520,Palmer,GKP,Ipswich Town,Liverpool,1,L,0,2,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,40,452044,29680,30867,-1187
+4,301,112520,Palmer,GKP,Ipswich Town,Crystal Palace,0,W,3,2,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,40,443746,24047,32884,-8837
+5,301,112520,Palmer,GKP,Ipswich Town,Everton,0,L,0,1,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,40,432976,9183,20140,-10957

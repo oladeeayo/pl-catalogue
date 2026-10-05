@@ -1,0 +1,10 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688614,31183,5,1,2026-08-22 14:00:00,6,316,Emersonn,Dara O&#039;Shea,0.841,0.533,0.0107,SavedShot,OpenPlay,Head,Aerial,h
+688615,31183,5,1,2026-08-22 14:00:00,23,316,Emersonn,Julio Enciso,0.896,0.517,0.5669,Goal,OpenPlay,RightFoot,Pass,h
+688616,31183,5,1,2026-08-22 14:00:00,26,316,Emersonn,Dara O&#039;Shea,0.9,0.546,0.0372,MissedShots,SetPiece,Head,Aerial,h
+691980,31200,21,3,2026-09-04 19:00:00,25,316,Emersonn,Leif Davis,0.957,0.55,0.1079,BlockedShot,OpenPlay,LeftFoot,HeadPass,h
+694025,31213,34,4,2026-09-12 14:00:00,22,316,Emersonn,Leif Davis,0.931,0.512,0.3936,Goal,OpenPlay,Head,Cross,a
+694027,31213,34,4,2026-09-12 14:00:00,44,316,Emersonn,Dara O&#039;Shea,0.9,0.456,0.0861,MissedShots,OpenPlay,OtherBodyPart,Cross,a
+694029,31213,34,4,2026-09-12 14:00:00,50,316,Emersonn,Dara O&#039;Shea,0.921,0.303,0.0614,MissedShots,OpenPlay,RightFoot,TakeOn,a
+695995,31226,43,5,2026-09-19 14:00:00,8,316,Emersonn,Julio Enciso,0.936,0.305,0.0631,SavedShot,OpenPlay,RightFoot,Pass,a
+696006,31226,43,5,2026-09-19 14:00:00,34,316,Emersonn,Jack Clarke,0.927,0.43,0.0391,MissedShots,OpenPlay,Head,Aerial,a

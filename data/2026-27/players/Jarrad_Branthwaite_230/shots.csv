@@ -1,0 +1,4 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+690402,31193,12,2,2026-08-29 14:00:00,9,230,Branthwaite,Kiernan Dewsbury-Hall,0.95,0.398,0.2326,SavedShot,FromCorner,Head,Cross,a
+692861,31208,30,3,2026-09-06 13:00:00,46,230,Branthwaite,,0.906,0.693,0.0505,SavedShot,OpenPlay,LeftFoot,None,h
+692876,31208,30,3,2026-09-06 13:00:00,81,230,Branthwaite,Hayden Hackney,0.908,0.562,0.0338,SavedShot,SetPiece,Head,Aerial,h

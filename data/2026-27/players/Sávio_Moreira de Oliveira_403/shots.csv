@@ -1,0 +1,7 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+692352,31203,28,3,2026-09-05 14:00:00,46,403,Sávio,,0.889,0.285,0.0391,BlockedShot,OpenPlay,LeftFoot,TakeOn,a
+694177,31215,37,4,2026-09-12 16:30:00,67,403,Sávio,Mohammed Kudus,0.885,0.294,0.0445,BlockedShot,OpenPlay,LeftFoot,Pass,h
+694182,31215,37,4,2026-09-12 16:30:00,79,403,Sávio,,0.877,0.659,0.0561,BlockedShot,OpenPlay,RightFoot,None,h
+695661,31221,48,5,2026-09-19 11:30:00,10,403,Sávio,Dominic Solanke,0.889,0.466,0.1045,SavedShot,OpenPlay,LeftFoot,BallTouch,h
+695662,31221,48,5,2026-09-19 11:30:00,10,403,Sávio,,0.918,0.435,0.1291,SavedShot,OpenPlay,RightFoot,Rebound,h
+695666,31221,48,5,2026-09-19 11:30:00,20,403,Sávio,,0.803,0.361,0.0226,SavedShot,FromCorner,LeftFoot,None,h

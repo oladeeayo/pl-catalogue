@@ -1,0 +1,2 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+689750,31189,10,1,2026-08-24 19:00:00,5,149,Colwill,,0.888,0.747,0.0463,BlockedShot,OpenPlay,LeftFoot,None,a

@@ -1,0 +1,4 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+694171,31215,37,4,2026-09-12 16:30:00,45,239,Garner,,0.753,0.636,0.0546,SavedShot,DirectFreekick,RightFoot,Standard,a
+696004,31226,43,5,2026-09-19 14:00:00,32,239,Garner,,0.811,0.524,0.051,BlockedShot,OpenPlay,RightFoot,Rebound,h
+696008,31226,43,5,2026-09-19 14:00:00,43,239,Garner,Harrison Armstrong,0.782,0.354,0.0333,BlockedShot,OpenPlay,RightFoot,Pass,h

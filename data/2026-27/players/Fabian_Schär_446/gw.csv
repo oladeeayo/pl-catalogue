@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,446,119471,Schär,DEF,Newcastle,Liverpool,1,D,2,2,9,1,0,1,0,0,0,1,0,0,0,0,0,0,0,-1,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.79,50,20496,0,0,0
+2,446,119471,Schär,DEF,Newcastle,Spurs,0,W,2,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,50,26250,1895,1885,10
+3,446,119471,Schär,DEF,Newcastle,Bournemouth,1,D,2,2,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,50,24845,2055,4893,-2838
+4,446,119471,Schär,DEF,Newcastle,Leeds,0,L,1,4,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,50,23553,1440,3656,-2216
+5,446,119471,Schär,DEF,Newcastle,Hull City,1,W,2,1,46,24,0,1,0,0,0,1,0,0,0,0,0,0,0,1,25.0,10.5,0.0,3.6,7,0,0,7,0.0,0.01,0.01,1.08,49,22572,1121,2512,-1391

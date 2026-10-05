@@ -1,0 +1,5 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+2,616,637238,Bouaddi,MID,Man City,Crystal Palace,0,W,4,1,11,8,0,1,0,0,0,0,0,0,0,0,0,0,0,3,1.8,4.3,0.0,0.6,1,0,0,1,0.0,0.12,0.12,0.0,55,4327,3055,349,2706
+3,616,637238,Bouaddi,MID,Man City,Coventry City,1,W,1,0,26,14,0,1,0,0,0,0,0,0,0,0,0,0,0,5,11.2,0.5,0.0,1.2,2,3,0,5,0.0,0.0,0.0,0.37,55,15546,9299,3258,6041
+4,616,637238,Bouaddi,MID,Man City,Man Utd,0,W,1,0,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,55,18618,4899,3962,937
+5,616,637238,Bouaddi,MID,Man City,Sunderland,1,W,5,3,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,55,18994,2946,3870,-924

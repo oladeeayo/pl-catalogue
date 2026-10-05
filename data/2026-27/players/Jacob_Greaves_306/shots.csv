@@ -1,0 +1,2 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+691336,31198,18,2,2026-08-30 15:30:00,55,306,Greaves,,0.089,0.54,0.0,OwnGoal,OpenPlay,RightFoot,TakeOn,a

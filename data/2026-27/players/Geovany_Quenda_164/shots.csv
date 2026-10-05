@@ -1,0 +1,2 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+695623,31220,41,5,2026-09-18 19:00:00,79,164,Quenda,Morgan Rogers,0.771,0.509,0.0316,BlockedShot,FromCorner,RightFoot,Pass,a

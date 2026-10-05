@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,304,216616,O'Shea,DEF,Ipswich Town,Sunderland,1,W,2,1,5,90,1,4,0,0,0,1,0,0,0,0,0,0,0,16,48.0,24.5,2.0,7.5,16,6,2,18,0.0,0.16,0.16,0.66,40,313565,0,0,0
+2,304,216616,O'Shea,DEF,Ipswich Town,Man Utd,0,L,2,5,18,90,1,0,0,0,0,5,0,0,0,0,0,0,0,-14,0.0,0.8,9.0,0.9,1,2,0,1,0.07,0.01,0.08,4.77,40,338381,15639,13984,1655
+3,304,216616,O'Shea,DEF,Ipswich Town,Liverpool,1,L,0,2,21,90,1,3,0,0,0,2,0,0,0,0,0,0,0,5,23.8,4.4,4.0,3.2,8,3,3,11,0.0,0.01,0.01,0.69,40,330000,22172,37193,-15021
+4,304,216616,O'Shea,DEF,Ipswich Town,Crystal Palace,0,W,3,2,34,90,1,1,0,0,0,2,0,0,0,0,0,0,0,5,29.6,30.8,4.0,6.4,7,2,2,9,0.0,0.08,0.08,0.62,40,317758,18186,40551,-22365
+5,304,216616,O'Shea,DEF,Ipswich Town,Everton,0,L,0,1,43,90,1,2,0,0,0,1,0,0,0,0,0,0,0,12,28.6,10.5,2.0,4.1,9,5,0,9,0.0,0.0,0.0,2.24,40,302768,7422,21615,-14193

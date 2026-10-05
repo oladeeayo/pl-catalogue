@@ -1,0 +1,2 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+692059,31201,27,3,2026-09-05 11:30:00,30,64,Smith,,0.728,0.411,0.0195,BlockedShot,OpenPlay,LeftFoot,None,a

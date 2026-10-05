@@ -1,0 +1,2 @@
+player_id,season_name,total_points,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,starts,tackles,recoveries,clearances_blocks_interceptions,defensive_contribution,start_cost,end_cost
+439,2025/26,111,1630,11,2,2,30,0,0,0,2,0,0,19,405,483.8,156.1,803.0,143.4,9.21,0.28,9.48,27.05,17,5,39,20,64,75,72

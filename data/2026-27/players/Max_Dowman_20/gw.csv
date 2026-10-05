@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,20,616077,Dowman,MID,Arsenal,Coventry City,1,W,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,55,8920,0,0,0
+2,20,616077,Dowman,MID,Arsenal,Aston Villa,0,W,1,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,54,8233,473,2330,-1857
+3,20,616077,Dowman,MID,Arsenal,Chelsea,1,W,2,1,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,54,7381,608,1997,-1389
+4,20,616077,Dowman,MID,Arsenal,Sunderland,0,W,2,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,53,7072,629,1342,-713
+5,20,616077,Dowman,MID,Arsenal,Brighton,0,L,0,3,42,9,0,1,0,0,0,0,0,0,0,0,0,0,0,4,2.0,14.8,0.0,1.7,0,0,0,0,0.0,0.08,0.08,0.31,53,7252,878,1050,-172

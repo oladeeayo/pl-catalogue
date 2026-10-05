@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,120,454490,Svoboda,DEF,Brighton,Aston Villa,1,W,4,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,50,3997,0,0,0
+2,120,454490,Svoboda,DEF,Brighton,Chelsea,0,L,3,4,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,50,5185,768,684,84
+3,120,454490,Svoboda,DEF,Brighton,Leeds,1,D,1,1,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,50,5613,863,987,-124
+4,120,454490,Svoboda,DEF,Brighton,Coventry City,0,W,5,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,50,5997,898,894,4
+5,120,454490,Svoboda,DEF,Brighton,Arsenal,1,W,3,0,42,4,0,1,0,0,0,0,0,0,0,0,0,0,0,5,2.4,0.0,0.0,0.2,0,1,1,1,0.0,0.0,0.0,0.14,50,5657,647,957,-310

@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,57,457569,Petrović,GKP,Bournemouth,Man City,0,L,1,2,8,90,1,2,0,0,0,2,4,0,0,0,0,0,0,13,36.8,0.0,0.0,3.7,2,5,0,0,0.0,0.0,0.0,2.25,45,288326,0,0,0
+2,57,457569,Petrović,GKP,Bournemouth,Everton,1,D,1,1,12,90,1,3,0,0,0,1,5,0,0,0,0,0,0,20,33.8,0.0,0.0,3.4,3,8,0,0,0.0,0.0,0.0,1.84,45,332768,25378,14053,11325
+3,57,457569,Petrović,GKP,Bournemouth,Newcastle,0,D,2,2,27,90,1,1,0,0,0,2,0,0,0,0,0,0,0,0,3.4,0.0,0.0,0.3,1,8,0,0,0.0,0.0,0.0,0.71,45,349425,45982,34952,11030
+4,57,457569,Petrović,GKP,Bournemouth,Brentford,1,D,2,2,32,90,1,1,0,0,0,2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,10,0,0,0.0,0.0,0.0,0.5,45,346097,27504,37126,-9622
+5,57,457569,Petrović,GKP,Bournemouth,Liverpool,1,L,0,1,49,90,1,2,0,0,0,1,2,0,0,0,0,0,0,12,18.2,0.0,0.0,1.8,0,12,0,0,0.0,0.0,0.0,1.65,45,325591,7119,26540,-19421

@@ -1,0 +1,3 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688608,31182,3,1,2026-08-22 14:00:00,92,248,Beto,,0.824,0.472,0.0654,BlockedShot,OpenPlay,RightFoot,None,h
+690425,31193,12,2,2026-08-29 14:00:00,83,248,Beto,Kiernan Dewsbury-Hall,0.788,0.339,0.0443,MissedShots,OpenPlay,RightFoot,Pass,a

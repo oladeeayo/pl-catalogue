@@ -1,0 +1,4 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+3,633,605972,Ahanor,DEF,Crystal Palace,Fulham,0,W,3,2,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,45,296,217,32,185
+4,633,605972,Ahanor,DEF,Crystal Palace,Ipswich Town,1,L,2,3,34,90,1,3,0,0,0,3,0,0,0,0,0,0,0,10,24.6,11.9,4.0,4.1,9,4,2,11,0.0,0.01,0.01,1.68,45,1153,848,180,668
+5,633,605972,Ahanor,DEF,Crystal Palace,Leeds,0,D,0,0,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,45,1692,710,240,470

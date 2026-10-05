@@ -1,0 +1,6 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+690172,31191,14,2,2026-08-29 11:30:00,48,472,Murillo,Neco Williams,0.953,0.466,0.0761,BlockedShot,FromCorner,Head,Aerial,a
+692342,31203,28,3,2026-09-05 14:00:00,11,472,Murillo,Neco Williams,0.881,0.484,0.087,MissedShots,FromCorner,LeftFoot,HeadPass,h
+692349,31203,28,3,2026-09-05 14:00:00,33,472,Murillo,Liam Delap,0.893,0.511,0.0936,MissedShots,FromCorner,LeftFoot,HeadPass,h
+696151,31227,47,5,2026-09-19 16:30:00,37,472,Murillo,Neco Williams,0.952,0.415,0.079,MissedShots,FromCorner,Head,Cross,h
+696166,31227,47,5,2026-09-19 16:30:00,95,472,Murillo,Luca Netz,0.719,0.691,0.0106,BlockedShot,OpenPlay,LeftFoot,LayOff,h

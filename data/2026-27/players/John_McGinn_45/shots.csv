@@ -1,0 +1,5 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+689209,31186,7,1,2026-08-23 13:00:00,16,45,McGinn,João Gomes,0.796,0.385,0.0346,MissedShots,OpenPlay,LeftFoot,Pass,a
+691696,31199,20,2,2026-08-31 19:00:00,6,45,McGinn,Emiliano Buendía,0.746,0.433,0.0207,MissedShots,OpenPlay,LeftFoot,Pass,h
+691708,31199,20,2,2026-08-31 19:00:00,69,45,McGinn,,0.818,0.372,0.037,MissedShots,OpenPlay,LeftFoot,BallTouch,h
+692579,31207,25,3,2026-09-05 16:30:00,49,45,McGinn,Nicolas Jackson,0.906,0.484,0.4635,MissedShots,OpenPlay,LeftFoot,Pass,a

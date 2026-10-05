@@ -1,0 +1,8 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688587,31182,3,1,2026-08-22 14:00:00,11,237,Ndiaye,Merlin Röhl,0.864,0.394,0.0855,SavedShot,OpenPlay,RightFoot,Pass,h
+688601,31182,3,1,2026-08-22 14:00:00,55,237,Ndiaye,Thierno Barry,0.874,0.466,0.1336,SavedShot,OpenPlay,RightFoot,Cross,h
+690401,31193,12,2,2026-08-29 14:00:00,8,237,Ndiaye,James Tarkowski,0.743,0.349,0.014,MissedShots,SetPiece,RightFoot,HeadPass,a
+690405,31193,12,2,2026-08-29 14:00:00,16,237,Ndiaye,Tyrique George,0.755,0.66,0.0149,SavedShot,OpenPlay,RightFoot,Pass,a
+692327,31202,26,3,2026-09-05 14:00:00,47,237,Ndiaye,Elliot Anderson,0.894,0.613,0.0327,MissedShots,OpenPlay,Head,Cross,h
+696482,31222,45,5,2026-09-20 13:00:00,62,237,Ndiaye,Mathis Cherki,0.789,0.273,0.0259,BlockedShot,OpenPlay,LeftFoot,Pass,h
+696488,31222,45,5,2026-09-20 13:00:00,72,237,Ndiaye,Mathis Cherki,0.82,0.432,0.0755,BlockedShot,OpenPlay,LeftFoot,Pass,h

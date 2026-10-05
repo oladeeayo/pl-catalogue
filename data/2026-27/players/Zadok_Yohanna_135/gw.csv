@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,135,700308,Yohanna,MID,Brighton,Aston Villa,1,W,4,0,7,12,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0.2,1.3,0.0,0.2,0,0,0,0,0.0,0.03,0.03,0.0,50,6623,0,0,0
+2,135,700308,Yohanna,MID,Brighton,Chelsea,0,L,3,4,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,50,6909,373,879,-506
+3,135,700308,Yohanna,MID,Brighton,Leeds,1,D,1,1,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,50,6108,517,1579,-1062
+4,135,700308,Yohanna,MID,Brighton,Coventry City,0,W,5,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,49,5076,318,1453,-1135
+5,135,700308,Yohanna,MID,Brighton,Arsenal,1,W,3,0,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,49,3954,35,1196,-1161

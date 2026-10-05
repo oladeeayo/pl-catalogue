@@ -1,0 +1,11 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688589,31182,3,1,2026-08-22 14:00:00,17,242,George,Vitalii Mykolenko,0.831,0.724,0.0281,MissedShots,OpenPlay,RightFoot,Pass,h
+688591,31182,3,1,2026-08-22 14:00:00,33,242,George,Iliman Ndiaye,0.793,0.662,0.0267,BlockedShot,OpenPlay,LeftFoot,Pass,h
+688597,31182,3,1,2026-08-22 14:00:00,47,242,George,,0.78,0.626,0.019,BlockedShot,FromCorner,RightFoot,None,h
+688604,31182,3,1,2026-08-22 14:00:00,72,242,George,Kiernan Dewsbury-Hall,0.875,0.696,0.0703,BlockedShot,OpenPlay,RightFoot,Pass,h
+688605,31182,3,1,2026-08-22 14:00:00,72,242,George,,0.935,0.652,0.0961,MissedShots,OpenPlay,LeftFoot,Dispossessed,h
+690407,31193,12,2,2026-08-29 14:00:00,19,242,George,Kiernan Dewsbury-Hall,0.753,0.637,0.0156,SavedShot,OpenPlay,RightFoot,Pass,a
+690411,31193,12,2,2026-08-29 14:00:00,28,242,George,Iliman Ndiaye,0.644,0.688,0.0102,MissedShots,OpenPlay,RightFoot,Pass,a
+692877,31208,30,3,2026-09-06 13:00:00,82,242,George,Hayden Hackney,0.885,0.298,0.0483,Goal,OpenPlay,RightFoot,Pass,h
+694175,31215,37,4,2026-09-12 16:30:00,53,242,George,,0.9,0.676,0.0433,BlockedShot,FromCorner,LeftFoot,None,a
+696024,31226,43,5,2026-09-19 14:00:00,88,242,George,Tyler Dibling,0.772,0.633,0.0219,BlockedShot,OpenPlay,RightFoot,Chipped,h

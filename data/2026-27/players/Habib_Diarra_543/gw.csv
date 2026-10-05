@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,543,547027,Diarra,MID,Sunderland,Ipswich Town,0,L,1,2,5,10,0,1,0,0,0,1,0,0,0,0,0,0,0,3,0.4,0.6,2.0,0.3,0,0,0,0,0.03,0.0,0.03,0.1,55,6286,0,0,0
+2,543,547027,Diarra,MID,Sunderland,Fulham,1,W,1,0,19,18,0,4,0,1,0,0,0,0,0,0,0,0,0,15,15.2,10.3,0.0,2.6,0,0,0,0,0.0,0.16,0.16,0.02,55,6801,335,1177,-842
+3,543,547027,Diarra,MID,Sunderland,Brentford,0,D,1,1,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,55,4664,164,2306,-2142
+4,543,547027,Diarra,MID,Sunderland,Arsenal,1,L,0,2,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,54,3263,27,1528,-1501
+5,543,547027,Diarra,MID,Sunderland,Man City,0,L,3,5,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,54,2684,12,672,-660

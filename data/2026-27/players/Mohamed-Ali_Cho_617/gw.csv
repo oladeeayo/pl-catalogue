@@ -1,0 +1,5 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+2,617,490884,Cho,MID,Hull City,Coventry City,0,W,1,0,13,7,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0.4,0.3,0.0,0.1,0,0,0,0,0.0,0.0,0.0,0.18,50,49,25,2,23
+3,617,490884,Cho,MID,Hull City,Aston Villa,1,D,0,0,25,8,0,1,0,0,0,0,0,0,0,0,0,0,0,5,3.0,0.0,17.0,2.0,0,0,0,0,0.05,0.0,0.05,0.0,50,871,671,189,482
+4,617,490884,Cho,MID,Hull City,Chelsea,0,D,2,2,33,30,0,1,0,0,0,1,0,0,0,0,0,0,0,3,7.2,18.5,21.0,4.7,1,1,0,2,0.47,0.16,0.63,0.64,50,1116,339,192,147
+5,617,490884,Cho,MID,Hull City,Newcastle,0,L,1,2,46,27,0,6,1,0,0,0,0,0,0,0,0,0,0,25,39.2,25.1,17.0,8.1,0,0,0,0,0.27,0.2,0.47,0.16,50,1422,401,229,172

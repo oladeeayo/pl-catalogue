@@ -1,0 +1,5 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688619,31183,5,1,2026-08-22 14:00:00,29,551,N.Angulo,Granit Xhaka,0.961,0.417,0.0378,MissedShots,FromCorner,Head,Aerial,a
+688622,31183,5,1,2026-08-22 14:00:00,38,551,N.Angulo,,0.794,0.652,0.0792,Goal,DirectFreekick,RightFoot,Standard,a
+696464,31222,45,5,2026-09-20 13:00:00,5,551,N.Angulo,Enzo Le Fée,0.872,0.546,0.289,MissedShots,OpenPlay,RightFoot,Cross,a
+696480,31222,45,5,2026-09-20 13:00:00,58,551,N.Angulo,Granit Xhaka,0.951,0.576,0.2922,BlockedShot,OpenPlay,LeftFoot,Chipped,a

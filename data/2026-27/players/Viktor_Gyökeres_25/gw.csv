@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,25,224117,Gyökeres,FWD,Arsenal,Coventry City,1,W,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,75,816962,0,0,0
+2,25,224117,Gyökeres,FWD,Arsenal,Aston Villa,0,W,1,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,74,650596,8776,238129,-229353
+3,25,224117,Gyökeres,FWD,Arsenal,Chelsea,1,W,2,1,29,12,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0.0,0.1,0.0,0.0,0,1,0,1,0.0,0.0,0.0,0.11,73,466852,8161,200991,-192830
+4,25,224117,Gyökeres,FWD,Arsenal,Sunderland,0,W,2,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,72,388876,6130,98178,-92048
+5,25,224117,Gyökeres,FWD,Arsenal,Brighton,0,L,0,3,42,17,0,1,0,0,0,0,0,0,0,0,0,0,0,5,0.0,14.6,0.0,1.4,0,0,0,0,0.0,0.23,0.23,0.54,72,342393,5156,57026,-51870

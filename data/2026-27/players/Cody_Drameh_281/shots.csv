@@ -1,0 +1,2 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688555,31181,4,1,2026-08-22 11:30:00,72,281,Drameh,Oliver McBurnie,0.822,0.311,0.0414,MissedShots,OpenPlay,RightFoot,Pass,h

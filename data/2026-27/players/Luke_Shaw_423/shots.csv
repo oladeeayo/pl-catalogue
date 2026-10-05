@@ -1,0 +1,3 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+692870,31208,30,3,2026-09-06 13:00:00,65,423,Shaw,Bruno Fernandes,0.808,0.531,0.0382,MissedShots,FromCorner,RightFoot,Pass,a
+696667,31229,50,5,2026-09-20 15:30:00,30,423,Shaw,,0.734,0.584,0.0147,BlockedShot,FromCorner,LeftFoot,None,a

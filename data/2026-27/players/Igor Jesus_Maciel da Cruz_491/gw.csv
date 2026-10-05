@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,491,482973,Igor Jesus,FWD,Nott'm Forest,Leeds,1,L,0,1,6,90,1,2,0,0,0,1,0,0,0,0,0,0,0,8,5.2,6.8,31.0,4.3,2,1,0,3,0.22,0.02,0.24,0.47,60,389784,0,0,0
+2,491,482973,Igor Jesus,FWD,Nott'm Forest,Liverpool,0,D,2,2,14,90,1,1,0,0,0,2,0,0,0,0,1,0,0,4,8.6,13.3,38.0,6.0,3,1,1,5,0.74,0.04,0.78,1.75,60,361702,10237,58550,-48313
+3,491,482973,Igor Jesus,FWD,Nott'm Forest,Spurs,1,D,0,0,28,31,0,1,0,0,0,0,0,0,0,0,0,0,0,3,1.2,0.4,0.0,0.2,0,0,1,1,0.0,0.0,0.0,0.26,59,307784,25411,81723,-56312
+4,491,482973,Igor Jesus,FWD,Nott'm Forest,Aston Villa,0,W,2,1,31,15,0,7,1,0,0,0,0,0,0,0,0,0,2,34,36.4,11.0,17.0,6.4,0,3,0,3,0.13,0.01,0.14,0.09,59,253573,12811,74220,-61409
+5,491,482973,Igor Jesus,FWD,Nott'm Forest,Coventry City,1,L,0,1,47,31,0,1,0,0,0,0,0,0,0,0,0,0,0,4,3.4,9.2,14.0,2.7,0,3,0,3,0.16,0.01,0.17,0.04,58,310521,70541,32852,37689

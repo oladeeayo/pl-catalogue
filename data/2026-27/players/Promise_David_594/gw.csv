@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,594,538007,David,FWD,Brighton,Aston Villa,1,W,4,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,60,20944,0,0,0
+2,594,538007,David,FWD,Brighton,Chelsea,0,L,3,4,16,10,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0.0,3.7,0.0,0.4,0,0,0,0,0.0,0.0,0.0,0.04,60,25435,2519,4141,-1622
+3,594,538007,David,FWD,Brighton,Leeds,1,D,1,1,23,13,0,0,0,0,0,0,0,0,0,0,1,0,0,-7,0.0,0.0,4.0,0.0,0,0,0,0,0.42,0.0,0.42,0.1,60,25799,4444,5722,-1278
+4,594,538007,David,FWD,Brighton,Coventry City,0,W,5,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,60,24399,2799,5214,-2415
+5,594,538007,David,FWD,Brighton,Arsenal,1,W,3,0,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,60,21728,2100,5196,-3096

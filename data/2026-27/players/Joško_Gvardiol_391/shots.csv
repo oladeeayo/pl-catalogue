@@ -1,0 +1,4 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+689249,31187,8,1,2026-08-23 13:00:00,90,391,Gvardiol,Mathis Cherki,0.892,0.458,0.4088,Goal,OpenPlay,RightFoot,Throughball,h
+692318,31202,26,3,2026-09-05 14:00:00,20,391,Gvardiol,Mathis Cherki,0.855,0.466,0.0088,BlockedShot,SetPiece,Head,Rebound,h
+694692,31218,39,4,2026-09-13 15:30:00,82,391,Gvardiol,,0.742,0.579,0.0155,BlockedShot,FromCorner,RightFoot,None,a

@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,553,437505,Isidor,FWD,Sunderland,Ipswich Town,0,L,1,2,5,23,0,1,0,0,0,1,0,0,0,0,0,0,0,3,0.0,0.2,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.1,55,90196,0,0,0
+2,553,437505,Isidor,FWD,Sunderland,Fulham,1,W,1,0,19,26,0,8,1,0,0,0,0,0,0,0,0,0,3,29,29.2,0.1,25.0,5.4,0,0,0,0,1.39,0.0,1.39,0.37,55,85703,2470,12921,-10451
+3,553,437505,Isidor,FWD,Sunderland,Brentford,0,D,1,1,22,26,0,4,0,1,0,0,0,0,0,0,0,0,0,15,0.2,0.3,10.0,1.1,0,2,0,2,0.1,0.01,0.11,0.45,55,116229,35830,14557,21273
+4,553,437505,Isidor,FWD,Sunderland,Arsenal,1,L,0,2,36,20,0,1,0,0,0,1,0,0,0,0,0,0,0,1,1.2,0.1,0.0,0.1,0,0,1,1,0.0,0.0,0.0,1.07,55,163059,47557,22245,25312
+5,553,437505,Isidor,FWD,Sunderland,Man City,0,L,3,5,45,22,0,1,0,0,0,1,0,0,0,0,0,0,0,3,0.2,0.3,0.0,0.1,0,1,1,2,0.0,0.0,0.0,1.79,55,143906,6445,25431,-18986

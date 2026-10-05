@@ -1,0 +1,4 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688506,31180,1,1,2026-08-21 19:00:00,51,7,Lewis-Skelly,Kai Havertz,0.82,0.348,0.0477,MissedShots,OpenPlay,LeftFoot,Pass,h
+691697,31199,20,2,2026-08-31 19:00:00,7,7,Lewis-Skelly,Christos Tzolis,0.844,0.665,0.0472,BlockedShot,OpenPlay,LeftFoot,Pass,a
+693067,31209,29,3,2026-09-06 15:30:00,33,7,Lewis-Skelly,Christos Tzolis,0.859,0.636,0.0632,MissedShots,OpenPlay,LeftFoot,Pass,h

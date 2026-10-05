@@ -1,0 +1,11 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+689364,31188,9,1,2026-08-23 15:30:00,8,367,Gakpo,,0.889,0.637,0.0557,BlockedShot,FromCorner,LeftFoot,None,a
+689370,31188,9,1,2026-08-23 15:30:00,26,367,Gakpo,Florian Wirtz,0.803,0.682,0.0272,BlockedShot,OpenPlay,RightFoot,Pass,a
+689380,31188,9,1,2026-08-23 15:30:00,52,367,Gakpo,Milos Kerkez,0.772,0.621,0.0243,MissedShots,OpenPlay,RightFoot,Pass,a
+689381,31188,9,1,2026-08-23 15:30:00,54,367,Gakpo,Ryan Gravenberch,0.71,0.356,0.0149,Goal,OpenPlay,RightFoot,Pass,a
+689383,31188,9,1,2026-08-23 15:30:00,56,367,Gakpo,,0.871,0.539,0.0839,BlockedShot,OpenPlay,LeftFoot,Rebound,a
+689386,31188,9,1,2026-08-23 15:30:00,59,367,Gakpo,,0.77,0.648,0.02,MissedShots,OpenPlay,RightFoot,None,a
+691993,31200,21,3,2026-09-04 19:00:00,76,367,Gakpo,Bradley Barcola,0.874,0.387,0.1188,BlockedShot,OpenPlay,LeftFoot,Pass,a
+694060,31214,35,4,2026-09-12 14:00:00,73,367,Gakpo,Jeremie Frimpong,0.886,0.358,0.0671,BlockedShot,OpenPlay,LeftFoot,Pass,h
+696421,31228,49,5,2026-09-20 13:00:00,25,367,Gakpo,Florian Wirtz,0.812,0.55,0.0865,BlockedShot,OpenPlay,RightFoot,Pass,a
+696424,31228,49,5,2026-09-20 13:00:00,33,367,Gakpo,,0.845,0.33,0.0335,BlockedShot,OpenPlay,RightFoot,Rebound,a

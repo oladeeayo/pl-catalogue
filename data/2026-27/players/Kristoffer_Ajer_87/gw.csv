@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,87,191866,Ajer,DEF,Brentford,Spurs,1,W,3,0,2,90,1,8,0,0,1,0,0,0,0,0,0,0,0,29,20.0,0.9,35.0,5.6,8,3,2,10,0.11,0.02,0.13,0.57,45,318142,0,0,0
+2,87,191866,Ajer,DEF,Brentford,Leeds,0,D,1,1,17,90,1,3,0,0,0,1,0,0,0,0,1,0,0,7,37.8,21.0,2.0,6.1,17,2,0,17,0.0,0.01,0.01,1.46,45,412431,69978,13902,56076
+3,87,191866,Ajer,DEF,Brentford,Sunderland,1,D,1,1,22,90,1,2,0,0,0,1,0,0,0,0,0,0,0,8,11.8,0.3,0.0,1.2,5,2,0,5,0.0,0.0,0.0,1.71,45,610187,174453,61930,112523
+4,87,191866,Ajer,DEF,Brentford,Bournemouth,0,D,2,2,32,90,1,1,0,0,0,2,0,0,0,0,0,0,0,0,15.2,0.5,8.0,2.4,7,1,2,9,0.02,0.0,0.02,1.75,45,479881,52109,103890,-51781
+5,87,191866,Ajer,DEF,Brentford,Chelsea,1,W,3,0,41,90,1,7,0,0,1,0,0,0,0,0,0,0,1,29,19.4,11.3,4.0,3.5,9,3,0,9,0.0,0.05,0.05,0.83,45,417707,8947,73970,-65023

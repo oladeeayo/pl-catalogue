@@ -1,0 +1,2 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+691995,31200,21,3,2026-09-04 19:00:00,93,323,McAteer,Guemissongui Ouattara,0.757,0.42,0.0215,SavedShot,OpenPlay,RightFoot,LayOff,h

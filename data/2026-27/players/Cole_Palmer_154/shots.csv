@@ -1,0 +1,18 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+689751,31189,10,1,2026-08-24 19:00:00,7,154,Palmer,Morgan Rogers,0.921,0.279,0.0856,SavedShot,OpenPlay,RightFoot,Pass,a
+689752,31189,10,1,2026-08-24 19:00:00,18,154,Palmer,Morgan Rogers,0.856,0.455,0.1078,BlockedShot,OpenPlay,LeftFoot,Pass,a
+689766,31189,10,1,2026-08-24 19:00:00,43,154,Palmer,Morgan Rogers,0.8,0.325,0.0282,MissedShots,OpenPlay,LeftFoot,Pass,a
+689768,31189,10,1,2026-08-24 19:00:00,47,154,Palmer,Romeo Lavia,0.882,0.323,0.0706,MissedShots,OpenPlay,LeftFoot,TakeOn,a
+689769,31189,10,1,2026-08-24 19:00:00,48,154,Palmer,João Pedro,0.969,0.65,0.2809,Goal,OpenPlay,LeftFoot,Pass,a
+691584,31196,16,2,2026-08-30 13:00:00,33,154,Palmer,Morgan Rogers,0.961,0.685,0.0897,BlockedShot,OpenPlay,LeftFoot,Pass,h
+691595,31196,16,2,2026-08-30 13:00:00,56,154,Palmer,Morgan Rogers,0.891,0.632,0.1015,BlockedShot,OpenPlay,LeftFoot,Pass,h
+691597,31196,16,2,2026-08-30 13:00:00,57,154,Palmer,Morgan Rogers,0.957,0.468,0.6662,MissedShots,OpenPlay,LeftFoot,Pass,h
+691605,31196,16,2,2026-08-30 13:00:00,73,154,Palmer,João Pedro,0.794,0.517,0.0524,Goal,OpenPlay,LeftFoot,Pass,h
+693061,31209,29,3,2026-09-06 15:30:00,20,154,Palmer,Pedro Neto,0.786,0.325,0.0241,SavedShot,OpenPlay,LeftFoot,Pass,a
+693075,31209,29,3,2026-09-06 15:30:00,62,154,Palmer,,0.858,0.35,0.0174,SavedShot,OpenPlay,RightFoot,Aerial,a
+693080,31209,29,3,2026-09-06 15:30:00,82,154,Palmer,Morgan Rogers,0.887,0.714,0.0378,MissedShots,OpenPlay,LeftFoot,BallTouch,a
+694010,31212,33,4,2026-09-12 14:00:00,69,154,Palmer,Levi Colwill,0.692,0.729,0.0132,MissedShots,OpenPlay,LeftFoot,Pass,h
+694012,31212,33,4,2026-09-12 14:00:00,77,154,Palmer,,0.842,0.413,0.0586,MissedShots,OpenPlay,LeftFoot,None,h
+694019,31212,33,4,2026-09-12 14:00:00,96,154,Palmer,,0.757,0.277,0.0423,MissedShots,DirectFreekick,LeftFoot,Standard,h
+695620,31220,41,5,2026-09-18 19:00:00,67,154,Palmer,Danny Welbeck,0.846,0.517,0.0538,BlockedShot,OpenPlay,LeftFoot,HeadPass,a
+695622,31220,41,5,2026-09-18 19:00:00,77,154,Palmer,,0.892,0.559,0.0908,BlockedShot,OpenPlay,LeftFoot,TakeOn,a

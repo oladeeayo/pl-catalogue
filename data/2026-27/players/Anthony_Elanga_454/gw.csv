@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,454,449434,Elanga,MID,Newcastle,Liverpool,1,D,2,2,9,75,1,9,1,0,0,1,0,0,0,0,0,0,2,31,37.4,3.5,28.0,6.9,1,1,0,2,0.22,0.01,0.23,1.94,60,64591,0,0,0
+2,454,449434,Elanga,MID,Newcastle,Spurs,0,W,2,0,15,81,1,8,1,0,1,0,0,0,0,0,0,0,0,32,36.8,15.3,29.0,8.1,0,1,2,3,0.2,0.1,0.3,0.74,60,215548,95441,11873,83568
+3,454,449434,Elanga,MID,Newcastle,Bournemouth,1,D,2,2,27,76,1,1,0,0,0,2,0,0,0,0,1,0,0,8,8.4,31.8,4.0,4.4,1,1,2,4,0.0,0.23,0.23,1.33,61,1142637,810672,94469,716203
+4,454,449434,Elanga,MID,Newcastle,Leeds,0,L,1,4,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,62,1209834,326071,195343,130728
+5,454,449434,Elanga,MID,Newcastle,Hull City,1,W,2,1,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,62,616024,53653,618276,-564623

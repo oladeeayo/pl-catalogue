@@ -1,0 +1,5 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688588,31182,3,1,2026-08-22 14:00:00,16,224,Nketiah,Adam Wharton,0.908,0.577,0.3072,SavedShot,OpenPlay,RightFoot,Chipped,a
+690072,31190,11,2,2026-08-28 19:00:00,1,224,Nketiah,Adam Wharton,0.935,0.657,0.0647,MissedShots,OpenPlay,LeftFoot,Pass,h
+690092,31190,11,2,2026-08-28 19:00:00,49,224,Nketiah,Tyrick Mitchell,0.933,0.582,0.4464,MissedShots,OpenPlay,LeftFoot,Pass,h
+692370,31204,24,3,2026-09-05 14:00:00,22,224,Nketiah,Yeremi Pino,0.887,0.572,0.5262,SavedShot,OpenPlay,LeftFoot,Pass,a

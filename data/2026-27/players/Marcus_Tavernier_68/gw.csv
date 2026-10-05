@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,68,201658,Tavernier,MID,Bournemouth,Man City,0,L,1,2,8,90,1,10,1,0,0,2,0,0,0,0,0,0,3,32,40.0,17.2,18.0,7.5,2,4,2,8,0.4,0.08,0.48,2.25,60,139421,0,0,0
+2,68,201658,Tavernier,MID,Bournemouth,Everton,1,D,1,1,12,90,1,1,0,0,0,1,0,0,0,0,1,0,0,20,15.0,38.3,11.0,6.4,1,6,4,11,0.09,0.21,0.3,1.84,60,254437,87207,12431,74776
+3,68,201658,Tavernier,MID,Bournemouth,Newcastle,0,D,2,2,27,88,1,10,1,0,0,2,0,0,0,0,0,0,3,43,46.6,13.2,77.0,13.7,0,8,1,9,1.01,0.05,1.06,0.66,60,230783,28263,49848,-21585
+4,68,201658,Tavernier,MID,Bournemouth,Brentford,1,D,2,2,32,82,1,8,1,0,0,2,0,0,0,0,1,0,2,44,49.4,58.3,37.0,14.5,2,5,1,8,0.2,0.47,0.67,0.39,60,417515,177420,51460,125960
+5,68,201658,Tavernier,MID,Bournemouth,Liverpool,1,L,0,1,49,74,1,2,0,0,0,1,0,0,0,0,0,0,0,14,10.8,19.1,4.0,3.4,0,3,3,6,0.0,0.11,0.11,1.4,61,709800,318303,60985,257318

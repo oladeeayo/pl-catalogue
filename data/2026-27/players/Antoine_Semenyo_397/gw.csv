@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,397,437730,Semenyo,MID,Man City,Bournemouth,1,W,2,1,8,90,1,2,0,0,0,1,0,0,0,0,0,0,0,16,5.8,8.9,31.0,4.6,0,4,1,5,0.06,0.02,0.08,0.65,85,2354040,0,0,0
+2,397,437730,Semenyo,MID,Man City,Crystal Palace,0,W,4,1,11,90,1,5,0,1,0,1,0,0,0,0,0,0,0,33,29.2,43.0,40.0,11.2,0,2,1,3,0.06,0.57,0.63,0.66,85,2377196,49100,173210,-124110
+3,397,437730,Semenyo,MID,Man City,Coventry City,1,W,1,0,26,90,1,6,0,1,1,0,0,0,0,0,0,0,0,26,22.6,45.9,11.0,8.0,0,3,1,4,0.05,0.34,0.39,1.37,85,2009104,68628,431121,-362493
+4,397,437730,Semenyo,MID,Man City,Man Utd,0,W,1,0,39,90,1,3,0,0,1,0,0,0,0,0,0,0,0,7,2.2,16.1,6.0,2.4,0,2,1,3,0.0,0.06,0.06,1.0,84,1689535,35764,361532,-325768
+5,397,437730,Semenyo,MID,Man City,Sunderland,1,W,5,3,45,90,1,17,2,1,0,3,0,0,0,0,0,0,2,65,95.6,34.2,42.0,17.2,2,3,2,7,0.16,0.17,0.33,3.57,84,1598756,37411,176837,-139426

@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,313,443261,Clarke,MID,Ipswich Town,Sunderland,1,W,2,1,5,19,0,7,1,0,0,0,0,0,0,0,0,0,1,27,33.6,0.6,18.0,5.2,0,1,1,2,0.1,0.0,0.1,0.03,55,24135,0,0,0
+2,313,443261,Clarke,MID,Ipswich Town,Man Utd,0,L,2,5,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,55,29170,3202,2443,759
+3,313,443261,Clarke,MID,Ipswich Town,Liverpool,1,L,0,2,21,24,0,1,0,0,0,0,0,0,0,0,0,0,0,3,3.4,11.7,4.0,1.9,1,1,0,2,0.05,0.02,0.07,0.06,55,24744,1167,5726,-4559
+4,313,443261,Clarke,MID,Ipswich Town,Crystal Palace,0,W,3,2,34,62,1,1,0,0,0,1,0,0,0,0,1,0,0,8,5.0,13.0,21.0,3.9,0,1,1,2,0.15,0.02,0.17,0.2,54,22006,468,3722,-3254
+5,313,443261,Clarke,MID,Ipswich Town,Everton,0,L,0,1,43,65,1,2,0,0,0,1,0,0,0,0,0,0,0,10,10.0,30.1,2.0,4.2,2,2,0,4,0.0,0.33,0.33,1.68,54,19907,514,2903,-2389

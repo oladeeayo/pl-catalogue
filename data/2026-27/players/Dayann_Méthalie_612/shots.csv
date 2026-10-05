@@ -1,0 +1,2 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+696467,31222,45,5,2026-09-20 13:00:00,10,612,Methalie,Kevin Danso,0.734,0.634,0.0146,BlockedShot,OpenPlay,LeftFoot,HeadPass,a

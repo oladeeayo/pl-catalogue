@@ -1,0 +1,2 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+691061,31195,19,2,2026-08-30 13:00:00,92,547,Mundle,Granit Xhaka,0.911,0.708,0.2635,SavedShot,SetPiece,RightFoot,Chipped,h

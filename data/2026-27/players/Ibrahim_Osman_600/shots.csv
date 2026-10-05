@@ -1,0 +1,3 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+694509,31217,38,4,2026-09-13 13:00:00,80,600,Osman,Pascal Groß,0.892,0.699,0.0705,BlockedShot,OpenPlay,RightFoot,Pass,a
+694513,31217,38,4,2026-09-13 13:00:00,85,600,Osman,Maxim De Cuyper,0.866,0.696,0.0656,MissedShots,OpenPlay,RightFoot,Pass,a

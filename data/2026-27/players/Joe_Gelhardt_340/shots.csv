@@ -1,0 +1,4 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+695932,31223,46,5,2026-09-19 14:00:00,83,340,Gelhardt,Robinio Vaz,0.869,0.306,0.0359,BlockedShot,OpenPlay,LeftFoot,TakeOn,a
+695936,31223,46,5,2026-09-19 14:00:00,90,340,Gelhardt,Lucas Herrington,0.776,0.385,0.0209,BlockedShot,FromCorner,LeftFoot,Pass,a
+695937,31223,46,5,2026-09-19 14:00:00,90,340,Gelhardt,,0.821,0.376,0.0297,MissedShots,FromCorner,LeftFoot,None,a

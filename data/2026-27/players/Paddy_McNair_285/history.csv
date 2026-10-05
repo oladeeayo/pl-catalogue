@@ -1,0 +1,4 @@
+player_id,season_name,total_points,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,starts,tackles,recoveries,clearances_blocks_interceptions,defensive_contribution,start_cost,end_cost
+285,2014/15,34,1028,0,0,2,14,0,0,0,2,0,0,3,205,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,45,44
+285,2015/16,9,315,0,0,0,6,0,0,0,0,0,0,0,56,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,50,45
+285,2016/17,12,353,0,0,1,9,1,0,0,0,0,0,0,58,30.6,51.1,28.0,10.7,0.0,0.0,0.0,0.0,0,0,0,0,0,45,42

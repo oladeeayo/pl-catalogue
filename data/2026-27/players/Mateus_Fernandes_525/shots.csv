@@ -1,0 +1,7 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+690589,31194,15,2,2026-08-29 16:30:00,70,525,Fernandes,,0.762,0.467,0.0188,MissedShots,FromCorner,RightFoot,None,h
+694162,31215,37,4,2026-09-12 16:30:00,5,525,Fernandes,Sávio,0.879,0.347,0.0634,BlockedShot,OpenPlay,RightFoot,Pass,h
+694168,31215,37,4,2026-09-12 16:30:00,27,525,Fernandes,,0.85,0.662,0.0186,MissedShots,FromCorner,LeftFoot,Aerial,h
+694172,31215,37,4,2026-09-12 16:30:00,46,525,Fernandes,Sandro Tonali,0.74,0.404,0.0177,SavedShot,OpenPlay,LeftFoot,Pass,h
+695667,31221,48,5,2026-09-19 11:30:00,23,525,Fernandes,Sandro Tonali,0.762,0.31,0.0203,MissedShots,OpenPlay,RightFoot,Pass,h
+695677,31221,48,5,2026-09-19 11:30:00,49,525,Fernandes,Andrew Robertson,0.853,0.668,0.0343,MissedShots,OpenPlay,LeftFoot,Chipped,h

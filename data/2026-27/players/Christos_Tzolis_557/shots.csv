@@ -1,0 +1,5 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688493,31180,1,1,2026-08-21 19:00:00,4,557,Tzolis,Martin Odegaard,0.842,0.58,0.0775,MissedShots,OpenPlay,RightFoot,Pass,h
+688495,31180,1,1,2026-08-21 19:00:00,7,557,Tzolis,Ben White,0.845,0.505,0.0515,BlockedShot,FromCorner,LeftFoot,Pass,h
+688507,31180,1,1,2026-08-21 19:00:00,60,557,Tzolis,Martin Odegaard,0.873,0.633,0.079,BlockedShot,OpenPlay,RightFoot,BallTouch,h
+688509,31180,1,1,2026-08-21 19:00:00,64,557,Tzolis,,0.813,0.603,0.0296,SavedShot,FromCorner,RightFoot,None,h

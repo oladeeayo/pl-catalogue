@@ -1,0 +1,2 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+690180,31191,14,2,2026-08-29 11:30:00,73,364,Tsimikas,,0.81,0.522,0.0444,SavedShot,OpenPlay,RightFoot,None,h

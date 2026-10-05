@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,430,184341,Mount,MID,Man Utd,Hull City,0,L,0,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,55,3202,0,0,0
+2,430,184341,Mount,MID,Man Utd,Ipswich Town,1,W,5,2,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,55,2752,35,695,-660
+3,430,184341,Mount,MID,Man Utd,Everton,0,D,2,2,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,54,2327,60,590,-530
+4,430,184341,Mount,MID,Man Utd,Man City,1,L,0,1,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,54,2733,272,218,54
+5,430,184341,Mount,MID,Man Utd,Fulham,0,D,1,1,50,10,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0.6,1.1,5.0,0.7,0,1,0,1,0.09,0.01,0.1,0.0,54,3100,361,273,88

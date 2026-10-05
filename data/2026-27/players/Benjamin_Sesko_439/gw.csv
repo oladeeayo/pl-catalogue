@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,439,485711,Šeško,FWD,Man Utd,Hull City,0,L,0,2,4,23,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0.0,0.5,9.0,0.9,0,0,0,0,0.04,0.0,0.04,0.07,70,114788,0,0,0
+2,439,485711,Šeško,FWD,Man Utd,Ipswich Town,1,W,5,2,18,10,0,1,0,0,0,1,0,0,0,0,0,0,0,5,2.2,10.5,2.0,1.5,0,3,0,3,0.0,0.01,0.01,1.0,70,181866,30554,15126,15428
+3,439,485711,Šeško,FWD,Man Utd,Everton,0,D,2,2,30,20,0,5,1,0,0,2,0,0,0,0,0,0,0,28,31.2,0.2,21.0,5.2,0,0,0,0,0.29,0.0,0.29,0.36,70,161952,15581,48500,-32919
+4,439,485711,Šeško,FWD,Man Utd,Man City,1,L,0,1,39,23,0,1,0,0,0,0,0,0,0,0,0,0,0,4,1.2,0.7,4.0,0.6,0,2,0,2,0.06,0.0,0.06,0.57,70,182217,26345,22718,3627
+5,439,485711,Šeško,FWD,Man Utd,Fulham,0,D,1,1,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,70,192336,24959,23329,1630

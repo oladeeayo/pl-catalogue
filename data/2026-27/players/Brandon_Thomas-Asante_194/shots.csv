@@ -1,0 +1,6 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+694508,31217,38,4,2026-09-13 13:00:00,77,194,Thomas-Asante,Aurèle Amenda,0.884,0.391,0.0709,SavedShot,OpenPlay,RightFoot,BallTouch,h
+694516,31217,38,4,2026-09-13 13:00:00,92,194,Thomas-Asante,Caleb Yirenkyi,0.786,0.385,0.0303,SavedShot,OpenPlay,RightFoot,Pass,h
+696138,31227,47,5,2026-09-19 16:30:00,15,194,Thomas-Asante,Ephron Mason-Clark,0.805,0.514,0.0531,SavedShot,OpenPlay,LeftFoot,Pass,a
+696142,31227,47,5,2026-09-19 16:30:00,27,194,Thomas-Asante,Jay Dasilva,0.868,0.475,0.0284,MissedShots,OpenPlay,Head,Cross,a
+696164,31227,47,5,2026-09-19 16:30:00,79,194,Thomas-Asante,Matt Grimes,0.906,0.57,0.0742,MissedShots,SetPiece,Head,Cross,a

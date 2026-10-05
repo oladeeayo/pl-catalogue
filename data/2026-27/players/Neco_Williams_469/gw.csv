@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,469,215136,N.Williams,DEF,Nott'm Forest,Leeds,1,L,0,1,6,90,1,2,0,0,0,1,0,0,0,0,0,0,0,13,15.2,5.8,6.0,2.7,3,10,3,6,0.0,0.02,0.02,0.47,50,924685,0,0,0
+2,469,215136,N.Williams,DEF,Nott'm Forest,Liverpool,0,D,2,2,14,90,1,6,0,1,0,2,0,0,0,0,0,0,0,16,34.4,25.3,6.0,6.6,6,1,6,12,0.12,0.15,0.27,1.75,50,880209,14150,82134,-67984
+3,469,215136,N.Williams,DEF,Nott'm Forest,Spurs,1,D,0,0,28,90,1,7,0,0,1,0,0,0,0,0,0,0,1,28,11.4,10.9,4.0,2.6,3,8,3,6,0.0,0.07,0.07,1.06,50,851007,53518,88698,-35180
+4,469,215136,N.Williams,DEF,Nott'm Forest,Aston Villa,0,W,2,1,31,90,1,2,0,0,0,1,0,0,0,0,0,0,0,9,8.8,19.9,10.0,3.9,2,1,1,3,0.2,0.16,0.36,0.82,50,864022,91886,84494,7392
+5,469,215136,N.Williams,DEF,Nott'm Forest,Coventry City,1,L,0,1,47,90,1,2,0,0,0,1,0,0,0,0,0,0,0,19,20.6,61.8,16.0,9.8,1,8,1,2,0.09,0.21,0.3,0.67,50,1063643,154932,49932,105000

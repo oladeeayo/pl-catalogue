@@ -1,0 +1,6 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+692324,31202,26,3,2026-09-05 14:00:00,34,155,Enzo,,0.872,0.405,0.096,BlockedShot,OpenPlay,RightFoot,Dispossessed,h
+692325,31202,26,3,2026-09-05 14:00:00,34,155,Enzo,,0.87,0.393,0.0778,BlockedShot,OpenPlay,RightFoot,Rebound,h
+694674,31218,39,4,2026-09-13 15:30:00,2,155,Enzo,Phil Foden,0.793,0.567,0.0419,BlockedShot,OpenPlay,LeftFoot,Pass,a
+694687,31218,39,4,2026-09-13 15:30:00,68,155,Enzo,Antoine Semenyo,0.812,0.519,0.1028,SavedShot,OpenPlay,RightFoot,Pass,a
+696466,31222,45,5,2026-09-20 13:00:00,8,155,Enzo,,0.874,0.196,0.06,Goal,DirectFreekick,RightFoot,Standard,h

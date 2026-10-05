@@ -1,0 +1,2 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+692309,31206,23,3,2026-09-05 14:00:00,84,594,David,Olivier Boscagli,0.939,0.47,0.5202,MissedShots,SetPiece,RightFoot,Cross,h

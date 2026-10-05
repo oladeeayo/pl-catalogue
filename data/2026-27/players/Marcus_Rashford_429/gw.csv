@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,429,176297,Rashford,MID,Man Utd,Hull City,0,L,0,2,4,45,0,1,0,0,0,0,0,0,0,0,0,0,0,9,11.6,48.6,4.0,6.4,0,1,0,1,0.0,0.1,0.1,0.09,70,134653,0,0,0
+2,429,176297,Rashford,MID,Man Utd,Ipswich Town,1,W,5,2,18,79,1,2,0,0,0,1,0,0,0,0,0,0,0,17,16.0,34.3,58.0,10.8,0,3,3,6,0.26,0.05,0.31,1.06,70,165554,15064,22078,-7014
+3,429,176297,Rashford,MID,Man Utd,Everton,0,D,2,2,30,69,1,3,0,0,1,0,0,0,0,0,0,0,0,11,3.8,12.5,8.0,2.4,0,4,0,4,0.0,0.06,0.06,0.65,70,166436,22811,37855,-15044
+4,429,176297,Rashford,MID,Man Utd,Man City,1,L,0,1,39,82,1,2,0,0,0,1,0,0,0,0,0,0,0,6,5.4,14.1,29.0,4.9,2,2,1,5,0.12,0.08,0.2,1.08,70,172900,24764,28243,-3479
+5,429,176297,Rashford,MID,Man Utd,Fulham,0,D,1,1,50,76,1,2,0,0,0,1,0,0,0,0,0,0,0,15,16.6,53.7,58.0,12.8,2,0,0,2,0.4,0.14,0.54,1.62,70,171653,18390,22905,-4515

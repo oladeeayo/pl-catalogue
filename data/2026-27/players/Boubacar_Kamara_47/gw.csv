@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,47,226944,Kamara,MID,Aston Villa,Brighton,0,L,0,4,7,90,1,2,0,0,0,4,0,0,0,0,0,0,0,9,11.2,2.8,0.0,1.4,3,2,2,7,0.0,0.0,0.0,3.77,50,31172,0,0,0
+2,47,226944,Kamara,MID,Aston Villa,Arsenal,1,L,0,1,20,90,1,2,0,0,0,1,0,0,0,0,0,0,0,13,10.6,14.2,0.0,2.5,3,4,1,8,0.0,0.03,0.03,1.04,50,33591,2489,4739,-2250
+3,47,226944,Kamara,MID,Aston Villa,Hull City,0,D,0,0,25,90,1,3,0,0,1,0,0,0,0,0,0,0,0,20,13.6,26.2,0.0,4.0,3,6,1,10,0.0,0.07,0.07,0.57,50,35132,5061,5781,-720
+4,47,226944,Kamara,MID,Aston Villa,Nott'm Forest,1,L,1,2,31,90,1,2,0,0,0,2,0,0,0,0,0,0,0,17,11.6,12.4,2.0,2.6,1,1,3,5,0.0,0.05,0.05,2.28,50,34935,3671,4694,-1023
+5,47,226944,Kamara,MID,Aston Villa,Spurs,0,W,3,2,48,83,1,6,0,1,1,0,0,0,0,0,0,0,0,26,21.0,13.2,4.0,3.8,1,3,2,6,0.12,0.01,0.13,0.78,50,32641,1988,4734,-2746

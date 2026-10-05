@@ -1,0 +1,3 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+694272,31216,36,4,2026-09-12 19:00:00,57,452,Bruno G.,Declan Rice,0.772,0.522,0.0313,Goal,OpenPlay,RightFoot,Pass,a
+694277,31216,36,4,2026-09-12 19:00:00,74,452,Bruno G.,Kai Havertz,0.876,0.717,0.0504,MissedShots,OpenPlay,RightFoot,Pass,a

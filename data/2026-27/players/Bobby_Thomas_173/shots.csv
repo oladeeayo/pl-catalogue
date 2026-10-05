@@ -1,0 +1,11 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688510,31180,1,1,2026-08-21 19:00:00,66,173,Thomas,,0.724,0.335,0.0079,MissedShots,OpenPlay,RightFoot,None,a
+692315,31202,26,3,2026-09-05 14:00:00,10,173,Thomas,Jack Rudoni,0.899,0.51,0.0675,MissedShots,FromCorner,Head,Cross,a
+692321,31202,26,3,2026-09-05 14:00:00,23,173,Thomas,Jack Rudoni,0.977,0.593,0.0166,BlockedShot,FromCorner,Head,Aerial,a
+692330,31202,26,3,2026-09-05 14:00:00,63,173,Thomas,Loum Tchaouna,0.858,0.452,0.0241,MissedShots,SetPiece,Head,Cross,a
+692338,31202,26,3,2026-09-05 14:00:00,81,173,Thomas,Jay Dasilva,0.908,0.455,0.0269,MissedShots,FromCorner,Head,Aerial,a
+692340,31202,26,3,2026-09-05 14:00:00,92,173,Thomas,,0.721,0.469,0.0092,BlockedShot,SetPiece,RightFoot,Aerial,a
+694493,31217,38,4,2026-09-13 13:00:00,26,173,Thomas,,0.954,0.576,0.0505,MissedShots,OpenPlay,Head,Rebound,h
+694495,31217,38,4,2026-09-13 13:00:00,32,173,Thomas,Jack Rudoni,0.898,0.485,0.0201,MissedShots,FromCorner,Head,Aerial,h
+694511,31217,38,4,2026-09-13 13:00:00,81,173,Thomas,Milan van Ewijk,0.862,0.576,0.0256,MissedShots,OpenPlay,Head,Aerial,h
+696157,31227,47,5,2026-09-19 16:30:00,57,173,Thomas,Jack Rudoni,0.911,0.547,0.0431,MissedShots,SetPiece,Head,Aerial,a

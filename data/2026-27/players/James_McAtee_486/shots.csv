@@ -1,0 +1,10 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+692343,31203,28,3,2026-09-05 14:00:00,13,486,McAtee,Liam Delap,0.678,0.451,0.0233,SavedShot,OpenPlay,LeftFoot,Pass,h
+692346,31203,28,3,2026-09-05 14:00:00,25,486,McAtee,,0.795,0.472,0.0411,MissedShots,OpenPlay,LeftFoot,None,h
+692362,31203,28,3,2026-09-05 14:00:00,81,486,McAtee,,0.804,0.444,0.0434,BlockedShot,OpenPlay,RightFoot,None,h
+693969,31211,31,4,2026-09-12 14:00:00,11,486,McAtee,Morgan Gibbs-White,0.705,0.411,0.0153,SavedShot,SetPiece,LeftFoot,Pass,a
+693985,31211,31,4,2026-09-12 14:00:00,76,486,McAtee,Morgan Gibbs-White,0.734,0.435,0.0178,MissedShots,SetPiece,LeftFoot,Pass,a
+696133,31227,47,5,2026-09-19 16:30:00,0,486,McAtee,Morgan Gibbs-White,0.725,0.588,0.0075,SavedShot,OpenPlay,LeftFoot,Chipped,h
+696136,31227,47,5,2026-09-19 16:30:00,12,486,McAtee,Dan Ndoye,0.823,0.411,0.0391,BlockedShot,OpenPlay,LeftFoot,Rebound,h
+696150,31227,47,5,2026-09-19 16:30:00,36,486,McAtee,Jair,0.71,0.297,0.0127,BlockedShot,OpenPlay,LeftFoot,Pass,h
+696153,31227,47,5,2026-09-19 16:30:00,45,486,McAtee,Liam Delap,0.88,0.493,0.1187,BlockedShot,OpenPlay,LeftFoot,Pass,h

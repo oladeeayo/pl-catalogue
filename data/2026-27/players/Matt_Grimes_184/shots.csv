@@ -1,0 +1,5 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+690394,31192,13,2,2026-08-29 14:00:00,70,184,Grimes,Taiwo Awoniyi,0.827,0.255,0.025,BlockedShot,FromCorner,LeftFoot,Pass,h
+692333,31202,26,3,2026-09-05 14:00:00,69,184,Grimes,Loum Tchaouna,0.767,0.443,0.0164,MissedShots,OpenPlay,LeftFoot,HeadPass,a
+694500,31217,38,4,2026-09-13 13:00:00,41,184,Grimes,,0.768,0.483,0.0284,BlockedShot,OpenPlay,LeftFoot,None,h
+696137,31227,47,5,2026-09-19 16:30:00,14,184,Grimes,Ephron Mason-Clark,0.777,0.703,0.0149,MissedShots,OpenPlay,LeftFoot,Pass,a

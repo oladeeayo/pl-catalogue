@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,305,455084,Davis,DEF,Ipswich Town,Sunderland,1,W,2,1,5,90,1,2,0,0,0,1,0,0,0,0,0,0,0,10,15.2,2.3,0.0,1.8,7,4,0,7,0.0,0.01,0.01,0.66,40,479363,0,0,0
+2,305,455084,Davis,DEF,Ipswich Town,Man Utd,0,L,2,5,18,90,1,6,1,0,0,5,0,0,0,0,0,0,0,1,47.0,14.7,50.0,11.2,4,1,0,4,0.54,0.12,0.66,4.77,40,482824,7322,21290,-13968
+3,305,455084,Davis,DEF,Ipswich Town,Liverpool,1,L,0,2,21,90,1,1,0,0,0,2,0,0,0,0,0,0,0,4,17.4,21.5,19.0,5.8,4,3,2,6,0.11,0.12,0.23,0.69,40,540194,62873,39956,22917
+4,305,455084,Davis,DEF,Ipswich Town,Crystal Palace,0,W,3,2,34,90,1,14,1,2,0,2,0,0,0,0,0,0,1,35,54.8,17.1,39.0,11.1,2,0,0,2,0.52,0.19,0.71,0.62,40,543743,45631,60527,-14896
+5,305,455084,Davis,DEF,Ipswich Town,Everton,0,L,0,1,43,90,1,2,0,0,0,1,0,0,0,0,0,0,0,2,10.4,6.3,9.0,2.6,5,2,0,5,0.42,0.02,0.44,2.24,40,755615,204377,35843,168534

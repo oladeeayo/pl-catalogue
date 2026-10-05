@@ -1,0 +1,8 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688501,31180,1,1,2026-08-21 19:00:00,37,8,Calafiori,Christos Tzolis,0.824,0.548,0.0837,BlockedShot,OpenPlay,LeftFoot,Pass,h
+691701,31199,20,2,2026-08-31 19:00:00,17,8,Calafiori,Declan Rice,0.964,0.577,0.0487,MissedShots,FromCorner,Head,Aerial,a
+693055,31209,29,3,2026-09-06 15:30:00,4,8,Calafiori,Martin Odegaard,0.937,0.421,0.4751,SavedShot,SetPiece,RightFoot,Pass,h
+693064,31209,29,3,2026-09-06 15:30:00,23,8,Calafiori,Myles Lewis-Skelly,0.868,0.515,0.0883,BlockedShot,OpenPlay,RightFoot,Pass,h
+694260,31216,36,4,2026-09-12 19:00:00,6,8,Calafiori,Martin Odegaard,0.836,0.517,0.0851,BlockedShot,OpenPlay,RightFoot,Pass,a
+695942,31224,42,5,2026-09-19 14:00:00,19,8,Calafiori,Bukayo Saka,0.877,0.595,0.0177,BlockedShot,OpenPlay,Head,Cross,a
+695954,31224,42,5,2026-09-19 14:00:00,71,8,Calafiori,Declan Rice,0.924,0.604,0.0151,MissedShots,FromCorner,Head,Aerial,a

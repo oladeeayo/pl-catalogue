@@ -1,0 +1,6 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688756,31185,2,1,2026-08-22 16:30:00,75,105,Anthony,Nathan Collins,0.805,0.498,0.0162,MissedShots,FromCorner,LeftFoot,HeadPass,h
+691097,31197,17,2,2026-08-30 13:00:00,10,105,Anthony,Kevin Schade,0.866,0.404,0.0769,BlockedShot,OpenPlay,RightFoot,BallTouch,a
+691106,31197,17,2,2026-08-30 13:00:00,54,105,Anthony,Kristoffer Ajer,0.805,0.268,0.0289,BlockedShot,OpenPlay,RightFoot,Pass,a
+692411,31205,22,3,2026-09-05 14:00:00,50,105,Anthony,Mikkel Damsgaard,0.794,0.359,0.0292,MissedShots,OpenPlay,RightFoot,Pass,h
+695617,31220,41,5,2026-09-18 19:00:00,60,105,Anthony,Jannik Schuster,0.988,0.526,0.8324,Goal,FromCorner,Head,HeadPass,h

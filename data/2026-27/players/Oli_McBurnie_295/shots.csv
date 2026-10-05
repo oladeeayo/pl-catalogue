@@ -1,0 +1,10 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688538,31181,4,1,2026-08-22 11:30:00,14,295,McBurnie,Ryan John Giles,0.874,0.474,0.0263,SavedShot,OpenPlay,Head,Aerial,h
+688539,31181,4,1,2026-08-22 11:30:00,16,295,McBurnie,,0.969,0.403,0.4105,SavedShot,FromCorner,RightFoot,None,h
+692578,31207,25,3,2026-09-05 16:30:00,48,295,McBurnie,Elliot Stroud,0.734,0.477,0.0324,MissedShots,OpenPlay,RightFoot,Pass,h
+692583,31207,25,3,2026-09-05 16:30:00,71,295,McBurnie,Sorba Thomas,0.923,0.582,0.0412,MissedShots,OpenPlay,Head,Aerial,h
+692588,31207,25,3,2026-09-05 16:30:00,89,295,McBurnie,Ryan John Giles,0.872,0.462,0.2834,MissedShots,OpenPlay,RightFoot,Cross,h
+694008,31212,33,4,2026-09-12 14:00:00,60,295,McBurnie,,0.942,0.512,0.6129,SavedShot,OpenPlay,RightFoot,Rebound,a
+695921,31223,46,5,2026-09-19 14:00:00,62,295,McBurnie,Sorba Thomas,0.864,0.36,0.06,BlockedShot,OpenPlay,LeftFoot,LayOff,a
+695929,31223,46,5,2026-09-19 14:00:00,80,295,McBurnie,Lucas Herrington,0.923,0.45,0.12,BlockedShot,OpenPlay,RightFoot,Rebound,a
+695933,31223,46,5,2026-09-19 14:00:00,84,295,McBurnie,Mohamed Ali-Cho,0.918,0.511,0.0533,BlockedShot,OpenPlay,Head,Aerial,a

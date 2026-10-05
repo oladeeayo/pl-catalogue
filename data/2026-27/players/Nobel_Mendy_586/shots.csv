@@ -1,0 +1,5 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688546,31181,4,1,2026-08-22 11:30:00,37,586,Mendy,Regan Slater,0.948,0.503,0.5256,Goal,SetPiece,Head,Cross,h
+690392,31192,13,2,2026-08-29 14:00:00,49,586,Mendy,,0.732,0.533,0.011,SavedShot,OpenPlay,LeftFoot,Aerial,a
+692566,31207,25,3,2026-09-05 16:30:00,6,586,Mendy,,0.484,0.72,0.0098,SavedShot,OpenPlay,LeftFoot,BallRecovery,h
+692570,31207,25,3,2026-09-05 16:30:00,18,586,Mendy,Mohamed Belloumi,0.728,0.682,0.0137,MissedShots,OpenPlay,LeftFoot,Pass,h

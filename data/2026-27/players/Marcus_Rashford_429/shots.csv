@@ -1,0 +1,14 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+691310,31198,18,2,2026-08-30 15:30:00,5,429,Rashford,,0.703,0.573,0.0089,SavedShot,OpenPlay,RightFoot,TakeOn,h
+691316,31198,18,2,2026-08-30 15:30:00,19,429,Rashford,,0.69,0.56,0.034,MissedShots,DirectFreekick,RightFoot,Standard,h
+691320,31198,18,2,2026-08-30 15:30:00,26,429,Rashford,Bryan Mbeumo,0.976,0.603,0.0769,MissedShots,OpenPlay,RightFoot,Cross,h
+691338,31198,18,2,2026-08-30 15:30:00,63,429,Rashford,Diogo Dalot,0.956,0.615,0.296,SavedShot,OpenPlay,RightFoot,Cross,h
+694677,31218,39,4,2026-09-13 15:30:00,20,429,Rashford,Matheus Cunha,0.862,0.642,0.0717,BlockedShot,OpenPlay,RightFoot,Pass,h
+694680,31218,39,4,2026-09-13 15:30:00,44,429,Rashford,,0.722,0.556,0.0461,ShotOnPost,DirectFreekick,RightFoot,Standard,h
+694683,31218,39,4,2026-09-13 15:30:00,51,429,Rashford,Kobbie Mainoo,0.941,0.683,0.0973,BlockedShot,OpenPlay,LeftFoot,Pass,h
+696658,31229,50,5,2026-09-20 15:30:00,20,429,Rashford,Bryan Mbeumo,0.936,0.582,0.0509,MissedShots,OpenPlay,Head,Aerial,a
+696672,31229,50,5,2026-09-20 15:30:00,35,429,Rashford,Matheus Cunha,0.758,0.569,0.0247,BlockedShot,OpenPlay,RightFoot,Pass,a
+696673,31229,50,5,2026-09-20 15:30:00,38,429,Rashford,Bruno Fernandes,0.904,0.696,0.0598,SavedShot,OpenPlay,RightFoot,Pass,a
+696676,31229,50,5,2026-09-20 15:30:00,43,429,Rashford,Bryan Mbeumo,0.921,0.536,0.4745,MissedShots,OpenPlay,RightFoot,Rebound,a
+696683,31229,50,5,2026-09-20 15:30:00,71,429,Rashford,,0.864,0.582,0.0609,SavedShot,OpenPlay,RightFoot,None,a
+696685,31229,50,5,2026-09-20 15:30:00,74,429,Rashford,,0.746,0.689,0.0136,BlockedShot,FromCorner,RightFoot,None,a

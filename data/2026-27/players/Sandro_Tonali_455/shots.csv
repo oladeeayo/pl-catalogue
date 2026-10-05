@@ -1,0 +1,9 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688742,31185,2,1,2026-08-22 16:30:00,39,455,Tonali,Mikey Moore,0.795,0.464,0.017,MissedShots,OpenPlay,RightFoot,HeadPass,a
+688753,31185,2,1,2026-08-22 16:30:00,58,455,Tonali,Mathys Tel,0.715,0.644,0.0098,SavedShot,OpenPlay,RightFoot,Pass,a
+690571,31194,15,2,2026-08-29 16:30:00,16,455,Tonali,,0.867,0.629,0.0614,MissedShots,OpenPlay,LeftFoot,None,h
+694170,31215,37,4,2026-09-12 16:30:00,36,455,Tonali,Jan Paul van Hecke,0.718,0.486,0.0162,BlockedShot,OpenPlay,LeftFoot,Pass,h
+694181,31215,37,4,2026-09-12 16:30:00,79,455,Tonali,Andrew Robertson,0.802,0.471,0.0489,BlockedShot,OpenPlay,RightFoot,Pass,h
+695671,31221,48,5,2026-09-19 11:30:00,32,455,Tonali,Andrew Robertson,0.722,0.618,0.0135,BlockedShot,OpenPlay,RightFoot,Pass,h
+695673,31221,48,5,2026-09-19 11:30:00,33,455,Tonali,,0.965,0.66,0.0571,BlockedShot,FromCorner,RightFoot,Rebound,h
+695685,31221,48,5,2026-09-19 11:30:00,69,455,Tonali,Sávio,0.762,0.612,0.0249,MissedShots,FromCorner,RightFoot,Pass,h

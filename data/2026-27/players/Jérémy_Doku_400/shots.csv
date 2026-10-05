@@ -1,0 +1,2 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+696489,31222,45,5,2026-09-20 13:00:00,77,400,Doku,Antoine Semenyo,0.864,0.534,0.1168,BlockedShot,OpenPlay,RightFoot,Pass,h

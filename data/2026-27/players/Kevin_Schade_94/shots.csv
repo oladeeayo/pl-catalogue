@@ -1,0 +1,14 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688745,31185,2,1,2026-08-22 16:30:00,47,94,Schade,Dango Ouattara,0.95,0.382,0.1103,BlockedShot,OpenPlay,RightFoot,HeadPass,h
+688750,31185,2,1,2026-08-22 16:30:00,52,94,Schade,,0.857,0.563,0.0844,MissedShots,OpenPlay,RightFoot,None,h
+688755,31185,2,1,2026-08-22 16:30:00,68,94,Schade,Jaidon Anthony,0.87,0.579,0.0234,SavedShot,OpenPlay,Head,Cross,h
+688762,31185,2,1,2026-08-22 16:30:00,87,94,Schade,Callum Wilson,0.898,0.427,0.1435,SavedShot,OpenPlay,RightFoot,Pass,h
+688764,31185,2,1,2026-08-22 16:30:00,90,94,Schade,Vitaly Janelt,0.952,0.466,0.0743,MissedShots,FromCorner,Head,Aerial,h
+691092,31197,17,2,2026-08-30 13:00:00,0,94,Schade,,0.914,0.46,0.1076,BlockedShot,OpenPlay,RightFoot,None,a
+691101,31197,17,2,2026-08-30 13:00:00,39,94,Schade,Jaidon Anthony,0.908,0.593,0.0438,MissedShots,OpenPlay,Head,Cross,a
+691103,31197,17,2,2026-08-30 13:00:00,40,94,Schade,Keane Lewis-Potter,0.911,0.548,0.1079,Goal,OpenPlay,RightFoot,Cross,a
+693942,31210,32,4,2026-09-12 14:00:00,33,94,Schade,Yehor Yarmolyuk,0.91,0.502,0.3288,Goal,OpenPlay,Head,Cross,a
+693953,31210,32,4,2026-09-12 14:00:00,55,94,Schade,,0.77,0.835,0.1118,Goal,OpenPlay,RightFoot,BallRecovery,a
+695611,31220,41,5,2026-09-18 19:00:00,42,94,Schade,,0.858,0.45,0.0709,BlockedShot,OpenPlay,LeftFoot,None,h
+695618,31220,41,5,2026-09-18 19:00:00,63,94,Schade,Kristoffer Ajer,0.843,0.521,0.1044,BlockedShot,OpenPlay,RightFoot,Pass,h
+695624,31220,41,5,2026-09-18 19:00:00,82,94,Schade,Mikkel Damsgaard,0.858,0.592,0.3358,SavedShot,OpenPlay,RightFoot,Pass,h

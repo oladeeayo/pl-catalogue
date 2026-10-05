@@ -1,0 +1,7 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688497,31180,1,1,2026-08-21 19:00:00,12,190,Tchaouna,Ellis Simms,0.716,0.351,0.0128,BlockedShot,OpenPlay,LeftFoot,Pass,a
+688502,31180,1,1,2026-08-21 19:00:00,41,190,Tchaouna,Bobby Thomas,0.788,0.542,0.0324,MissedShots,OpenPlay,LeftFoot,HeadPass,a
+690384,31192,13,2,2026-08-29 14:00:00,5,190,Tchaouna,Jack Rudoni,0.781,0.389,0.0281,MissedShots,OpenPlay,LeftFoot,Pass,h
+692332,31202,26,3,2026-09-05 14:00:00,69,190,Tchaouna,Bobby Thomas,0.843,0.352,0.0432,SavedShot,OpenPlay,RightFoot,BallTouch,a
+692339,31202,26,3,2026-09-05 14:00:00,88,190,Tchaouna,Ellis Simms,0.701,0.709,0.0105,BlockedShot,OpenPlay,LeftFoot,BallTouch,a
+696155,31227,47,5,2026-09-19 16:30:00,52,190,Tchaouna,Caleb Yirenkyi,0.887,0.312,0.0813,SavedShot,OpenPlay,LeftFoot,Pass,a

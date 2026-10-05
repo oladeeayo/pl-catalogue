@@ -1,0 +1,2 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688649,31184,6,1,2026-08-22 14:00:00,64,490,Wood,Murillo,0.816,0.517,0.0589,MissedShots,OpenPlay,RightFoot,Pass,h

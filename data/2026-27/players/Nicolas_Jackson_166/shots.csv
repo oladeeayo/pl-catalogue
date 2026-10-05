@@ -1,0 +1,9 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+692565,31207,25,3,2026-09-05 16:30:00,1,166,N.Jackson,Ian Maatsen,0.955,0.462,0.1132,MissedShots,OpenPlay,Head,Aerial,a
+692569,31207,25,3,2026-09-05 16:30:00,13,166,N.Jackson,Matthew Cash,0.901,0.285,0.044,BlockedShot,FromCorner,RightFoot,Pass,a
+695669,31221,48,5,2026-09-19 11:30:00,27,166,N.Jackson,Emiliano Buendía,0.816,0.539,0.0581,MissedShots,OpenPlay,RightFoot,Pass,a
+695679,31221,48,5,2026-09-19 11:30:00,52,166,N.Jackson,,0.891,0.378,0.0709,MissedShots,OpenPlay,LeftFoot,TakeOn,a
+695680,31221,48,5,2026-09-19 11:30:00,52,166,N.Jackson,Johan Manzambi,0.863,0.67,0.3174,SavedShot,OpenPlay,RightFoot,Throughball,a
+695681,31221,48,5,2026-09-19 11:30:00,55,166,N.Jackson,Matteo Ruggeri,0.725,0.651,0.0264,MissedShots,OpenPlay,RightFoot,TakeOn,a
+695682,31221,48,5,2026-09-19 11:30:00,57,166,N.Jackson,John McGinn,0.764,0.607,0.0496,BlockedShot,OpenPlay,RightFoot,Pass,a
+695684,31221,48,5,2026-09-19 11:30:00,66,166,N.Jackson,Johan Manzambi,0.846,0.411,0.1156,Goal,OpenPlay,RightFoot,TakeOn,a

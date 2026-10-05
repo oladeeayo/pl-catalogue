@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,78,560262,Kroupi.Jr,MID,Bournemouth,Man City,0,L,1,2,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,75,42378,0,0,0
+2,78,560262,Kroupi.Jr,MID,Bournemouth,Everton,1,D,1,1,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,75,30734,462,13408,-12946
+3,78,560262,Kroupi.Jr,MID,Bournemouth,Newcastle,0,D,2,2,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,74,23655,246,7960,-7714
+4,78,560262,Kroupi.Jr,MID,Bournemouth,Brentford,1,D,2,2,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,74,21026,197,3321,-3124
+5,78,560262,Kroupi.Jr,MID,Bournemouth,Liverpool,1,L,0,1,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,74,19554,141,1829,-1688

@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,564,240514,Scherpen,GKP,Ipswich Town,Sunderland,1,W,2,1,5,90,1,2,0,0,0,1,2,0,0,0,0,0,0,12,14.4,0.0,0.0,1.4,1,10,0,0,0.0,0.0,0.0,0.66,45,57252,0,0,0
+2,564,240514,Scherpen,GKP,Ipswich Town,Man Utd,0,L,2,5,18,90,1,2,0,0,0,5,6,0,0,0,0,0,0,9,46.4,0.0,0.0,4.6,4,13,0,0,0.0,0.01,0.01,4.77,45,62701,1329,3576,-2247
+3,564,240514,Scherpen,GKP,Ipswich Town,Liverpool,1,L,0,2,21,90,1,2,0,0,0,2,5,0,0,0,0,0,0,13,27.8,0.0,0.0,2.8,0,7,0,0,0.0,0.0,0.0,0.69,45,58738,4399,7157,-2758
+4,564,240514,Scherpen,GKP,Ipswich Town,Crystal Palace,0,W,3,2,34,90,1,1,0,0,0,2,2,0,0,0,0,0,0,6,15.0,0.0,0.0,1.5,3,9,0,0,0.0,0.0,0.0,0.62,45,63943,5936,5606,330
+5,564,240514,Scherpen,GKP,Ipswich Town,Everton,0,L,0,1,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,45,63895,2903,4238,-1335

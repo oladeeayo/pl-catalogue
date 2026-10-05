@@ -1,0 +1,9 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+690575,31194,15,2,2026-08-29 16:30:00,32,401,Marmoush,Andrew Robertson,0.967,0.662,0.0353,MissedShots,FromCorner,RightFoot,Cross,h
+690584,31194,15,2,2026-08-29 16:30:00,59,401,Marmoush,,0.67,0.481,0.0108,MissedShots,OpenPlay,RightFoot,GoodSkill,h
+690593,31194,15,2,2026-08-29 16:30:00,86,401,Marmoush,Mateus Fernandes,0.907,0.599,0.0629,SavedShot,OpenPlay,LeftFoot,Cross,h
+692344,31203,28,3,2026-09-05 14:00:00,16,401,Marmoush,Pedro Porro,0.834,0.398,0.3392,MissedShots,OpenPlay,RightFoot,Chipped,a
+692353,31203,28,3,2026-09-05 14:00:00,53,401,Marmoush,,0.789,0.577,0.098,BlockedShot,DirectFreekick,RightFoot,Standard,a
+692358,31203,28,3,2026-09-05 14:00:00,70,401,Marmoush,Antonín Kinsky,0.84,0.705,0.0461,MissedShots,OpenPlay,RightFoot,Pass,a
+694164,31215,37,4,2026-09-12 16:30:00,9,401,Marmoush,Sávio,0.716,0.442,0.0157,BlockedShot,OpenPlay,RightFoot,Pass,h
+695686,31221,48,5,2026-09-19 11:30:00,74,401,Marmoush,Sávio,0.816,0.656,0.041,BlockedShot,OpenPlay,RightFoot,Pass,h

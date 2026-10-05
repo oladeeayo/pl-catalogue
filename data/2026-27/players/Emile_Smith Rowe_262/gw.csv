@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,262,209289,Smith Rowe,MID,Fulham,Chelsea,1,L,2,3,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,55,35036,0,0,0
+2,262,209289,Smith Rowe,MID,Fulham,Sunderland,0,L,0,1,19,14,0,1,0,0,0,0,0,0,0,0,0,0,0,5,5.2,22.8,7.0,3.5,0,1,0,1,0.06,0.02,0.08,0.41,55,36765,1414,4748,-3334
+3,262,209289,Smith Rowe,MID,Fulham,Crystal Palace,1,L,2,3,24,11,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0.2,0.5,2.0,0.3,0,0,0,0,0.0,0.0,0.0,0.0,55,32334,1425,6526,-5101
+4,262,209289,Smith Rowe,MID,Fulham,Liverpool,0,D,0,0,35,13,0,1,0,0,0,0,0,0,0,0,0,0,0,3,1.2,0.5,0.0,0.2,1,1,0,2,0.0,0.0,0.0,0.46,54,28676,777,4894,-4117
+5,262,209289,Smith Rowe,MID,Fulham,Man Utd,1,D,1,1,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,54,26201,582,3491,-2909

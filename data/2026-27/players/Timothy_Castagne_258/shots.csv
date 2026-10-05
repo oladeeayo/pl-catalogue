@@ -1,0 +1,5 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+689770,31189,10,1,2026-08-24 19:00:00,53,258,Castagne,,0.888,0.433,0.0721,SavedShot,OpenPlay,LeftFoot,None,h
+692365,31204,24,3,2026-09-05 14:00:00,3,258,Castagne,Joachim Andersen,0.841,0.322,0.0389,MissedShots,OpenPlay,RightFoot,Pass,h
+692375,31204,24,3,2026-09-05 14:00:00,27,258,Castagne,Oscar Bobb,0.969,0.397,0.0565,MissedShots,FromCorner,RightFoot,Cross,h
+692377,31204,24,3,2026-09-05 14:00:00,32,258,Castagne,Oscar Bobb,0.929,0.445,0.4874,SavedShot,OpenPlay,LeftFoot,Pass,h

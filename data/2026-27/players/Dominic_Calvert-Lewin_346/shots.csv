@@ -1,0 +1,12 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688642,31184,6,1,2026-08-22 14:00:00,51,346,Calvert-Lewin,Ethan Ampadu,0.92,0.736,0.0462,MissedShots,OpenPlay,LeftFoot,BallRecovery,a
+688645,31184,6,1,2026-08-22 14:00:00,55,346,Calvert-Lewin,,0.741,0.521,0.0164,BlockedShot,OpenPlay,RightFoot,None,a
+688652,31184,6,1,2026-08-22 14:00:00,85,346,Calvert-Lewin,Joe Rodon,0.917,0.421,0.0978,BlockedShot,OpenPlay,LeftFoot,Cross,a
+691120,31197,17,2,2026-08-30 13:00:00,78,346,Calvert-Lewin,Lukas Nmecha,0.968,0.508,0.7724,Goal,OpenPlay,LeftFoot,Rebound,h
+692284,31206,23,3,2026-09-05 14:00:00,14,346,Calvert-Lewin,Nico Elvedi,0.927,0.54,0.282,SavedShot,FromCorner,Head,Chipped,a
+692288,31206,23,3,2026-09-05 14:00:00,22,346,Calvert-Lewin,,0.886,0.449,0.4169,BlockedShot,OpenPlay,RightFoot,BallRecovery,a
+695023,31219,40,4,2026-09-14 19:00:00,33,346,Calvert-Lewin,James Justin,0.919,0.484,0.0686,BlockedShot,OpenPlay,Head,Aerial,h
+695025,31219,40,4,2026-09-14 19:00:00,37,346,Calvert-Lewin,,0.961,0.542,0.7353,SavedShot,OpenPlay,RightFoot,None,h
+695026,31219,40,4,2026-09-14 19:00:00,37,346,Calvert-Lewin,Jayden Bogle,0.859,0.517,0.029,MissedShots,OpenPlay,Head,Cross,h
+695028,31219,40,4,2026-09-14 19:00:00,45,346,Calvert-Lewin,Tarik Muharemovic,0.912,0.591,0.4843,Goal,OpenPlay,RightFoot,TakeOn,h
+696457,31225,44,5,2026-09-20 13:00:00,55,346,Calvert-Lewin,James Justin,0.918,0.502,0.3905,SavedShot,OpenPlay,RightFoot,Cross,h

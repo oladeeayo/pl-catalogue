@@ -1,0 +1,8 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+689207,31186,7,1,2026-08-23 13:00:00,7,115,De Cuyper,,0.936,0.297,0.3026,ShotOnPost,OpenPlay,RightFoot,BallRecovery,h
+689210,31186,7,1,2026-08-23 13:00:00,17,115,De Cuyper,Georginio Rutter,0.975,0.508,0.9076,Goal,OpenPlay,LeftFoot,Pass,h
+689216,31186,7,1,2026-08-23 13:00:00,42,115,De Cuyper,Pascal Groß,0.818,0.56,0.0756,MissedShots,OpenPlay,LeftFoot,Chipped,h
+689217,31186,7,1,2026-08-23 13:00:00,43,115,De Cuyper,Pascal Groß,0.874,0.652,0.0938,BlockedShot,OpenPlay,LeftFoot,Pass,h
+691580,31196,16,2,2026-08-30 13:00:00,23,115,De Cuyper,Charalampos Kostoulas,0.881,0.73,0.0438,BlockedShot,OpenPlay,LeftFoot,Pass,a
+694514,31217,38,4,2026-09-13 13:00:00,88,115,De Cuyper,Matt O&#039;Riley,0.75,0.469,0.0292,MissedShots,OpenPlay,LeftFoot,Pass,a
+695960,31224,42,5,2026-09-19 14:00:00,79,115,De Cuyper,,0.796,0.398,0.024,MissedShots,FromCorner,LeftFoot,None,h

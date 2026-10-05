@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,465,538207,Osula,FWD,Newcastle,Liverpool,1,D,2,2,9,55,1,4,0,1,0,1,0,0,0,0,0,0,0,18,28.2,13.7,8.0,5.0,2,2,1,5,0.06,0.14,0.2,1.48,60,83021,0,0,0
+2,465,538207,Osula,FWD,Newcastle,Spurs,0,W,2,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,60,90550,20344,26507,-6163
+3,465,538207,Osula,FWD,Newcastle,Bournemouth,1,D,2,2,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,59,51608,557,38249,-37692
+4,465,538207,Osula,FWD,Newcastle,Leeds,0,L,1,4,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,59,41129,234,12886,-12652
+5,465,538207,Osula,FWD,Newcastle,Hull City,1,W,2,1,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,59,35111,188,6663,-6475

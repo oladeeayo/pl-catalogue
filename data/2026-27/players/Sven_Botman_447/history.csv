@@ -1,0 +1,5 @@
+player_id,season_name,total_points,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,starts,tackles,recoveries,clearances_blocks_interceptions,defensive_contribution,start_cost,end_cost
+447,2022/23,129,3127,0,2,13,30,0,0,0,2,0,0,8,666,583.0,120.3,303.0,101.0,2.75,1.09,3.84,38.0,35,0,0,0,0,45,45
+447,2023/24,51,1375,2,2,3,29,1,0,0,2,0,0,4,298,386.8,62.9,104.0,55.5,0.62,0.54,1.16,31.58,15,0,0,0,0,45,45
+447,2024/25,18,412,0,0,2,4,0,0,0,1,0,0,0,95,110.4,28.4,96.0,23.6,0.59,0.22,0.81,5.07,6,0,0,0,46,45,44
+447,2025/26,89,1834,1,1,5,27,1,0,0,2,0,0,6,332,597.0,85.8,190.0,87.4,1.73,0.86,2.59,27.58,21,21,89,195,216,50,49

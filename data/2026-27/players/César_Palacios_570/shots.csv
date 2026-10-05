@@ -1,0 +1,9 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+689754,31189,10,1,2026-08-24 19:00:00,20,570,Palacios,Joshua King,0.811,0.526,0.0398,MissedShots,FromCorner,RightFoot,Pass,h
+689757,31189,10,1,2026-08-24 19:00:00,26,570,Palacios,Timothy Castagne,0.921,0.551,0.1201,BlockedShot,OpenPlay,RightFoot,Cross,h
+691048,31195,19,2,2026-08-30 13:00:00,57,570,Palacios,Oscar Bobb,0.768,0.469,0.0296,MissedShots,OpenPlay,LeftFoot,Pass,a
+692374,31204,24,3,2026-09-05 14:00:00,26,570,Palacios,Gonzalo García,0.864,0.543,0.0992,BlockedShot,OpenPlay,RightFoot,Pass,h
+692381,31204,24,3,2026-09-05 14:00:00,41,570,Palacios,,0.925,0.482,0.5427,Goal,OpenPlay,RightFoot,None,h
+692384,31204,24,3,2026-09-05 14:00:00,48,570,Palacios,,0.939,0.541,0.1408,MissedShots,FromCorner,LeftFoot,Rebound,h
+692389,31204,24,3,2026-09-05 14:00:00,55,570,Palacios,,0.882,0.62,0.0677,SavedShot,OpenPlay,RightFoot,None,h
+692391,31204,24,3,2026-09-05 14:00:00,60,570,Palacios,Joachim Andersen,0.857,0.629,0.0577,MissedShots,SetPiece,RightFoot,Pass,h

@@ -1,0 +1,4 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+694016,31212,33,4,2026-09-12 14:00:00,86,642,Thomas,,0.75,0.554,0.0216,BlockedShot,OpenPlay,RightFoot,BallRecovery,a
+695911,31223,46,5,2026-09-19 14:00:00,22,642,Thomas,Matt Crooks,0.921,0.482,0.0854,BlockedShot,OpenPlay,RightFoot,Cross,a
+695915,31223,46,5,2026-09-19 14:00:00,47,642,Thomas,,0.786,0.61,0.0201,MissedShots,OpenPlay,LeftFoot,None,a

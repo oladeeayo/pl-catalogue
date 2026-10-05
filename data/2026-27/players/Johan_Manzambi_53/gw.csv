@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,53,614071,Manzambi,MID,Aston Villa,Brighton,0,L,0,4,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,60,26624,0,0,0
+2,53,614071,Manzambi,MID,Aston Villa,Arsenal,1,L,0,1,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,60,18618,232,8790,-8558
+3,53,614071,Manzambi,MID,Aston Villa,Hull City,0,D,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,59,14230,341,5049,-4708
+4,53,614071,Manzambi,MID,Aston Villa,Nott'm Forest,1,L,1,2,31,27,0,1,0,0,0,1,0,0,0,0,0,0,0,3,2.6,4.0,0.0,0.7,0,1,1,2,0.0,0.08,0.08,0.86,59,13307,570,1790,-1220
+5,53,614071,Manzambi,MID,Aston Villa,Spurs,0,W,3,2,48,71,1,13,1,1,1,0,0,0,0,0,0,0,2,45,63.2,25.8,60.0,14.9,2,4,1,7,0.44,0.16,0.6,0.68,59,14639,1843,990,853

@@ -1,0 +1,10 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+689365,31188,9,1,2026-08-23 15:30:00,11,464,Wissa,,0.695,0.566,0.0138,MissedShots,OpenPlay,LeftFoot,None,h
+689375,31188,9,1,2026-08-23 15:30:00,43,464,Wissa,,0.795,0.271,0.0248,MissedShots,OpenPlay,RightFoot,None,h
+689388,31188,9,1,2026-08-23 15:30:00,66,464,Wissa,Lewis Hall,0.949,0.518,0.6305,MissedShots,OpenPlay,RightFoot,Rebound,h
+689395,31188,9,1,2026-08-23 15:30:00,85,464,Wissa,Joe Willock,0.896,0.382,0.3008,SavedShot,OpenPlay,RightFoot,Chipped,h
+690577,31194,15,2,2026-08-29 16:30:00,33,464,Wissa,Anthony Elanga,0.959,0.435,0.1151,MissedShots,FromCorner,Head,Cross,a
+690591,31194,15,2,2026-08-29 16:30:00,71,464,Wissa,Nick Woltemade,0.975,0.573,0.5075,Goal,FromCorner,RightFoot,Rebound,a
+695033,31219,40,4,2026-09-14 19:00:00,71,464,Wissa,Harvey Barnes,0.91,0.512,0.0533,MissedShots,OpenPlay,Head,Chipped,a
+695914,31223,46,5,2026-09-19 14:00:00,46,464,Wissa,,0.885,0.5,0.7612,SavedShot,Penalty,RightFoot,Standard,h
+695934,31223,46,5,2026-09-19 14:00:00,89,464,Wissa,Harvey Barnes,0.712,0.516,0.0185,MissedShots,OpenPlay,RightFoot,Pass,h

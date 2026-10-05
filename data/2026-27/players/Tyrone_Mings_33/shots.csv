@@ -1,0 +1,5 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+692572,31207,25,3,2026-09-05 16:30:00,26,33,Mings,Victor Lindelöf,0.705,0.594,0.0156,MissedShots,OpenPlay,LeftFoot,Pass,a
+692584,31207,25,3,2026-09-05 16:30:00,75,33,Mings,Victor Lindelöf,0.904,0.456,0.0575,BlockedShot,SetPiece,Head,HeadPass,a
+692586,31207,25,3,2026-09-05 16:30:00,80,33,Mings,Ross Barkley,0.878,0.46,0.0802,BlockedShot,FromCorner,LeftFoot,None,a
+693994,31211,31,4,2026-09-12 14:00:00,96,33,Mings,Ibrahim Mbaye,0.918,0.493,0.0523,MissedShots,OpenPlay,Head,Aerial,h

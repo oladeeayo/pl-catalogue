@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,548,554197,Rigg,MID,Sunderland,Ipswich Town,0,L,1,2,5,10,0,1,0,0,0,1,0,0,0,0,0,0,0,3,0.0,0.3,0.0,0.0,0,1,0,1,0.0,0.0,0.0,0.1,50,6214,0,0,0
+2,548,554197,Rigg,MID,Sunderland,Fulham,1,W,1,0,19,7,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.34,50,6409,99,620,-521
+3,548,554197,Rigg,MID,Sunderland,Brentford,0,D,1,1,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,50,5751,143,862,-719
+4,548,554197,Rigg,MID,Sunderland,Arsenal,1,L,0,2,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,49,5378,130,634,-504
+5,548,554197,Rigg,MID,Sunderland,Man City,0,L,3,5,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,49,4992,65,504,-439

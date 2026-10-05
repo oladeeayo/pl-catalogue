@@ -1,0 +1,8 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688541,31181,4,1,2026-08-22 11:30:00,19,43,Tielemans,,0.781,0.439,0.0308,BlockedShot,OpenPlay,RightFoot,None,a
+691315,31198,18,2,2026-08-30 15:30:00,16,43,Tielemans,Matheus Cunha,0.785,0.212,0.0132,BlockedShot,OpenPlay,RightFoot,Pass,h
+691329,31198,18,2,2026-08-30 15:30:00,51,43,Tielemans,,0.955,0.527,0.1652,BlockedShot,OpenPlay,LeftFoot,Rebound,h
+691333,31198,18,2,2026-08-30 15:30:00,53,43,Tielemans,Marcus Rashford,0.749,0.438,0.0208,SavedShot,OpenPlay,RightFoot,BallTouch,h
+692853,31208,30,3,2026-09-06 13:00:00,17,43,Tielemans,Diogo Dalot,0.72,0.399,0.0142,SavedShot,OpenPlay,RightFoot,Pass,a
+692869,31208,30,3,2026-09-06 13:00:00,64,43,Tielemans,Diogo Dalot,0.777,0.663,0.0302,BlockedShot,OpenPlay,LeftFoot,BallTouch,a
+696671,31229,50,5,2026-09-20 15:30:00,33,43,Tielemans,Marcus Rashford,0.844,0.539,0.0888,MissedShots,OpenPlay,LeftFoot,Pass,a

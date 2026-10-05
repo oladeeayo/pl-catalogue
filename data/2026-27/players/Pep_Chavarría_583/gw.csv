@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,583,498444,Chavarria,DEF,Chelsea,Fulham,0,W,3,2,10,25,0,1,0,0,0,0,0,0,0,0,0,0,0,3,2.4,0.2,2.0,0.5,1,1,0,1,0.0,0.0,0.0,0.28,50,17073,0,0,0
+2,583,498444,Chavarria,DEF,Chelsea,Brighton,1,W,4,3,16,18,0,1,0,0,0,1,0,0,0,0,0,0,0,1,6.4,0.3,0.0,0.7,2,1,1,3,0.0,0.02,0.02,0.09,50,19574,1081,2558,-1477
+3,583,498444,Chavarria,DEF,Chelsea,Arsenal,0,L,1,2,29,30,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2.4,2.0,4.0,0.8,1,1,1,2,0.0,0.0,0.0,0.14,50,17402,664,4077,-3413
+4,583,498444,Chavarria,DEF,Chelsea,Hull City,1,D,2,2,33,45,0,1,0,0,0,0,0,0,0,0,0,0,0,4,2.0,1.7,2.0,0.6,1,1,0,1,0.0,0.01,0.01,0.94,49,16748,686,2297,-1611
+5,583,498444,Chavarria,DEF,Chelsea,Brentford,0,L,0,3,41,90,1,1,0,0,0,3,0,0,0,0,0,0,0,7,17.6,27.2,4.0,4.9,6,3,3,9,0.04,0.04,0.08,2.65,49,16124,529,1674,-1145

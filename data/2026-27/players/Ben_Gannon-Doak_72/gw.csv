@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,72,496208,Gannon-Doak,MID,Bournemouth,Man City,0,L,1,2,8,1,0,1,0,0,0,1,0,0,0,0,0,0,0,3,0.2,0.1,2.0,0.2,0,1,0,1,0.0,0.0,0.0,0.19,50,7889,0,0,0
+2,72,496208,Gannon-Doak,MID,Bournemouth,Everton,1,D,1,1,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,50,8171,365,833,-468
+3,72,496208,Gannon-Doak,MID,Bournemouth,Newcastle,0,D,2,2,27,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,2.0,0.5,5.0,0.8,0,1,1,2,0.02,0.0,0.02,0.05,50,7170,384,1549,-1165
+4,72,496208,Gannon-Doak,MID,Bournemouth,Brentford,1,D,2,2,32,8,0,1,0,0,0,0,0,0,0,0,0,0,0,6,1.6,1.5,7.0,1.0,0,3,1,4,0.1,0.03,0.13,0.11,49,6799,413,1025,-612
+5,72,496208,Gannon-Doak,MID,Bournemouth,Liverpool,1,L,0,1,49,2,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0.2,0.8,2.0,0.3,0,0,0,0,0.0,0.02,0.02,0.25,49,6412,338,853,-515

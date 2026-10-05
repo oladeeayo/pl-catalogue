@@ -1,0 +1,2 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+695935,31223,46,5,2026-09-19 14:00:00,89,589,Gourna-Douath,,0.761,0.438,0.0113,BlockedShot,OpenPlay,RightFoot,Aerial,a

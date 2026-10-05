@@ -1,0 +1,9 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+689397,31188,9,1,2026-08-23 15:30:00,89,453,Barnes,,0.834,0.65,0.0602,BlockedShot,OpenPlay,RightFoot,Dispossessed,h
+690569,31194,15,2,2026-08-29 16:30:00,8,453,Barnes,Yoane Wissa,0.811,0.522,0.055,MissedShots,OpenPlay,RightFoot,BallTouch,a
+692064,31201,27,3,2026-09-05 11:30:00,36,453,Barnes,Lewis Hall,0.859,0.725,0.0242,Goal,OpenPlay,RightFoot,Pass,h
+692072,31201,27,3,2026-09-05 11:30:00,87,453,Barnes,Malick Thiaw,0.872,0.503,0.0675,MissedShots,SetPiece,RightFoot,HeadPass,h
+695027,31219,40,4,2026-09-14 19:00:00,40,453,Barnes,Yoane Wissa,0.912,0.589,0.5448,SavedShot,OpenPlay,LeftFoot,BallTouch,a
+695032,31219,40,4,2026-09-14 19:00:00,64,453,Barnes,Joe Willock,0.756,0.679,0.0151,SavedShot,OpenPlay,RightFoot,Pass,a
+695922,31223,46,5,2026-09-19 14:00:00,63,453,Barnes,Sean Steur,0.846,0.742,0.044,MissedShots,OpenPlay,RightFoot,Pass,h
+695931,31223,46,5,2026-09-19 14:00:00,83,453,Barnes,Fabian Schär,0.911,0.715,0.0446,SavedShot,SetPiece,LeftFoot,Chipped,h

@@ -1,0 +1,4 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+689367,31188,9,1,2026-08-23 15:30:00,17,358,Kerkez,Dominik Szoboszlai,0.796,0.745,0.0224,MissedShots,FromCorner,LeftFoot,Cross,a
+689371,31188,9,1,2026-08-23 15:30:00,28,358,Kerkez,Jérémy Jacquet,0.733,0.658,0.0159,SavedShot,OpenPlay,LeftFoot,Pass,a
+696432,31228,49,5,2026-09-20 13:00:00,60,358,Kerkez,Florian Wirtz,0.791,0.607,0.0418,BlockedShot,OpenPlay,LeftFoot,Pass,a

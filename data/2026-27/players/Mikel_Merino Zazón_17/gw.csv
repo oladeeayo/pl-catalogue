@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,17,195384,Merino,MID,Arsenal,Coventry City,1,W,3,0,1,14,0,1,0,0,0,0,0,0,0,0,0,0,0,5,3.6,1.2,14.0,1.9,0,2,0,2,0.14,0.02,0.16,0.15,60,62671,0,0,0
+2,17,195384,Merino,MID,Arsenal,Aston Villa,0,W,1,0,20,19,0,1,0,0,0,0,0,0,0,0,0,0,0,7,2.8,1.0,0.0,0.4,0,4,0,4,0.0,0.0,0.0,0.0,60,58253,2422,15257,-12835
+3,17,195384,Merino,MID,Arsenal,Chelsea,1,W,2,1,29,13,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0.0,1.1,0.0,0.1,0,0,0,0,0.0,0.0,0.0,0.11,59,51449,3061,13869,-10808
+4,17,195384,Merino,MID,Arsenal,Sunderland,0,W,2,0,36,5,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0.2,0.1,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,58,46215,1909,9850,-7941
+5,17,195384,Merino,MID,Arsenal,Brighton,0,L,0,3,42,30,0,1,0,0,0,0,0,0,0,0,0,0,0,4,3.4,0.8,2.0,0.6,1,3,0,4,0.0,0.13,0.13,0.7,58,42609,1345,6314,-4969

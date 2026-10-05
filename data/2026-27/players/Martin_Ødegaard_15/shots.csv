@@ -1,0 +1,8 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688503,31180,1,1,2026-08-21 19:00:00,45,15,Ødegaard,Bukayo Saka,0.798,0.294,0.0193,BlockedShot,FromCorner,LeftFoot,Pass,h
+688505,31180,1,1,2026-08-21 19:00:00,48,15,Ødegaard,Ben White,0.911,0.401,0.1357,Goal,OpenPlay,RightFoot,Pass,h
+688511,31180,1,1,2026-08-21 19:00:00,71,15,Ødegaard,Noni Madueke,0.809,0.464,0.076,BlockedShot,OpenPlay,LeftFoot,Pass,h
+691704,31199,20,2,2026-08-31 19:00:00,56,15,Ødegaard,,0.816,0.329,0.0909,MissedShots,DirectFreekick,LeftFoot,Standard,a
+693063,31209,29,3,2026-09-06 15:30:00,22,15,Ødegaard,Kai Havertz,0.899,0.386,0.1296,BlockedShot,OpenPlay,LeftFoot,Pass,h
+693071,31209,29,3,2026-09-06 15:30:00,49,15,Ødegaard,Christos Tzolis,0.902,0.516,0.5587,Goal,OpenPlay,LeftFoot,Pass,h
+695947,31224,42,5,2026-09-19 14:00:00,44,15,Ødegaard,Riccardo Calafiori,0.85,0.333,0.072,BlockedShot,OpenPlay,LeftFoot,Pass,a

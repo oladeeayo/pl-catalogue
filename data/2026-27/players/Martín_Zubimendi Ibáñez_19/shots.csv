@@ -1,0 +1,4 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+693077,31209,29,3,2026-09-06 15:30:00,68,19,Zubimendi,Martin Odegaard,0.859,0.546,0.1104,BlockedShot,OpenPlay,RightFoot,Pass,h
+695964,31224,42,5,2026-09-19 14:00:00,92,19,Zubimendi,Max Dowman,0.955,0.426,0.0485,BlockedShot,FromCorner,Head,Aerial,a
+695966,31224,42,5,2026-09-19 14:00:00,94,19,Zubimendi,Gabriel,0.884,0.442,0.0309,MissedShots,OpenPlay,Head,Aerial,a

@@ -1,0 +1,21 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+689237,31187,8,1,2026-08-23 13:00:00,32,411,Haaland,,0.819,0.481,0.0482,BlockedShot,OpenPlay,LeftFoot,None,h
+689238,31187,8,1,2026-08-23 13:00:00,38,411,Haaland,Rúben Dias,0.889,0.479,0.0267,SavedShot,OpenPlay,Head,Aerial,h
+689241,31187,8,1,2026-08-23 13:00:00,43,411,Haaland,,0.914,0.495,0.1113,MissedShots,FromCorner,LeftFoot,None,h
+689245,31187,8,1,2026-08-23 13:00:00,71,411,Haaland,Mathis Cherki,0.895,0.611,0.0877,MissedShots,OpenPlay,LeftFoot,Pass,h
+689246,31187,8,1,2026-08-23 13:00:00,74,411,Haaland,Marc Guehi,0.918,0.462,0.4802,SavedShot,OpenPlay,RightFoot,Pass,h
+690077,31190,11,2,2026-08-28 19:00:00,6,411,Haaland,Rúben Dias,0.897,0.459,0.0881,BlockedShot,FromCorner,LeftFoot,Pass,a
+690078,31190,11,2,2026-08-28 19:00:00,7,411,Haaland,Antoine Semenyo,0.911,0.582,0.1273,MissedShots,OpenPlay,LeftFoot,Pass,a
+690079,31190,11,2,2026-08-28 19:00:00,16,411,Haaland,Antoine Semenyo,0.914,0.45,0.287,Goal,OpenPlay,Head,Cross,a
+690087,31190,11,2,2026-08-28 19:00:00,43,411,Haaland,Phil Foden,0.924,0.568,0.0597,MissedShots,OpenPlay,Head,Aerial,a
+690099,31190,11,2,2026-08-28 19:00:00,83,411,Haaland,Phil Foden,0.937,0.613,0.1246,Goal,OpenPlay,LeftFoot,Pass,a
+692316,31202,26,3,2026-09-05 14:00:00,15,411,Haaland,Mathis Cherki,0.869,0.624,0.1043,SavedShot,SetPiece,LeftFoot,Throughball,h
+692322,31202,26,3,2026-09-05 14:00:00,25,411,Haaland,Antoine Semenyo,0.932,0.547,0.3717,Goal,OpenPlay,Head,Cross,h
+692326,31202,26,3,2026-09-05 14:00:00,43,411,Haaland,Mathis Cherki,0.892,0.591,0.4197,SavedShot,OpenPlay,LeftFoot,TakeOn,h
+692334,31202,26,3,2026-09-05 14:00:00,72,411,Haaland,Antoine Semenyo,0.923,0.454,0.1245,MissedShots,OpenPlay,LeftFoot,Cross,h
+694686,31218,39,4,2026-09-13 15:30:00,59,411,Haaland,,0.975,0.433,0.5806,Goal,OpenPlay,LeftFoot,None,a
+694691,31218,39,4,2026-09-13 15:30:00,75,411,Haaland,Enzo Fernández,0.91,0.521,0.3822,MissedShots,SetPiece,LeftFoot,Cross,a
+696470,31222,45,5,2026-09-20 13:00:00,27,411,Haaland,Iliman Ndiaye,0.971,0.618,0.061,MissedShots,OpenPlay,LeftFoot,Cross,h
+696475,31222,45,5,2026-09-20 13:00:00,44,411,Haaland,Iliman Ndiaye,0.872,0.419,0.4904,MissedShots,OpenPlay,RightFoot,Pass,h
+696491,31222,45,5,2026-09-20 13:00:00,80,411,Haaland,Josko Gvardiol,0.967,0.468,0.7498,Goal,OpenPlay,RightFoot,Pass,h
+696493,31222,45,5,2026-09-20 13:00:00,86,411,Haaland,,0.86,0.336,0.0357,BlockedShot,FromCorner,LeftFoot,None,h

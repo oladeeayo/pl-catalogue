@@ -1,0 +1,4 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+696017,31226,43,5,2026-09-19 14:00:00,75,245,Dibling,Ainsley Maitland-Niles,0.842,0.338,0.0609,SavedShot,OpenPlay,LeftFoot,Pass,h
+696019,31226,43,5,2026-09-19 14:00:00,76,245,Dibling,Kiernan Dewsbury-Hall,0.959,0.334,0.0911,MissedShots,OpenPlay,RightFoot,Pass,h
+696020,31226,43,5,2026-09-19 14:00:00,81,245,Dibling,James Garner,0.964,0.351,0.0977,BlockedShot,OpenPlay,RightFoot,Pass,h

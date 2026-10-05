@@ -1,0 +1,4 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+692074,31201,27,3,2026-09-05 11:30:00,91,72,Gannon-Doak,,0.852,0.425,0.0609,BlockedShot,SetPiece,RightFoot,None,a
+693961,31210,32,4,2026-09-12 14:00:00,83,72,Gannon-Doak,,0.828,0.648,0.0449,MissedShots,OpenPlay,LeftFoot,BallRecovery,h
+693964,31210,32,4,2026-09-12 14:00:00,93,72,Gannon-Doak,Ryan Christie,0.841,0.646,0.076,BlockedShot,OpenPlay,RightFoot,TakeOn,h

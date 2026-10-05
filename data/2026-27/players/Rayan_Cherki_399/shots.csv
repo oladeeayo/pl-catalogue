@@ -1,0 +1,10 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+690089,31190,11,2,2026-08-28 19:00:00,46,399,Cherki,Antoine Semenyo,0.828,0.568,0.0767,SavedShot,OpenPlay,RightFoot,Pass,a
+690094,31190,11,2,2026-08-28 19:00:00,53,399,Cherki,Phil Foden,0.931,0.451,0.4972,Goal,OpenPlay,LeftFoot,TakeOn,a
+690097,31190,11,2,2026-08-28 19:00:00,58,399,Cherki,Josko Gvardiol,0.773,0.349,0.0284,Goal,OpenPlay,RightFoot,Pass,a
+692319,31202,26,3,2026-09-05 14:00:00,22,399,Cherki,Enzo Fernández,0.859,0.444,0.0994,ShotOnPost,OpenPlay,LeftFoot,Pass,h
+692323,31202,26,3,2026-09-05 14:00:00,30,399,Cherki,Iliman Ndiaye,0.855,0.318,0.0597,BlockedShot,FromCorner,LeftFoot,TakeOn,h
+692329,31202,26,3,2026-09-05 14:00:00,55,399,Cherki,,0.835,0.523,0.0789,BlockedShot,OpenPlay,LeftFoot,None,h
+694678,31218,39,4,2026-09-13 15:30:00,26,399,Cherki,,0.798,0.52,0.0177,BlockedShot,FromCorner,LeftFoot,Aerial,a
+696471,31222,45,5,2026-09-20 13:00:00,28,399,Cherki,Antoine Semenyo,0.868,0.47,0.1115,Goal,OpenPlay,RightFoot,Pass,h
+696484,31222,45,5,2026-09-20 13:00:00,65,399,Cherki,Antoine Semenyo,0.882,0.616,0.0894,MissedShots,OpenPlay,LeftFoot,Pass,h

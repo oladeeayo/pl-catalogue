@@ -1,0 +1,11 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688498,31180,1,1,2026-08-21 19:00:00,14,26,Havertz,Riccardo Calafiori,0.854,0.484,0.0984,Goal,OpenPlay,LeftFoot,Pass,h
+691709,31199,20,2,2026-08-31 19:00:00,73,26,Havertz,Ben White,0.839,0.264,0.0351,SavedShot,OpenPlay,LeftFoot,Pass,a
+693058,31209,29,3,2026-09-06 15:30:00,14,26,Havertz,Martin Odegaard,0.958,0.562,0.0676,SavedShot,OpenPlay,Head,Aerial,h
+693060,31209,29,3,2026-09-06 15:30:00,19,26,Havertz,Christos Tzolis,0.849,0.514,0.0955,BlockedShot,OpenPlay,LeftFoot,Cross,h
+693065,31209,29,3,2026-09-06 15:30:00,24,26,Havertz,Declan Rice,0.823,0.334,0.0354,Goal,OpenPlay,LeftFoot,Pass,h
+694264,31216,36,4,2026-09-12 19:00:00,30,26,Havertz,Martin Odegaard,0.902,0.596,0.3808,MissedShots,OpenPlay,LeftFoot,Pass,a
+694265,31216,36,4,2026-09-12 19:00:00,32,26,Havertz,Martin Odegaard,0.877,0.558,0.0765,SavedShot,OpenPlay,LeftFoot,Aerial,a
+694276,31216,36,4,2026-09-12 19:00:00,74,26,Havertz,Bukayo Saka,0.966,0.606,0.0398,MissedShots,FromCorner,Head,Cross,a
+695956,31224,42,5,2026-09-19 14:00:00,75,26,Havertz,Bukayo Saka,0.954,0.517,0.0813,MissedShots,FromCorner,Head,Aerial,a
+695958,31224,42,5,2026-09-19 14:00:00,77,26,Havertz,Viktor Gyokeres,0.868,0.474,0.2693,SavedShot,OpenPlay,RightFoot,Chipped,a

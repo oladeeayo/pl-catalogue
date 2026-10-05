@@ -1,0 +1,7 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+690383,31192,13,2,2026-08-29 14:00:00,3,492,Awoniyi,Jack Rudoni,0.923,0.703,0.112,BlockedShot,OpenPlay,LeftFoot,Throughball,h
+690388,31192,13,2,2026-08-29 14:00:00,21,492,Awoniyi,Caleb Yirenkyi,0.91,0.516,0.0582,SavedShot,OpenPlay,Head,Aerial,h
+690390,31192,13,2,2026-08-29 14:00:00,34,492,Awoniyi,Loum Tchaouna,0.931,0.56,0.1298,MissedShots,OpenPlay,Head,Cross,h
+690391,31192,13,2,2026-08-29 14:00:00,37,492,Awoniyi,,0.96,0.519,0.6399,SavedShot,OpenPlay,LeftFoot,None,h
+692314,31202,26,3,2026-09-05 14:00:00,7,492,Awoniyi,,0.811,0.521,0.2945,MissedShots,OpenPlay,RightFoot,BallRecovery,a
+694489,31217,38,4,2026-09-13 13:00:00,20,492,Awoniyi,Jack Rudoni,0.896,0.643,0.0936,MissedShots,OpenPlay,RightFoot,TakeOn,h

@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,258,166477,Castagne,DEF,Fulham,Chelsea,1,L,2,3,10,90,1,6,0,2,0,3,0,0,0,0,1,0,0,21,38.0,27.8,23.0,8.9,5,4,1,6,0.09,0.18,0.27,2.24,45,26346,0,0,0
+2,258,166477,Castagne,DEF,Fulham,Sunderland,0,L,0,1,19,67,1,6,0,0,1,0,0,0,0,0,0,0,0,18,0.0,0.7,0.0,0.0,1,2,1,2,0.0,0.0,0.0,0.26,45,45933,12096,2615,9481
+3,258,166477,Castagne,DEF,Fulham,Crystal Palace,1,L,2,3,24,90,1,1,0,0,0,3,0,0,0,0,0,0,0,-1,20.6,24.1,30.0,7.5,5,5,2,7,0.58,0.19,0.77,1.97,45,105919,44214,10839,33375
+4,258,166477,Castagne,DEF,Fulham,Liverpool,0,D,0,0,35,71,1,6,0,0,1,0,0,0,0,0,0,0,0,23,11.2,0.8,2.0,1.4,3,3,2,5,0.0,0.01,0.01,0.74,45,83333,6203,17661,-11458
+5,258,166477,Castagne,DEF,Fulham,Man Utd,1,D,1,1,50,90,1,1,0,0,0,1,0,0,0,0,1,0,0,3,20.6,5.2,2.0,2.8,9,4,0,9,0.0,0.01,0.01,1.6,45,92417,14129,7614,6515

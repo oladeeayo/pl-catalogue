@@ -1,0 +1,5 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+692573,31207,25,3,2026-09-05 16:30:00,33,290,Slater,,0.729,0.513,0.0108,MissedShots,OpenPlay,RightFoot,Aerial,h
+692575,31207,25,3,2026-09-05 16:30:00,37,290,Slater,Ryan John Giles,0.744,0.46,0.0197,SavedShot,OpenPlay,RightFoot,Pass,h
+694007,31212,33,4,2026-09-12 14:00:00,60,290,Slater,Lewie Coyle,0.765,0.617,0.0333,SavedShot,OpenPlay,LeftFoot,Pass,a
+695924,31223,46,5,2026-09-19 14:00:00,71,290,Slater,Mohamed Belloumi,0.844,0.487,0.0772,BlockedShot,OpenPlay,RightFoot,Pass,a

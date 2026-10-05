@@ -1,0 +1,7 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+691321,31198,18,2,2026-08-30 15:30:00,28,305,Davis,Abdul Fatawu,0.89,0.593,0.3106,Goal,OpenPlay,LeftFoot,Chipped,a
+691322,31198,18,2,2026-08-30 15:30:00,30,305,Davis,Abdul Fatawu,0.971,0.584,0.3501,SavedShot,OpenPlay,LeftFoot,Cross,a
+691982,31200,21,3,2026-09-04 19:00:00,29,305,Davis,Abdul Fatawu,0.968,0.597,0.075,MissedShots,OpenPlay,Head,Cross,h
+694028,31213,34,4,2026-09-12 14:00:00,44,305,Davis,Emersonn,0.943,0.528,0.4708,Goal,OpenPlay,Head,Rebound,a
+694040,31213,34,4,2026-09-12 14:00:00,89,305,Davis,Julio Enciso,0.899,0.589,0.0346,ShotOnPost,OpenPlay,Head,Chipped,a
+696007,31226,43,5,2026-09-19 14:00:00,37,305,Davis,Abdul Fatawu,0.962,0.562,0.507,MissedShots,OpenPlay,LeftFoot,Cross,a

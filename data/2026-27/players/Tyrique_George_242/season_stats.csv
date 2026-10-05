@@ -1,0 +1,11 @@
+player_id,season,source,metric,value,fetched_at
+242,2026-27,fbref,goals,1.0,2026-10-05
+242,2026-27,fbref,nineties,3.4,2026-10-05
+242,2026-27,fbref,shots,10.0,2026-10-05
+242,2026-27,fbref,sot,2.0,2026-10-05
+242,2026-27,fbref,sot_pct,20.0,2026-10-05
+242,2026-27,understat,key_passes,7.0,2026-10-05
+242,2026-27,understat,npg,1.0,2026-10-05
+242,2026-27,understat,shots,10.0,2026-10-05
+242,2026-27,understat,xa,0.7398852212354541,2026-10-05
+242,2026-27,understat,xg,0.38,2026-10-05

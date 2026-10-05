@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,12,223340,Saka,MID,Arsenal,Coventry City,1,W,3,0,1,67,1,9,1,0,1,0,0,0,0,0,0,0,1,36,42.8,26.1,33.0,10.2,2,4,1,7,0.64,0.08,0.72,0.06,95,819914,0,0,0
+2,12,223340,Saka,MID,Arsenal,Aston Villa,0,W,1,0,20,90,1,11,1,0,1,0,0,0,0,0,0,0,3,46,41.0,8.0,44.0,9.3,3,6,2,11,0.63,0.04,0.67,0.33,95,1039189,88913,35230,53683
+3,12,223340,Saka,MID,Arsenal,Chelsea,1,W,2,1,29,89,1,2,0,0,0,1,0,0,0,0,0,0,0,13,10.6,27.8,70.0,10.8,1,2,1,4,0.23,0.23,0.46,0.39,95,1160318,156377,101286,55091
+4,12,223340,Saka,MID,Arsenal,Sunderland,0,W,2,0,36,90,1,8,1,0,1,0,0,0,0,0,0,0,0,28,45.4,16.9,57.0,11.9,2,4,1,7,1.38,0.08,1.46,1.8,95,1257689,213086,148406,64680
+5,12,223340,Saka,MID,Arsenal,Brighton,0,L,0,3,42,80,1,2,0,0,0,3,0,0,0,0,0,0,0,14,15.8,46.8,36.0,9.9,0,1,1,2,0.34,0.55,0.89,1.0,95,1461185,221246,64929,156317

@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,277,108416,Egan,DEF,Hull City,Man Utd,1,W,2,0,4,90,1,8,0,0,1,0,0,0,0,0,0,0,0,27,43.4,0.1,2.0,4.6,20,3,1,21,0.0,0.0,0.0,1.83,40,134746,0,0,0
+2,277,108416,Egan,DEF,Hull City,Coventry City,0,W,1,0,13,90,1,9,0,0,1,0,0,0,0,0,0,0,1,25,23.8,0.4,0.0,2.4,12,1,1,13,0.0,0.0,0.0,1.29,40,197783,42937,11207,31730
+3,277,108416,Egan,DEF,Hull City,Aston Villa,1,D,0,0,25,90,1,6,0,0,1,0,0,0,0,0,0,0,0,18,15.4,0.1,0.0,1.6,4,1,3,7,0.0,0.0,0.0,1.93,40,623541,335706,57666,278040
+4,277,108416,Egan,DEF,Hull City,Chelsea,0,D,2,2,33,90,1,2,0,0,0,2,0,0,0,0,1,0,0,-1,14.2,0.5,6.0,2.1,12,6,2,14,0.04,0.0,0.04,0.91,41,688208,223735,73551,150184
+5,277,108416,Egan,DEF,Hull City,Newcastle,0,L,1,2,46,77,1,1,0,0,0,2,0,0,0,0,0,0,0,2,14.0,0.2,13.0,2.7,2,1,2,4,0.01,0.0,0.01,1.31,41,776181,120781,44497,76284

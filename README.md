@@ -30,8 +30,10 @@ providers and gated by validation on every run.
  Reep CSV ───────────┼──────────────────────────────┘            │                     │
                      │                              enrich_transfermarkt ─► validate   │
  FBref (browser) ────┼─ fbref_scrape ─► fbref_extract ─┐          │                     │
- Understat API ──────┼─ understat_fetch ───────────────┴─ merge_sot_xg ─► (stats CSV) ─┘
-                     └─────────────────────────────────────────────────────────────────┘
+ Understat API ──────┼─ understat_fetch ───────────────┴─ merge_sot_xg ─► (stats CSV) ─┤
+                     │                                                                  │
+                     │   validate ─► export ─► data/2026-27/ (players/ · gws/ · merged) │
+                     └──────────────────────────────────────────────────────────────────┘
 
  Standalone: build_top50_final.py ─► pl_sot_vs_xg_top50.csv ─► plot_quadrants.py ─► quadrant chart
 ```
@@ -78,6 +80,35 @@ Everything is committed — source code **and** data, so a clone is immediately 
 `catalogue/run.log` and browser cookies are gitignored; scratch/probe scripts are
 excluded (only the curated pipeline lives here).
 
+## The data tree
+
+The catalogue itself is exported to **`data/2026-27/`** — layout inspired by
+[vaastav/Fantasy-Premier-League](https://github.com/vaastav/Fantasy-Premier-League),
+extended for this project's richer sources (see `data/README.md` for the full
+dictionary):
+
+```
+data/2026-27/
+├── players/                    # one folder per player — everything collected on them
+│   └── First_Last_id/
+│       ├── profile.csv         # identity + snapshot + season + market (1 row, 77 cols)
+│       ├── gw.csv              # their per-GW rows (fixture context + result)
+│       ├── season_stats.csv    # FBref + Understat metrics (long format)
+│       ├── shots.csv           # their Understat shot events (x, y, xG, body part)
+│       ├── history.csv         # prior-season FPL career history
+│       └── market.csv          # Transfermarkt value/contract snapshots (grows daily)
+├── gws/                        # one slice per matchweek
+│   ├── gw1.csv … gwN.csv       # every player's row in that GW (44 cols)
+│   └── merged_gw.csv           # all GWs stacked
+├── players.csv                 # merged master: 667 × 77, all sources flattened
+├── shots.csv · market.csv · gw_calendar.csv · fixtures.csv · clubs.csv
+└── manifest.json               # provenance: counts, GW range, timestamp, sources
+```
+
+Built by `catalogue/export_data.py` (step 7 of the weekly run) — the DB is the
+source of truth, this tree is wiped and rebuilt on every run. Ratings, wages and
+match-log categories can be dropped in later without restructuring.
+
 ## Quickstart
 
 **Requirements:** Python 3.10+ (`pip install pandas requests matplotlib`), Chrome
@@ -90,8 +121,11 @@ cd pl-catalogue
 # ready to use - the catalogue DB and all source data are committed:
 python catalogue/validate.py          # 22 checks → ALL CHECKS PASSED
 
-# full weekly refresh (FPL + Understat + Transfermarkt + validation):
+# full weekly refresh (FPL + Understat + Transfermarkt + validation + export):
 python catalogue/run_weekly.py
+
+# or rebuild just the data/2026-27 tree from the existing DB:
+python catalogue/export_data.py
 
 # regenerate stat sources / chart (optional):
 python fbref_scrape.py                # browser + Cloudflare turnstile → pl_shooting.html
@@ -179,7 +213,9 @@ catalogue/                  # the product: schema + 6-step weekly pipeline
   enrich_understat.py       # shots, appearances, season xG/xA
   enrich_transfermarkt.py   # market values, contracts (club-consistency veto)
   validate.py               # 22 checks → validation_report.txt, exit code
-  run_weekly.py / run.bat   # pipeline driver / Task Scheduler target
+  export_data.py            # catalogue.db → data/2026-27/ tree (players/ · gws/ · merged)
+  run_weekly.py / run.bat   # pipeline driver (7 steps) / Task Scheduler target
+data/                       # exported data tree (rebuilt every run, see data/README.md)
 fbref_scrape.py             # Pydoll + Cloudflare turnstile fetch
 fbref_extract.py            # shooting table → CSV
 understat_fetch.py          # season JSON fetch

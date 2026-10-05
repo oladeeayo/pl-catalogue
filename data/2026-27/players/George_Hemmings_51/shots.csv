@@ -1,0 +1,2 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+692567,31207,25,3,2026-09-05 16:30:00,12,51,George Hemmings,Ross Barkley,0.896,0.652,0.2613,SavedShot,OpenPlay,LeftFoot,Pass,a

@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,206,515621,Chadi Riad,DEF,Crystal Palace,Everton,0,L,0,2,3,72,1,1,0,0,0,2,0,0,0,0,0,0,0,7,12.6,1.3,0.0,1.4,6,3,1,7,0.0,0.01,0.01,0.98,45,6521,0,0,0
+2,206,515621,Chadi Riad,DEF,Crystal Palace,Man City,1,L,1,4,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,45,4410,320,2843,-2523
+3,206,515621,Chadi Riad,DEF,Crystal Palace,Fulham,0,W,3,2,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,44,3064,193,1616,-1423
+4,206,515621,Chadi Riad,DEF,Crystal Palace,Ipswich Town,1,L,2,3,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,44,2510,58,709,-651
+5,206,515621,Chadi Riad,DEF,Crystal Palace,Leeds,0,D,0,0,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,44,2215,53,383,-330

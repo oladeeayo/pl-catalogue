@@ -1,0 +1,5 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+2,618,119090,Goretzka,MID,Aston Villa,Arsenal,1,L,0,1,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,60,386,212,7,205
+3,618,119090,Goretzka,MID,Aston Villa,Hull City,0,D,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,60,5084,3449,841,2608
+4,618,119090,Goretzka,MID,Aston Villa,Nott'm Forest,1,L,1,2,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,60,4178,901,2102,-1201
+5,618,119090,Goretzka,MID,Aston Villa,Spurs,0,W,3,2,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,59,2971,47,1364,-1317

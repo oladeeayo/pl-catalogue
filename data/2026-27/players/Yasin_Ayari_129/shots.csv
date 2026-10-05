@@ -1,0 +1,11 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+689214,31186,7,1,2026-08-23 13:00:00,41,129,Ayari,,0.791,0.466,0.0368,BlockedShot,OpenPlay,RightFoot,None,h
+689220,31186,7,1,2026-08-23 13:00:00,50,129,Ayari,Maxim De Cuyper,0.872,0.557,0.0457,MissedShots,FromCorner,RightFoot,Chipped,h
+692306,31206,23,3,2026-09-05 14:00:00,81,129,Ayari,Malick Yalcouyé,0.894,0.634,0.0914,SavedShot,OpenPlay,RightFoot,Pass,h
+692308,31206,23,3,2026-09-05 14:00:00,82,129,Ayari,Diego Gómez,0.783,0.563,0.0357,MissedShots,OpenPlay,RightFoot,BallTouch,h
+694483,31217,38,4,2026-09-13 13:00:00,8,129,Ayari,Maxim De Cuyper,0.746,0.684,0.0139,BlockedShot,OpenPlay,RightFoot,Pass,a
+694510,31217,38,4,2026-09-13 13:00:00,80,129,Ayari,,0.914,0.499,0.145,SavedShot,OpenPlay,RightFoot,Rebound,a
+694515,31217,38,4,2026-09-13 13:00:00,90,129,Ayari,Pascal Groß,0.746,0.521,0.0359,MissedShots,OpenPlay,RightFoot,Pass,a
+694517,31217,38,4,2026-09-13 13:00:00,93,129,Ayari,Pascal Groß,0.809,0.545,0.0716,Goal,OpenPlay,RightFoot,Pass,a
+695941,31224,42,5,2026-09-19 14:00:00,7,129,Ayari,,0.911,0.429,0.0961,BlockedShot,FromCorner,RightFoot,None,h
+695945,31224,42,5,2026-09-19 14:00:00,39,129,Ayari,Ferdi Kadioglu,0.951,0.313,0.3079,MissedShots,OpenPlay,RightFoot,Pass,h

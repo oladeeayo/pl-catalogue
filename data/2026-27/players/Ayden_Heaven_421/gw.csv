@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,421,606745,Heaven,DEF,Man Utd,Hull City,0,L,0,2,4,90,1,1,0,0,0,2,0,0,0,0,0,0,0,5,6.8,2.6,11.0,2.0,1,4,1,2,0.12,0.04,0.16,1.01,45,33647,0,0,0
+2,421,606745,Heaven,DEF,Man Utd,Ipswich Town,1,W,5,2,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,45,40184,3088,4191,-1103
+3,421,606745,Heaven,DEF,Man Utd,Everton,0,D,2,2,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,45,34853,1300,8961,-7661
+4,421,606745,Heaven,DEF,Man Utd,Man City,1,L,0,1,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,44,31486,769,5798,-5029
+5,421,606745,Heaven,DEF,Man Utd,Fulham,0,D,1,1,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,44,29351,613,3636,-3023

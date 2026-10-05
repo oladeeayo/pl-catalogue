@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,578,465920,Mudryk,MID,Spurs,Fulham,0,W,3,2,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,55,3847,0,0,0
+2,578,465920,Mudryk,MID,Spurs,Brighton,1,W,4,3,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,55,4222,234,976,-742
+3,578,465920,Mudryk,MID,Spurs,Nott'm Forest,0,D,0,0,28,16,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0.0,0.1,2.0,0.1,0,0,0,0,0.0,0.0,0.0,0.16,54,7171,3534,1642,1892
+4,578,465920,Mudryk,MID,Spurs,Everton,1,D,0,0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,54,6691,1620,2290,-670
+5,578,465920,Mudryk,MID,Spurs,Aston Villa,1,L,2,3,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,54,4612,32,2140,-2108

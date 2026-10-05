@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,112,469142,Van Hecke,DEF,Spurs,Brentford,0,L,0,3,2,90,1,1,0,0,0,3,0,0,0,0,0,0,0,3,28.2,2.8,2.0,3.3,7,3,2,9,0.0,0.03,0.03,3.87,50,955905,0,0,0
+2,112,469142,Van Hecke,DEF,Spurs,Newcastle,1,L,0,2,15,90,1,1,0,0,0,2,0,0,0,0,0,0,0,9,26.6,13.7,33.0,7.3,6,4,2,8,0.11,0.03,0.14,0.72,50,945549,36604,98768,-62164
+3,112,469142,Van Hecke,DEF,Spurs,Nott'm Forest,0,D,0,0,28,90,1,8,0,0,1,0,0,0,0,0,0,0,2,29,16.6,12.8,11.0,4.0,3,4,1,4,0.09,0.01,0.1,0.92,49,733037,21192,219579,-198387
+4,112,469142,Van Hecke,DEF,Spurs,Everton,1,D,0,0,37,90,1,8,0,0,1,0,0,0,0,0,0,0,0,27,38.4,15.2,7.0,6.1,11,2,2,13,0.14,0.05,0.19,1.11,49,718579,37570,83096,-45526
+5,112,469142,Van Hecke,DEF,Spurs,Aston Villa,1,L,2,3,48,90,1,6,1,0,0,3,0,0,0,0,1,0,0,17,62.0,30.4,17.0,10.9,6,4,3,9,0.35,0.3,0.65,1.16,49,721559,40803,43952,-3149

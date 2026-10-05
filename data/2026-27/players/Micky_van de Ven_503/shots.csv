@@ -1,0 +1,4 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+692354,31203,28,3,2026-09-05 14:00:00,53,503,Van de Ven,,0.919,0.688,0.0601,BlockedShot,OpenPlay,RightFoot,Dispossessed,a
+692355,31203,28,3,2026-09-05 14:00:00,54,503,Van de Ven,Sávio,0.977,0.491,0.6257,MissedShots,FromCorner,Head,Aerial,a
+695694,31221,48,5,2026-09-19 11:30:00,94,503,Van de Ven,Andrew Robertson,0.895,0.527,0.0432,MissedShots,FromCorner,Head,Chipped,h

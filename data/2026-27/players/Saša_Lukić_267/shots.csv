@@ -1,0 +1,2 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+691323,31198,18,2,2026-08-30 15:30:00,31,267,Lukić,Marcelino Núñez,0.806,0.63,0.038,BlockedShot,FromCorner,RightFoot,Pass,a

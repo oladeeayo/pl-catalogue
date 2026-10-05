@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,496,485055,Kinsky,GKP,Spurs,Brentford,0,L,0,3,2,90,1,2,0,0,0,3,5,0,0,0,0,0,0,15,43.6,0.0,0.0,4.4,4,12,0,0,0.0,0.0,0.0,3.87,45,2208330,0,0,0
+2,496,485055,Kinsky,GKP,Spurs,Newcastle,1,L,0,2,15,90,1,1,0,0,0,2,0,0,0,0,0,0,0,4,3.8,0.0,0.0,0.4,0,6,0,0,0.0,0.0,0.0,0.72,45,2247365,40625,82151,-41526
+3,496,485055,Kinsky,GKP,Spurs,Nott'm Forest,0,D,0,0,28,90,1,6,0,0,1,0,1,0,0,0,0,0,0,24,10.4,10.0,0.0,2.0,2,8,0,0,0.0,0.0,0.0,0.92,45,1949396,46420,272139,-225719
+4,496,485055,Kinsky,GKP,Spurs,Everton,1,D,0,0,37,90,1,7,0,0,1,0,3,0,0,0,0,0,0,29,19.8,0.0,0.0,2.0,4,3,0,0,0.0,0.0,0.0,1.11,45,1930350,146399,230912,-84513
+5,496,485055,Kinsky,GKP,Spurs,Aston Villa,1,L,2,3,48,90,1,2,0,0,0,3,3,0,0,0,0,0,0,5,27.2,0.0,0.0,2.7,0,5,0,0,0.0,0.0,0.0,1.16,45,1963942,95710,97025,-1315

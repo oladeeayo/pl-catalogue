@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,499,441164,Pedro Porro,DEF,Spurs,Brentford,0,L,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,55,1595087,0,0,0
+2,499,441164,Pedro Porro,DEF,Spurs,Newcastle,1,L,0,2,15,90,1,1,0,0,0,2,0,0,0,0,0,0,0,1,9.4,7.9,21.0,3.8,3,2,1,4,0.33,0.1,0.43,0.72,55,1331308,20574,317518,-296944
+3,499,441164,Pedro Porro,DEF,Spurs,Nott'm Forest,0,D,0,0,28,90,1,7,0,0,1,0,0,0,0,0,0,0,1,28,13.2,35.8,6.0,5.5,3,3,1,4,0.03,0.06,0.09,0.92,55,1176909,48390,228185,-179795
+4,499,441164,Pedro Porro,DEF,Spurs,Everton,1,D,0,0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,55,1130296,48477,129180,-80703
+5,499,441164,Pedro Porro,DEF,Spurs,Aston Villa,1,L,2,3,48,18,1,1,0,0,0,0,0,0,0,0,0,0,0,4,0.0,3.9,1.0,0.5,0,0,1,1,0.01,0.0,0.01,0.04,54,889495,5333,242865,-237532

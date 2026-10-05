@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,568,543158,Barco,MID,Chelsea,Fulham,0,W,3,2,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,55,12041,0,0,0
+2,568,543158,Barco,MID,Chelsea,Brighton,1,W,4,3,16,8,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0.0,0.0,4.0,0.2,1,0,0,1,0.04,0.0,0.04,0.07,55,13561,528,1661,-1133
+3,568,543158,Barco,MID,Chelsea,Arsenal,0,L,1,2,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,55,13655,1055,2073,-1018
+4,568,543158,Barco,MID,Chelsea,Hull City,1,D,2,2,33,21,0,0,0,0,0,0,0,0,0,0,1,0,0,7,1.6,2.9,2.0,0.7,1,1,0,2,0.0,0.09,0.09,0.54,55,13757,863,1454,-591
+5,568,543158,Barco,MID,Chelsea,Brentford,0,L,0,3,41,86,1,2,0,0,0,2,0,0,0,0,0,0,0,21,11.2,4.3,5.0,2.1,2,4,3,9,0.03,0.02,0.05,2.22,54,13260,477,1379,-902

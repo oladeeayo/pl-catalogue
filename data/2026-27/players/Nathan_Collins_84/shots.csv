@@ -1,0 +1,6 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688733,31185,2,1,2026-08-22 16:30:00,3,84,Collins,Mathias Jensen,0.951,0.509,0.4856,MissedShots,FromCorner,Head,Cross,h
+688758,31185,2,1,2026-08-22 16:30:00,77,84,Collins,Jaidon Anthony,0.916,0.4,0.0187,BlockedShot,OpenPlay,Head,Aerial,h
+691096,31197,17,2,2026-08-30 13:00:00,9,84,Collins,Mikkel Damsgaard,0.891,0.429,0.0435,SavedShot,FromCorner,Head,Cross,a
+691107,31197,17,2,2026-08-30 13:00:00,55,84,Collins,Kristoffer Ajer,0.931,0.335,0.0241,BlockedShot,OpenPlay,Head,BallTouch,a
+691108,31197,17,2,2026-08-30 13:00:00,56,84,Collins,Vitaly Janelt,0.951,0.588,0.0361,BlockedShot,FromCorner,Head,Dispossessed,a

@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,209,242898,Johnson,MID,Everton,Crystal Palace,1,W,2,0,3,6,0,1,0,0,0,0,0,0,0,0,0,0,0,3,4.0,0.3,0.0,0.4,2,0,0,2,0.0,0.0,0.0,0.29,60,15299,0,0,0
+2,209,242898,Johnson,MID,Everton,Bournemouth,0,D,1,1,12,28,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1.2,0.0,0.0,0.1,0,1,1,2,0.0,0.0,0.0,1.58,60,15402,732,2580,-1848
+3,209,242898,Johnson,MID,Everton,Man Utd,1,D,2,2,30,65,1,1,0,0,0,1,0,0,0,0,1,0,0,3,6.6,22.9,9.0,3.9,3,4,1,8,0.05,0.04,0.09,0.37,59,13119,786,3477,-2691
+4,209,242898,Johnson,MID,Everton,Spurs,0,D,0,0,37,74,1,3,0,0,1,0,0,0,0,0,0,0,0,13,11.2,29.0,6.0,4.6,2,2,2,6,0.16,0.18,0.34,0.43,59,12460,1069,2197,-1128
+5,209,242898,Johnson,MID,Everton,Ipswich Town,1,W,1,0,43,65,1,3,0,0,1,0,0,0,0,0,0,0,0,6,0.0,0.6,10.0,1.0,1,4,3,8,0.82,0.0,0.82,1.06,59,13882,2308,1461,847

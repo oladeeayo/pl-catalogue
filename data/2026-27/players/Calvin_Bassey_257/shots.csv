@@ -1,0 +1,4 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+689764,31189,10,1,2026-08-24 19:00:00,38,257,Bassey,Sander Berge,0.752,0.388,0.0179,BlockedShot,OpenPlay,LeftFoot,Pass,h
+694057,31214,35,4,2026-09-12 14:00:00,63,257,Bassey,Alex Iwobi,0.904,0.481,0.0687,SavedShot,FromCorner,Head,Cross,a
+696678,31229,50,5,2026-09-20 15:30:00,62,257,Bassey,,0.878,0.658,0.0623,SavedShot,OpenPlay,LeftFoot,BallRecovery,h

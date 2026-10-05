@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,347,174594,Nmecha,FWD,Leeds,Nott'm Forest,0,W,1,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,55,53564,0,0,0
+2,347,174594,Nmecha,FWD,Leeds,Brentford,1,D,1,1,17,21,0,4,0,1,0,0,0,0,0,0,0,0,0,18,18.2,20.3,6.0,4.5,0,1,0,1,0.1,0.0,0.1,0.93,55,51231,1917,9544,-7627
+3,347,174594,Nmecha,FWD,Leeds,Brighton,0,D,1,1,23,17,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0.0,1.8,9.0,0.9,0,0,0,0,0.17,0.14,0.31,1.32,55,50649,5427,8539,-3112
+4,347,174594,Nmecha,FWD,Leeds,Newcastle,1,W,4,1,40,12,0,1,0,0,0,1,0,0,0,0,0,0,0,4,0.2,0.3,0.0,0.1,0,1,0,1,0.0,0.01,0.01,0.28,54,51359,6623,7677,-1054
+5,347,174594,Nmecha,FWD,Leeds,Crystal Palace,1,D,0,0,44,14,0,1,0,0,0,0,0,0,0,0,0,0,0,4,2.0,0.0,0.0,0.2,0,1,1,2,0.0,0.0,0.0,0.37,54,51218,6227,7661,-1434

@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,440,458249,Zirkzee,FWD,Man Utd,Hull City,0,L,0,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,55,56060,0,0,0
+2,440,458249,Zirkzee,FWD,Man Utd,Ipswich Town,1,W,5,2,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,55,51589,2045,13131,-11086
+3,440,458249,Zirkzee,FWD,Man Utd,Everton,0,D,2,2,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,54,47734,5615,12906,-7291
+4,440,458249,Zirkzee,FWD,Man Utd,Man City,1,L,0,1,39,7,0,1,0,0,0,0,0,0,0,0,0,0,0,4,4.4,4.8,0.0,0.9,1,2,0,3,0.0,0.01,0.01,0.02,54,45127,3614,8463,-4849
+5,440,458249,Zirkzee,FWD,Man Utd,Fulham,0,D,1,1,50,13,0,1,0,0,0,0,0,0,0,0,0,0,0,4,3.2,10.1,0.0,1.3,1,0,0,1,0.0,0.0,0.0,0.0,54,43505,2606,6053,-3447

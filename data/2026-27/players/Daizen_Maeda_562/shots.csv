@@ -1,0 +1,4 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688624,31183,5,1,2026-08-22 14:00:00,49,562,Maeda,Abdul Fatawu,0.959,0.516,0.6158,MissedShots,OpenPlay,Head,Cross,h
+691317,31198,18,2,2026-08-30 15:30:00,22,562,Maeda,Leif Davis,0.866,0.693,0.1087,SavedShot,OpenPlay,LeftFoot,Throughball,a
+691984,31200,21,3,2026-09-04 19:00:00,34,562,Maeda,Leif Davis,0.959,0.686,0.0599,SavedShot,OpenPlay,LeftFoot,Pass,h

@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,69,503139,Scott,MID,Bournemouth,Man City,0,L,1,2,8,90,1,2,0,0,0,2,0,0,0,0,0,0,0,17,11.4,4.8,0.0,1.6,1,6,4,11,0.0,0.01,0.01,2.25,60,134668,0,0,0
+2,69,503139,Scott,MID,Bournemouth,Everton,1,D,1,1,12,86,1,12,1,0,1,0,0,0,0,0,1,0,3,39,47.6,32.1,21.0,10.1,3,9,3,15,0.26,0.27,0.53,1.71,60,145926,8520,12886,-4366
+3,69,503139,Scott,MID,Bournemouth,Newcastle,0,D,2,2,27,90,1,10,0,2,0,2,0,0,0,0,0,0,2,37,13.4,22.9,12.0,4.8,5,6,0,11,0.07,0.02,0.09,0.71,60,210299,56885,17771,39114
+4,69,503139,Scott,MID,Bournemouth,Brentford,1,D,2,2,32,90,1,4,0,0,0,2,0,0,0,0,0,0,0,19,22.2,46.1,10.0,7.8,6,7,2,15,0.19,0.05,0.24,0.5,61,657646,386435,62399,324036
+5,69,503139,Scott,MID,Bournemouth,Liverpool,1,L,0,1,49,90,1,2,0,0,0,1,0,0,0,0,0,0,0,17,8.2,40.5,13.0,6.2,0,8,0,8,0.12,0.07,0.19,1.65,61,624564,72063,77120,-5057

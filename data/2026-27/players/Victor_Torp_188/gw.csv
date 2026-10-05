@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,188,226965,Torp,MID,Coventry City,Arsenal,0,L,0,3,1,28,0,1,0,0,0,0,0,0,0,0,0,0,0,8,6.8,16.4,0.0,2.3,1,0,0,1,0.0,0.11,0.11,0.32,55,15509,0,0,0
+2,188,226965,Torp,MID,Coventry City,Hull City,1,L,0,1,13,19,0,1,0,0,0,1,0,0,0,0,0,0,0,2,0.0,3.6,0.0,0.3,0,2,0,2,0.0,0.01,0.01,0.69,55,16221,549,1824,-1275
+3,188,226965,Torp,MID,Coventry City,Man City,0,L,0,1,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,54,13303,100,2972,-2872
+4,188,226965,Torp,MID,Coventry City,Brighton,1,L,0,5,38,6,0,1,0,0,0,1,0,0,0,0,0,0,0,3,0.4,0.4,0.0,0.1,0,0,0,0,0.0,0.0,0.0,0.21,54,11943,52,1594,-1542
+5,188,226965,Torp,MID,Coventry City,Nott'm Forest,0,W,1,0,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,54,10920,52,1142,-1090

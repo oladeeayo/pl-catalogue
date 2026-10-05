@@ -1,0 +1,5 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+692587,31207,25,3,2026-09-05 16:30:00,88,617,Cho,Oliver McBurnie,0.866,0.614,0.3182,SavedShot,OpenPlay,LeftFoot,Pass,h
+694006,31212,33,4,2026-09-12 14:00:00,60,617,Cho,Sorba Thomas,0.886,0.416,0.044,MissedShots,OpenPlay,Head,Cross,a
+694015,31212,33,4,2026-09-12 14:00:00,86,617,Cho,Ryan John Giles,0.921,0.442,0.3374,SavedShot,OpenPlay,RightFoot,Cross,a
+695923,31223,46,5,2026-09-19 14:00:00,66,617,Cho,Mohamed Belloumi,0.874,0.373,0.0866,Goal,OpenPlay,LeftFoot,Pass,a

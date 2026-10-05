@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,198,172649,Henderson,GKP,Crystal Palace,Everton,0,L,0,2,3,90,1,2,0,0,0,2,3,0,0,0,0,0,0,14,28.2,0.0,0.0,2.8,3,13,0,0,0.0,0.0,0.0,1.12,50,171144,0,0,0
+2,198,172649,Henderson,GKP,Crystal Palace,Man City,1,L,1,4,11,90,1,1,0,0,0,4,4,0,0,0,0,0,0,4,30.2,0.0,0.0,3.0,2,11,0,0,0.0,0.0,0.0,2.21,50,182716,5904,13774,-7870
+3,198,172649,Henderson,GKP,Crystal Palace,Fulham,0,W,3,2,24,90,1,2,0,0,0,2,5,0,0,0,0,0,0,19,38.4,0.0,0.0,3.8,1,7,0,0,0.0,0.0,0.0,3.14,50,188350,15007,18335,-3328
+4,198,172649,Henderson,GKP,Crystal Palace,Ipswich Town,1,L,2,3,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,50,234983,34005,16877,17128
+5,198,172649,Henderson,GKP,Crystal Palace,Leeds,0,D,0,0,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,50,148996,210,59922,-59712

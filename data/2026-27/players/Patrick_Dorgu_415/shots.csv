@@ -1,0 +1,7 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688543,31181,4,1,2026-08-22 11:30:00,24,415,Dorgu,,0.909,0.64,0.0607,MissedShots,OpenPlay,LeftFoot,None,a
+688544,31181,4,1,2026-08-22 11:30:00,28,415,Dorgu,Harry Maguire,0.939,0.542,0.442,MissedShots,OpenPlay,LeftFoot,Cross,a
+688547,31181,4,1,2026-08-22 11:30:00,43,415,Dorgu,Bryan Mbeumo,0.928,0.559,0.1213,MissedShots,OpenPlay,Head,Cross,a
+691349,31198,18,2,2026-08-30 15:30:00,85,415,Dorgu,Bryan Mbeumo,0.968,0.591,0.1869,SavedShot,OpenPlay,Head,Cross,h
+691352,31198,18,2,2026-08-30 15:30:00,96,415,Dorgu,Benjamin Sesko,0.856,0.695,0.0985,SavedShot,OpenPlay,LeftFoot,Pass,h
+696692,31229,50,5,2026-09-20 15:30:00,93,415,Dorgu,Bryan Mbeumo,0.961,0.563,0.0639,MissedShots,FromCorner,Head,Aerial,a

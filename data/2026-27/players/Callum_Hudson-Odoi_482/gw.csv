@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,482,209046,Hudson-Odoi,MID,Nott'm Forest,Leeds,1,L,0,1,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,60,23579,0,0,0
+2,482,209046,Hudson-Odoi,MID,Nott'm Forest,Liverpool,0,D,2,2,14,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0.0,0.3,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,60,21667,726,5484,-4758
+3,482,209046,Hudson-Odoi,MID,Nott'm Forest,Spurs,1,D,0,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,59,19189,1609,4924,-3315
+4,482,209046,Hudson-Odoi,MID,Nott'm Forest,Aston Villa,0,W,2,1,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,59,17097,774,3360,-2586
+5,482,209046,Hudson-Odoi,MID,Nott'm Forest,Coventry City,1,L,0,1,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,58,16903,1902,2632,-730

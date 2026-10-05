@@ -1,0 +1,7 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688738,31185,2,1,2026-08-22 16:30:00,28,88,Kayode,Mathias Jensen,0.89,0.483,0.0755,MissedShots,SetPiece,Head,Cross,h
+688741,31185,2,1,2026-08-22 16:30:00,35,88,Kayode,Keane Lewis-Potter,0.896,0.42,0.0179,BlockedShot,OpenPlay,Head,Aerial,h
+688744,31185,2,1,2026-08-22 16:30:00,44,88,Kayode,Dango Ouattara,0.919,0.469,0.0553,MissedShots,OpenPlay,Head,Aerial,h
+688747,31185,2,1,2026-08-22 16:30:00,48,88,Kayode,,0.962,0.478,0.6674,Goal,FromCorner,RightFoot,Rebound,h
+691116,31197,17,2,2026-08-30 13:00:00,71,88,Kayode,Yehor Yarmolyuk,0.738,0.412,0.023,BlockedShot,OpenPlay,LeftFoot,Pass,a
+692401,31205,22,3,2026-09-05 14:00:00,3,88,Kayode,,0.749,0.397,0.0168,BlockedShot,OpenPlay,RightFoot,None,h

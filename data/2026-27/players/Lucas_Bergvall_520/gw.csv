@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,520,570526,Bergvall,MID,Spurs,Brentford,0,L,0,3,2,45,1,1,0,0,0,2,0,0,0,0,0,0,0,2,0.0,2.0,2.0,0.0,0,7,1,8,0.0,0.01,0.01,1.7,55,18443,0,0,0
+2,520,570526,Bergvall,MID,Spurs,Newcastle,1,L,0,2,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,55,20234,635,2199,-1564
+3,520,570526,Bergvall,MID,Spurs,Nott'm Forest,0,D,0,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,54,17646,482,3494,-3012
+4,520,570526,Bergvall,MID,Spurs,Everton,1,D,0,0,37,27,0,1,0,0,0,0,0,0,0,0,0,0,0,8,8.0,7.9,7.0,2.3,1,2,1,4,0.06,0.25,0.31,0.44,54,16379,319,1983,-1664
+5,520,570526,Bergvall,MID,Spurs,Aston Villa,1,L,2,3,48,6,0,1,0,0,0,0,0,0,0,0,0,0,0,3,3.0,0.9,2.0,0.6,0,0,1,1,0.0,0.01,0.01,0.07,54,15731,344,1257,-913

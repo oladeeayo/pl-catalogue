@@ -1,0 +1,3 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688760,31185,2,1,2026-08-22 16:30:00,84,87,Ajer,Mikkel Damsgaard,0.965,0.556,0.0753,SavedShot,FromCorner,Head,Aerial,h
+693946,31210,32,4,2026-09-12 14:00:00,51,87,Ajer,,0.877,0.325,0.0519,MissedShots,SetPiece,RightFoot,BallTouch,a

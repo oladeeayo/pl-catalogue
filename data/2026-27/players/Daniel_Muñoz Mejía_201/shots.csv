@@ -1,0 +1,7 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688586,31182,3,1,2026-08-22 14:00:00,11,201,Muñoz,,0.893,0.376,0.0714,SavedShot,OpenPlay,LeftFoot,None,a
+688595,31182,3,1,2026-08-22 14:00:00,48,201,Muñoz,Daichi Kamada,0.92,0.459,0.2572,MissedShots,OpenPlay,Head,Cross,a
+692360,31203,28,3,2026-09-05 14:00:00,77,201,Muñoz,James McAtee,0.815,0.324,0.0317,BlockedShot,OpenPlay,RightFoot,Pass,h
+693988,31211,31,4,2026-09-12 14:00:00,84,201,Muñoz,Neco Williams,0.961,0.385,0.1852,SavedShot,OpenPlay,Head,Cross,a
+696147,31227,47,5,2026-09-19 16:30:00,34,201,Muñoz,,0.891,0.52,0.0451,MissedShots,OpenPlay,Head,Aerial,h
+696154,31227,47,5,2026-09-19 16:30:00,46,201,Muñoz,,0.873,0.327,0.0421,BlockedShot,OpenPlay,RightFoot,Rebound,h

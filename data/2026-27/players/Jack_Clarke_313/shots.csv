@@ -1,0 +1,5 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688629,31183,5,1,2026-08-22 14:00:00,89,313,Clarke,Sasa Lukic,0.844,0.625,0.0643,Goal,OpenPlay,RightFoot,Pass,h
+688630,31183,5,1,2026-08-22 14:00:00,91,313,Clarke,Guemissongui Ouattara,0.674,0.617,0.0308,MissedShots,OpenPlay,RightFoot,Pass,h
+691994,31200,21,3,2026-09-04 19:00:00,85,313,Clarke,Issa Diop,0.77,0.597,0.0285,BlockedShot,OpenPlay,RightFoot,BallRecovery,h
+694030,31213,34,4,2026-09-12 14:00:00,54,313,Clarke,Sasa Lukic,0.889,0.599,0.148,SavedShot,OpenPlay,RightFoot,Pass,a

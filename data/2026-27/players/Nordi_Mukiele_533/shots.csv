@@ -1,0 +1,6 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+694266,31216,36,4,2026-09-12 19:00:00,34,533,Mukiele,Kevin Danso,0.75,0.304,0.0201,BlockedShot,OpenPlay,RightFoot,Pass,h
+694278,31216,36,4,2026-09-12 19:00:00,75,533,Mukiele,Enzo Le Fée,0.922,0.54,0.4891,BlockedShot,OpenPlay,RightFoot,Pass,h
+694279,31216,36,4,2026-09-12 19:00:00,82,533,Mukiele,,0.894,0.492,0.0973,MissedShots,FromCorner,RightFoot,None,h
+694280,31216,36,4,2026-09-12 19:00:00,83,533,Mukiele,Granit Xhaka,0.953,0.547,0.4783,SavedShot,FromCorner,RightFoot,Cross,h
+696465,31222,45,5,2026-09-20 13:00:00,6,533,Mukiele,Brian Brobbey,0.899,0.308,0.0459,BlockedShot,OpenPlay,RightFoot,Pass,a

@@ -1,0 +1,9 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+689219,31186,7,1,2026-08-23 13:00:00,48,504,Vuskovic,Maxim De Cuyper,0.692,0.539,0.014,MissedShots,OpenPlay,RightFoot,Pass,h
+689222,31186,7,1,2026-08-23 13:00:00,53,504,Vuskovic,,0.97,0.423,0.3532,MissedShots,FromCorner,LeftFoot,Aerial,h
+691591,31196,16,2,2026-08-30 13:00:00,46,504,Vuskovic,Ferdi Kadioglu,0.697,0.481,0.0098,MissedShots,OpenPlay,RightFoot,Pass,a
+691608,31196,16,2,2026-08-30 13:00:00,93,504,Vuskovic,Maxim De Cuyper,0.833,0.472,0.015,MissedShots,SetPiece,Head,Cross,a
+692304,31206,23,3,2026-09-05 14:00:00,70,504,Vuskovic,Maxim De Cuyper,0.976,0.569,0.3656,Goal,FromCorner,Head,Cross,h
+692310,31206,23,3,2026-09-05 14:00:00,86,504,Vuskovic,,0.844,0.37,0.0202,BlockedShot,OpenPlay,RightFoot,Aerial,h
+694501,31217,38,4,2026-09-13 13:00:00,45,504,Vuskovic,,0.864,0.487,0.0979,BlockedShot,OpenPlay,RightFoot,None,a
+694503,31217,38,4,2026-09-13 13:00:00,46,504,Vuskovic,Pascal Groß,0.921,0.64,0.0248,MissedShots,SetPiece,Head,Cross,a

@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,387,472769,O'Reilly,DEF,Man City,Bournemouth,1,W,2,1,8,62,1,2,0,0,0,1,0,0,0,0,0,0,0,5,8.8,30.4,11.0,5.0,1,5,1,2,0.07,0.41,0.48,0.55,65,1877660,0,0,0
+2,387,472769,O'Reilly,DEF,Man City,Crystal Palace,0,W,4,1,11,88,1,2,0,0,0,1,0,0,0,0,0,0,0,11,3.6,7.8,5.0,1.6,0,2,1,1,0.02,0.02,0.04,0.66,65,2068744,68784,107330,-38546
+3,387,472769,O'Reilly,DEF,Man City,Coventry City,1,W,1,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,65,1933486,97243,291030,-193787
+4,387,472769,O'Reilly,DEF,Man City,Man Utd,0,W,1,0,39,8,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0.0,0.5,0.0,0.1,0,1,0,0,0.0,0.0,0.0,0.5,64,1381174,8499,547090,-538591
+5,387,472769,O'Reilly,DEF,Man City,Sunderland,1,W,5,3,45,5,0,1,0,0,0,0,0,0,0,0,0,0,0,3,5.4,0.8,17.0,2.3,1,1,1,2,0.78,0.0,0.78,0.39,64,1243931,12818,191061,-178243

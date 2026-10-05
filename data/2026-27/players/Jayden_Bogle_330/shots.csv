@@ -1,0 +1,7 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+692286,31206,23,3,2026-09-05 14:00:00,14,330,Bogle,Ao Tanaka,0.992,0.466,0.9669,Goal,FromCorner,RightFoot,Rebound,a
+695017,31219,40,4,2026-09-14 19:00:00,13,330,Bogle,James Justin,0.952,0.454,0.1292,SavedShot,OpenPlay,LeftFoot,HeadPass,h
+695018,31219,40,4,2026-09-14 19:00:00,24,330,Bogle,,0.847,0.276,0.0211,SavedShot,FromCorner,RightFoot,None,h
+695024,31219,40,4,2026-09-14 19:00:00,33,330,Bogle,Dominic Calvert-Lewin,0.924,0.492,0.0802,Goal,OpenPlay,Head,None,h
+696448,31225,44,5,2026-09-20 13:00:00,28,330,Bogle,Gabriel Gudmundsson,0.894,0.361,0.04,BlockedShot,OpenPlay,RightFoot,Cross,h
+696450,31225,44,5,2026-09-20 13:00:00,32,330,Bogle,,0.746,0.377,0.015,BlockedShot,FromCorner,LeftFoot,None,h

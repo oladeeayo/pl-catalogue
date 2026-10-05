@@ -1,0 +1,4 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+689368,31188,9,1,2026-08-23 15:30:00,21,593,Dedić,Lewis Miley,0.937,0.282,0.058,BlockedShot,OpenPlay,RightFoot,Chipped,h
+692051,31201,27,3,2026-09-05 11:30:00,7,593,Dedić,Anthony Elanga,0.95,0.343,0.1145,BlockedShot,OpenPlay,RightFoot,Pass,h
+692075,31201,27,3,2026-09-05 11:30:00,95,593,Dedić,,0.722,0.425,0.045,MissedShots,DirectFreekick,RightFoot,Standard,h

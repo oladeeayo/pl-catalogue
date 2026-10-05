@@ -1,0 +1,13 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+689361,31188,9,1,2026-08-23 15:30:00,1,366,Wirtz,Cody Gakpo,0.855,0.421,0.0933,BlockedShot,OpenPlay,RightFoot,Pass,a
+689366,31188,9,1,2026-08-23 15:30:00,17,366,Wirtz,,0.879,0.636,0.0554,SavedShot,OpenPlay,LeftFoot,None,a
+689378,31188,9,1,2026-08-23 15:30:00,46,366,Wirtz,,0.872,0.466,0.0764,BlockedShot,FromCorner,RightFoot,None,a
+690169,31191,14,2,2026-08-29 11:30:00,38,366,Wirtz,Cody Gakpo,0.911,0.556,0.0804,SavedShot,OpenPlay,Head,Cross,h
+690174,31191,14,2,2026-08-29 11:30:00,47,366,Wirtz,Víctor Muñoz,0.926,0.519,0.1025,BlockedShot,OpenPlay,RightFoot,Cross,h
+691987,31200,21,3,2026-09-04 19:00:00,41,366,Wirtz,Jérémy Jacquet,0.785,0.586,0.0266,SavedShot,SetPiece,RightFoot,Pass,a
+691988,31200,21,3,2026-09-04 19:00:00,46,366,Wirtz,Dominik Szoboszlai,0.837,0.432,0.1194,BlockedShot,OpenPlay,RightFoot,Pass,a
+694048,31214,35,4,2026-09-12 14:00:00,24,366,Wirtz,Dominik Szoboszlai,0.908,0.25,0.0336,MissedShots,OpenPlay,RightFoot,Pass,h
+694050,31214,35,4,2026-09-12 14:00:00,30,366,Wirtz,Ryan Gravenberch,0.8,0.501,0.0474,MissedShots,OpenPlay,LeftFoot,BallRecovery,h
+694066,31214,35,4,2026-09-12 14:00:00,80,366,Wirtz,Alexis Mac Allister,0.879,0.603,0.0993,BlockedShot,OpenPlay,RightFoot,Pass,h
+696423,31228,49,5,2026-09-20 13:00:00,33,366,Wirtz,Cody Gakpo,0.863,0.451,0.1063,BlockedShot,OpenPlay,LeftFoot,Pass,a
+696430,31228,49,5,2026-09-20 13:00:00,56,366,Wirtz,Cody Gakpo,0.922,0.487,0.1219,BlockedShot,OpenPlay,RightFoot,Cross,a

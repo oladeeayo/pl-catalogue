@@ -1,0 +1,7 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688514,31180,1,1,2026-08-21 19:00:00,85,183,Rudoni,Victor Torp,0.914,0.495,0.5053,SavedShot,OpenPlay,Head,Aerial,a
+690385,31192,13,2,2026-08-29 14:00:00,6,183,Rudoni,Taiwo Awoniyi,0.767,0.522,0.0253,BlockedShot,OpenPlay,LeftFoot,Pass,h
+692320,31202,26,3,2026-09-05 14:00:00,23,183,Rudoni,Bobby Thomas,0.951,0.435,0.4385,SavedShot,OpenPlay,Head,HeadPass,a
+694491,31217,38,4,2026-09-13 13:00:00,22,183,Rudoni,Jay Dasilva,0.899,0.564,0.0333,MissedShots,OpenPlay,Head,Aerial,h
+694492,31217,38,4,2026-09-13 13:00:00,26,183,Rudoni,Jay Dasilva,0.929,0.434,0.334,SavedShot,OpenPlay,RightFoot,Chipped,h
+696134,31227,47,5,2026-09-19 16:30:00,2,183,Rudoni,Ephron Mason-Clark,0.817,0.586,0.0861,MissedShots,OpenPlay,LeftFoot,Pass,a

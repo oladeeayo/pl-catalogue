@@ -1,0 +1,10 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+689204,31186,7,1,2026-08-23 13:00:00,3,41,Buendía,,0.772,0.553,0.0201,MissedShots,SetPiece,RightFoot,None,a
+689205,31186,7,1,2026-08-23 13:00:00,4,41,Buendía,Ross Barkley,0.823,0.361,0.0454,MissedShots,OpenPlay,LeftFoot,BlockedPass,a
+689206,31186,7,1,2026-08-23 13:00:00,6,41,Buendía,Ross Barkley,0.88,0.663,0.052,MissedShots,OpenPlay,LeftFoot,Chipped,a
+691699,31199,20,2,2026-08-31 19:00:00,11,41,Buendía,Boubacar Kamara,0.784,0.364,0.0274,ShotOnPost,OpenPlay,RightFoot,BallTouch,h
+692576,31207,25,3,2026-09-05 16:30:00,39,41,Buendía,,0.759,0.652,0.0552,MissedShots,DirectFreekick,RightFoot,Standard,a
+692581,31207,25,3,2026-09-05 16:30:00,52,41,Buendía,George Hemmings,0.914,0.58,0.3991,MissedShots,OpenPlay,RightFoot,Pass,a
+695668,31221,48,5,2026-09-19 11:30:00,26,41,Buendía,Nicolas Jackson,0.886,0.636,0.0739,SavedShot,OpenPlay,RightFoot,Pass,a
+695688,31221,48,5,2026-09-19 11:30:00,78,41,Buendía,John McGinn,0.738,0.487,0.0204,Goal,OpenPlay,RightFoot,Pass,a
+695691,31221,48,5,2026-09-19 11:30:00,87,41,Buendía,,0.912,0.642,0.0694,BlockedShot,OpenPlay,LeftFoot,TakeOn,a

@@ -1,0 +1,11 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+691609,31196,16,2,2026-08-30 13:00:00,95,124,Groß,,0.886,0.454,0.0453,Goal,OpenPlay,Head,Aerial,a
+692290,31206,23,3,2026-09-05 14:00:00,26,124,Groß,Olivier Boscagli,0.747,0.721,0.0156,MissedShots,SetPiece,RightFoot,Pass,h
+692295,31206,23,3,2026-09-05 14:00:00,54,124,Groß,Diego Gómez,0.808,0.487,0.0434,MissedShots,OpenPlay,RightFoot,BallTouch,h
+692299,31206,23,3,2026-09-05 14:00:00,64,124,Groß,,0.821,0.356,0.0308,MissedShots,SetPiece,RightFoot,None,h
+692311,31206,23,3,2026-09-05 14:00:00,88,124,Groß,Costinha,0.925,0.506,0.0699,BlockedShot,OpenPlay,Head,Aerial,h
+692312,31206,23,3,2026-09-05 14:00:00,88,124,Groß,,0.951,0.504,0.6549,MissedShots,OpenPlay,RightFoot,Rebound,h
+694497,31217,38,4,2026-09-13 13:00:00,36,124,Groß,Olivier Boscagli,0.757,0.601,0.0241,MissedShots,OpenPlay,RightFoot,Pass,a
+694506,31217,38,4,2026-09-13 13:00:00,69,124,Groß,,0.885,0.5,0.7612,Goal,Penalty,RightFoot,Standard,a
+695943,31224,42,5,2026-09-19 14:00:00,30,124,Groß,Charalampos Kostoulas,0.794,0.307,0.0251,Goal,OpenPlay,RightFoot,Pass,h
+695959,31224,42,5,2026-09-19 14:00:00,78,124,Groß,,0.919,0.673,0.0717,BlockedShot,OpenPlay,RightFoot,None,h

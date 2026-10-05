@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,423,106760,Shaw,DEF,Man Utd,Hull City,0,L,0,2,4,90,1,1,0,0,0,2,0,0,0,0,0,0,0,13,25.2,59.2,6.0,9.0,3,3,1,4,0.0,0.26,0.26,1.01,45,1947696,0,0,0
+2,423,106760,Shaw,DEF,Man Utd,Ipswich Town,1,W,5,2,18,72,1,2,0,0,0,1,0,0,0,0,0,0,0,12,18.4,1.6,4.0,2.4,4,2,4,8,0.0,0.02,0.02,1.06,45,1935721,42927,117089,-74162
+3,423,106760,Shaw,DEF,Man Utd,Everton,0,D,2,2,30,90,1,4,0,1,0,1,0,0,0,0,1,0,0,22,42.4,24.8,3.0,7.0,7,1,1,8,0.02,0.23,0.25,0.94,45,1575355,30459,333890,-303431
+4,423,106760,Shaw,DEF,Man Utd,Man City,1,L,0,1,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,44,1210238,21871,418040,-396169
+5,423,106760,Shaw,DEF,Man Utd,Fulham,0,D,1,1,50,83,1,2,0,0,0,1,0,0,0,0,0,0,0,7,6.6,6.0,4.0,1.7,3,1,0,3,0.01,0.07,0.08,1.62,44,879239,2227,362910,-360683

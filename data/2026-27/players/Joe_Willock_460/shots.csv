@@ -1,0 +1,11 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+689385,31188,9,1,2026-08-23 15:30:00,56,460,Willock,Yoane Wissa,0.822,0.63,0.0722,Goal,OpenPlay,RightFoot,Pass,h
+690574,31194,15,2,2026-08-29 16:30:00,23,460,Willock,Lewis Miley,0.799,0.584,0.0403,MissedShots,OpenPlay,RightFoot,Pass,a
+690576,31194,15,2,2026-08-29 16:30:00,32,460,Willock,Harvey Barnes,0.957,0.693,0.0565,MissedShots,OpenPlay,RightFoot,Pass,a
+690585,31194,15,2,2026-08-29 16:30:00,60,460,Willock,Nico González,0.74,0.249,0.0136,MissedShots,OpenPlay,RightFoot,Pass,a
+692065,31201,27,3,2026-09-05 11:30:00,37,460,Willock,Nico González,0.704,0.613,0.0156,BlockedShot,OpenPlay,RightFoot,Pass,h
+692067,31201,27,3,2026-09-05 11:30:00,51,460,Willock,Anthony Elanga,0.95,0.471,0.42,MissedShots,OpenPlay,Head,HeadPass,h
+695034,31219,40,4,2026-09-14 19:00:00,71,460,Willock,Yoane Wissa,0.983,0.603,0.0661,ShotOnPost,OpenPlay,LeftFoot,Rebound,a
+695035,31219,40,4,2026-09-14 19:00:00,76,460,Willock,Sean Steur,0.785,0.729,0.0193,SavedShot,OpenPlay,RightFoot,Pass,a
+695906,31223,46,5,2026-09-19 14:00:00,2,460,Willock,Lewis Hall,0.84,0.648,0.0511,BlockedShot,OpenPlay,RightFoot,Pass,h
+695907,31223,46,5,2026-09-19 14:00:00,2,460,Willock,Harvey Barnes,0.907,0.615,0.1098,Goal,OpenPlay,LeftFoot,Pass,h

@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,149,460028,Colwill,DEF,Chelsea,Fulham,0,W,3,2,10,90,1,0,0,0,0,2,0,0,0,0,1,0,0,6,6.0,1.6,7.0,1.5,2,3,2,4,0.01,0.03,0.04,1.33,50,142918,0,0,0
+2,149,460028,Colwill,DEF,Chelsea,Brighton,1,W,4,3,16,71,1,1,0,0,0,2,0,0,0,0,0,0,0,2,13.2,0.4,0.0,1.4,8,2,1,9,0.0,0.0,0.0,1.31,50,150119,10571,17779,-7208
+3,149,460028,Colwill,DEF,Chelsea,Arsenal,0,L,1,2,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,50,124492,7720,33598,-25878
+4,149,460028,Colwill,DEF,Chelsea,Hull City,1,D,2,2,33,90,1,1,0,0,0,2,0,0,0,0,0,0,0,8,26.8,12.2,4.0,4.3,6,6,0,6,0.0,0.01,0.01,1.38,49,112667,5362,22693,-17331
+5,149,460028,Colwill,DEF,Chelsea,Brentford,0,L,0,3,41,90,1,1,0,0,0,3,0,0,0,0,0,0,0,1,15.6,2.4,2.0,2.0,7,4,0,7,0.0,0.01,0.01,2.65,49,97080,2003,18955,-16952

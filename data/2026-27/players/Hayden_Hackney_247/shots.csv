@@ -1,0 +1,3 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688598,31182,3,1,2026-08-22 14:00:00,48,247,Hackney,Tyrique George,0.895,0.756,0.0381,BlockedShot,FromCorner,RightFoot,Pass,h
+692881,31208,30,3,2026-09-06 13:00:00,93,247,Hackney,Tyrique George,0.907,0.726,0.045,MissedShots,OpenPlay,RightFoot,Pass,h

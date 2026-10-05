@@ -1,0 +1,6 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688650,31184,6,1,2026-08-22 14:00:00,69,334,Muharemović,Noah Okafor,0.922,0.528,0.0602,SavedShot,OpenPlay,Head,Aerial,a
+696442,31225,44,5,2026-09-20 13:00:00,7,334,Muharemović,Anton Stach,0.93,0.463,0.1079,MissedShots,FromCorner,Head,Cross,h
+696444,31225,44,5,2026-09-20 13:00:00,21,334,Muharemović,Ethan Ampadu,0.916,0.55,0.0551,BlockedShot,OpenPlay,Head,Aerial,h
+696458,31225,44,5,2026-09-20 13:00:00,56,334,Muharemović,Ethan Ampadu,0.933,0.481,0.0724,MissedShots,OpenPlay,Head,Aerial,h
+696463,31225,44,5,2026-09-20 13:00:00,86,334,Muharemović,,0.863,0.483,0.0797,BlockedShot,OpenPlay,LeftFoot,None,h

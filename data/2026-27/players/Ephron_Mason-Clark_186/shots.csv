@@ -1,0 +1,5 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+694490,31217,38,4,2026-09-13 13:00:00,20,186,Mason-Clark,Taiwo Awoniyi,0.889,0.546,0.1039,SavedShot,OpenPlay,LeftFoot,Rebound,h
+694498,31217,38,4,2026-09-13 13:00:00,37,186,Mason-Clark,Jack Rudoni,0.963,0.544,0.1356,BlockedShot,OpenPlay,RightFoot,Pass,h
+694504,31217,38,4,2026-09-13 13:00:00,45,186,Mason-Clark,Jack Rudoni,0.858,0.528,0.0769,SavedShot,OpenPlay,RightFoot,Pass,h
+696144,31227,47,5,2026-09-19 16:30:00,33,186,Mason-Clark,,0.719,0.381,0.0107,BlockedShot,OpenPlay,LeftFoot,None,a

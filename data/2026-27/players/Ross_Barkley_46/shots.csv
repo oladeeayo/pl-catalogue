@@ -1,0 +1,8 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+689227,31186,7,1,2026-08-23 13:00:00,67,46,Barkley,Emiliano Buendía,0.956,0.578,0.0977,MissedShots,FromCorner,Head,Cross,a
+691707,31199,20,2,2026-08-31 19:00:00,67,46,Barkley,,0.799,0.573,0.0361,BlockedShot,OpenPlay,RightFoot,None,h
+692568,31207,25,3,2026-09-05 16:30:00,12,46,Barkley,,0.859,0.634,0.0492,BlockedShot,OpenPlay,LeftFoot,Rebound,a
+692571,31207,25,3,2026-09-05 16:30:00,24,46,Barkley,,0.853,0.495,0.0725,MissedShots,OpenPlay,RightFoot,None,a
+692577,31207,25,3,2026-09-05 16:30:00,46,46,Barkley,Boubacar Kamara,0.718,0.487,0.0155,BlockedShot,OpenPlay,RightFoot,Pass,a
+692585,31207,25,3,2026-09-05 16:30:00,80,46,Barkley,,0.895,0.537,0.0212,MissedShots,FromCorner,Head,Aerial,a
+693972,31211,31,4,2026-09-12 14:00:00,31,46,Barkley,George Hemmings,0.778,0.697,0.0182,SavedShot,OpenPlay,RightFoot,Pass,h

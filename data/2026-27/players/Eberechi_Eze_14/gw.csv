@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,14,232413,Eze,MID,Arsenal,Coventry City,1,W,3,0,1,14,0,1,0,0,0,0,0,0,0,0,0,0,0,4,0.0,1.8,1.0,0.1,0,2,0,2,0.04,0.0,0.04,0.15,65,188164,0,0,0
+2,14,232413,Eze,MID,Arsenal,Aston Villa,0,W,1,0,20,45,0,1,0,0,0,0,0,0,0,0,0,0,0,6,1.6,2.0,2.0,0.6,0,3,0,3,0.0,0.07,0.07,0.24,65,169814,5716,44492,-38776
+3,14,232413,Eze,MID,Arsenal,Chelsea,1,W,2,1,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,64,146059,8271,40572,-32301
+4,14,232413,Eze,MID,Arsenal,Sunderland,0,W,2,0,36,9,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0.2,0.0,2.0,0.2,0,0,0,0,0.0,0.0,0.0,0.4,63,125433,3906,29739,-25833
+5,14,232413,Eze,MID,Arsenal,Brighton,0,L,0,3,42,17,0,1,0,0,0,0,0,0,0,0,0,0,0,5,1.2,2.1,4.0,0.7,0,0,0,0,0.0,0.02,0.02,0.54,63,113499,3026,18041,-15015

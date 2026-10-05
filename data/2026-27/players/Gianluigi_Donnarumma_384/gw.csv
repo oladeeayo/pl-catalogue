@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,384,204936,Donnarumma,GKP,Man City,Bournemouth,1,W,2,1,8,90,1,3,0,0,0,1,3,0,0,0,0,0,0,12,26.8,0.0,0.0,2.7,1,4,0,0,0.0,0.0,0.0,0.65,55,722204,0,0,0
+2,384,204936,Donnarumma,GKP,Man City,Crystal Palace,0,W,4,1,11,90,1,0,0,0,0,1,1,1,0,0,0,0,0,5,6.8,0.0,0.0,0.7,0,8,0,0,0.0,0.0,0.0,0.66,55,828113,34008,44952,-10944
+3,384,204936,Donnarumma,GKP,Man City,Coventry City,1,W,1,0,26,90,1,7,0,0,1,0,3,0,0,0,0,0,0,29,26.8,0.0,0.0,2.7,1,2,0,0,0.0,0.0,0.0,1.37,55,836587,71140,120065,-48925
+4,384,204936,Donnarumma,GKP,Man City,Man Utd,0,W,1,0,39,90,1,7,0,0,1,0,3,0,0,0,0,0,0,29,20.6,0.0,0.0,2.1,0,10,0,0,0.0,0.0,0.0,1.0,55,797609,32234,78476,-46242
+5,384,204936,Donnarumma,GKP,Man City,Sunderland,1,W,5,3,45,90,1,2,0,0,0,3,4,0,0,0,0,0,0,9,31.6,0.0,0.0,3.2,2,8,0,0,0.0,0.0,0.0,3.57,55,879025,58809,42423,16386

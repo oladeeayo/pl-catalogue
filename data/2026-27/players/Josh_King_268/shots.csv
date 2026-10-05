@@ -1,0 +1,15 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+689753,31189,10,1,2026-08-24 19:00:00,19,268,King,Sander Berge,0.762,0.357,0.0221,SavedShot,OpenPlay,RightFoot,Pass,h
+689756,31189,10,1,2026-08-24 19:00:00,22,268,King,Timothy Castagne,0.889,0.29,0.0489,Goal,OpenPlay,RightFoot,Pass,h
+689773,31189,10,1,2026-08-24 19:00:00,71,268,King,Antonee Robinson,0.818,0.616,0.0477,MissedShots,OpenPlay,RightFoot,Pass,h
+691042,31195,19,2,2026-08-30 13:00:00,25,268,King,Alex Iwobi,0.914,0.641,0.2937,MissedShots,OpenPlay,LeftFoot,Chipped,a
+691057,31195,19,2,2026-08-30 13:00:00,86,268,King,,0.859,0.581,0.0258,BlockedShot,FromCorner,RightFoot,Aerial,a
+692366,31204,24,3,2026-09-05 14:00:00,10,268,King,,0.861,0.543,0.1185,Goal,OpenPlay,LeftFoot,None,h
+692385,31204,24,3,2026-09-05 14:00:00,48,268,King,Shea Charles,0.894,0.383,0.1022,BlockedShot,OpenPlay,RightFoot,Pass,h
+694044,31214,35,4,2026-09-12 14:00:00,9,268,King,Antonee Robinson,0.862,0.535,0.1082,MissedShots,OpenPlay,RightFoot,Pass,a
+694049,31214,35,4,2026-09-12 14:00:00,28,268,King,Alex Iwobi,0.93,0.699,0.0437,BlockedShot,FromCorner,RightFoot,TakeOn,a
+694051,31214,35,4,2026-09-12 14:00:00,32,268,King,Oscar Bobb,0.874,0.658,0.0495,SavedShot,FromCorner,RightFoot,Pass,a
+694062,31214,35,4,2026-09-12 14:00:00,75,268,King,Antonee Robinson,0.785,0.64,0.0276,SavedShot,OpenPlay,RightFoot,Pass,a
+696657,31229,50,5,2026-09-20 15:30:00,19,268,King,David Affengruber,0.868,0.332,0.0546,MissedShots,OpenPlay,RightFoot,Pass,h
+696662,31229,50,5,2026-09-20 15:30:00,27,268,King,Alex Iwobi,0.926,0.407,0.3019,SavedShot,OpenPlay,RightFoot,Cross,h
+696669,31229,50,5,2026-09-20 15:30:00,31,268,King,Alex Iwobi,0.912,0.336,0.1142,SavedShot,OpenPlay,RightFoot,Chipped,h

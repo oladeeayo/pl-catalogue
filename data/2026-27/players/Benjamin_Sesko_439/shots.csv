@@ -1,0 +1,5 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688563,31181,4,1,2026-08-22 11:30:00,92,439,Šeško,Marcus Rashford,0.889,0.46,0.0396,BlockedShot,OpenPlay,Head,Aerial,a
+692878,31208,30,3,2026-09-06 13:00:00,85,439,Šeško,Bruno Fernandes,0.855,0.502,0.0226,MissedShots,OpenPlay,Head,Cross,a
+692879,31208,30,3,2026-09-06 13:00:00,87,439,Šeško,Luke Shaw,0.929,0.478,0.4091,Goal,OpenPlay,Head,Cross,a
+694689,31218,39,4,2026-09-13 15:30:00,70,439,Šeško,,0.743,0.554,0.0387,BlockedShot,OpenPlay,RightFoot,BallRecovery,h

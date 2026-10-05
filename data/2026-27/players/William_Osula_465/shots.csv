@@ -1,0 +1,3 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+689372,31188,9,1,2026-08-23 15:30:00,30,465,Osula,,0.712,0.485,0.0427,BlockedShot,DirectFreekick,RightFoot,Standard,h
+689373,31188,9,1,2026-08-23 15:30:00,31,465,Osula,,0.756,0.515,0.0163,BlockedShot,SetPiece,LeftFoot,Rebound,h

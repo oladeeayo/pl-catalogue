@@ -1,0 +1,8 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+690572,31194,15,2,2026-08-29 16:30:00,16,499,Pedro Porro,Sandro Tonali,0.901,0.491,0.1287,BlockedShot,OpenPlay,RightFoot,Rebound,h
+690573,31194,15,2,2026-08-29 16:30:00,21,499,Pedro Porro,,0.799,0.62,0.0233,MissedShots,FromCorner,LeftFoot,None,h
+690580,31194,15,2,2026-08-29 16:30:00,43,499,Pedro Porro,Sandro Tonali,0.854,0.282,0.0333,BlockedShot,OpenPlay,RightFoot,Pass,h
+690588,31194,15,2,2026-08-29 16:30:00,69,499,Pedro Porro,,0.793,0.31,0.0214,MissedShots,OpenPlay,RightFoot,None,h
+692351,31203,28,3,2026-09-05 14:00:00,45,499,Pedro Porro,,0.749,0.338,0.0136,BlockedShot,OpenPlay,RightFoot,None,a
+692361,31203,28,3,2026-09-05 14:00:00,80,499,Pedro Porro,Jan Paul van Hecke,0.529,0.068,0.0062,MissedShots,OpenPlay,RightFoot,Pass,a
+695663,31221,48,5,2026-09-19 11:30:00,10,499,Pedro Porro,,0.722,0.376,0.0134,MissedShots,FromCorner,RightFoot,None,h

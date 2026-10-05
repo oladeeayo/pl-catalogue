@@ -1,0 +1,4 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+689778,31189,10,1,2026-08-24 19:00:00,94,271,Muniz,,0.734,0.582,0.0156,SavedShot,OpenPlay,RightFoot,None,h
+692396,31204,24,3,2026-09-05 14:00:00,85,271,Muniz,Ryan Sessegnon,0.883,0.56,0.0893,SavedShot,OpenPlay,LeftFoot,Pass,h
+692398,31204,24,3,2026-09-05 14:00:00,87,271,Muniz,Joshua King,0.923,0.45,0.1137,MissedShots,OpenPlay,RightFoot,Chipped,h

@@ -1,0 +1,20 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688536,31181,4,1,2026-08-22 11:30:00,12,427,Mbeumo,Luke Shaw,0.899,0.315,0.0238,SavedShot,OpenPlay,RightFoot,Cross,a
+688545,31181,4,1,2026-08-22 11:30:00,34,427,Mbeumo,Luke Shaw,0.906,0.352,0.0498,BlockedShot,OpenPlay,LeftFoot,Cross,a
+688557,31181,4,1,2026-08-22 11:30:00,75,427,Mbeumo,Noussair Mazraoui,0.883,0.299,0.0488,MissedShots,OpenPlay,LeftFoot,Pass,a
+688558,31181,4,1,2026-08-22 11:30:00,77,427,Mbeumo,Matheus Cunha,0.855,0.436,0.4282,SavedShot,OpenPlay,RightFoot,Throughball,a
+691328,31198,18,2,2026-08-30 15:30:00,51,427,Mbeumo,,0.988,0.469,0.9381,ShotOnPost,OpenPlay,RightFoot,None,h
+691334,31198,18,2,2026-08-30 15:30:00,55,427,Mbeumo,Bruno Fernandes,0.917,0.499,0.0679,BlockedShot,OpenPlay,Head,Aerial,h
+691341,31198,18,2,2026-08-30 15:30:00,67,427,Mbeumo,,0.859,0.419,0.061,BlockedShot,OpenPlay,LeftFoot,Rebound,h
+691344,31198,18,2,2026-08-30 15:30:00,75,427,Mbeumo,Youri Tielemans,0.886,0.276,0.05,BlockedShot,OpenPlay,LeftFoot,Pass,h
+691348,31198,18,2,2026-08-30 15:30:00,81,427,Mbeumo,Bruno Fernandes,0.772,0.329,0.3359,Goal,OpenPlay,LeftFoot,Chipped,h
+692863,31208,30,3,2026-09-06 13:00:00,46,427,Mbeumo,Kobbie Mainoo,0.818,0.331,0.0389,Goal,OpenPlay,LeftFoot,TakeOn,a
+692875,31208,30,3,2026-09-06 13:00:00,73,427,Mbeumo,,0.855,0.348,0.0689,BlockedShot,OpenPlay,LeftFoot,BallRecovery,a
+694684,31218,39,4,2026-09-13 15:30:00,54,427,Mbeumo,Youri Tielemans,0.813,0.272,0.0242,MissedShots,OpenPlay,LeftFoot,Pass,h
+694690,31218,39,4,2026-09-13 15:30:00,72,427,Mbeumo,,0.911,0.44,0.0394,MissedShots,OpenPlay,Head,Aerial,h
+694695,31218,39,4,2026-09-13 15:30:00,94,427,Mbeumo,,0.881,0.425,0.3834,SavedShot,OpenPlay,RightFoot,None,h
+696655,31229,50,5,2026-09-20 15:30:00,10,427,Mbeumo,Marcus Rashford,0.868,0.452,0.0291,MissedShots,FromCorner,Head,Cross,a
+696661,31229,50,5,2026-09-20 15:30:00,25,427,Mbeumo,Diogo Dalot,0.837,0.352,0.0583,BlockedShot,OpenPlay,LeftFoot,TakeOn,a
+696675,31229,50,5,2026-09-20 15:30:00,43,427,Mbeumo,Matheus Cunha,0.919,0.407,0.1263,MissedShots,OpenPlay,LeftFoot,Pass,a
+696680,31229,50,5,2026-09-20 15:30:00,66,427,Mbeumo,Marcus Rashford,0.776,0.363,0.0295,SavedShot,FromCorner,LeftFoot,Pass,a
+696687,31229,50,5,2026-09-20 15:30:00,77,427,Mbeumo,Joshua Zirkzee,0.822,0.37,0.0674,BlockedShot,OpenPlay,LeftFoot,Pass,a

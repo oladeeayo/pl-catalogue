@@ -1,0 +1,6 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+690074,31190,11,2,2026-08-28 19:00:00,4,204,Mitchell,,0.749,0.498,0.0119,MissedShots,OpenPlay,LeftFoot,Aerial,h
+690084,31190,11,2,2026-08-28 19:00:00,33,204,Mitchell,Adam Wharton,0.897,0.555,0.2252,MissedShots,OpenPlay,Head,Cross,h
+692378,31204,24,3,2026-09-05 14:00:00,34,204,Mitchell,Eddie Nketiah,0.951,0.68,0.3963,Goal,OpenPlay,LeftFoot,Pass,a
+692386,31204,24,3,2026-09-05 14:00:00,53,204,Mitchell,Daichi Kamada,0.862,0.663,0.0385,BlockedShot,OpenPlay,LeftFoot,Chipped,a
+692388,31204,24,3,2026-09-05 14:00:00,53,204,Mitchell,,0.891,0.583,0.354,Goal,OpenPlay,LeftFoot,Rebound,a

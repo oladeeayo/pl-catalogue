@@ -1,0 +1,8 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+691326,31198,18,2,2026-08-30 15:30:00,45,419,Martinez,Diogo Dalot,0.725,0.495,0.0149,MissedShots,OpenPlay,LeftFoot,Pass,h
+694675,31218,39,4,2026-09-13 15:30:00,6,419,Martinez,Patrick Dorgu,0.805,0.664,0.0249,SavedShot,SetPiece,LeftFoot,Pass,h
+696653,31229,50,5,2026-09-20 15:30:00,9,419,Martinez,,0.854,0.738,0.0203,BlockedShot,FromCorner,LeftFoot,None,a
+696654,31229,50,5,2026-09-20 15:30:00,9,419,Martinez,,0.793,0.594,0.0161,SavedShot,FromCorner,LeftFoot,Aerial,a
+696679,31229,50,5,2026-09-20 15:30:00,62,419,Martinez,,0.073,0.492,0.0,OwnGoal,OpenPlay,RightFoot,Save,a
+696688,31229,50,5,2026-09-20 15:30:00,80,419,Martinez,,0.818,0.528,0.0398,MissedShots,FromCorner,LeftFoot,None,a
+696691,31229,50,5,2026-09-20 15:30:00,92,419,Martinez,,0.924,0.334,0.0455,BlockedShot,FromCorner,RightFoot,TakeOn,a

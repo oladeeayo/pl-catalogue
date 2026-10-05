@@ -1,0 +1,4 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+690395,31192,13,2,2026-08-29 14:00:00,73,287,Millar,Oliver McBurnie,0.831,0.538,0.0933,MissedShots,OpenPlay,RightFoot,Pass,a
+690397,31192,13,2,2026-08-29 14:00:00,81,287,Millar,Mohamed Belloumi,0.819,0.51,0.2583,Goal,OpenPlay,RightFoot,Pass,a
+690399,31192,13,2,2026-08-29 14:00:00,94,287,Millar,,0.474,0.944,0.0065,MissedShots,OpenPlay,LeftFoot,None,a

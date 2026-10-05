@@ -1,0 +1,6 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688513,31180,1,1,2026-08-21 19:00:00,81,4,Gabriel,Noni Madueke,0.774,0.636,0.0287,MissedShots,OpenPlay,LeftFoot,Pass,h
+691698,31199,20,2,2026-08-31 19:00:00,7,4,Gabriel,,0.936,0.462,0.3273,MissedShots,FromCorner,Head,None,a
+693056,31209,29,3,2026-09-06 15:30:00,4,4,Gabriel,,0.961,0.423,0.1344,SavedShot,SetPiece,RightFoot,Rebound,h
+693057,31209,29,3,2026-09-06 15:30:00,11,4,Gabriel,,0.965,0.581,0.5216,SavedShot,SetPiece,RightFoot,None,h
+694263,31216,36,4,2026-09-12 19:00:00,22,4,Gabriel,Declan Rice,0.72,0.615,0.0152,MissedShots,OpenPlay,LeftFoot,Pass,a

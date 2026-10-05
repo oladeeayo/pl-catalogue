@@ -1,0 +1,3 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+690076,31190,11,2,2026-08-28 19:00:00,6,390,Rúben,,0.904,0.388,0.0779,SavedShot,FromCorner,RightFoot,Rebound,a
+696483,31222,45,5,2026-09-20 13:00:00,63,390,Rúben,Enzo Fernández,0.957,0.519,0.0852,MissedShots,FromCorner,Head,Aerial,h

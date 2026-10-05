@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,599,627221,Cherif,FWD,Coventry City,Arsenal,0,L,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,50,7348,0,0,0
+2,599,627221,Cherif,FWD,Coventry City,Hull City,1,L,0,1,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,50,9736,1724,1394,330
+3,599,627221,Cherif,FWD,Coventry City,Man City,0,L,0,1,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,50,10406,2227,2361,-134
+4,599,627221,Cherif,FWD,Coventry City,Brighton,1,L,0,5,38,30,0,1,0,0,0,3,0,0,0,0,0,0,0,3,1.0,0.2,0.0,0.1,1,0,0,1,0.0,0.0,0.0,1.43,50,10369,1323,1604,-281
+5,599,627221,Cherif,FWD,Coventry City,Nott'm Forest,0,W,1,0,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,50,10975,1653,1480,173

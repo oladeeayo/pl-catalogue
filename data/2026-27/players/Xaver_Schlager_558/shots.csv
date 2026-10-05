@@ -1,0 +1,7 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+690163,31191,14,2,2026-08-29 11:30:00,16,558,Schlager,,0.799,0.438,0.028,BlockedShot,FromCorner,LeftFoot,None,a
+690166,31191,14,2,2026-08-29 11:30:00,23,558,Schlager,,0.87,0.291,0.0162,BlockedShot,OpenPlay,RightFoot,Aerial,a
+692359,31203,28,3,2026-09-05 14:00:00,77,558,Schlager,,0.744,0.535,0.0176,MissedShots,OpenPlay,LeftFoot,None,h
+693989,31211,31,4,2026-09-12 14:00:00,85,558,Schlager,Daniel Muñoz,0.88,0.523,0.044,SavedShot,OpenPlay,Head,Cross,a
+696152,31227,47,5,2026-09-19 16:30:00,45,558,Schlager,Morgan Gibbs-White,0.772,0.515,0.0274,BlockedShot,SetPiece,LeftFoot,TakeOn,h
+696165,31227,47,5,2026-09-19 16:30:00,84,558,Schlager,,0.801,0.544,0.0397,BlockedShot,OpenPlay,LeftFoot,None,h

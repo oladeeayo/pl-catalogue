@@ -1,0 +1,5 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688496,31180,1,1,2026-08-21 19:00:00,8,13,Rice,Christos Tzolis,0.718,0.661,0.0123,MissedShots,OpenPlay,RightFoot,Pass,h
+688504,31180,1,1,2026-08-21 19:00:00,46,13,Rice,Bukayo Saka,0.794,0.393,0.0276,MissedShots,FromCorner,LeftFoot,Pass,h
+693072,31209,29,3,2026-09-06 15:30:00,55,13,Rice,Bukayo Saka,0.771,0.473,0.0429,BlockedShot,OpenPlay,RightFoot,LayOff,h
+695965,31224,42,5,2026-09-19 14:00:00,92,13,Rice,Riccardo Calafiori,0.7,0.381,0.0076,MissedShots,OpenPlay,LeftFoot,None,a

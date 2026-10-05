@@ -1,0 +1,12 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+690164,31191,14,2,2026-08-29 11:30:00,18,483,Ndoye,James McAtee,0.952,0.603,0.2299,MissedShots,OpenPlay,Head,Chipped,a
+690167,31191,14,2,2026-08-29 11:30:00,23,483,Ndoye,Morgan Gibbs-White,0.893,0.664,0.2842,Goal,OpenPlay,RightFoot,Pass,a
+690175,31191,14,2,2026-08-29 11:30:00,47,483,Ndoye,Igor Jesus,0.863,0.375,0.1331,MissedShots,OpenPlay,LeftFoot,TakeOn,a
+693973,31211,31,4,2026-09-12 14:00:00,34,483,Ndoye,Daniel Muñoz,0.853,0.403,0.083,SavedShot,OpenPlay,RightFoot,Pass,a
+693976,31211,31,4,2026-09-12 14:00:00,49,483,Ndoye,Xaver Schlager,0.728,0.576,0.0203,MissedShots,OpenPlay,RightFoot,Pass,a
+693979,31211,31,4,2026-09-12 14:00:00,58,483,Ndoye,Morgan Gibbs-White,0.942,0.501,0.5448,MissedShots,OpenPlay,Head,Cross,a
+693980,31211,31,4,2026-09-12 14:00:00,60,483,Ndoye,Liam Delap,0.862,0.463,0.1394,BlockedShot,OpenPlay,RightFoot,Pass,a
+693982,31211,31,4,2026-09-12 14:00:00,68,483,Ndoye,James McAtee,0.877,0.579,0.1195,BlockedShot,OpenPlay,RightFoot,Pass,a
+696135,31227,47,5,2026-09-19 16:30:00,12,483,Ndoye,Neco Williams,0.872,0.588,0.0578,MissedShots,OpenPlay,RightFoot,HeadPass,h
+696139,31227,47,5,2026-09-19 16:30:00,17,483,Ndoye,Liam Delap,0.799,0.513,0.0486,MissedShots,OpenPlay,RightFoot,Pass,h
+696145,31227,47,5,2026-09-19 16:30:00,34,483,Ndoye,Morgan Gibbs-White,0.904,0.615,0.0701,BlockedShot,OpenPlay,LeftFoot,Cross,h

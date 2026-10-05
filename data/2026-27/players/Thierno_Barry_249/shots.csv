@@ -1,0 +1,18 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688596,31182,3,1,2026-08-22 14:00:00,46,249,Barry,Hayden Hackney,0.743,0.501,0.0317,BlockedShot,OpenPlay,RightFoot,BallRecovery,h
+688600,31182,3,1,2026-08-22 14:00:00,52,249,Barry,Iliman Ndiaye,0.95,0.516,0.5571,Goal,SetPiece,Head,Cross,h
+690408,31193,12,2,2026-08-29 14:00:00,19,249,Barry,,0.945,0.487,0.6285,SavedShot,OpenPlay,RightFoot,Rebound,a
+690415,31193,12,2,2026-08-29 14:00:00,45,249,Barry,Kiernan Dewsbury-Hall,0.894,0.358,0.1115,MissedShots,OpenPlay,RightFoot,Pass,a
+690416,31193,12,2,2026-08-29 14:00:00,48,249,Barry,Harrison Armstrong,0.882,0.426,0.405,SavedShot,OpenPlay,LeftFoot,TakeOn,a
+692858,31208,30,3,2026-09-06 13:00:00,39,249,Barry,James Garner,0.851,0.475,0.009,MissedShots,SetPiece,Head,Aerial,h
+692859,31208,30,3,2026-09-06 13:00:00,41,249,Barry,Brennan Johnson,0.86,0.237,0.0269,BlockedShot,OpenPlay,RightFoot,Pass,h
+692860,31208,30,3,2026-09-06 13:00:00,42,249,Barry,Merlin Röhl,0.924,0.532,0.3399,MissedShots,OpenPlay,Head,Cross,h
+692866,31208,30,3,2026-09-06 13:00:00,58,249,Barry,Tyrique George,0.87,0.439,0.1128,BlockedShot,OpenPlay,RightFoot,TakeOn,h
+694166,31215,37,4,2026-09-12 16:30:00,22,249,Barry,Ainsley Maitland-Niles,0.869,0.4,0.0756,BlockedShot,OpenPlay,RightFoot,BallTouch,a
+694173,31215,37,4,2026-09-12 16:30:00,49,249,Barry,Tyrique George,0.972,0.424,0.3749,SavedShot,OpenPlay,Head,Cross,a
+694174,31215,37,4,2026-09-12 16:30:00,53,249,Barry,Vitalii Mykolenko,0.959,0.536,0.1174,BlockedShot,OpenPlay,Head,Aerial,a
+694178,31215,37,4,2026-09-12 16:30:00,71,249,Barry,Brennan Johnson,0.888,0.454,0.0639,MissedShots,OpenPlay,Head,Cross,a
+694179,31215,37,4,2026-09-12 16:30:00,71,249,Barry,Brennan Johnson,0.928,0.457,0.0694,BlockedShot,OpenPlay,Head,Aerial,a
+695997,31226,43,5,2026-09-19 14:00:00,10,249,Barry,James Tarkowski,0.901,0.506,0.3461,Goal,OpenPlay,OtherBodyPart,Rebound,h
+696005,31226,43,5,2026-09-19 14:00:00,32,249,Barry,Ainsley Maitland-Niles,0.911,0.544,0.2856,MissedShots,OpenPlay,Head,Cross,h
+696012,31226,43,5,2026-09-19 14:00:00,63,249,Barry,Jack Grealish,0.908,0.513,0.2983,MissedShots,OpenPlay,Head,Chipped,h

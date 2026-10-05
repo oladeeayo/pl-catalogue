@@ -1,0 +1,16 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688494,31180,1,1,2026-08-21 19:00:00,6,12,Saka,Christos Tzolis,0.908,0.418,0.0958,BlockedShot,OpenPlay,RightFoot,Cross,h
+688499,31180,1,1,2026-08-21 19:00:00,22,12,Saka,,0.932,0.449,0.6287,Goal,OpenPlay,LeftFoot,None,h
+688508,31180,1,1,2026-08-21 19:00:00,61,12,Saka,Myles Lewis-Skelly,0.845,0.538,0.0518,BlockedShot,FromCorner,LeftFoot,Pass,h
+691700,31199,20,2,2026-08-31 19:00:00,12,12,Saka,Declan Rice,0.811,0.335,0.0375,MissedShots,OpenPlay,LeftFoot,TakeOn,a
+691705,31199,20,2,2026-08-31 19:00:00,58,12,Saka,Riccardo Calafiori,0.975,0.494,0.9378,Goal,OpenPlay,RightFoot,Pass,a
+693059,31209,29,3,2026-09-06 15:30:00,17,12,Saka,Martin Odegaard,0.963,0.315,0.3009,SavedShot,OpenPlay,RightFoot,Throughball,h
+693070,31209,29,3,2026-09-06 15:30:00,48,12,Saka,Kai Havertz,0.799,0.336,0.0226,BlockedShot,OpenPlay,LeftFoot,Pass,h
+693073,31209,29,3,2026-09-06 15:30:00,55,12,Saka,Christos Tzolis,0.907,0.705,0.0882,SavedShot,OpenPlay,LeftFoot,Pass,h
+693078,31209,29,3,2026-09-06 15:30:00,68,12,Saka,Kai Havertz,0.837,0.383,0.1352,SavedShot,OpenPlay,LeftFoot,Throughball,h
+694261,31216,36,4,2026-09-12 19:00:00,12,12,Saka,Declan Rice,0.927,0.458,0.3588,SavedShot,OpenPlay,LeftFoot,Chipped,a
+694274,31216,36,4,2026-09-12 19:00:00,71,12,Saka,Martin Odegaard,0.794,0.465,0.0578,BlockedShot,OpenPlay,LeftFoot,Pass,a
+694275,31216,36,4,2026-09-12 19:00:00,73,12,Saka,Martin Odegaard,0.902,0.361,0.1321,SavedShot,OpenPlay,RightFoot,Pass,a
+694281,31216,36,4,2026-09-12 19:00:00,96,12,Saka,,0.885,0.5,0.7612,Goal,Penalty,LeftFoot,Standard,a
+695948,31224,42,5,2026-09-19 14:00:00,44,12,Saka,,0.921,0.547,0.629,SavedShot,OpenPlay,RightFoot,Rebound,a
+695955,31224,42,5,2026-09-19 14:00:00,74,12,Saka,Ezri Konsa Ngoyo,0.946,0.286,0.0361,BlockedShot,OpenPlay,LeftFoot,Chipped,a

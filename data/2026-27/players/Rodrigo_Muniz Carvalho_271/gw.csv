@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,271,244042,Muniz,FWD,Fulham,Chelsea,1,L,2,3,10,8,0,1,0,0,0,0,0,0,0,0,0,0,0,6,6.0,11.5,7.0,2.5,1,0,0,1,0.02,0.0,0.02,0.03,55,52452,0,0,0
+2,271,244042,Muniz,FWD,Fulham,Sunderland,0,L,0,1,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,55,54718,2812,6890,-4078
+3,271,244042,Muniz,FWD,Fulham,Crystal Palace,1,L,2,3,24,7,0,1,0,0,0,0,0,0,0,0,0,0,0,5,3.2,10.1,27.0,4.0,0,0,0,0,0.38,0.0,0.38,0.0,55,49384,4409,11328,-6919
+4,271,244042,Muniz,FWD,Fulham,Liverpool,0,D,0,0,35,13,0,1,0,0,0,0,0,0,0,0,0,0,0,4,2.0,0.3,2.0,0.4,1,0,0,1,0.0,0.0,0.0,0.46,54,46371,3624,7896,-4272
+5,271,244042,Muniz,FWD,Fulham,Man Utd,1,D,1,1,50,10,0,0,0,0,0,1,0,0,0,0,1,0,0,-1,0.2,0.3,0.0,0.1,1,0,0,1,0.0,0.0,0.0,0.36,54,44522,3484,6327,-2843

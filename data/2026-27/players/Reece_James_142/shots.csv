@@ -1,0 +1,9 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+689749,31189,10,1,2026-08-24 19:00:00,3,142,James,Morgan Rogers,0.82,0.394,0.017,BlockedShot,FromCorner,RightFoot,Chipped,a
+689761,31189,10,1,2026-08-24 19:00:00,32,142,James,,0.84,0.358,0.0661,SavedShot,OpenPlay,LeftFoot,Rebound,a
+693062,31209,29,3,2026-09-06 15:30:00,22,142,James,Wesley Fofana,0.705,0.657,0.0148,SavedShot,OpenPlay,RightFoot,Pass,a
+693079,31209,29,3,2026-09-06 15:30:00,75,142,James,,0.736,0.355,0.0127,BlockedShot,FromCorner,RightFoot,Aerial,a
+693081,31209,29,3,2026-09-06 15:30:00,87,142,James,,0.681,0.501,0.0323,BlockedShot,DirectFreekick,RightFoot,Standard,a
+694004,31212,33,4,2026-09-12 14:00:00,50,142,James,,0.731,0.912,0.0227,SavedShot,DirectFreekick,RightFoot,Standard,h
+694005,31212,33,4,2026-09-12 14:00:00,52,142,James,,0.774,0.7,0.0534,MissedShots,DirectFreekick,RightFoot,Standard,h
+694011,31212,33,4,2026-09-12 14:00:00,75,142,James,Malo Gusto,0.784,0.436,0.0322,SavedShot,OpenPlay,RightFoot,Pass,h

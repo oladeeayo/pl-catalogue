@@ -1,0 +1,4 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+689212,31186,7,1,2026-08-23 13:00:00,29,123,Hinshelwood,Diego Gómez,0.975,0.522,0.7964,Goal,OpenPlay,Head,HeadPass,h
+689213,31186,7,1,2026-08-23 13:00:00,30,123,Hinshelwood,,0.887,0.561,0.4964,Goal,OpenPlay,RightFoot,None,h
+689224,31186,7,1,2026-08-23 13:00:00,57,123,Hinshelwood,,0.877,0.499,0.1085,BlockedShot,OpenPlay,RightFoot,None,h

@@ -1,0 +1,9 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+690422,31193,12,2,2026-08-29 14:00:00,78,79,Evanilson,,0.857,0.579,0.1356,BlockedShot,OpenPlay,LeftFoot,Rebound,h
+690423,31193,12,2,2026-08-29 14:00:00,79,79,Evanilson,James Hill,0.961,0.503,0.0617,BlockedShot,FromCorner,Head,CornerAwarded,h
+690424,31193,12,2,2026-08-29 14:00:00,79,79,Evanilson,Marcus Tavernier,0.962,0.425,0.0511,MissedShots,FromCorner,Head,Aerial,h
+692054,31201,27,3,2026-09-05 11:30:00,11,79,Evanilson,,0.846,0.509,0.3753,MissedShots,OpenPlay,LeftFoot,BallRecovery,a
+692057,31201,27,3,2026-09-05 11:30:00,16,79,Evanilson,,0.94,0.325,0.0737,BlockedShot,OpenPlay,RightFoot,None,a
+692068,31201,27,3,2026-09-05 11:30:00,51,79,Evanilson,,0.917,0.299,0.0632,MissedShots,OpenPlay,RightFoot,None,a
+696419,31228,49,5,2026-09-20 13:00:00,17,79,Evanilson,Marcus Tavernier,0.943,0.582,0.114,SavedShot,OpenPlay,LeftFoot,Cross,h
+696433,31228,49,5,2026-09-20 13:00:00,67,79,Evanilson,Tyler Adams,0.84,0.66,0.0451,SavedShot,OpenPlay,RightFoot,Pass,h

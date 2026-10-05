@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,108,75115,Wilson,FWD,Brentford,Spurs,1,W,3,0,2,7,0,1,0,0,0,0,0,0,0,0,0,0,0,4,2.2,10.3,5.0,1.8,0,0,0,0,0.03,0.04,0.07,0.07,55,30450,0,0,0
+2,108,75115,Wilson,FWD,Brentford,Leeds,0,D,1,1,17,2,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0.0,0.1,7.0,0.7,0,1,0,1,0.04,0.0,0.04,0.0,55,37634,4351,4808,-457
+3,108,75115,Wilson,FWD,Brentford,Sunderland,1,D,1,1,22,4,0,1,0,0,0,0,0,0,0,0,0,0,0,2,1.0,0.0,0.0,0.1,1,0,0,1,0.0,0.0,0.0,0.08,55,38790,5560,7284,-1724
+4,108,75115,Wilson,FWD,Brentford,Bournemouth,0,D,2,2,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,55,36748,2767,5931,-3164
+5,108,75115,Wilson,FWD,Brentford,Chelsea,1,W,3,0,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,55,33179,1671,6042,-4371

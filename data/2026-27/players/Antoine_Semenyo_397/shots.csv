@@ -1,0 +1,8 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+689243,31187,8,1,2026-08-23 13:00:00,66,397,Semenyo,,0.927,0.677,0.0513,SavedShot,OpenPlay,LeftFoot,None,h
+690085,31190,11,2,2026-08-28 19:00:00,37,397,Semenyo,Josko Gvardiol,0.889,0.742,0.0437,SavedShot,OpenPlay,LeftFoot,Pass,a
+690090,31190,11,2,2026-08-28 19:00:00,46,397,Semenyo,Mathis Cherki,0.932,0.682,0.084,BlockedShot,OpenPlay,LeftFoot,Pass,a
+692317,31202,26,3,2026-09-05 14:00:00,15,397,Semenyo,,0.917,0.267,0.0265,BlockedShot,SetPiece,RightFoot,Rebound,h
+692336,31202,26,3,2026-09-05 14:00:00,77,397,Semenyo,Phil Foden,0.857,0.322,0.0563,MissedShots,OpenPlay,LeftFoot,Pass,h
+696474,31222,45,5,2026-09-20 13:00:00,42,397,Semenyo,Marc Guehi,0.872,0.585,0.0652,Goal,FromCorner,RightFoot,None,h
+696479,31222,45,5,2026-09-20 13:00:00,56,397,Semenyo,,0.88,0.662,0.0707,Goal,OpenPlay,LeftFoot,None,h

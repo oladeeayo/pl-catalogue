@@ -4,7 +4,7 @@
       /TR "\"C:\\...\\python.exe\" \"C:\\...\\catalogue\\run_weekly.py\""
 
 Steps: FPL spine -> Reep identity -> stats seed -> Understat enrichment ->
-Transfermarkt enrichment -> validation.
+Transfermarkt enrichment -> validation -> data export (data/<season>/ tree).
 Every step is idempotent; history rows are never mutated (append-only facts),
 so a failed run leaves the catalogue consistent.
 """
@@ -25,6 +25,7 @@ def log(msg):
 def main():
     import enrich_transfermarkt
     import enrich_understat
+    import export_data
     import fpl_spine
     import identity
     import stats_seed
@@ -33,7 +34,7 @@ def main():
     steps = [("fpl_spine", fpl_spine.sync), ("identity", identity.run),
              ("stats_seed", stats_seed.run), ("enrich_understat", enrich_understat.run),
              ("enrich_transfermarkt", enrich_transfermarkt.run),
-             ("validate", validate.run)]
+             ("validate", validate.run), ("export", export_data.run)]
     results, failed = {}, []
     for name, fn in steps:
         log(f"START {name}")

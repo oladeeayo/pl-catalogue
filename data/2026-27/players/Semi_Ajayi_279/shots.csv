@@ -1,0 +1,4 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688540,31181,4,1,2026-08-22 11:30:00,16,279,Ajayi,,0.969,0.468,0.7059,Goal,FromCorner,RightFoot,Rebound,h
+694000,31212,33,4,2026-09-12 14:00:00,33,279,Ajayi,Regan Slater,0.931,0.493,0.2259,ShotOnPost,FromCorner,Head,Aerial,a
+695928,31223,46,5,2026-09-19 14:00:00,80,279,Ajayi,Ryan John Giles,0.877,0.378,0.0115,MissedShots,FromCorner,Head,Aerial,a

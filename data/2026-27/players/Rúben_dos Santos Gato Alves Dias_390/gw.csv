@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,390,171314,Rúben,DEF,Man City,Bournemouth,1,W,2,1,8,90,1,2,0,0,0,1,0,0,0,0,0,0,0,11,24.4,17.9,2.0,4.4,6,8,0,6,0.0,0.14,0.14,0.65,55,148709,0,0,0
+2,390,171314,Rúben,DEF,Man City,Crystal Palace,0,W,4,1,11,90,1,2,0,0,0,1,0,0,0,0,0,0,0,19,27.0,22.3,35.0,8.4,5,6,1,6,0.09,0.57,0.66,0.66,55,176387,9858,12557,-2699
+3,390,171314,Rúben,DEF,Man City,Coventry City,1,W,1,0,26,90,1,6,0,0,1,0,0,0,0,0,0,0,0,25,20.6,6.6,0.0,2.7,3,0,0,3,0.0,0.03,0.03,1.37,55,186055,20417,23954,-3537
+4,390,171314,Rúben,DEF,Man City,Man Utd,0,W,1,0,39,90,1,6,0,0,1,0,0,0,0,0,0,0,0,24,17.4,0.2,2.0,2.0,7,2,0,7,0.0,0.0,0.0,1.0,55,188216,11031,17543,-6512
+5,390,171314,Rúben,DEF,Man City,Sunderland,1,W,5,3,45,90,1,1,0,0,0,3,0,0,0,0,0,0,0,-7,4.8,0.3,7.0,1.2,4,0,0,4,0.2,0.0,0.2,3.57,55,208870,21282,10748,10534

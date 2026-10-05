@@ -1,0 +1,7 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688737,31185,2,1,2026-08-22 16:30:00,14,514,Tel,,0.719,0.637,0.0392,BlockedShot,DirectFreekick,RightFoot,Standard,a
+688759,31185,2,1,2026-08-22 16:30:00,81,514,Tel,Rodrigo Bentancur,0.746,0.5,0.0222,MissedShots,OpenPlay,LeftFoot,Pass,a
+690570,31194,15,2,2026-08-29 16:30:00,14,514,Tel,Omar Marmoush,0.849,0.666,0.0478,SavedShot,OpenPlay,RightFoot,Pass,h
+690582,31194,15,2,2026-08-29 16:30:00,49,514,Tel,Omar Marmoush,0.821,0.61,0.0489,BlockedShot,OpenPlay,RightFoot,Pass,h
+690587,31194,15,2,2026-08-29 16:30:00,66,514,Tel,,0.763,0.54,0.0747,MissedShots,DirectFreekick,RightFoot,Standard,h
+694185,31215,37,4,2026-09-12 16:30:00,88,514,Tel,,0.921,0.771,0.0211,BlockedShot,FromCorner,RightFoot,None,h

@@ -1,0 +1,3 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+689398,31188,9,1,2026-08-23 15:30:00,90,381,Koumas,Cody Gakpo,0.901,0.76,0.052,BlockedShot,OpenPlay,LeftFoot,Pass,a
+696438,31228,49,5,2026-09-20 13:00:00,91,381,Koumas,Víctor Muñoz,0.865,0.465,0.1134,SavedShot,OpenPlay,RightFoot,Pass,a

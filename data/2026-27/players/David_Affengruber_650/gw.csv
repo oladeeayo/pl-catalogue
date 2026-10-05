@@ -1,0 +1,4 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+3,650,442299,Affengruber,DEF,Fulham,Crystal Palace,1,L,2,3,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,45,317,204,27,177
+4,650,442299,Affengruber,DEF,Fulham,Liverpool,0,D,0,0,35,90,1,8,0,0,1,0,0,0,0,0,0,0,0,23,18.6,3.3,0.0,2.2,11,3,1,12,0.0,0.0,0.0,1.28,45,573,274,102,172
+5,650,442299,Affengruber,DEF,Fulham,Man Utd,1,D,1,1,50,90,1,4,0,0,0,1,0,0,0,0,0,0,0,17,32.4,11.3,0.0,4.4,9,4,2,11,0.0,0.02,0.02,1.6,45,2846,2400,493,1907

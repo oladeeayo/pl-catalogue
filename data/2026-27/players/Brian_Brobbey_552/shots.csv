@@ -1,0 +1,12 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688611,31183,5,1,2026-08-22 14:00:00,3,552,Brobbey,Trai Hume,0.862,0.392,0.4978,BlockedShot,OpenPlay,RightFoot,Throughball,a
+688626,31183,5,1,2026-08-22 14:00:00,52,552,Brobbey,Reinildo,0.91,0.486,0.1381,BlockedShot,OpenPlay,RightFoot,Pass,a
+691046,31195,19,2,2026-08-30 13:00:00,51,552,Brobbey,Granit Xhaka,0.897,0.454,0.0341,MissedShots,OpenPlay,Head,Aerial,h
+692408,31205,22,3,2026-09-05 14:00:00,50,552,Brobbey,Granit Xhaka,0.951,0.381,0.0137,BlockedShot,FromCorner,Head,Aerial,a
+692412,31205,22,3,2026-09-05 14:00:00,55,552,Brobbey,Dan Ballard,0.931,0.509,0.1216,BlockedShot,OpenPlay,RightFoot,HeadPass,a
+692425,31205,22,3,2026-09-05 14:00:00,92,552,Brobbey,Granit Xhaka,0.92,0.348,0.0749,MissedShots,OpenPlay,RightFoot,HeadPass,a
+696468,31222,45,5,2026-09-20 13:00:00,11,552,Brobbey,Enzo Le Fée,0.919,0.543,0.4697,Goal,OpenPlay,RightFoot,Throughball,a
+696472,31222,45,5,2026-09-20 13:00:00,32,552,Brobbey,Thomas Meunier,0.933,0.526,0.5168,Goal,OpenPlay,RightFoot,Pass,a
+696476,31222,45,5,2026-09-20 13:00:00,49,552,Brobbey,Enzo Le Fée,0.787,0.333,0.0287,SavedShot,OpenPlay,RightFoot,HeadPass,a
+696481,31222,45,5,2026-09-20 13:00:00,58,552,Brobbey,Nilson Angulo,0.986,0.472,0.9301,Goal,OpenPlay,RightFoot,Rebound,a
+696487,31222,45,5,2026-09-20 13:00:00,69,552,Brobbey,,0.918,0.479,0.0919,MissedShots,OpenPlay,LeftFoot,None,a

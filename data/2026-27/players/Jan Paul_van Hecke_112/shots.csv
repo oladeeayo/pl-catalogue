@@ -1,0 +1,6 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+690579,31194,15,2,2026-08-29 16:30:00,36,112,Van Hecke,Mateus Fernandes,0.959,0.426,0.2979,SavedShot,FromCorner,Head,Cross,h
+692341,31203,28,3,2026-09-05 14:00:00,9,112,Van Hecke,Pedro Porro,0.94,0.394,0.0425,MissedShots,FromCorner,Head,Cross,a
+692356,31203,28,3,2026-09-05 14:00:00,58,112,Van Hecke,Mathys Tel,0.977,0.394,0.0477,MissedShots,FromCorner,RightFoot,Cross,a
+694161,31215,37,4,2026-09-12 16:30:00,4,112,Van Hecke,Andrew Robertson,0.958,0.387,0.2947,MissedShots,SetPiece,RightFoot,Chipped,h
+695695,31221,48,5,2026-09-19 11:30:00,97,112,Van Hecke,Andrew Robertson,0.932,0.449,0.3565,Goal,SetPiece,Head,Chipped,h

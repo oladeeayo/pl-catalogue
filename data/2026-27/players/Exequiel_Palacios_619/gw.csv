@@ -1,0 +1,5 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+2,619,218543,Palacios,MID,Ipswich Town,Man Utd,0,L,2,5,18,28,0,1,0,0,0,2,0,0,0,0,0,0,0,11,7.2,12.0,2.0,2.1,2,3,1,6,0.0,0.01,0.01,1.92,50,127,89,5,84
+3,619,218543,Palacios,MID,Ipswich Town,Liverpool,1,L,0,2,21,77,1,4,0,0,0,2,0,0,0,0,0,0,0,24,20.2,22.5,0.0,4.3,3,12,4,19,0.0,0.02,0.02,0.69,50,1551,1326,347,979
+4,619,218543,Palacios,MID,Ipswich Town,Crystal Palace,0,W,3,2,34,90,1,4,0,0,0,2,0,0,0,0,0,0,0,14,18.0,5.9,2.0,2.6,5,5,3,13,0.0,0.04,0.04,0.62,50,3376,2317,909,1408
+5,619,218543,Palacios,MID,Ipswich Town,Everton,0,L,0,1,43,80,1,2,0,0,0,1,0,0,0,0,0,0,0,15,10.0,6.2,0.0,1.6,2,3,1,6,0.0,0.02,0.02,2.07,50,7887,4756,1349,3407

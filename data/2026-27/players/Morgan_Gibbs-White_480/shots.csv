@@ -1,0 +1,10 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688636,31184,6,1,2026-08-22 14:00:00,28,480,Gibbs-White,,0.743,0.64,0.014,MissedShots,SetPiece,RightFoot,BallTouch,h
+688648,31184,6,1,2026-08-22 14:00:00,63,480,Gibbs-White,,0.882,0.534,0.0559,MissedShots,OpenPlay,RightFoot,Aerial,h
+688654,31184,6,1,2026-08-22 14:00:00,92,480,Gibbs-White,,0.761,0.471,0.0736,MissedShots,DirectFreekick,RightFoot,Standard,h
+690179,31191,14,2,2026-08-29 11:30:00,69,480,Gibbs-White,,0.885,0.5,0.7612,Goal,Penalty,RightFoot,Standard,a
+692347,31203,28,3,2026-09-05 14:00:00,25,480,Gibbs-White,James McAtee,0.871,0.495,0.0853,MissedShots,OpenPlay,RightFoot,HeadPass,h
+692357,31203,28,3,2026-09-05 14:00:00,64,480,Gibbs-White,James McAtee,0.908,0.372,0.2897,BlockedShot,OpenPlay,RightFoot,Pass,h
+692363,31203,28,3,2026-09-05 14:00:00,85,480,Gibbs-White,James McAtee,0.875,0.324,0.0601,BlockedShot,OpenPlay,RightFoot,Pass,h
+693971,31211,31,4,2026-09-12 14:00:00,22,480,Gibbs-White,Daniel Muñoz,0.903,0.321,0.0615,SavedShot,OpenPlay,RightFoot,BallTouch,a
+693993,31211,31,4,2026-09-12 14:00:00,95,480,Gibbs-White,,0.74,0.399,0.052,MissedShots,DirectFreekick,RightFoot,Standard,a

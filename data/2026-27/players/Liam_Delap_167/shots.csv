@@ -1,0 +1,13 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+690184,31191,14,2,2026-08-29 11:30:00,82,167,Delap,Neco Williams,0.859,0.641,0.0718,BlockedShot,OpenPlay,LeftFoot,Pass,a
+692350,31203,28,3,2026-09-05 14:00:00,43,167,Delap,James McAtee,0.75,0.495,0.0458,MissedShots,OpenPlay,RightFoot,Pass,h
+693975,31211,31,4,2026-09-12 14:00:00,45,167,Delap,Murillo,0.71,0.468,0.014,Goal,OpenPlay,RightFoot,BallRecovery,a
+693977,31211,31,4,2026-09-12 14:00:00,54,167,Delap,Morgan Gibbs-White,0.821,0.434,0.0561,MissedShots,OpenPlay,RightFoot,Pass,a
+693978,31211,31,4,2026-09-12 14:00:00,57,167,Delap,Dan Ndoye,0.951,0.54,0.6288,MissedShots,OpenPlay,RightFoot,Pass,a
+693981,31211,31,4,2026-09-12 14:00:00,60,167,Delap,Daniel Muñoz,0.915,0.366,0.0261,MissedShots,OpenPlay,Head,Cross,a
+693986,31211,31,4,2026-09-12 14:00:00,78,167,Delap,Morgan Gibbs-White,0.871,0.447,0.0399,BlockedShot,OpenPlay,OtherBodyPart,Cross,a
+693987,31211,31,4,2026-09-12 14:00:00,79,167,Delap,Igor Jesus,0.72,0.462,0.036,MissedShots,OpenPlay,RightFoot,Pass,a
+696146,31227,47,5,2026-09-19 16:30:00,34,167,Delap,Dan Ndoye,0.906,0.598,0.0933,BlockedShot,OpenPlay,LeftFoot,Rebound,h
+696149,31227,47,5,2026-09-19 16:30:00,34,167,Delap,Murillo,0.797,0.711,0.0213,MissedShots,OpenPlay,RightFoot,BallRecovery,h
+696160,31227,47,5,2026-09-19 16:30:00,71,167,Delap,,0.826,0.721,0.024,MissedShots,OpenPlay,RightFoot,None,h
+696162,31227,47,5,2026-09-19 16:30:00,76,167,Delap,Morgan Gibbs-White,0.911,0.658,0.0631,MissedShots,OpenPlay,LeftFoot,Pass,h

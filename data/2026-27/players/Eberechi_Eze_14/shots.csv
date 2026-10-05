@@ -1,0 +1,2 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688516,31180,1,1,2026-08-21 19:00:00,94,14,Eze,,0.699,0.526,0.0375,MissedShots,DirectFreekick,RightFoot,Standard,h

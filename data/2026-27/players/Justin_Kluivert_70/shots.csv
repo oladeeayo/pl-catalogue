@@ -1,0 +1,11 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+689240,31187,8,1,2026-08-23 13:00:00,40,70,Kluivert,Rayan,0.855,0.632,0.0786,SavedShot,OpenPlay,RightFoot,Pass,a
+690400,31193,12,2,2026-08-29 14:00:00,3,70,Kluivert,Adam Smith,0.857,0.428,0.0555,MissedShots,OpenPlay,RightFoot,Cross,h
+690410,31193,12,2,2026-08-29 14:00:00,24,70,Kluivert,Marcus Tavernier,0.811,0.362,0.0378,SavedShot,OpenPlay,RightFoot,Pass,h
+690417,31193,12,2,2026-08-29 14:00:00,56,70,Kluivert,Adrien Truffert,0.844,0.442,0.0909,BlockedShot,OpenPlay,LeftFoot,Pass,h
+690420,31193,12,2,2026-08-29 14:00:00,75,70,Kluivert,James Hill,0.973,0.515,0.6309,SavedShot,FromCorner,OtherBodyPart,BallTouch,h
+692060,31201,27,3,2026-09-05 11:30:00,30,70,Kluivert,Tyler Adams,0.767,0.321,0.0245,BlockedShot,OpenPlay,RightFoot,BallRecovery,a
+692062,31201,27,3,2026-09-05 11:30:00,34,70,Kluivert,Marcus Tavernier,0.7,0.403,0.0295,ShotOnPost,OpenPlay,RightFoot,Pass,a
+693943,31210,32,4,2026-09-12 14:00:00,36,70,Kluivert,Alex Scott,0.873,0.677,0.0406,SavedShot,OpenPlay,RightFoot,Pass,h
+693945,31210,32,4,2026-09-12 14:00:00,37,70,Kluivert,,0.838,0.54,0.0551,Goal,OpenPlay,LeftFoot,None,h
+693948,31210,32,4,2026-09-12 14:00:00,47,70,Kluivert,Marcus Tavernier,0.819,0.325,0.0332,SavedShot,OpenPlay,RightFoot,Pass,h

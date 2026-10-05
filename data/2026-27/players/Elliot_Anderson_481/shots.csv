@@ -1,0 +1,5 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+690075,31190,11,2,2026-08-28 19:00:00,6,481,Anderson,Mathis Cherki,0.812,0.688,0.0268,SavedShot,FromCorner,RightFoot,Pass,a
+690093,31190,11,2,2026-08-28 19:00:00,52,481,Anderson,,0.873,0.363,0.0229,MissedShots,FromCorner,RightFoot,Aerial,a
+692328,31202,26,3,2026-09-05 14:00:00,51,481,Anderson,Antoine Semenyo,0.725,0.361,0.0175,MissedShots,OpenPlay,LeftFoot,Pass,h
+696469,31222,45,5,2026-09-20 13:00:00,19,481,Anderson,,0.746,0.48,0.0166,MissedShots,FromCorner,RightFoot,None,h

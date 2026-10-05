@@ -1,0 +1,8 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+689777,31189,10,1,2026-08-24 19:00:00,93,156,Neto,Enzo Fernández,0.968,0.304,0.0553,MissedShots,OpenPlay,LeftFoot,TakeOn,a
+691579,31196,16,2,2026-08-30 13:00:00,13,156,Neto,Morgan Rogers,0.933,0.51,0.5986,Goal,OpenPlay,RightFoot,Pass,h
+691596,31196,16,2,2026-08-30 13:00:00,57,156,Neto,Emiliano Martinez,0.974,0.352,0.1159,SavedShot,OpenPlay,LeftFoot,Pass,h
+693069,31209,29,3,2026-09-06 15:30:00,47,156,Neto,João Pedro,0.884,0.285,0.0978,ShotOnPost,OpenPlay,LeftFoot,Chipped,a
+693997,31212,33,4,2026-09-12 14:00:00,21,156,Neto,Cole Palmer,0.904,0.259,0.0716,SavedShot,OpenPlay,LeftFoot,Pass,h
+695604,31220,41,5,2026-09-18 19:00:00,9,156,Neto,Danny Welbeck,0.86,0.371,0.0762,SavedShot,OpenPlay,LeftFoot,Pass,a
+695619,31220,41,5,2026-09-18 19:00:00,65,156,Neto,Cole Palmer,0.803,0.47,0.0505,BlockedShot,OpenPlay,LeftFoot,Pass,a

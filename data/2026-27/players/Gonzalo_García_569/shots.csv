@@ -1,0 +1,16 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+689758,31189,10,1,2026-08-24 19:00:00,26,569,Gonzalo,Oscar Bobb,0.914,0.486,0.1413,BlockedShot,OpenPlay,RightFoot,Pass,h
+689771,31189,10,1,2026-08-24 19:00:00,53,569,Gonzalo,,0.955,0.484,0.6359,Goal,OpenPlay,Head,Rebound,h
+689776,31189,10,1,2026-08-24 19:00:00,92,569,Gonzalo,Rodrigo Muniz,0.75,0.51,0.0233,BlockedShot,OpenPlay,RightFoot,LayOff,h
+691047,31195,19,2,2026-08-30 13:00:00,56,569,Gonzalo,Sander Berge,0.897,0.629,0.3235,BlockedShot,OpenPlay,LeftFoot,Throughball,a
+691056,31195,19,2,2026-08-30 13:00:00,86,569,Gonzalo,Alex Iwobi,0.955,0.549,0.1292,BlockedShot,FromCorner,Head,Cross,a
+691060,31195,19,2,2026-08-30 13:00:00,90,569,Gonzalo,Emile Smith-Rowe,0.886,0.37,0.0601,BlockedShot,OpenPlay,RightFoot,Rebound,a
+692376,31204,24,3,2026-09-05 14:00:00,30,569,Gonzalo,Antonee Robinson,0.755,0.696,0.0202,BlockedShot,OpenPlay,RightFoot,TakeOn,h
+692379,31204,24,3,2026-09-05 14:00:00,37,569,Gonzalo,Timothy Castagne,0.908,0.557,0.0444,MissedShots,OpenPlay,Head,Chipped,h
+692382,31204,24,3,2026-09-05 14:00:00,44,569,Gonzalo,César Palacios,0.862,0.752,0.0274,MissedShots,OpenPlay,RightFoot,Pass,h
+692383,31204,24,3,2026-09-05 14:00:00,48,569,Gonzalo,Oscar Bobb,0.948,0.486,0.0785,BlockedShot,FromCorner,Head,Aerial,h
+692392,31204,24,3,2026-09-05 14:00:00,66,569,Gonzalo,Oscar Bobb,0.898,0.464,0.1308,BlockedShot,OpenPlay,RightFoot,Pass,h
+694045,31214,35,4,2026-09-12 14:00:00,10,569,Gonzalo,Joshua King,0.864,0.468,0.3759,BlockedShot,OpenPlay,RightFoot,Pass,a
+696651,31229,50,5,2026-09-20 15:30:00,3,569,Gonzalo,Antonee Robinson,0.869,0.661,0.0678,MissedShots,OpenPlay,RightFoot,Pass,h
+696656,31229,50,5,2026-09-20 15:30:00,17,569,Gonzalo,Alex Iwobi,0.899,0.538,0.3933,MissedShots,OpenPlay,RightFoot,Throughball,h
+696663,31229,50,5,2026-09-20 15:30:00,28,569,Gonzalo,Antonee Robinson,0.884,0.427,0.0763,MissedShots,OpenPlay,LeftFoot,Cross,h

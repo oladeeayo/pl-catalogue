@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,11,500040,Mosquera,DEF,Arsenal,Coventry City,1,W,3,0,1,90,1,6,0,0,1,0,0,0,0,0,0,0,0,27,14.4,0.6,0.0,1.5,6,3,0,6,0.0,0.0,0.0,0.2,55,571606,0,0,0
+2,11,500040,Mosquera,DEF,Arsenal,Aston Villa,0,W,1,0,20,78,1,6,0,0,1,0,0,0,0,0,0,0,0,25,10.2,1.4,0.0,1.2,4,0,0,4,0.0,0.01,0.01,0.33,55,566006,15410,45949,-30539
+3,11,500040,Mosquera,DEF,Arsenal,Chelsea,1,W,2,1,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,55,438589,13546,128368,-114822
+4,11,500040,Mosquera,DEF,Arsenal,Sunderland,0,W,2,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,54,248830,733,202535,-201802
+5,11,500040,Mosquera,DEF,Arsenal,Brighton,0,L,0,3,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,53,181804,476,81877,-81401

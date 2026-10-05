@@ -1,0 +1,11 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+691039,31195,19,2,2026-08-30 13:00:00,5,542,E.Le Fée,Nilson Angulo,0.916,0.706,0.0489,MissedShots,OpenPlay,LeftFoot,Pass,h
+691043,31195,19,2,2026-08-30 13:00:00,31,542,E.Le Fée,,0.714,0.567,0.0121,MissedShots,OpenPlay,RightFoot,None,h
+691045,31195,19,2,2026-08-30 13:00:00,45,542,E.Le Fée,,0.964,0.337,0.0597,MissedShots,OpenPlay,RightFoot,None,h
+691054,31195,19,2,2026-08-30 13:00:00,80,542,E.Le Fée,Granit Xhaka,0.939,0.655,0.0818,SavedShot,OpenPlay,LeftFoot,Chipped,h
+692403,31205,22,3,2026-09-05 14:00:00,19,542,E.Le Fée,Brian Brobbey,0.861,0.35,0.0592,ShotOnPost,OpenPlay,RightFoot,BallTouch,a
+692419,31205,22,3,2026-09-05 14:00:00,81,542,E.Le Fée,,0.885,0.5,0.7612,Goal,Penalty,RightFoot,Standard,a
+692424,31205,22,3,2026-09-05 14:00:00,91,542,E.Le Fée,,0.772,0.333,0.0116,MissedShots,OpenPlay,RightFoot,Aerial,a
+694259,31216,36,4,2026-09-12 19:00:00,5,542,E.Le Fée,Brian Brobbey,0.403,0.295,0.0094,MissedShots,OpenPlay,RightFoot,BallTouch,h
+694268,31216,36,4,2026-09-12 19:00:00,43,542,E.Le Fée,Granit Xhaka,0.77,0.327,0.0194,MissedShots,FromCorner,LeftFoot,Pass,h
+694271,31216,36,4,2026-09-12 19:00:00,55,542,E.Le Fée,,0.885,0.5,0.7612,SavedShot,Penalty,RightFoot,Standard,h

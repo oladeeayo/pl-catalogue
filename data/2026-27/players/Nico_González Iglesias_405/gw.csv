@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,405,465694,N.Gonzalez,MID,Newcastle,Bournemouth,1,W,2,1,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,55,11878,0,0,0
+2,405,465694,N.Gonzalez,MID,Newcastle,Spurs,0,W,2,0,15,70,1,2,0,0,1,0,0,0,0,0,1,0,0,9,7.2,29.5,0.0,3.7,2,2,0,4,0.0,0.2,0.2,0.74,55,15669,2387,1742,645
+3,405,465694,N.Gonzalez,MID,Newcastle,Bournemouth,1,D,2,2,27,76,1,2,0,0,0,2,0,0,0,0,0,0,0,11,6.2,12.4,2.0,2.1,1,6,0,7,0.0,0.01,0.01,1.33,55,26047,10136,2973,7163
+4,405,465694,N.Gonzalez,MID,Newcastle,Leeds,0,L,1,4,40,18,1,1,0,0,0,0,0,0,0,0,0,0,0,3,0.0,0.1,0.0,0.0,0,1,0,1,0.0,0.0,0.0,0.27,55,26871,3834,3619,215
+5,405,465694,N.Gonzalez,MID,Newcastle,Hull City,1,W,2,1,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,55,21094,1106,6835,-5729

@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,41,195546,Buendía,MID,Aston Villa,Brighton,0,L,0,4,7,85,1,2,0,0,0,4,0,0,0,0,0,0,0,4,0.0,16.3,8.0,2.2,3,3,1,7,0.13,0.09,0.22,3.62,60,120830,0,0,0
+2,41,195546,Buendía,MID,Aston Villa,Arsenal,1,L,0,1,20,90,1,2,0,0,0,1,0,0,0,0,0,0,0,9,5.0,13.2,9.0,2.7,0,4,1,5,0.04,0.02,0.06,1.04,60,114718,5020,21886,-16866
+3,41,195546,Buendía,MID,Aston Villa,Hull City,0,D,0,0,25,74,1,3,0,0,1,0,0,0,0,0,0,0,0,2,0.0,10.8,7.0,1.4,0,2,0,2,0.61,0.05,0.66,0.22,60,128636,20598,24117,-3519
+4,41,195546,Buendía,MID,Aston Villa,Nott'm Forest,1,L,1,2,31,62,1,2,0,0,0,1,0,0,0,0,0,0,0,8,0.0,3.9,0.0,0.1,0,5,0,5,0.0,0.01,0.01,1.42,59,111856,15961,21861,-5900
+5,41,195546,Buendía,MID,Aston Villa,Spurs,0,W,3,2,48,90,1,12,1,0,0,2,0,0,0,0,0,0,3,50,61.0,36.3,35.0,13.2,2,6,7,15,0.14,0.07,0.21,1.56,59,94622,6405,23281,-16876

@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,504,610799,Vuskovic,DEF,Brighton,Aston Villa,1,W,4,0,7,90,1,6,0,0,1,0,0,0,0,0,0,0,0,19,12.4,4.5,12.0,2.9,4,2,0,4,0.13,0.03,0.16,0.29,50,221596,0,0,0
+2,504,610799,Vuskovic,DEF,Brighton,Chelsea,0,L,3,4,16,90,1,0,0,0,0,4,0,0,0,0,0,0,0,-2,22.8,8.3,5.0,3.6,7,3,1,8,0.03,0.02,0.05,2.93,50,250629,21186,12347,8839
+3,504,610799,Vuskovic,DEF,Brighton,Leeds,1,D,1,1,23,90,1,12,1,0,0,1,0,0,0,0,0,0,2,27,56.2,1.8,40.0,9.8,8,4,2,10,0.19,0.01,0.2,2.49,50,244648,22843,32578,-9735
+4,504,610799,Vuskovic,DEF,Brighton,Coventry City,0,W,5,0,38,77,1,6,0,0,1,0,0,0,0,0,0,0,0,27,16.2,1.8,13.0,3.1,8,4,1,9,0.11,0.01,0.12,1.11,50,369539,131383,44947,86436
+5,504,610799,Vuskovic,DEF,Brighton,Arsenal,1,W,3,0,42,90,1,8,0,0,1,0,0,0,0,0,0,0,0,27,20.6,1.6,2.0,2.4,10,4,2,12,0.0,0.0,0.0,1.63,50,332297,27688,34940,-7252

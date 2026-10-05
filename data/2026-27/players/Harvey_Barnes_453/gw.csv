@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,453,201666,Barnes,MID,Newcastle,Liverpool,1,D,2,2,9,90,1,2,0,0,0,2,0,0,0,0,0,0,0,12,5.2,2.4,9.0,1.7,3,4,1,8,0.07,0.02,0.09,2.98,60,95531,0,0,0
+2,453,201666,Barnes,MID,Newcastle,Spurs,0,W,2,0,15,90,1,3,0,0,1,0,0,0,0,0,0,0,0,9,7.2,22.1,7.0,3.6,2,0,2,4,0.04,0.01,0.05,1.12,60,113402,14995,10330,4665
+3,453,201666,Barnes,MID,Newcastle,Bournemouth,1,D,2,2,27,90,1,12,1,1,0,2,0,0,0,0,0,0,2,37,33.0,2.8,23.0,5.9,2,4,0,6,0.11,0.03,0.14,1.37,60,122479,25187,22741,2446
+4,453,201666,Barnes,MID,Newcastle,Leeds,0,L,1,4,40,90,1,2,0,0,0,4,0,0,0,0,0,0,0,13,12.2,16.8,30.0,5.9,3,3,0,6,0.29,0.31,0.6,2.08,60,290007,210527,57859,152668
+5,453,201666,Barnes,MID,Newcastle,Hull City,1,W,2,1,46,90,1,9,0,2,0,1,0,0,0,0,0,0,1,34,47.6,36.8,27.0,11.1,4,5,0,9,0.11,0.11,0.22,1.59,60,496155,220394,40978,179416

@@ -1,0 +1,2 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+691059,31195,19,2,2026-08-30 13:00:00,90,262,Smith Rowe,Joachim Andersen,0.855,0.467,0.0606,BlockedShot,OpenPlay,LeftFoot,HeadPass,a

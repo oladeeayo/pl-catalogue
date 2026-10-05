@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,245,496661,Dibling,MID,Everton,Crystal Palace,1,W,2,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,55,3592,0,0,0
+2,245,496661,Dibling,MID,Everton,Bournemouth,0,D,1,1,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,55,3529,201,751,-550
+3,245,496661,Dibling,MID,Everton,Man Utd,1,D,2,2,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,54,3219,356,868,-512
+4,245,496661,Dibling,MID,Everton,Spurs,0,D,0,0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,54,3002,210,505,-295
+5,245,496661,Dibling,MID,Everton,Ipswich Town,1,W,1,0,43,24,0,1,0,0,0,0,0,0,0,0,0,0,0,10,7.2,24.4,26.0,5.8,0,0,0,0,0.17,0.16,0.33,0.38,54,3032,288,375,-87

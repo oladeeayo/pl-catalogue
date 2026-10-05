@@ -1,0 +1,2 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+690098,31190,11,2,2026-08-28 19:00:00,82,621,McAidoo,Rúben Dias,0.796,0.382,0.181,MissedShots,OpenPlay,LeftFoot,TakeOn,a

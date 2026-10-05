@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,257,232892,Bassey,DEF,Fulham,Chelsea,1,L,2,3,10,90,1,0,0,0,0,3,0,0,0,0,1,0,0,1,13.8,3.8,2.0,2.0,3,4,1,4,0.02,0.02,0.04,2.24,45,64737,0,0,0
+2,257,232892,Bassey,DEF,Fulham,Sunderland,0,L,0,1,19,90,1,2,0,0,0,1,0,0,0,0,0,0,0,13,19.4,2.6,0.0,2.2,6,6,1,7,0.0,0.01,0.01,2.02,45,75885,6863,6042,821
+3,257,232892,Bassey,DEF,Fulham,Crystal Palace,1,L,2,3,24,90,1,1,0,0,0,3,0,0,0,0,0,0,0,2,13.8,6.4,0.0,2.0,1,2,1,2,0.0,0.04,0.04,1.97,45,79648,8199,7975,224
+4,257,232892,Bassey,DEF,Fulham,Liverpool,0,D,0,0,35,90,1,6,0,0,1,0,0,0,0,0,0,0,0,27,23.4,0.7,21.0,4.5,7,3,1,8,0.05,0.0,0.05,1.28,45,71722,2294,10216,-7922
+5,257,232892,Bassey,DEF,Fulham,Man Utd,1,D,1,1,50,90,1,6,0,1,0,1,0,0,0,0,0,0,1,26,26.6,1.8,17.0,4.5,6,7,2,8,0.06,0.01,0.07,1.6,45,72972,3658,3913,-255

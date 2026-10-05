@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,334,522047,Muharemović,DEF,Leeds,Nott'm Forest,0,W,1,0,6,90,1,6,0,0,1,0,0,0,0,0,0,0,0,25,15.6,0.6,17.0,3.3,7,1,0,7,0.09,0.0,0.09,0.66,50,306283,0,0,0
+2,334,522047,Muharemović,DEF,Leeds,Brentford,1,D,1,1,17,90,1,4,0,0,0,1,0,0,0,0,0,0,0,17,51.6,0.8,2.0,5.4,17,3,2,19,0.0,0.01,0.01,1.67,50,336009,21539,11842,9697
+3,334,522047,Muharemović,DEF,Leeds,Brighton,0,D,1,1,23,90,1,4,0,0,0,1,0,0,0,0,0,0,0,10,29.2,0.8,2.0,3.2,12,2,1,13,0.0,0.01,0.01,2.19,50,326555,40504,42593,-2089
+4,334,522047,Muharemović,DEF,Leeds,Newcastle,1,W,4,1,40,90,1,7,0,1,0,1,0,0,0,0,0,0,0,27,37.0,10.5,2.0,5.0,10,5,1,11,0.0,0.02,0.02,0.88,50,410571,135153,68507,66646
+5,334,522047,Muharemović,DEF,Leeds,Crystal Palace,1,D,0,0,44,90,1,6,0,0,1,0,0,0,0,0,0,0,0,22,14.0,0.9,18.0,3.3,7,5,1,8,0.4,0.01,0.41,1.06,50,492213,74089,25942,48147

@@ -1,0 +1,14 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+689229,31186,7,1,2026-08-23 13:00:00,76,138,Kostoulas,,0.868,0.401,0.0543,MissedShots,OpenPlay,RightFoot,Aerial,h
+689231,31186,7,1,2026-08-23 13:00:00,93,138,Kostoulas,Pascal Groß,0.908,0.561,0.2839,MissedShots,OpenPlay,Head,Chipped,h
+691585,31196,16,2,2026-08-30 13:00:00,34,138,Kostoulas,Malick Yalcouyé,0.929,0.349,0.2635,SavedShot,OpenPlay,RightFoot,Pass,a
+692294,31206,23,3,2026-09-05 14:00:00,53,138,Kostoulas,Malick Yalcouyé,0.748,0.62,0.0206,BlockedShot,OpenPlay,RightFoot,Pass,h
+692296,31206,23,3,2026-09-05 14:00:00,56,138,Kostoulas,Pascal Groß,0.849,0.509,0.0808,BlockedShot,OpenPlay,RightFoot,Pass,h
+692301,31206,23,3,2026-09-05 14:00:00,67,138,Kostoulas,,0.857,0.463,0.1044,SavedShot,OpenPlay,RightFoot,TakeOn,h
+694484,31217,38,4,2026-09-13 13:00:00,10,138,Kostoulas,Pascal Groß,0.903,0.523,0.1008,MissedShots,SetPiece,Head,Cross,a
+694487,31217,38,4,2026-09-13 13:00:00,16,138,Kostoulas,,0.948,0.374,0.3212,MissedShots,OpenPlay,RightFoot,Rebound,a
+694496,31217,38,4,2026-09-13 13:00:00,34,138,Kostoulas,Pascal Groß,0.913,0.354,0.3521,Goal,OpenPlay,RightFoot,TakeOn,a
+695940,31224,42,5,2026-09-19 14:00:00,6,138,Kostoulas,,0.843,0.276,0.0313,SavedShot,OpenPlay,RightFoot,BallTouch,h
+695944,31224,42,5,2026-09-19 14:00:00,34,138,Kostoulas,Diego Gómez,0.746,0.427,0.0255,MissedShots,OpenPlay,RightFoot,Pass,h
+695949,31224,42,5,2026-09-19 14:00:00,44,138,Kostoulas,Diego Gómez,0.756,0.419,0.0486,Goal,OpenPlay,RightFoot,Pass,h
+695950,31224,42,5,2026-09-19 14:00:00,50,138,Kostoulas,Pascal Groß,0.806,0.338,0.0877,MissedShots,OpenPlay,RightFoot,Pass,h

@@ -1,0 +1,18 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+688613,31183,5,1,2026-08-22 14:00:00,6,591,Enciso,Emersonn,0.749,0.361,0.0216,BlockedShot,OpenPlay,RightFoot,Pass,h
+688620,31183,5,1,2026-08-22 14:00:00,30,591,Enciso,Emersonn,0.907,0.581,0.1085,MissedShots,OpenPlay,LeftFoot,Cross,h
+688625,31183,5,1,2026-08-22 14:00:00,50,591,Enciso,Abdul Fatawu,0.892,0.418,0.0733,MissedShots,OpenPlay,RightFoot,Cross,h
+691313,31198,18,2,2026-08-30 15:30:00,12,591,Enciso,Emersonn,0.843,0.491,0.5151,SavedShot,OpenPlay,LeftFoot,BallRecovery,a
+691327,31198,18,2,2026-08-30 15:30:00,49,591,Enciso,Sasa Lukic,0.733,0.437,0.0213,MissedShots,OpenPlay,RightFoot,Pass,a
+691350,31198,18,2,2026-08-30 15:30:00,90,591,Enciso,Exequiel Palacios,0.772,0.323,0.0136,MissedShots,OpenPlay,RightFoot,TakeOn,a
+691976,31200,21,3,2026-09-04 19:00:00,11,591,Enciso,Jacob Greaves,0.8,0.489,0.0525,BlockedShot,OpenPlay,LeftFoot,Pass,h
+691977,31200,21,3,2026-09-04 19:00:00,18,591,Enciso,Exequiel Palacios,0.775,0.597,0.0287,SavedShot,OpenPlay,RightFoot,Pass,h
+691981,31200,21,3,2026-09-04 19:00:00,28,591,Enciso,Abdul Fatawu,0.931,0.315,0.0421,BlockedShot,OpenPlay,RightFoot,HeadPass,h
+691985,31200,21,3,2026-09-04 19:00:00,37,591,Enciso,Sasa Lukic,0.748,0.699,0.0139,MissedShots,OpenPlay,RightFoot,Pass,h
+691991,31200,21,3,2026-09-04 19:00:00,59,591,Enciso,Exequiel Palacios,0.775,0.626,0.0628,SavedShot,OpenPlay,RightFoot,Pass,h
+691996,31200,21,3,2026-09-04 19:00:00,94,591,Enciso,Jack Clarke,0.808,0.575,0.0568,MissedShots,OpenPlay,RightFoot,Pass,h
+694026,31213,34,4,2026-09-12 14:00:00,32,591,Enciso,Jack Clarke,0.717,0.371,0.0307,MissedShots,OpenPlay,RightFoot,Pass,a
+694031,31213,34,4,2026-09-12 14:00:00,65,591,Enciso,Sasa Lukic,0.786,0.312,0.0628,BlockedShot,OpenPlay,LeftFoot,BallRecovery,a
+695998,31226,43,5,2026-09-19 14:00:00,17,591,Enciso,Sasa Lukic,0.867,0.481,0.1059,BlockedShot,OpenPlay,RightFoot,Throughball,a
+696009,31226,43,5,2026-09-19 14:00:00,45,591,Enciso,Jack Clarke,0.907,0.639,0.1037,SavedShot,OpenPlay,LeftFoot,Throughball,a
+696011,31226,43,5,2026-09-19 14:00:00,62,591,Enciso,Issa Diop,0.762,0.505,0.0273,MissedShots,OpenPlay,RightFoot,Pass,a

@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,242,550615,George,MID,Everton,Crystal Palace,1,W,2,0,3,83,1,3,0,0,1,0,0,0,0,0,0,0,0,13,7.0,23.4,25.0,5.5,3,4,0,7,0.18,0.08,0.26,1.67,55,24527,0,0,0
+2,242,550615,George,MID,Everton,Bournemouth,0,D,1,1,12,61,1,2,0,0,0,1,0,0,0,0,0,0,0,12,6.0,12.2,16.0,3.4,0,1,1,2,0.05,0.01,0.06,0.58,55,28043,2273,2482,-209
+3,242,550615,George,MID,Everton,Man Utd,1,D,2,2,30,90,1,10,1,0,0,2,0,0,0,0,0,0,3,35,44.2,34.4,25.0,10.4,1,3,0,4,0.04,0.07,0.11,0.69,55,25310,1760,4800,-3040
+4,242,550615,George,MID,Everton,Spurs,0,D,0,0,37,64,1,3,0,0,1,0,0,0,0,0,0,0,0,13,6.4,15.4,5.0,2.7,1,2,0,3,0.05,0.15,0.2,0.39,55,67366,50072,13425,36647
+5,242,550615,George,MID,Everton,Ipswich Town,1,W,1,0,43,11,0,1,0,0,0,0,0,0,0,0,0,0,0,4,0.4,0.8,4.0,0.5,0,2,0,2,0.03,0.01,0.04,0.38,55,111866,50560,10957,39603

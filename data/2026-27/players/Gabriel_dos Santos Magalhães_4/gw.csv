@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,4,226597,Gabriel,DEF,Arsenal,Coventry City,1,W,3,0,1,90,1,5,0,0,1,0,0,0,0,0,1,0,0,21,6.6,1.8,1.0,0.9,4,2,0,4,0.05,0.01,0.06,0.2,80,2647984,0,0,0
+2,4,226597,Gabriel,DEF,Arsenal,Aston Villa,0,W,1,0,20,90,1,8,0,0,1,0,0,0,0,0,0,0,0,23,18.2,3.2,6.0,2.7,8,5,2,10,0.13,0.02,0.15,0.33,80,2878770,58765,124108,-65343
+3,4,226597,Gabriel,DEF,Arsenal,Chelsea,1,W,2,1,29,90,1,2,0,0,0,1,0,0,0,0,0,0,0,10,23.6,2.4,76.0,10.2,7,4,0,7,0.31,0.02,0.33,0.39,80,2590027,46883,345642,-298759
+4,4,226597,Gabriel,DEF,Arsenal,Sunderland,0,W,2,0,36,90,1,9,0,0,1,0,0,0,0,0,1,0,2,30,20.6,1.5,1.0,2.3,10,2,1,11,0.02,0.01,0.03,1.8,80,2549738,56562,254329,-197767
+5,4,226597,Gabriel,DEF,Arsenal,Brighton,0,L,0,3,42,90,1,1,0,0,0,3,0,0,0,0,0,0,0,6,25.8,13.1,0.0,3.9,6,4,3,9,0.0,0.14,0.14,1.31,80,2494884,48033,118812,-70779

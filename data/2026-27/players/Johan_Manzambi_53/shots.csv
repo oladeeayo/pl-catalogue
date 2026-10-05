@@ -1,0 +1,5 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+695664,31221,48,5,2026-09-19 11:30:00,14,53,Manzambi,Victor Lindelöf,0.842,0.291,0.0335,SavedShot,OpenPlay,LeftFoot,Chipped,a
+695670,31221,48,5,2026-09-19 11:30:00,30,53,Manzambi,Emiliano Buendía,0.729,0.481,0.0249,MissedShots,OpenPlay,RightFoot,Pass,a
+695676,31221,48,5,2026-09-19 11:30:00,48,53,Manzambi,Boubacar Kamara,0.964,0.525,0.7033,Goal,OpenPlay,LeftFoot,Rebound,a
+695678,31221,48,5,2026-09-19 11:30:00,52,53,Manzambi,Emiliano Buendía,0.839,0.492,0.0985,BlockedShot,OpenPlay,RightFoot,Pass,a

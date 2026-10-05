@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,159,486672,Caicedo,MID,Chelsea,Fulham,0,W,3,2,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,55,347122,0,0,0
+2,159,486672,Caicedo,MID,Chelsea,Brighton,1,W,4,3,16,13,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0.0,0.1,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.07,55,282404,9481,98323,-88842
+3,159,486672,Caicedo,MID,Chelsea,Arsenal,0,L,1,2,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,54,192746,3231,92151,-88920
+4,159,486672,Caicedo,MID,Chelsea,Hull City,1,D,2,2,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,54,149377,1342,50199,-48857
+5,159,486672,Caicedo,MID,Chelsea,Brentford,0,L,0,3,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,53,120861,584,31719,-31135

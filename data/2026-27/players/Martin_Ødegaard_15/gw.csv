@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,15,184029,Ødegaard,MID,Arsenal,Coventry City,1,W,3,0,1,75,1,11,1,0,1,0,0,0,0,0,0,0,3,41,50.6,41.5,31.0,12.3,1,4,3,8,0.21,0.1,0.31,0.06,65,717252,0,0,0
+2,15,184029,Ødegaard,MID,Arsenal,Aston Villa,0,W,1,0,20,70,1,3,0,0,1,0,0,0,0,0,0,0,0,13,6.8,6.8,5.0,1.9,2,1,2,5,0.08,0.07,0.15,0.33,66,1174125,289559,36860,252699
+3,15,184029,Ødegaard,MID,Arsenal,Chelsea,1,W,2,1,29,76,1,10,1,0,0,1,0,0,0,0,0,0,3,47,45.0,54.2,30.0,12.9,0,3,0,3,0.72,0.88,1.6,0.27,66,1130521,119653,172602,-52949
+4,15,184029,Ødegaard,MID,Arsenal,Sunderland,0,W,2,0,36,84,1,3,0,0,1,0,0,0,0,0,0,0,0,26,19.4,58.2,2.0,8.0,1,3,1,5,0.0,0.25,0.25,1.8,67,2036643,820232,117959,702273
+5,15,184029,Ødegaard,MID,Arsenal,Brighton,0,L,0,3,42,72,1,2,0,0,0,3,0,0,0,0,0,0,0,10,0.0,6.2,5.0,1.1,1,1,0,2,0.07,0.02,0.09,0.77,68,2167651,326276,132028,194248

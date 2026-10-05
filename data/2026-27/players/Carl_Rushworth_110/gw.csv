@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,110,472739,Rushworth,GKP,Coventry City,Arsenal,0,L,0,3,1,90,1,1,0,0,0,3,2,0,0,0,0,0,0,0,14.2,0.0,0.0,1.4,1,7,0,0,0.0,0.01,0.01,1.88,45,100521,0,0,0
+2,110,472739,Rushworth,GKP,Coventry City,Hull City,1,L,0,1,13,90,1,2,0,0,0,1,1,0,0,0,0,0,0,10,10.6,0.0,0.0,1.1,1,13,0,0,0.0,0.0,0.0,0.72,45,122624,11931,4672,7259
+3,110,472739,Rushworth,GKP,Coventry City,Man City,0,L,0,1,26,90,1,2,0,0,0,1,2,0,0,0,0,0,0,13,18.8,0.0,0.0,1.9,1,9,0,0,0.0,0.0,0.0,2.12,45,95482,2938,18953,-16015
+4,110,472739,Rushworth,GKP,Coventry City,Brighton,1,L,0,5,38,90,1,0,0,0,0,5,2,0,0,0,0,0,0,-5,18.0,0.0,0.0,1.8,1,11,0,0,0.0,0.01,0.01,2.81,45,95177,5350,16687,-11337
+5,110,472739,Rushworth,GKP,Coventry City,Nott'm Forest,0,W,1,0,47,90,1,11,0,1,1,0,2,0,0,0,0,0,2,38,29.0,10.0,0.0,3.9,0,10,0,0,0.0,0.0,0.0,1.1,45,84063,928,12852,-11924

@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,559,632794,Bamba,MID,Newcastle,Liverpool,1,D,2,2,9,14,0,1,0,0,0,1,0,0,0,0,0,0,0,5,4.0,0.0,0.0,0.4,1,0,1,2,0.0,0.0,0.0,1.04,50,12608,0,0,0
+2,559,632794,Bamba,MID,Newcastle,Spurs,0,W,2,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,50,13188,690,1667,-977
+3,559,632794,Bamba,MID,Newcastle,Bournemouth,1,D,2,2,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,50,11930,834,2622,-1788
+4,559,632794,Bamba,MID,Newcastle,Leeds,0,L,1,4,40,10,0,1,0,0,0,0,0,0,0,0,0,0,0,4,1.4,0.3,0.0,0.2,0,1,1,2,0.0,0.0,0.0,0.11,49,11166,539,1637,-1098
+5,559,632794,Bamba,MID,Newcastle,Hull City,1,W,2,1,46,3,0,1,0,0,0,0,0,0,0,0,0,0,0,3,6.2,0.1,0.0,0.6,2,1,1,4,0.0,0.0,0.0,0.14,49,10531,377,1158,-781

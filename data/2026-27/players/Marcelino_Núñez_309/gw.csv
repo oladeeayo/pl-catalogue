@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,309,501390,Núñez,MID,Ipswich Town,Sunderland,1,W,2,1,5,79,1,4,0,0,0,1,0,0,0,0,0,0,0,26,13.0,7.3,4.0,2.4,4,6,2,12,0.03,0.03,0.06,0.63,50,11544,0,0,0
+2,309,501390,Núñez,MID,Ipswich Town,Man Utd,0,L,2,5,18,61,1,2,0,0,0,3,0,0,0,0,0,0,0,6,11.6,12.1,2.0,2.6,4,4,1,9,0.0,0.02,0.02,2.85,50,14039,1197,1393,-196
+3,309,501390,Núñez,MID,Ipswich Town,Liverpool,1,L,0,2,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,50,13914,1106,1985,-879
+4,309,501390,Núñez,MID,Ipswich Town,Crystal Palace,0,W,3,2,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,50,12735,377,1862,-1485
+5,309,501390,Núñez,MID,Ipswich Town,Everton,0,L,0,1,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,49,11613,337,1767,-1430

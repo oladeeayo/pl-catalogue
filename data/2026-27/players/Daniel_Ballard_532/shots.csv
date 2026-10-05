@@ -1,0 +1,6 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+691050,31195,19,2,2026-08-30 13:00:00,66,532,Ballard,Thomas Meunier,0.863,0.52,0.0114,BlockedShot,SetPiece,Head,Aerial,h
+692420,31205,22,3,2026-09-05 14:00:00,83,532,Ballard,Kevin Danso,0.936,0.425,0.0498,MissedShots,OpenPlay,Head,Aerial,a
+694262,31216,36,4,2026-09-12 19:00:00,15,532,Ballard,Granit Xhaka,0.947,0.373,0.021,MissedShots,SetPiece,OtherBodyPart,Cross,h
+696485,31222,45,5,2026-09-20 13:00:00,69,532,Ballard,Granit Xhaka,0.859,0.403,0.0077,MissedShots,SetPiece,Head,Aerial,a
+696494,31222,45,5,2026-09-20 13:00:00,89,532,Ballard,,0.915,0.513,0.0888,BlockedShot,SetPiece,LeftFoot,None,a

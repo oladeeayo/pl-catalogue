@@ -1,0 +1,4 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+3,641,437497,Bard,DEF,Leeds,Brighton,0,D,1,1,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,45,242,177,28,149
+4,641,437497,Bard,DEF,Leeds,Newcastle,1,W,4,1,40,18,0,1,0,0,0,1,0,0,0,0,0,0,0,1,4.4,10.3,0.0,1.5,1,2,1,2,0.0,0.0,0.0,0.3,45,576,322,105,217
+5,641,437497,Bard,DEF,Leeds,Crystal Palace,1,D,0,0,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,45,877,363,143,220

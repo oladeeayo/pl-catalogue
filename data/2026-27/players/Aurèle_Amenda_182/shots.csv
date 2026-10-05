@@ -1,0 +1,2 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+690389,31192,13,2,2026-08-29 14:00:00,21,182,Amenda,Matt Grimes,0.673,0.54,0.0111,MissedShots,OpenPlay,RightFoot,Pass,h

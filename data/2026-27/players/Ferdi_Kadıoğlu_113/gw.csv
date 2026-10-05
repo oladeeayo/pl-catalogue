@@ -1,0 +1,6 @@
+gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
+1,113,231416,F.Kadıoğlu,DEF,Brighton,Aston Villa,1,W,4,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,45,265528,0,0,0
+2,113,231416,F.Kadıoğlu,DEF,Brighton,Chelsea,0,L,3,4,16,90,1,0,0,0,0,4,0,0,0,0,0,0,0,-4,2.8,16.7,8.0,2.8,0,2,0,0,0.02,0.01,0.03,2.93,45,221172,2580,51404,-48824
+3,113,231416,F.Kadıoğlu,DEF,Brighton,Leeds,1,D,1,1,23,77,1,2,0,0,0,1,0,0,0,0,0,0,0,8,12.6,12.5,19.0,4.4,4,2,1,5,0.06,0.01,0.07,2.4,44,203285,12724,32633,-19909
+4,113,231416,F.Kadıoğlu,DEF,Brighton,Coventry City,0,W,5,0,38,90,1,6,0,0,1,0,0,0,0,0,0,0,0,24,6.4,15.4,0.0,2.2,2,1,0,2,0.0,0.09,0.09,1.33,44,186000,6832,25246,-18414
+5,113,231416,F.Kadıoğlu,DEF,Brighton,Arsenal,1,W,3,0,42,75,1,5,0,0,1,0,0,0,0,0,1,0,0,18,9.4,13.5,5.0,2.8,3,3,0,3,0.04,0.02,0.06,0.89,44,170937,4277,18260,-13983

@@ -1,0 +1,4 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+691983,31200,21,3,2026-09-04 19:00:00,30,372,Mac Allister,Florian Wirtz,0.781,0.52,0.0487,MissedShots,OpenPlay,RightFoot,Pass,a
+691989,31200,21,3,2026-09-04 19:00:00,46,372,Mac Allister,Dominik Szoboszlai,0.89,0.444,0.0347,SavedShot,FromCorner,Head,Cross,a
+694059,31214,35,4,2026-09-12 14:00:00,66,372,Mac Allister,Virgil van Dijk,0.653,0.484,0.0113,BlockedShot,OpenPlay,RightFoot,Pass,h

@@ -1,0 +1,8 @@
+shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+691582,31196,16,2,2026-08-30 13:00:00,28,605,Yalcouyé,Diego Gómez,0.924,0.519,0.3122,SavedShot,OpenPlay,LeftFoot,Cross,a
+691586,31196,16,2,2026-08-30 13:00:00,34,605,Yalcouyé,,0.914,0.438,0.3351,Goal,OpenPlay,RightFoot,Rebound,a
+692302,31206,23,3,2026-09-05 14:00:00,68,605,Yalcouyé,Olivier Boscagli,0.836,0.676,0.0335,MissedShots,OpenPlay,RightFoot,TakeOn,h
+694486,31217,38,4,2026-09-13 13:00:00,16,605,Yalcouyé,Ferdi Kadioglu,0.874,0.464,0.1146,BlockedShot,OpenPlay,RightFoot,Pass,a
+694488,31217,38,4,2026-09-13 13:00:00,17,605,Yalcouyé,Maxim De Cuyper,0.915,0.589,0.1454,SavedShot,OpenPlay,RightFoot,TakeOn,a
+694505,31217,38,4,2026-09-13 13:00:00,50,605,Yalcouyé,Maxim De Cuyper,0.883,0.627,0.2706,Goal,OpenPlay,RightFoot,BallRecovery,a
+695963,31224,42,5,2026-09-19 14:00:00,89,605,Yalcouyé,,0.957,0.314,0.2282,ShotOnPost,OpenPlay,RightFoot,Rebound,h
