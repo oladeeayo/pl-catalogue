@@ -338,3 +338,15 @@ CREATE TABLE IF NOT EXISTS transfer_history (
 );
 CREATE INDEX IF NOT EXISTS idx_th_player ON transfer_history(player_id);
 CREATE INDEX IF NOT EXISTS idx_th_saison ON transfer_history(saison_id);
+
+-- Opta team season totals via The Analyst sdapi (enrich_opta.py).
+CREATE TABLE IF NOT EXISTS club_stats (
+  club_id       INTEGER NOT NULL REFERENCES clubs(club_id),
+  season        TEXT NOT NULL,
+  source        TEXT NOT NULL,
+  metric        TEXT NOT NULL,               -- section[_sub]_metric, e.g. attack_set_piece_sp_xg
+  value         REAL,
+  opta_team_id  INTEGER,                     -- Opta contestant id
+  fetched_at    TEXT,
+  PRIMARY KEY (club_id, season, source, metric)
+);

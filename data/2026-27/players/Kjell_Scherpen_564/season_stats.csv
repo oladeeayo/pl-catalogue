@@ -14,6 +14,17 @@ player_id,season,source,metric,value,fetched_at
 564,2026-27,fbref,sot,0.0,2026-10-05
 564,2026-27,fbref,tackles_won,0.0,2026-10-05
 564,2026-27,fbref,yellow_cards,0.0,2026-10-05
+564,2026-27,opta,apps,4.0,2026-10-06
+564,2026-27,opta,goals_conceded,10.0,2026-10-06
+564,2026-27,opta,goals_prevented,-1.51,2026-10-06
+564,2026-27,opta,goals_prevented_rate,0.78,2026-10-06
+564,2026-27,opta,mins_played,360.0,2026-10-06
+564,2026-27,opta,ogs,1.0,2026-10-06
+564,2026-27,opta,save_perc,60.0,2026-10-06
+564,2026-27,opta,saves_made,15.0,2026-10-06
+564,2026-27,opta,team_mins,450.0,2026-10-06
+564,2026-27,opta,team_mins_perc,80.0,2026-10-06
+564,2026-27,opta,xgot_conceded,7.49,2026-10-06
 564,2026-27,understat,key_passes,0.0,2026-10-05
 564,2026-27,understat,npg,0.0,2026-10-05
 564,2026-27,understat,shots,0.0,2026-10-05

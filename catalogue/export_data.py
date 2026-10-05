@@ -15,6 +15,7 @@
         xP1.csv                     expected points: xp forecast vs actual, all GWs
       players.csv                   merged master: one row per player, all sources
       transfers.csv                 Transfermarkt transfer history (5 seasons)
+      club_stats.csv                Opta team season metrics (long format, The Analyst)
       shots.csv                     all shot events
       market.csv                    all market-value snapshots (time series)
       gw_calendar.csv               GW metadata: deadlines, averages, most-*
@@ -173,6 +174,14 @@ def run(verbose=True):
             con)
     except (sqlite3.Error, pd.errors.DatabaseError):
         transfers = pd.DataFrame()
+    try:
+        club_stats = pd.read_sql(
+            "SELECT c.name AS team, cs.club_id, cs.source, cs.metric, cs.value,"
+            " cs.opta_team_id, cs.fetched_at FROM club_stats cs"
+            " JOIN clubs c ON c.club_id = cs.club_id"
+            " ORDER BY cs.club_id, cs.metric", con)
+    except (sqlite3.Error, pd.errors.DatabaseError):
+        club_stats = pd.DataFrame()
     con.close()
 
     shots["player_id"] = shots["player_id"].astype("Int64")
@@ -275,6 +284,8 @@ def run(verbose=True):
     _write(master_out, OUT / "players.csv")
     if len(transfers):
         _write(transfers, OUT / "transfers.csv")
+    if len(club_stats):
+        _write(club_stats, OUT / "club_stats.csv")
 
     name_map = dict(zip(players["player_id"], players["web_name"]))
     for el in ("most_selected", "most_transferred_in", "most_captained",
@@ -337,10 +348,11 @@ def run(verbose=True):
             "history_rows": int(len(history)),
             "xp_rows": int(len(xp_out)),
             "transfer_rows": int(len(transfers)),
+            "club_stats_rows": int(len(club_stats)),
             "player_folders": n_folders,
             "csv_files": sum(1 for _ in OUT.rglob("*.csv")),
         },
-        "sources": ["fpl", "reep", "fbref", "understat", "transfermarkt"],
+        "sources": ["fpl", "reep", "fbref", "understat", "transfermarkt", "opta"],
     }
     (OUT / "manifest.json").write_text(
         json.dumps(manifest, indent=2) + "\n", encoding="utf-8")

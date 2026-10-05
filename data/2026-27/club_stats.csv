@@ -1,0 +1,2441 @@
+team,club_id,source,metric,value,opta_team_id,fetched_at
+Arsenal,1,opta,attack_goals,8.0,3,2026-10-06
+Arsenal,1,opta,attack_goals_in_box_perc,75.0,3,2026-10-06
+Arsenal,1,opta,attack_goals_vs_xg,-0.48,3,2026-10-06
+Arsenal,1,opta,attack_misc_dfk,2.0,3,2026-10-06
+Arsenal,1,opta,attack_misc_dfk_goals,0.0,3,2026-10-06
+Arsenal,1,opta,attack_misc_fast_break_goals,2.0,3,2026-10-06
+Arsenal,1,opta,attack_misc_fast_break_shots,9.0,3,2026-10-06
+Arsenal,1,opta,attack_misc_headed_goals,0.0,3,2026-10-06
+Arsenal,1,opta,attack_misc_headed_shots,10.0,3,2026-10-06
+Arsenal,1,opta,attack_misc_hit_woodwork,0.0,3,2026-10-06
+Arsenal,1,opta,attack_misc_offsides,20.0,3,2026-10-06
+Arsenal,1,opta,attack_misc_pen_goals,1.0,3,2026-10-06
+Arsenal,1,opta,attack_misc_pens,1.0,3,2026-10-06
+Arsenal,1,opta,attack_misc_tch_in_box,156.0,3,2026-10-06
+Arsenal,1,opta,attack_non_pen_goals_in_box_perc,71.4286,3,2026-10-06
+Arsenal,1,opta,attack_non_pen_goals_vs_xg,-0.69,3,2026-10-06
+Arsenal,1,opta,attack_non_pen_np_goals,7.0,3,2026-10-06
+Arsenal,1,opta,attack_non_pen_np_shots,64.0,3,2026-10-06
+Arsenal,1,opta,attack_non_pen_np_sot,23.0,3,2026-10-06
+Arsenal,1,opta,attack_non_pen_shot_conv,10.9375,3,2026-10-06
+Arsenal,1,opta,attack_non_pen_shots_in_box_perc,70.3125,3,2026-10-06
+Arsenal,1,opta,attack_non_pen_team_np_xG,7.69,3,2026-10-06
+Arsenal,1,opta,attack_non_pen_xg_per_shot,0.12,3,2026-10-06
+Arsenal,1,opta,attack_set_piece_sp_goals,0.0,3,2026-10-06
+Arsenal,1,opta,attack_set_piece_sp_shots,17.0,3,2026-10-06
+Arsenal,1,opta,attack_set_piece_team_sp_goal_perc,0.0,3,2026-10-06
+Arsenal,1,opta,attack_set_piece_team_sp_shot_perc,26.15,3,2026-10-06
+Arsenal,1,opta,attack_set_piece_team_sp_xG,1.81,3,2026-10-06
+Arsenal,1,opta,attack_set_piece_team_sp_xg_perc,21.34,3,2026-10-06
+Arsenal,1,opta,attack_shot_conv,12.3077,3,2026-10-06
+Arsenal,1,opta,attack_shots_in_box_perc,70.769,3,2026-10-06
+Arsenal,1,opta,attack_sot,24.0,3,2026-10-06
+Arsenal,1,opta,attack_total_shots,65.0,3,2026-10-06
+Arsenal,1,opta,attack_xg,8.48,3,2026-10-06
+Arsenal,1,opta,attack_xg_per_shot,0.13,3,2026-10-06
+Arsenal,1,opta,defending_goals_against,4.0,3,2026-10-06
+Arsenal,1,opta,defending_goals_in_box_perc_against,25.0,3,2026-10-06
+Arsenal,1,opta,defending_goals_vs_xg_conceded,-0.04,3,2026-10-06
+Arsenal,1,opta,defending_misc_dfk_against,1.0,3,2026-10-06
+Arsenal,1,opta,defending_misc_dfk_goals_against,0.0,3,2026-10-06
+Arsenal,1,opta,defending_misc_fast_break_goals_against,1.0,3,2026-10-06
+Arsenal,1,opta,defending_misc_fast_break_shots_against,5.0,3,2026-10-06
+Arsenal,1,opta,defending_misc_headed_goals_against,1.0,3,2026-10-06
+Arsenal,1,opta,defending_misc_headed_shots_against,3.0,3,2026-10-06
+Arsenal,1,opta,defending_misc_offsides_provoked,2.0,3,2026-10-06
+Arsenal,1,opta,defending_misc_opp_hit_woodwork,3.0,3,2026-10-06
+Arsenal,1,opta,defending_misc_opp_tch_in_box,101.0,3,2026-10-06
+Arsenal,1,opta,defending_misc_pen_goals_against,0.0,3,2026-10-06
+Arsenal,1,opta,defending_misc_pens_faced,1.0,3,2026-10-06
+Arsenal,1,opta,defending_non_pen_goals_in_box_perc_against,0.0,3,2026-10-06
+Arsenal,1,opta,defending_non_pen_goals_vs_xg_against,0.75,3,2026-10-06
+Arsenal,1,opta,defending_non_pen_np_goals_against,4.0,3,2026-10-06
+Arsenal,1,opta,defending_non_pen_np_shots_against,52.0,3,2026-10-06
+Arsenal,1,opta,defending_non_pen_np_sot_against,13.0,3,2026-10-06
+Arsenal,1,opta,defending_non_pen_shot_conv_against,7.6923,3,2026-10-06
+Arsenal,1,opta,defending_non_pen_shots_in_box_perc_against,48.0769,3,2026-10-06
+Arsenal,1,opta,defending_non_pen_team_np_xG_against,3.25,3,2026-10-06
+Arsenal,1,opta,defending_non_pen_xg_per_shot_against,0.063,3,2026-10-06
+Arsenal,1,opta,defending_set_piece_sp_goals_against,2.0,3,2026-10-06
+Arsenal,1,opta,defending_set_piece_sp_shots,15.0,3,2026-10-06
+Arsenal,1,opta,defending_set_piece_team_sp_goal_perc_against,50.0,3,2026-10-06
+Arsenal,1,opta,defending_set_piece_team_sp_shot_perc_against,28.3,3,2026-10-06
+Arsenal,1,opta,defending_set_piece_team_sp_xG_against,1.18,3,2026-10-06
+Arsenal,1,opta,defending_set_piece_team_sp_xg_perc_against,29.32,3,2026-10-06
+Arsenal,1,opta,defending_shot_conv_against,7.5472,3,2026-10-06
+Arsenal,1,opta,defending_shots_in_box_perc_against,49.0566,3,2026-10-06
+Arsenal,1,opta,defending_sot_against,14.0,3,2026-10-06
+Arsenal,1,opta,defending_total_shots_against,53.0,3,2026-10-06
+Arsenal,1,opta,defending_xg_against,4.04,3,2026-10-06
+Arsenal,1,opta,defending_xg_per_shot_against,0.076,3,2026-10-06
+Arsenal,1,opta,misc_errors_lead_to_goal,0.0,3,2026-10-06
+Arsenal,1,opta,misc_errors_lead_to_shot,8.0,3,2026-10-06
+Arsenal,1,opta,misc_fouls_lost,49.0,3,2026-10-06
+Arsenal,1,opta,misc_fouls_won,76.0,3,2026-10-06
+Arsenal,1,opta,misc_opp_reds,1.0,3,2026-10-06
+Arsenal,1,opta,misc_opp_yellows,16.0,3,2026-10-06
+Arsenal,1,opta,misc_pens_conceded,1.0,3,2026-10-06
+Arsenal,1,opta,misc_pens_won,1.0,3,2026-10-06
+Arsenal,1,opta,misc_reds,0.0,3,2026-10-06
+Arsenal,1,opta,misc_subs_goals,1.0,3,2026-10-06
+Arsenal,1,opta,misc_subs_used,25.0,3,2026-10-06
+Arsenal,1,opta,misc_yellows,7.0,3,2026-10-06
+Arsenal,1,opta,possession_accuracy,86.78,3,2026-10-06
+Arsenal,1,opta,possession_aerial_duel_success_perc,51.01,3,2026-10-06
+Arsenal,1,opta,possession_backward_pass_perc,14.26,3,2026-10-06
+Arsenal,1,opta,possession_blocks,14.0,3,2026-10-06
+Arsenal,1,opta,possession_clearances,106.0,3,2026-10-06
+Arsenal,1,opta,possession_final_third_passes,815.0,3,2026-10-06
+Arsenal,1,opta,possession_fwd_pass_perc,30.15,3,2026-10-06
+Arsenal,1,opta,possession_ground_duel_success_perc,54.48,3,2026-10-06
+Arsenal,1,opta,possession_interceptions,37.0,3,2026-10-06
+Arsenal,1,opta,possession_left_pass_perc,26.8,3,2026-10-06
+Arsenal,1,opta,possession_op_cross_accuracy_perc,15.38,3,2026-10-06
+Arsenal,1,opta,possession_op_crosses,52.0,3,2026-10-06
+Arsenal,1,opta,possession_passes,2504.0,3,2026-10-06
+Arsenal,1,opta,possession_pos_perc,59.3,3,2026-10-06
+Arsenal,1,opta,possession_rec,217.0,3,2026-10-06
+Arsenal,1,opta,possession_right_pass_perc,28.79,3,2026-10-06
+Arsenal,1,opta,possession_successful_final_third_passes,650.0,3,2026-10-06
+Arsenal,1,opta,possession_successful_final_third_passes_perc,79.75,3,2026-10-06
+Arsenal,1,opta,possession_successful_long_balls_perc,46.83,3,2026-10-06
+Arsenal,1,opta,possession_successful_op_crosses,8.0,3,2026-10-06
+Arsenal,1,opta,possession_successful_pass,2173.0,3,2026-10-06
+Arsenal,1,opta,possession_through_balls,10.0,3,2026-10-06
+Arsenal,1,opta,possession_total_tackles,58.0,3,2026-10-06
+Arsenal,1,opta,sequences_build_up_goals,2.0,3,2026-10-06
+Arsenal,1,opta,sequences_build_ups,25.0,3,2026-10-06
+Arsenal,1,opta,sequences_defensive_actions,102.0,3,2026-10-06
+Arsenal,1,opta,sequences_direct_attack_goals,0.0,3,2026-10-06
+Arsenal,1,opta,sequences_direct_attacks,13.0,3,2026-10-06
+Arsenal,1,opta,sequences_direct_speed_for,1.85,3,2026-10-06
+Arsenal,1,opta,sequences_goal_ending_high_turnovers,0.0,3,2026-10-06
+Arsenal,1,opta,sequences_high_turnovers,28.0,3,2026-10-06
+Arsenal,1,opta,sequences_opposition_passes,1192.0,3,2026-10-06
+Arsenal,1,opta,sequences_passes_for,4.31,3,2026-10-06
+Arsenal,1,opta,sequences_ppda,11.7,3,2026-10-06
+Arsenal,1,opta,sequences_pressed_sequences,45.0,3,2026-10-06
+Arsenal,1,opta,sequences_seq_time_for,12.5,3,2026-10-06
+Arsenal,1,opta,sequences_shot_ending_high_turnovers,5.0,3,2026-10-06
+Arsenal,1,opta,sequences_shot_ending_hto_perc,17.857,3,2026-10-06
+Arsenal,1,opta,sequences_start_distance,38.4,3,2026-10-06
+Arsenal,1,opta,sequences_ten_plus_passes,77.0,3,2026-10-06
+Aston Villa,2,opta,attack_goals,4.0,7,2026-10-06
+Aston Villa,2,opta,attack_goals_in_box_perc,75.0,7,2026-10-06
+Aston Villa,2,opta,attack_goals_vs_xg,-0.65,7,2026-10-06
+Aston Villa,2,opta,attack_misc_dfk,1.0,7,2026-10-06
+Aston Villa,2,opta,attack_misc_dfk_goals,0.0,7,2026-10-06
+Aston Villa,2,opta,attack_misc_fast_break_goals,0.0,7,2026-10-06
+Aston Villa,2,opta,attack_misc_fast_break_shots,3.0,7,2026-10-06
+Aston Villa,2,opta,attack_misc_headed_goals,1.0,7,2026-10-06
+Aston Villa,2,opta,attack_misc_headed_shots,6.0,7,2026-10-06
+Aston Villa,2,opta,attack_misc_hit_woodwork,2.0,7,2026-10-06
+Aston Villa,2,opta,attack_misc_offsides,6.0,7,2026-10-06
+Aston Villa,2,opta,attack_misc_pen_goals,0.0,7,2026-10-06
+Aston Villa,2,opta,attack_misc_pens,0.0,7,2026-10-06
+Aston Villa,2,opta,attack_misc_tch_in_box,81.0,7,2026-10-06
+Aston Villa,2,opta,attack_non_pen_goals_in_box_perc,75.0,7,2026-10-06
+Aston Villa,2,opta,attack_non_pen_goals_vs_xg,-0.65,7,2026-10-06
+Aston Villa,2,opta,attack_non_pen_np_goals,4.0,7,2026-10-06
+Aston Villa,2,opta,attack_non_pen_np_shots,48.0,7,2026-10-06
+Aston Villa,2,opta,attack_non_pen_np_sot,12.0,7,2026-10-06
+Aston Villa,2,opta,attack_non_pen_shot_conv,8.3333,7,2026-10-06
+Aston Villa,2,opta,attack_non_pen_shots_in_box_perc,62.5,7,2026-10-06
+Aston Villa,2,opta,attack_non_pen_team_np_xG,4.65,7,2026-10-06
+Aston Villa,2,opta,attack_non_pen_xg_per_shot,0.097,7,2026-10-06
+Aston Villa,2,opta,attack_set_piece_sp_goals,1.0,7,2026-10-06
+Aston Villa,2,opta,attack_set_piece_sp_shots,9.0,7,2026-10-06
+Aston Villa,2,opta,attack_set_piece_team_sp_goal_perc,25.0,7,2026-10-06
+Aston Villa,2,opta,attack_set_piece_team_sp_shot_perc,18.75,7,2026-10-06
+Aston Villa,2,opta,attack_set_piece_team_sp_xG,0.39,7,2026-10-06
+Aston Villa,2,opta,attack_set_piece_team_sp_xg_perc,8.48,7,2026-10-06
+Aston Villa,2,opta,attack_shot_conv,8.3333,7,2026-10-06
+Aston Villa,2,opta,attack_shots_in_box_perc,62.5,7,2026-10-06
+Aston Villa,2,opta,attack_sot,12.0,7,2026-10-06
+Aston Villa,2,opta,attack_total_shots,48.0,7,2026-10-06
+Aston Villa,2,opta,attack_xg,4.65,7,2026-10-06
+Aston Villa,2,opta,attack_xg_per_shot,0.097,7,2026-10-06
+Aston Villa,2,opta,defending_goals_against,9.0,7,2026-10-06
+Aston Villa,2,opta,defending_goals_in_box_perc_against,77.7778,7,2026-10-06
+Aston Villa,2,opta,defending_goals_vs_xg_conceded,0.09,7,2026-10-06
+Aston Villa,2,opta,defending_misc_dfk_against,3.0,7,2026-10-06
+Aston Villa,2,opta,defending_misc_dfk_goals_against,0.0,7,2026-10-06
+Aston Villa,2,opta,defending_misc_fast_break_goals_against,0.0,7,2026-10-06
+Aston Villa,2,opta,defending_misc_fast_break_shots_against,5.0,7,2026-10-06
+Aston Villa,2,opta,defending_misc_headed_goals_against,2.0,7,2026-10-06
+Aston Villa,2,opta,defending_misc_headed_shots_against,15.0,7,2026-10-06
+Aston Villa,2,opta,defending_misc_offsides_provoked,25.0,7,2026-10-06
+Aston Villa,2,opta,defending_misc_opp_hit_woodwork,3.0,7,2026-10-06
+Aston Villa,2,opta,defending_misc_opp_tch_in_box,131.0,7,2026-10-06
+Aston Villa,2,opta,defending_misc_pen_goals_against,0.0,7,2026-10-06
+Aston Villa,2,opta,defending_misc_pens_faced,0.0,7,2026-10-06
+Aston Villa,2,opta,defending_non_pen_goals_in_box_perc_against,77.7778,7,2026-10-06
+Aston Villa,2,opta,defending_non_pen_goals_vs_xg_against,0.09,7,2026-10-06
+Aston Villa,2,opta,defending_non_pen_np_goals_against,9.0,7,2026-10-06
+Aston Villa,2,opta,defending_non_pen_np_shots_against,81.0,7,2026-10-06
+Aston Villa,2,opta,defending_non_pen_np_sot_against,26.0,7,2026-10-06
+Aston Villa,2,opta,defending_non_pen_shot_conv_against,11.1111,7,2026-10-06
+Aston Villa,2,opta,defending_non_pen_shots_in_box_perc_against,61.7284,7,2026-10-06
+Aston Villa,2,opta,defending_non_pen_team_np_xG_against,8.91,7,2026-10-06
+Aston Villa,2,opta,defending_non_pen_xg_per_shot_against,0.11,7,2026-10-06
+Aston Villa,2,opta,defending_set_piece_sp_goals_against,1.0,7,2026-10-06
+Aston Villa,2,opta,defending_set_piece_sp_shots,24.0,7,2026-10-06
+Aston Villa,2,opta,defending_set_piece_team_sp_goal_perc_against,11.11,7,2026-10-06
+Aston Villa,2,opta,defending_set_piece_team_sp_shot_perc_against,29.63,7,2026-10-06
+Aston Villa,2,opta,defending_set_piece_team_sp_xG_against,1.59,7,2026-10-06
+Aston Villa,2,opta,defending_set_piece_team_sp_xg_perc_against,17.88,7,2026-10-06
+Aston Villa,2,opta,defending_shot_conv_against,11.1111,7,2026-10-06
+Aston Villa,2,opta,defending_shots_in_box_perc_against,61.7284,7,2026-10-06
+Aston Villa,2,opta,defending_sot_against,26.0,7,2026-10-06
+Aston Villa,2,opta,defending_total_shots_against,81.0,7,2026-10-06
+Aston Villa,2,opta,defending_xg_against,8.91,7,2026-10-06
+Aston Villa,2,opta,defending_xg_per_shot_against,0.11,7,2026-10-06
+Aston Villa,2,opta,misc_errors_lead_to_goal,2.0,7,2026-10-06
+Aston Villa,2,opta,misc_errors_lead_to_shot,10.0,7,2026-10-06
+Aston Villa,2,opta,misc_fouls_lost,54.0,7,2026-10-06
+Aston Villa,2,opta,misc_fouls_won,52.0,7,2026-10-06
+Aston Villa,2,opta,misc_opp_reds,0.0,7,2026-10-06
+Aston Villa,2,opta,misc_opp_yellows,11.0,7,2026-10-06
+Aston Villa,2,opta,misc_pens_conceded,0.0,7,2026-10-06
+Aston Villa,2,opta,misc_pens_won,0.0,7,2026-10-06
+Aston Villa,2,opta,misc_reds,1.0,7,2026-10-06
+Aston Villa,2,opta,misc_subs_goals,1.0,7,2026-10-06
+Aston Villa,2,opta,misc_subs_used,24.0,7,2026-10-06
+Aston Villa,2,opta,misc_yellows,10.0,7,2026-10-06
+Aston Villa,2,opta,possession_accuracy,84.06,7,2026-10-06
+Aston Villa,2,opta,possession_aerial_duel_success_perc,40.91,7,2026-10-06
+Aston Villa,2,opta,possession_backward_pass_perc,16.29,7,2026-10-06
+Aston Villa,2,opta,possession_blocks,11.0,7,2026-10-06
+Aston Villa,2,opta,possession_clearances,109.0,7,2026-10-06
+Aston Villa,2,opta,possession_final_third_passes,566.0,7,2026-10-06
+Aston Villa,2,opta,possession_fwd_pass_perc,30.71,7,2026-10-06
+Aston Villa,2,opta,possession_ground_duel_success_perc,46.34,7,2026-10-06
+Aston Villa,2,opta,possession_interceptions,37.0,7,2026-10-06
+Aston Villa,2,opta,possession_left_pass_perc,25.25,7,2026-10-06
+Aston Villa,2,opta,possession_op_cross_accuracy_perc,13.89,7,2026-10-06
+Aston Villa,2,opta,possession_op_crosses,36.0,7,2026-10-06
+Aston Villa,2,opta,possession_passes,2032.0,7,2026-10-06
+Aston Villa,2,opta,possession_pos_perc,45.920000076293945,7,2026-10-06
+Aston Villa,2,opta,possession_rec,201.0,7,2026-10-06
+Aston Villa,2,opta,possession_right_pass_perc,27.76,7,2026-10-06
+Aston Villa,2,opta,possession_successful_final_third_passes,412.0,7,2026-10-06
+Aston Villa,2,opta,possession_successful_final_third_passes_perc,72.79,7,2026-10-06
+Aston Villa,2,opta,possession_successful_long_balls_perc,42.36,7,2026-10-06
+Aston Villa,2,opta,possession_successful_op_crosses,5.0,7,2026-10-06
+Aston Villa,2,opta,possession_successful_pass,1708.0,7,2026-10-06
+Aston Villa,2,opta,possession_through_balls,9.0,7,2026-10-06
+Aston Villa,2,opta,possession_total_tackles,81.0,7,2026-10-06
+Aston Villa,2,opta,sequences_build_up_goals,0.0,7,2026-10-06
+Aston Villa,2,opta,sequences_build_ups,12.0,7,2026-10-06
+Aston Villa,2,opta,sequences_defensive_actions,101.0,7,2026-10-06
+Aston Villa,2,opta,sequences_direct_attack_goals,0.0,7,2026-10-06
+Aston Villa,2,opta,sequences_direct_attacks,5.0,7,2026-10-06
+Aston Villa,2,opta,sequences_direct_speed_for,1.81,7,2026-10-06
+Aston Villa,2,opta,sequences_goal_ending_high_turnovers,0.0,7,2026-10-06
+Aston Villa,2,opta,sequences_high_turnovers,24.0,7,2026-10-06
+Aston Villa,2,opta,sequences_opposition_passes,1537.0,7,2026-10-06
+Aston Villa,2,opta,sequences_passes_for,3.35,7,2026-10-06
+Aston Villa,2,opta,sequences_ppda,15.2,7,2026-10-06
+Aston Villa,2,opta,sequences_pressed_sequences,49.0,7,2026-10-06
+Aston Villa,2,opta,sequences_seq_time_for,9.68,7,2026-10-06
+Aston Villa,2,opta,sequences_shot_ending_high_turnovers,4.0,7,2026-10-06
+Aston Villa,2,opta,sequences_shot_ending_hto_perc,16.667,7,2026-10-06
+Aston Villa,2,opta,sequences_start_distance,37.6,7,2026-10-06
+Aston Villa,2,opta,sequences_ten_plus_passes,44.0,7,2026-10-06
+Bournemouth,3,opta,attack_goals,6.0,91,2026-10-06
+Bournemouth,3,opta,attack_goals_in_box_perc,83.333,91,2026-10-06
+Bournemouth,3,opta,attack_goals_vs_xg,-0.72,91,2026-10-06
+Bournemouth,3,opta,attack_misc_dfk,3.0,91,2026-10-06
+Bournemouth,3,opta,attack_misc_dfk_goals,0.0,91,2026-10-06
+Bournemouth,3,opta,attack_misc_fast_break_goals,1.0,91,2026-10-06
+Bournemouth,3,opta,attack_misc_fast_break_shots,8.0,91,2026-10-06
+Bournemouth,3,opta,attack_misc_headed_goals,0.0,91,2026-10-06
+Bournemouth,3,opta,attack_misc_headed_shots,10.0,91,2026-10-06
+Bournemouth,3,opta,attack_misc_hit_woodwork,2.0,91,2026-10-06
+Bournemouth,3,opta,attack_misc_offsides,9.0,91,2026-10-06
+Bournemouth,3,opta,attack_misc_pen_goals,0.0,91,2026-10-06
+Bournemouth,3,opta,attack_misc_pens,0.0,91,2026-10-06
+Bournemouth,3,opta,attack_misc_tch_in_box,108.0,91,2026-10-06
+Bournemouth,3,opta,attack_non_pen_goals_in_box_perc,83.3333,91,2026-10-06
+Bournemouth,3,opta,attack_non_pen_goals_vs_xg,-0.72,91,2026-10-06
+Bournemouth,3,opta,attack_non_pen_np_goals,6.0,91,2026-10-06
+Bournemouth,3,opta,attack_non_pen_np_shots,68.0,91,2026-10-06
+Bournemouth,3,opta,attack_non_pen_np_sot,26.0,91,2026-10-06
+Bournemouth,3,opta,attack_non_pen_shot_conv,8.8235,91,2026-10-06
+Bournemouth,3,opta,attack_non_pen_shots_in_box_perc,61.7647,91,2026-10-06
+Bournemouth,3,opta,attack_non_pen_team_np_xG,6.72,91,2026-10-06
+Bournemouth,3,opta,attack_non_pen_xg_per_shot,0.099,91,2026-10-06
+Bournemouth,3,opta,attack_set_piece_sp_goals,0.0,91,2026-10-06
+Bournemouth,3,opta,attack_set_piece_sp_shots,15.0,91,2026-10-06
+Bournemouth,3,opta,attack_set_piece_team_sp_goal_perc,0.0,91,2026-10-06
+Bournemouth,3,opta,attack_set_piece_team_sp_shot_perc,22.06,91,2026-10-06
+Bournemouth,3,opta,attack_set_piece_team_sp_xG,1.9,91,2026-10-06
+Bournemouth,3,opta,attack_set_piece_team_sp_xg_perc,28.3,91,2026-10-06
+Bournemouth,3,opta,attack_shot_conv,8.8235,91,2026-10-06
+Bournemouth,3,opta,attack_shots_in_box_perc,61.765,91,2026-10-06
+Bournemouth,3,opta,attack_sot,26.0,91,2026-10-06
+Bournemouth,3,opta,attack_total_shots,68.0,91,2026-10-06
+Bournemouth,3,opta,attack_xg,6.72,91,2026-10-06
+Bournemouth,3,opta,attack_xg_per_shot,0.099,91,2026-10-06
+Bournemouth,3,opta,defending_goals_against,8.0,91,2026-10-06
+Bournemouth,3,opta,defending_goals_in_box_perc_against,87.5,91,2026-10-06
+Bournemouth,3,opta,defending_goals_vs_xg_conceded,1.06,91,2026-10-06
+Bournemouth,3,opta,defending_misc_dfk_against,3.0,91,2026-10-06
+Bournemouth,3,opta,defending_misc_dfk_goals_against,0.0,91,2026-10-06
+Bournemouth,3,opta,defending_misc_fast_break_goals_against,0.0,91,2026-10-06
+Bournemouth,3,opta,defending_misc_fast_break_shots_against,5.0,91,2026-10-06
+Bournemouth,3,opta,defending_misc_headed_goals_against,2.0,91,2026-10-06
+Bournemouth,3,opta,defending_misc_headed_shots_against,9.0,91,2026-10-06
+Bournemouth,3,opta,defending_misc_offsides_provoked,7.0,91,2026-10-06
+Bournemouth,3,opta,defending_misc_opp_hit_woodwork,0.0,91,2026-10-06
+Bournemouth,3,opta,defending_misc_opp_tch_in_box,121.0,91,2026-10-06
+Bournemouth,3,opta,defending_misc_pen_goals_against,0.0,91,2026-10-06
+Bournemouth,3,opta,defending_misc_pens_faced,0.0,91,2026-10-06
+Bournemouth,3,opta,defending_non_pen_goals_in_box_perc_against,87.5,91,2026-10-06
+Bournemouth,3,opta,defending_non_pen_goals_vs_xg_against,1.06,91,2026-10-06
+Bournemouth,3,opta,defending_non_pen_np_goals_against,8.0,91,2026-10-06
+Bournemouth,3,opta,defending_non_pen_np_shots_against,54.0,91,2026-10-06
+Bournemouth,3,opta,defending_non_pen_np_sot_against,20.0,91,2026-10-06
+Bournemouth,3,opta,defending_non_pen_shot_conv_against,14.8148,91,2026-10-06
+Bournemouth,3,opta,defending_non_pen_shots_in_box_perc_against,66.6667,91,2026-10-06
+Bournemouth,3,opta,defending_non_pen_team_np_xG_against,6.94,91,2026-10-06
+Bournemouth,3,opta,defending_non_pen_xg_per_shot_against,0.129,91,2026-10-06
+Bournemouth,3,opta,defending_set_piece_sp_goals_against,3.0,91,2026-10-06
+Bournemouth,3,opta,defending_set_piece_sp_shots,18.0,91,2026-10-06
+Bournemouth,3,opta,defending_set_piece_team_sp_goal_perc_against,37.5,91,2026-10-06
+Bournemouth,3,opta,defending_set_piece_team_sp_shot_perc_against,33.33,91,2026-10-06
+Bournemouth,3,opta,defending_set_piece_team_sp_xG_against,1.79,91,2026-10-06
+Bournemouth,3,opta,defending_set_piece_team_sp_xg_perc_against,25.78,91,2026-10-06
+Bournemouth,3,opta,defending_shot_conv_against,14.8148,91,2026-10-06
+Bournemouth,3,opta,defending_shots_in_box_perc_against,66.6667,91,2026-10-06
+Bournemouth,3,opta,defending_sot_against,20.0,91,2026-10-06
+Bournemouth,3,opta,defending_total_shots_against,54.0,91,2026-10-06
+Bournemouth,3,opta,defending_xg_against,6.94,91,2026-10-06
+Bournemouth,3,opta,defending_xg_per_shot_against,0.129,91,2026-10-06
+Bournemouth,3,opta,misc_errors_lead_to_goal,1.0,91,2026-10-06
+Bournemouth,3,opta,misc_errors_lead_to_shot,3.0,91,2026-10-06
+Bournemouth,3,opta,misc_fouls_lost,58.0,91,2026-10-06
+Bournemouth,3,opta,misc_fouls_won,67.0,91,2026-10-06
+Bournemouth,3,opta,misc_opp_reds,0.0,91,2026-10-06
+Bournemouth,3,opta,misc_opp_yellows,8.0,91,2026-10-06
+Bournemouth,3,opta,misc_pens_conceded,0.0,91,2026-10-06
+Bournemouth,3,opta,misc_pens_won,0.0,91,2026-10-06
+Bournemouth,3,opta,misc_reds,0.0,91,2026-10-06
+Bournemouth,3,opta,misc_subs_goals,0.0,91,2026-10-06
+Bournemouth,3,opta,misc_subs_used,23.0,91,2026-10-06
+Bournemouth,3,opta,misc_yellows,14.0,91,2026-10-06
+Bournemouth,3,opta,possession_accuracy,79.82,91,2026-10-06
+Bournemouth,3,opta,possession_aerial_duel_success_perc,48.39,91,2026-10-06
+Bournemouth,3,opta,possession_backward_pass_perc,16.5,91,2026-10-06
+Bournemouth,3,opta,possession_blocks,14.0,91,2026-10-06
+Bournemouth,3,opta,possession_clearances,135.0,91,2026-10-06
+Bournemouth,3,opta,possession_final_third_passes,590.0,91,2026-10-06
+Bournemouth,3,opta,possession_fwd_pass_perc,35.39,91,2026-10-06
+Bournemouth,3,opta,possession_ground_duel_success_perc,50.0,91,2026-10-06
+Bournemouth,3,opta,possession_interceptions,57.0,91,2026-10-06
+Bournemouth,3,opta,possession_left_pass_perc,22.96,91,2026-10-06
+Bournemouth,3,opta,possession_op_cross_accuracy_perc,21.31,91,2026-10-06
+Bournemouth,3,opta,possession_op_crosses,61.0,91,2026-10-06
+Bournemouth,3,opta,possession_passes,2012.0,91,2026-10-06
+Bournemouth,3,opta,possession_pos_perc,47.74000015258789,91,2026-10-06
+Bournemouth,3,opta,possession_rec,251.0,91,2026-10-06
+Bournemouth,3,opta,possession_right_pass_perc,25.15,91,2026-10-06
+Bournemouth,3,opta,possession_successful_final_third_passes,399.0,91,2026-10-06
+Bournemouth,3,opta,possession_successful_final_third_passes_perc,67.63,91,2026-10-06
+Bournemouth,3,opta,possession_successful_long_balls_perc,43.3,91,2026-10-06
+Bournemouth,3,opta,possession_successful_op_crosses,13.0,91,2026-10-06
+Bournemouth,3,opta,possession_successful_pass,1606.0,91,2026-10-06
+Bournemouth,3,opta,possession_through_balls,4.0,91,2026-10-06
+Bournemouth,3,opta,possession_total_tackles,80.0,91,2026-10-06
+Bournemouth,3,opta,sequences_build_up_goals,1.0,91,2026-10-06
+Bournemouth,3,opta,sequences_build_ups,11.0,91,2026-10-06
+Bournemouth,3,opta,sequences_defensive_actions,144.0,91,2026-10-06
+Bournemouth,3,opta,sequences_direct_attack_goals,0.0,91,2026-10-06
+Bournemouth,3,opta,sequences_direct_attacks,12.0,91,2026-10-06
+Bournemouth,3,opta,sequences_direct_speed_for,1.91,91,2026-10-06
+Bournemouth,3,opta,sequences_goal_ending_high_turnovers,0.0,91,2026-10-06
+Bournemouth,3,opta,sequences_high_turnovers,42.0,91,2026-10-06
+Bournemouth,3,opta,sequences_opposition_passes,1633.0,91,2026-10-06
+Bournemouth,3,opta,sequences_passes_for,3.08,91,2026-10-06
+Bournemouth,3,opta,sequences_ppda,11.3,91,2026-10-06
+Bournemouth,3,opta,sequences_pressed_sequences,58.0,91,2026-10-06
+Bournemouth,3,opta,sequences_seq_time_for,8.35,91,2026-10-06
+Bournemouth,3,opta,sequences_shot_ending_high_turnovers,9.0,91,2026-10-06
+Bournemouth,3,opta,sequences_shot_ending_hto_perc,21.429,91,2026-10-06
+Bournemouth,3,opta,sequences_start_distance,41.5,91,2026-10-06
+Bournemouth,3,opta,sequences_ten_plus_passes,40.0,91,2026-10-06
+Brentford,4,opta,attack_goals,10.0,94,2026-10-06
+Brentford,4,opta,attack_goals_in_box_perc,90.0,94,2026-10-06
+Brentford,4,opta,attack_goals_vs_xg,0.1,94,2026-10-06
+Brentford,4,opta,attack_misc_dfk,1.0,94,2026-10-06
+Brentford,4,opta,attack_misc_dfk_goals,0.0,94,2026-10-06
+Brentford,4,opta,attack_misc_fast_break_goals,1.0,94,2026-10-06
+Brentford,4,opta,attack_misc_fast_break_shots,4.0,94,2026-10-06
+Brentford,4,opta,attack_misc_headed_goals,2.0,94,2026-10-06
+Brentford,4,opta,attack_misc_headed_shots,25.0,94,2026-10-06
+Brentford,4,opta,attack_misc_hit_woodwork,1.0,94,2026-10-06
+Brentford,4,opta,attack_misc_offsides,6.0,94,2026-10-06
+Brentford,4,opta,attack_misc_pen_goals,0.0,94,2026-10-06
+Brentford,4,opta,attack_misc_pens,1.0,94,2026-10-06
+Brentford,4,opta,attack_misc_tch_in_box,150.0,94,2026-10-06
+Brentford,4,opta,attack_non_pen_goals_in_box_perc,90.0,94,2026-10-06
+Brentford,4,opta,attack_non_pen_goals_vs_xg,0.89,94,2026-10-06
+Brentford,4,opta,attack_non_pen_np_goals,10.0,94,2026-10-06
+Brentford,4,opta,attack_non_pen_np_shots,80.0,94,2026-10-06
+Brentford,4,opta,attack_non_pen_np_sot,23.0,94,2026-10-06
+Brentford,4,opta,attack_non_pen_shot_conv,12.5,94,2026-10-06
+Brentford,4,opta,attack_non_pen_shots_in_box_perc,72.5,94,2026-10-06
+Brentford,4,opta,attack_non_pen_team_np_xG,9.11,94,2026-10-06
+Brentford,4,opta,attack_non_pen_xg_per_shot,0.114,94,2026-10-06
+Brentford,4,opta,attack_set_piece_sp_goals,3.0,94,2026-10-06
+Brentford,4,opta,attack_set_piece_sp_shots,33.0,94,2026-10-06
+Brentford,4,opta,attack_set_piece_team_sp_goal_perc,30.0,94,2026-10-06
+Brentford,4,opta,attack_set_piece_team_sp_shot_perc,40.74,94,2026-10-06
+Brentford,4,opta,attack_set_piece_team_sp_xG,3.82,94,2026-10-06
+Brentford,4,opta,attack_set_piece_team_sp_xg_perc,38.54,94,2026-10-06
+Brentford,4,opta,attack_shot_conv,12.3457,94,2026-10-06
+Brentford,4,opta,attack_shots_in_box_perc,72.84,94,2026-10-06
+Brentford,4,opta,attack_sot,23.0,94,2026-10-06
+Brentford,4,opta,attack_total_shots,81.0,94,2026-10-06
+Brentford,4,opta,attack_xg,9.9,94,2026-10-06
+Brentford,4,opta,attack_xg_per_shot,0.122,94,2026-10-06
+Brentford,4,opta,defending_goals_against,4.0,94,2026-10-06
+Brentford,4,opta,defending_goals_in_box_perc_against,100.0,94,2026-10-06
+Brentford,4,opta,defending_goals_vs_xg_conceded,-2.31,94,2026-10-06
+Brentford,4,opta,defending_misc_dfk_against,6.0,94,2026-10-06
+Brentford,4,opta,defending_misc_dfk_goals_against,0.0,94,2026-10-06
+Brentford,4,opta,defending_misc_fast_break_goals_against,0.0,94,2026-10-06
+Brentford,4,opta,defending_misc_fast_break_shots_against,3.0,94,2026-10-06
+Brentford,4,opta,defending_misc_headed_goals_against,0.0,94,2026-10-06
+Brentford,4,opta,defending_misc_headed_shots_against,5.0,94,2026-10-06
+Brentford,4,opta,defending_misc_offsides_provoked,12.0,94,2026-10-06
+Brentford,4,opta,defending_misc_opp_hit_woodwork,1.0,94,2026-10-06
+Brentford,4,opta,defending_misc_opp_tch_in_box,122.0,94,2026-10-06
+Brentford,4,opta,defending_misc_pen_goals_against,1.0,94,2026-10-06
+Brentford,4,opta,defending_misc_pens_faced,1.0,94,2026-10-06
+Brentford,4,opta,defending_non_pen_goals_in_box_perc_against,100.0,94,2026-10-06
+Brentford,4,opta,defending_non_pen_goals_vs_xg_against,-2.52,94,2026-10-06
+Brentford,4,opta,defending_non_pen_np_goals_against,3.0,94,2026-10-06
+Brentford,4,opta,defending_non_pen_np_shots_against,66.0,94,2026-10-06
+Brentford,4,opta,defending_non_pen_np_sot_against,22.0,94,2026-10-06
+Brentford,4,opta,defending_non_pen_shot_conv_against,4.5455,94,2026-10-06
+Brentford,4,opta,defending_non_pen_shots_in_box_perc_against,56.0606,94,2026-10-06
+Brentford,4,opta,defending_non_pen_team_np_xG_against,5.52,94,2026-10-06
+Brentford,4,opta,defending_non_pen_xg_per_shot_against,0.084,94,2026-10-06
+Brentford,4,opta,defending_set_piece_sp_goals_against,0.0,94,2026-10-06
+Brentford,4,opta,defending_set_piece_sp_shots,17.0,94,2026-10-06
+Brentford,4,opta,defending_set_piece_team_sp_goal_perc_against,0.0,94,2026-10-06
+Brentford,4,opta,defending_set_piece_team_sp_shot_perc_against,25.37,94,2026-10-06
+Brentford,4,opta,defending_set_piece_team_sp_xG_against,1.45,94,2026-10-06
+Brentford,4,opta,defending_set_piece_team_sp_xg_perc_against,23.01,94,2026-10-06
+Brentford,4,opta,defending_shot_conv_against,5.9701,94,2026-10-06
+Brentford,4,opta,defending_shots_in_box_perc_against,56.7164,94,2026-10-06
+Brentford,4,opta,defending_sot_against,23.0,94,2026-10-06
+Brentford,4,opta,defending_total_shots_against,67.0,94,2026-10-06
+Brentford,4,opta,defending_xg_against,6.31,94,2026-10-06
+Brentford,4,opta,defending_xg_per_shot_against,0.094,94,2026-10-06
+Brentford,4,opta,misc_errors_lead_to_goal,0.0,94,2026-10-06
+Brentford,4,opta,misc_errors_lead_to_shot,2.0,94,2026-10-06
+Brentford,4,opta,misc_fouls_lost,71.0,94,2026-10-06
+Brentford,4,opta,misc_fouls_won,45.0,94,2026-10-06
+Brentford,4,opta,misc_opp_reds,0.0,94,2026-10-06
+Brentford,4,opta,misc_opp_yellows,8.0,94,2026-10-06
+Brentford,4,opta,misc_pens_conceded,1.0,94,2026-10-06
+Brentford,4,opta,misc_pens_won,1.0,94,2026-10-06
+Brentford,4,opta,misc_reds,0.0,94,2026-10-06
+Brentford,4,opta,misc_subs_goals,1.0,94,2026-10-06
+Brentford,4,opta,misc_subs_used,24.0,94,2026-10-06
+Brentford,4,opta,misc_yellows,11.0,94,2026-10-06
+Brentford,4,opta,possession_accuracy,77.39,94,2026-10-06
+Brentford,4,opta,possession_aerial_duel_success_perc,51.43,94,2026-10-06
+Brentford,4,opta,possession_backward_pass_perc,13.19,94,2026-10-06
+Brentford,4,opta,possession_blocks,26.0,94,2026-10-06
+Brentford,4,opta,possession_clearances,155.0,94,2026-10-06
+Brentford,4,opta,possession_final_third_passes,609.0,94,2026-10-06
+Brentford,4,opta,possession_fwd_pass_perc,39.26,94,2026-10-06
+Brentford,4,opta,possession_ground_duel_success_perc,43.99,94,2026-10-06
+Brentford,4,opta,possession_interceptions,51.0,94,2026-10-06
+Brentford,4,opta,possession_left_pass_perc,23.03,94,2026-10-06
+Brentford,4,opta,possession_op_cross_accuracy_perc,30.14,94,2026-10-06
+Brentford,4,opta,possession_op_crosses,73.0,94,2026-10-06
+Brentford,4,opta,possession_passes,1880.0,94,2026-10-06
+Brentford,4,opta,possession_pos_perc,45.18000106811523,94,2026-10-06
+Brentford,4,opta,possession_rec,244.0,94,2026-10-06
+Brentford,4,opta,possession_right_pass_perc,24.52,94,2026-10-06
+Brentford,4,opta,possession_successful_final_third_passes,401.0,94,2026-10-06
+Brentford,4,opta,possession_successful_final_third_passes_perc,65.85,94,2026-10-06
+Brentford,4,opta,possession_successful_long_balls_perc,41.9,94,2026-10-06
+Brentford,4,opta,possession_successful_op_crosses,22.0,94,2026-10-06
+Brentford,4,opta,possession_successful_pass,1455.0,94,2026-10-06
+Brentford,4,opta,possession_through_balls,9.0,94,2026-10-06
+Brentford,4,opta,possession_total_tackles,82.0,94,2026-10-06
+Brentford,4,opta,sequences_build_up_goals,1.0,94,2026-10-06
+Brentford,4,opta,sequences_build_ups,8.0,94,2026-10-06
+Brentford,4,opta,sequences_defensive_actions,141.0,94,2026-10-06
+Brentford,4,opta,sequences_direct_attack_goals,0.0,94,2026-10-06
+Brentford,4,opta,sequences_direct_attacks,7.0,94,2026-10-06
+Brentford,4,opta,sequences_direct_speed_for,1.92,94,2026-10-06
+Brentford,4,opta,sequences_goal_ending_high_turnovers,2.0,94,2026-10-06
+Brentford,4,opta,sequences_high_turnovers,37.0,94,2026-10-06
+Brentford,4,opta,sequences_opposition_passes,1582.0,94,2026-10-06
+Brentford,4,opta,sequences_passes_for,2.79,94,2026-10-06
+Brentford,4,opta,sequences_ppda,11.2,94,2026-10-06
+Brentford,4,opta,sequences_pressed_sequences,60.0,94,2026-10-06
+Brentford,4,opta,sequences_seq_time_for,7.34,94,2026-10-06
+Brentford,4,opta,sequences_shot_ending_high_turnovers,10.0,94,2026-10-06
+Brentford,4,opta,sequences_shot_ending_hto_perc,27.027,94,2026-10-06
+Brentford,4,opta,sequences_start_distance,42.3,94,2026-10-06
+Brentford,4,opta,sequences_ten_plus_passes,33.0,94,2026-10-06
+Brighton,5,opta,attack_goals,16.0,36,2026-10-06
+Brighton,5,opta,attack_goals_in_box_perc,62.5,36,2026-10-06
+Brighton,5,opta,attack_goals_vs_xg,4.51,36,2026-10-06
+Brighton,5,opta,attack_misc_dfk,0.0,36,2026-10-06
+Brighton,5,opta,attack_misc_dfk_goals,0.0,36,2026-10-06
+Brighton,5,opta,attack_misc_fast_break_goals,1.0,36,2026-10-06
+Brighton,5,opta,attack_misc_fast_break_shots,4.0,36,2026-10-06
+Brighton,5,opta,attack_misc_headed_goals,4.0,36,2026-10-06
+Brighton,5,opta,attack_misc_headed_shots,13.0,36,2026-10-06
+Brighton,5,opta,attack_misc_hit_woodwork,3.0,36,2026-10-06
+Brighton,5,opta,attack_misc_offsides,12.0,36,2026-10-06
+Brighton,5,opta,attack_misc_pen_goals,1.0,36,2026-10-06
+Brighton,5,opta,attack_misc_pens,1.0,36,2026-10-06
+Brighton,5,opta,attack_misc_tch_in_box,150.0,36,2026-10-06
+Brighton,5,opta,attack_non_pen_goals_in_box_perc,60.0,36,2026-10-06
+Brighton,5,opta,attack_non_pen_goals_vs_xg,4.3,36,2026-10-06
+Brighton,5,opta,attack_non_pen_np_goals,15.0,36,2026-10-06
+Brighton,5,opta,attack_non_pen_np_shots,94.0,36,2026-10-06
+Brighton,5,opta,attack_non_pen_np_sot,28.0,36,2026-10-06
+Brighton,5,opta,attack_non_pen_shot_conv,15.9574,36,2026-10-06
+Brighton,5,opta,attack_non_pen_shots_in_box_perc,68.0851,36,2026-10-06
+Brighton,5,opta,attack_non_pen_team_np_xG,10.7,36,2026-10-06
+Brighton,5,opta,attack_non_pen_xg_per_shot,0.114,36,2026-10-06
+Brighton,5,opta,attack_set_piece_sp_goals,4.0,36,2026-10-06
+Brighton,5,opta,attack_set_piece_sp_shots,25.0,36,2026-10-06
+Brighton,5,opta,attack_set_piece_team_sp_goal_perc,25.0,36,2026-10-06
+Brighton,5,opta,attack_set_piece_team_sp_shot_perc,26.32,36,2026-10-06
+Brighton,5,opta,attack_set_piece_team_sp_xG,2.28,36,2026-10-06
+Brighton,5,opta,attack_set_piece_team_sp_xg_perc,19.81,36,2026-10-06
+Brighton,5,opta,attack_shot_conv,16.8421,36,2026-10-06
+Brighton,5,opta,attack_shots_in_box_perc,68.421,36,2026-10-06
+Brighton,5,opta,attack_sot,29.0,36,2026-10-06
+Brighton,5,opta,attack_total_shots,95.0,36,2026-10-06
+Brighton,5,opta,attack_xg,11.49,36,2026-10-06
+Brighton,5,opta,attack_xg_per_shot,0.121,36,2026-10-06
+Brighton,5,opta,defending_goals_against,5.0,36,2026-10-06
+Brighton,5,opta,defending_goals_in_box_perc_against,80.0,36,2026-10-06
+Brighton,5,opta,defending_goals_vs_xg_conceded,-3.68,36,2026-10-06
+Brighton,5,opta,defending_misc_dfk_against,0.0,36,2026-10-06
+Brighton,5,opta,defending_misc_dfk_goals_against,0.0,36,2026-10-06
+Brighton,5,opta,defending_misc_fast_break_goals_against,1.0,36,2026-10-06
+Brighton,5,opta,defending_misc_fast_break_shots_against,4.0,36,2026-10-06
+Brighton,5,opta,defending_misc_headed_goals_against,0.0,36,2026-10-06
+Brighton,5,opta,defending_misc_headed_shots_against,16.0,36,2026-10-06
+Brighton,5,opta,defending_misc_offsides_provoked,8.0,36,2026-10-06
+Brighton,5,opta,defending_misc_opp_hit_woodwork,1.0,36,2026-10-06
+Brighton,5,opta,defending_misc_opp_tch_in_box,118.0,36,2026-10-06
+Brighton,5,opta,defending_misc_pen_goals_against,0.0,36,2026-10-06
+Brighton,5,opta,defending_misc_pens_faced,0.0,36,2026-10-06
+Brighton,5,opta,defending_non_pen_goals_in_box_perc_against,80.0,36,2026-10-06
+Brighton,5,opta,defending_non_pen_goals_vs_xg_against,-3.68,36,2026-10-06
+Brighton,5,opta,defending_non_pen_np_goals_against,5.0,36,2026-10-06
+Brighton,5,opta,defending_non_pen_np_shots_against,58.0,36,2026-10-06
+Brighton,5,opta,defending_non_pen_np_sot_against,19.0,36,2026-10-06
+Brighton,5,opta,defending_non_pen_shot_conv_against,8.6207,36,2026-10-06
+Brighton,5,opta,defending_non_pen_shots_in_box_perc_against,84.4828,36,2026-10-06
+Brighton,5,opta,defending_non_pen_team_np_xG_against,8.68,36,2026-10-06
+Brighton,5,opta,defending_non_pen_xg_per_shot_against,0.15,36,2026-10-06
+Brighton,5,opta,defending_set_piece_sp_goals_against,4.0,36,2026-10-06
+Brighton,5,opta,defending_set_piece_sp_shots,25.0,36,2026-10-06
+Brighton,5,opta,defending_set_piece_team_sp_goal_perc_against,80.0,36,2026-10-06
+Brighton,5,opta,defending_set_piece_team_sp_shot_perc_against,43.1,36,2026-10-06
+Brighton,5,opta,defending_set_piece_team_sp_xG_against,4.3,36,2026-10-06
+Brighton,5,opta,defending_set_piece_team_sp_xg_perc_against,49.58,36,2026-10-06
+Brighton,5,opta,defending_shot_conv_against,8.6207,36,2026-10-06
+Brighton,5,opta,defending_shots_in_box_perc_against,84.4828,36,2026-10-06
+Brighton,5,opta,defending_sot_against,19.0,36,2026-10-06
+Brighton,5,opta,defending_total_shots_against,58.0,36,2026-10-06
+Brighton,5,opta,defending_xg_against,8.68,36,2026-10-06
+Brighton,5,opta,defending_xg_per_shot_against,0.15,36,2026-10-06
+Brighton,5,opta,misc_errors_lead_to_goal,1.0,36,2026-10-06
+Brighton,5,opta,misc_errors_lead_to_shot,6.0,36,2026-10-06
+Brighton,5,opta,misc_fouls_lost,63.0,36,2026-10-06
+Brighton,5,opta,misc_fouls_won,50.0,36,2026-10-06
+Brighton,5,opta,misc_opp_reds,2.0,36,2026-10-06
+Brighton,5,opta,misc_opp_yellows,8.0,36,2026-10-06
+Brighton,5,opta,misc_pens_conceded,0.0,36,2026-10-06
+Brighton,5,opta,misc_pens_won,1.0,36,2026-10-06
+Brighton,5,opta,misc_reds,0.0,36,2026-10-06
+Brighton,5,opta,misc_subs_goals,0.0,36,2026-10-06
+Brighton,5,opta,misc_subs_used,21.0,36,2026-10-06
+Brighton,5,opta,misc_yellows,12.0,36,2026-10-06
+Brighton,5,opta,possession_accuracy,87.17,36,2026-10-06
+Brighton,5,opta,possession_aerial_duel_success_perc,48.35,36,2026-10-06
+Brighton,5,opta,possession_backward_pass_perc,14.66,36,2026-10-06
+Brighton,5,opta,possession_blocks,16.0,36,2026-10-06
+Brighton,5,opta,possession_clearances,116.0,36,2026-10-06
+Brighton,5,opta,possession_final_third_passes,775.0,36,2026-10-06
+Brighton,5,opta,possession_fwd_pass_perc,27.45,36,2026-10-06
+Brighton,5,opta,possession_ground_duel_success_perc,47.39,36,2026-10-06
+Brighton,5,opta,possession_interceptions,34.0,36,2026-10-06
+Brighton,5,opta,possession_left_pass_perc,29.09,36,2026-10-06
+Brighton,5,opta,possession_op_cross_accuracy_perc,16.09,36,2026-10-06
+Brighton,5,opta,possession_op_crosses,87.0,36,2026-10-06
+Brighton,5,opta,possession_passes,2743.0,36,2026-10-06
+Brighton,5,opta,possession_pos_perc,64.77999877929688,36,2026-10-06
+Brighton,5,opta,possession_rec,209.0,36,2026-10-06
+Brighton,5,opta,possession_right_pass_perc,28.8,36,2026-10-06
+Brighton,5,opta,possession_successful_final_third_passes,579.0,36,2026-10-06
+Brighton,5,opta,possession_successful_final_third_passes_perc,74.71,36,2026-10-06
+Brighton,5,opta,possession_successful_long_balls_perc,52.78,36,2026-10-06
+Brighton,5,opta,possession_successful_op_crosses,14.0,36,2026-10-06
+Brighton,5,opta,possession_successful_pass,2391.0,36,2026-10-06
+Brighton,5,opta,possession_through_balls,10.0,36,2026-10-06
+Brighton,5,opta,possession_total_tackles,67.0,36,2026-10-06
+Brighton,5,opta,sequences_build_up_goals,1.0,36,2026-10-06
+Brighton,5,opta,sequences_build_ups,18.0,36,2026-10-06
+Brighton,5,opta,sequences_defensive_actions,156.0,36,2026-10-06
+Brighton,5,opta,sequences_direct_attack_goals,1.0,36,2026-10-06
+Brighton,5,opta,sequences_direct_attacks,7.0,36,2026-10-06
+Brighton,5,opta,sequences_direct_speed_for,1.73,36,2026-10-06
+Brighton,5,opta,sequences_goal_ending_high_turnovers,1.0,36,2026-10-06
+Brighton,5,opta,sequences_high_turnovers,56.0,36,2026-10-06
+Brighton,5,opta,sequences_opposition_passes,1156.0,36,2026-10-06
+Brighton,5,opta,sequences_passes_for,4.41,36,2026-10-06
+Brighton,5,opta,sequences_ppda,7.4,36,2026-10-06
+Brighton,5,opta,sequences_pressed_sequences,56.0,36,2026-10-06
+Brighton,5,opta,sequences_seq_time_for,11.89,36,2026-10-06
+Brighton,5,opta,sequences_shot_ending_high_turnovers,8.0,36,2026-10-06
+Brighton,5,opta,sequences_shot_ending_hto_perc,14.286,36,2026-10-06
+Brighton,5,opta,sequences_start_distance,47.4,36,2026-10-06
+Brighton,5,opta,sequences_ten_plus_passes,85.0,36,2026-10-06
+Chelsea,6,opta,attack_goals,10.0,8,2026-10-06
+Chelsea,6,opta,attack_goals_in_box_perc,80.0,8,2026-10-06
+Chelsea,6,opta,attack_goals_vs_xg,2.71,8,2026-10-06
+Chelsea,6,opta,attack_misc_dfk,5.0,8,2026-10-06
+Chelsea,6,opta,attack_misc_dfk_goals,0.0,8,2026-10-06
+Chelsea,6,opta,attack_misc_fast_break_goals,3.0,8,2026-10-06
+Chelsea,6,opta,attack_misc_fast_break_shots,11.0,8,2026-10-06
+Chelsea,6,opta,attack_misc_headed_goals,0.0,8,2026-10-06
+Chelsea,6,opta,attack_misc_headed_shots,4.0,8,2026-10-06
+Chelsea,6,opta,attack_misc_hit_woodwork,1.0,8,2026-10-06
+Chelsea,6,opta,attack_misc_offsides,6.0,8,2026-10-06
+Chelsea,6,opta,attack_misc_pen_goals,0.0,8,2026-10-06
+Chelsea,6,opta,attack_misc_pens,0.0,8,2026-10-06
+Chelsea,6,opta,attack_misc_tch_in_box,160.0,8,2026-10-06
+Chelsea,6,opta,attack_non_pen_goals_in_box_perc,80.0,8,2026-10-06
+Chelsea,6,opta,attack_non_pen_goals_vs_xg,2.71,8,2026-10-06
+Chelsea,6,opta,attack_non_pen_np_goals,10.0,8,2026-10-06
+Chelsea,6,opta,attack_non_pen_np_shots,72.0,8,2026-10-06
+Chelsea,6,opta,attack_non_pen_np_sot,26.0,8,2026-10-06
+Chelsea,6,opta,attack_non_pen_shot_conv,13.8889,8,2026-10-06
+Chelsea,6,opta,attack_non_pen_shots_in_box_perc,65.2778,8,2026-10-06
+Chelsea,6,opta,attack_non_pen_team_np_xG,7.29,8,2026-10-06
+Chelsea,6,opta,attack_non_pen_xg_per_shot,0.101,8,2026-10-06
+Chelsea,6,opta,attack_set_piece_sp_goals,4.0,8,2026-10-06
+Chelsea,6,opta,attack_set_piece_sp_shots,20.0,8,2026-10-06
+Chelsea,6,opta,attack_set_piece_team_sp_goal_perc,40.0,8,2026-10-06
+Chelsea,6,opta,attack_set_piece_team_sp_shot_perc,27.78,8,2026-10-06
+Chelsea,6,opta,attack_set_piece_team_sp_xG,1.77,8,2026-10-06
+Chelsea,6,opta,attack_set_piece_team_sp_xg_perc,24.25,8,2026-10-06
+Chelsea,6,opta,attack_shot_conv,13.8889,8,2026-10-06
+Chelsea,6,opta,attack_shots_in_box_perc,65.278,8,2026-10-06
+Chelsea,6,opta,attack_sot,26.0,8,2026-10-06
+Chelsea,6,opta,attack_total_shots,72.0,8,2026-10-06
+Chelsea,6,opta,attack_xg,7.29,8,2026-10-06
+Chelsea,6,opta,attack_xg_per_shot,0.101,8,2026-10-06
+Chelsea,6,opta,defending_goals_against,12.0,8,2026-10-06
+Chelsea,6,opta,defending_goals_in_box_perc_against,75.0,8,2026-10-06
+Chelsea,6,opta,defending_goals_vs_xg_conceded,3.18,8,2026-10-06
+Chelsea,6,opta,defending_misc_dfk_against,0.0,8,2026-10-06
+Chelsea,6,opta,defending_misc_dfk_goals_against,0.0,8,2026-10-06
+Chelsea,6,opta,defending_misc_fast_break_goals_against,2.0,8,2026-10-06
+Chelsea,6,opta,defending_misc_fast_break_shots_against,7.0,8,2026-10-06
+Chelsea,6,opta,defending_misc_headed_goals_against,3.0,8,2026-10-06
+Chelsea,6,opta,defending_misc_headed_shots_against,10.0,8,2026-10-06
+Chelsea,6,opta,defending_misc_offsides_provoked,6.0,8,2026-10-06
+Chelsea,6,opta,defending_misc_opp_hit_woodwork,1.0,8,2026-10-06
+Chelsea,6,opta,defending_misc_opp_tch_in_box,134.0,8,2026-10-06
+Chelsea,6,opta,defending_misc_pen_goals_against,0.0,8,2026-10-06
+Chelsea,6,opta,defending_misc_pens_faced,0.0,8,2026-10-06
+Chelsea,6,opta,defending_non_pen_goals_in_box_perc_against,75.0,8,2026-10-06
+Chelsea,6,opta,defending_non_pen_goals_vs_xg_against,3.18,8,2026-10-06
+Chelsea,6,opta,defending_non_pen_np_goals_against,12.0,8,2026-10-06
+Chelsea,6,opta,defending_non_pen_np_shots_against,72.0,8,2026-10-06
+Chelsea,6,opta,defending_non_pen_np_sot_against,32.0,8,2026-10-06
+Chelsea,6,opta,defending_non_pen_shot_conv_against,16.6667,8,2026-10-06
+Chelsea,6,opta,defending_non_pen_shots_in_box_perc_against,70.8333,8,2026-10-06
+Chelsea,6,opta,defending_non_pen_team_np_xG_against,8.82,8,2026-10-06
+Chelsea,6,opta,defending_non_pen_xg_per_shot_against,0.122,8,2026-10-06
+Chelsea,6,opta,defending_set_piece_sp_goals_against,5.0,8,2026-10-06
+Chelsea,6,opta,defending_set_piece_sp_shots,17.0,8,2026-10-06
+Chelsea,6,opta,defending_set_piece_team_sp_goal_perc_against,41.67,8,2026-10-06
+Chelsea,6,opta,defending_set_piece_team_sp_shot_perc_against,23.61,8,2026-10-06
+Chelsea,6,opta,defending_set_piece_team_sp_xG_against,3.05,8,2026-10-06
+Chelsea,6,opta,defending_set_piece_team_sp_xg_perc_against,34.56,8,2026-10-06
+Chelsea,6,opta,defending_shot_conv_against,16.6667,8,2026-10-06
+Chelsea,6,opta,defending_shots_in_box_perc_against,70.8333,8,2026-10-06
+Chelsea,6,opta,defending_sot_against,32.0,8,2026-10-06
+Chelsea,6,opta,defending_total_shots_against,72.0,8,2026-10-06
+Chelsea,6,opta,defending_xg_against,8.82,8,2026-10-06
+Chelsea,6,opta,defending_xg_per_shot_against,0.122,8,2026-10-06
+Chelsea,6,opta,misc_errors_lead_to_goal,2.0,8,2026-10-06
+Chelsea,6,opta,misc_errors_lead_to_shot,5.0,8,2026-10-06
+Chelsea,6,opta,misc_fouls_lost,43.0,8,2026-10-06
+Chelsea,6,opta,misc_fouls_won,57.0,8,2026-10-06
+Chelsea,6,opta,misc_opp_reds,0.0,8,2026-10-06
+Chelsea,6,opta,misc_opp_yellows,14.0,8,2026-10-06
+Chelsea,6,opta,misc_pens_conceded,0.0,8,2026-10-06
+Chelsea,6,opta,misc_pens_won,0.0,8,2026-10-06
+Chelsea,6,opta,misc_reds,0.0,8,2026-10-06
+Chelsea,6,opta,misc_subs_goals,0.0,8,2026-10-06
+Chelsea,6,opta,misc_subs_used,23.0,8,2026-10-06
+Chelsea,6,opta,misc_yellows,9.0,8,2026-10-06
+Chelsea,6,opta,possession_accuracy,83.02,8,2026-10-06
+Chelsea,6,opta,possession_aerial_duel_success_perc,52.08,8,2026-10-06
+Chelsea,6,opta,possession_backward_pass_perc,15.65,8,2026-10-06
+Chelsea,6,opta,possession_blocks,20.0,8,2026-10-06
+Chelsea,6,opta,possession_clearances,126.0,8,2026-10-06
+Chelsea,6,opta,possession_final_third_passes,659.0,8,2026-10-06
+Chelsea,6,opta,possession_fwd_pass_perc,33.3,8,2026-10-06
+Chelsea,6,opta,possession_ground_duel_success_perc,55.59,8,2026-10-06
+Chelsea,6,opta,possession_interceptions,49.0,8,2026-10-06
+Chelsea,6,opta,possession_left_pass_perc,24.52,8,2026-10-06
+Chelsea,6,opta,possession_op_cross_accuracy_perc,19.7,8,2026-10-06
+Chelsea,6,opta,possession_op_crosses,66.0,8,2026-10-06
+Chelsea,6,opta,possession_passes,2096.0,8,2026-10-06
+Chelsea,6,opta,possession_pos_perc,47.52000007629395,8,2026-10-06
+Chelsea,6,opta,possession_rec,221.0,8,2026-10-06
+Chelsea,6,opta,possession_right_pass_perc,26.53,8,2026-10-06
+Chelsea,6,opta,possession_successful_final_third_passes,484.0,8,2026-10-06
+Chelsea,6,opta,possession_successful_final_third_passes_perc,73.44,8,2026-10-06
+Chelsea,6,opta,possession_successful_long_balls_perc,40.42,8,2026-10-06
+Chelsea,6,opta,possession_successful_op_crosses,13.0,8,2026-10-06
+Chelsea,6,opta,possession_successful_pass,1740.0,8,2026-10-06
+Chelsea,6,opta,possession_through_balls,3.0,8,2026-10-06
+Chelsea,6,opta,possession_total_tackles,78.0,8,2026-10-06
+Chelsea,6,opta,sequences_build_up_goals,0.0,8,2026-10-06
+Chelsea,6,opta,sequences_build_ups,13.0,8,2026-10-06
+Chelsea,6,opta,sequences_defensive_actions,113.0,8,2026-10-06
+Chelsea,6,opta,sequences_direct_attack_goals,2.0,8,2026-10-06
+Chelsea,6,opta,sequences_direct_attacks,11.0,8,2026-10-06
+Chelsea,6,opta,sequences_direct_speed_for,1.81,8,2026-10-06
+Chelsea,6,opta,sequences_goal_ending_high_turnovers,1.0,8,2026-10-06
+Chelsea,6,opta,sequences_high_turnovers,33.0,8,2026-10-06
+Chelsea,6,opta,sequences_opposition_passes,1674.0,8,2026-10-06
+Chelsea,6,opta,sequences_passes_for,3.49,8,2026-10-06
+Chelsea,6,opta,sequences_ppda,14.8,8,2026-10-06
+Chelsea,6,opta,sequences_pressed_sequences,48.0,8,2026-10-06
+Chelsea,6,opta,sequences_seq_time_for,9.65,8,2026-10-06
+Chelsea,6,opta,sequences_shot_ending_high_turnovers,5.0,8,2026-10-06
+Chelsea,6,opta,sequences_shot_ending_hto_perc,15.152,8,2026-10-06
+Chelsea,6,opta,sequences_start_distance,42.0,8,2026-10-06
+Chelsea,6,opta,sequences_ten_plus_passes,51.0,8,2026-10-06
+Coventry City,7,opta,attack_goals,1.0,9,2026-10-06
+Coventry City,7,opta,attack_goals_in_box_perc,100.0,9,2026-10-06
+Coventry City,7,opta,attack_goals_vs_xg,-3.88,9,2026-10-06
+Coventry City,7,opta,attack_misc_dfk,0.0,9,2026-10-06
+Coventry City,7,opta,attack_misc_dfk_goals,0.0,9,2026-10-06
+Coventry City,7,opta,attack_misc_fast_break_goals,0.0,9,2026-10-06
+Coventry City,7,opta,attack_misc_fast_break_shots,2.0,9,2026-10-06
+Coventry City,7,opta,attack_misc_headed_goals,0.0,9,2026-10-06
+Coventry City,7,opta,attack_misc_headed_shots,18.0,9,2026-10-06
+Coventry City,7,opta,attack_misc_hit_woodwork,0.0,9,2026-10-06
+Coventry City,7,opta,attack_misc_offsides,9.0,9,2026-10-06
+Coventry City,7,opta,attack_misc_pen_goals,0.0,9,2026-10-06
+Coventry City,7,opta,attack_misc_pens,0.0,9,2026-10-06
+Coventry City,7,opta,attack_misc_tch_in_box,84.0,9,2026-10-06
+Coventry City,7,opta,attack_non_pen_goals_in_box_perc,100.0,9,2026-10-06
+Coventry City,7,opta,attack_non_pen_goals_vs_xg,-3.88,9,2026-10-06
+Coventry City,7,opta,attack_non_pen_np_goals,1.0,9,2026-10-06
+Coventry City,7,opta,attack_non_pen_np_shots,51.0,9,2026-10-06
+Coventry City,7,opta,attack_non_pen_np_sot,16.0,9,2026-10-06
+Coventry City,7,opta,attack_non_pen_shot_conv,1.9608,9,2026-10-06
+Coventry City,7,opta,attack_non_pen_shots_in_box_perc,64.7059,9,2026-10-06
+Coventry City,7,opta,attack_non_pen_team_np_xG,4.88,9,2026-10-06
+Coventry City,7,opta,attack_non_pen_xg_per_shot,0.096,9,2026-10-06
+Coventry City,7,opta,attack_set_piece_sp_goals,0.0,9,2026-10-06
+Coventry City,7,opta,attack_set_piece_sp_shots,20.0,9,2026-10-06
+Coventry City,7,opta,attack_set_piece_team_sp_goal_perc,0.0,9,2026-10-06
+Coventry City,7,opta,attack_set_piece_team_sp_shot_perc,39.22,9,2026-10-06
+Coventry City,7,opta,attack_set_piece_team_sp_xG,1.5,9,2026-10-06
+Coventry City,7,opta,attack_set_piece_team_sp_xg_perc,30.8,9,2026-10-06
+Coventry City,7,opta,attack_shot_conv,1.9608,9,2026-10-06
+Coventry City,7,opta,attack_shots_in_box_perc,64.706,9,2026-10-06
+Coventry City,7,opta,attack_sot,16.0,9,2026-10-06
+Coventry City,7,opta,attack_total_shots,51.0,9,2026-10-06
+Coventry City,7,opta,attack_xg,4.88,9,2026-10-06
+Coventry City,7,opta,attack_xg_per_shot,0.096,9,2026-10-06
+Coventry City,7,opta,defending_goals_against,10.0,9,2026-10-06
+Coventry City,7,opta,defending_goals_in_box_perc_against,70.0,9,2026-10-06
+Coventry City,7,opta,defending_goals_vs_xg_conceded,1.36,9,2026-10-06
+Coventry City,7,opta,defending_misc_dfk_against,1.0,9,2026-10-06
+Coventry City,7,opta,defending_misc_dfk_goals_against,0.0,9,2026-10-06
+Coventry City,7,opta,defending_misc_fast_break_goals_against,2.0,9,2026-10-06
+Coventry City,7,opta,defending_misc_fast_break_shots_against,5.0,9,2026-10-06
+Coventry City,7,opta,defending_misc_headed_goals_against,1.0,9,2026-10-06
+Coventry City,7,opta,defending_misc_headed_shots_against,9.0,9,2026-10-06
+Coventry City,7,opta,defending_misc_offsides_provoked,14.0,9,2026-10-06
+Coventry City,7,opta,defending_misc_opp_hit_woodwork,1.0,9,2026-10-06
+Coventry City,7,opta,defending_misc_opp_tch_in_box,143.0,9,2026-10-06
+Coventry City,7,opta,defending_misc_pen_goals_against,1.0,9,2026-10-06
+Coventry City,7,opta,defending_misc_pens_faced,1.0,9,2026-10-06
+Coventry City,7,opta,defending_non_pen_goals_in_box_perc_against,66.6667,9,2026-10-06
+Coventry City,7,opta,defending_non_pen_goals_vs_xg_against,1.15,9,2026-10-06
+Coventry City,7,opta,defending_non_pen_np_goals_against,9.0,9,2026-10-06
+Coventry City,7,opta,defending_non_pen_np_shots_against,86.0,9,2026-10-06
+Coventry City,7,opta,defending_non_pen_np_sot_against,21.0,9,2026-10-06
+Coventry City,7,opta,defending_non_pen_shot_conv_against,10.4651,9,2026-10-06
+Coventry City,7,opta,defending_non_pen_shots_in_box_perc_against,59.3023,9,2026-10-06
+Coventry City,7,opta,defending_non_pen_team_np_xG_against,7.85,9,2026-10-06
+Coventry City,7,opta,defending_non_pen_xg_per_shot_against,0.091,9,2026-10-06
+Coventry City,7,opta,defending_set_piece_sp_goals_against,0.0,9,2026-10-06
+Coventry City,7,opta,defending_set_piece_sp_shots,22.0,9,2026-10-06
+Coventry City,7,opta,defending_set_piece_team_sp_goal_perc_against,0.0,9,2026-10-06
+Coventry City,7,opta,defending_set_piece_team_sp_shot_perc_against,25.29,9,2026-10-06
+Coventry City,7,opta,defending_set_piece_team_sp_xG_against,1.0,9,2026-10-06
+Coventry City,7,opta,defending_set_piece_team_sp_xg_perc_against,11.54,9,2026-10-06
+Coventry City,7,opta,defending_shot_conv_against,11.4943,9,2026-10-06
+Coventry City,7,opta,defending_shots_in_box_perc_against,59.7701,9,2026-10-06
+Coventry City,7,opta,defending_sot_against,22.0,9,2026-10-06
+Coventry City,7,opta,defending_total_shots_against,87.0,9,2026-10-06
+Coventry City,7,opta,defending_xg_against,8.64,9,2026-10-06
+Coventry City,7,opta,defending_xg_per_shot_against,0.099,9,2026-10-06
+Coventry City,7,opta,misc_errors_lead_to_goal,1.0,9,2026-10-06
+Coventry City,7,opta,misc_errors_lead_to_shot,5.0,9,2026-10-06
+Coventry City,7,opta,misc_fouls_lost,60.0,9,2026-10-06
+Coventry City,7,opta,misc_fouls_won,51.0,9,2026-10-06
+Coventry City,7,opta,misc_opp_reds,0.0,9,2026-10-06
+Coventry City,7,opta,misc_opp_yellows,8.0,9,2026-10-06
+Coventry City,7,opta,misc_pens_conceded,1.0,9,2026-10-06
+Coventry City,7,opta,misc_pens_won,0.0,9,2026-10-06
+Coventry City,7,opta,misc_reds,1.0,9,2026-10-06
+Coventry City,7,opta,misc_subs_goals,0.0,9,2026-10-06
+Coventry City,7,opta,misc_subs_used,21.0,9,2026-10-06
+Coventry City,7,opta,misc_yellows,4.0,9,2026-10-06
+Coventry City,7,opta,possession_accuracy,77.26,9,2026-10-06
+Coventry City,7,opta,possession_aerial_duel_success_perc,53.85,9,2026-10-06
+Coventry City,7,opta,possession_backward_pass_perc,18.76,9,2026-10-06
+Coventry City,7,opta,possession_blocks,35.0,9,2026-10-06
+Coventry City,7,opta,possession_clearances,152.0,9,2026-10-06
+Coventry City,7,opta,possession_final_third_passes,534.0,9,2026-10-06
+Coventry City,7,opta,possession_fwd_pass_perc,40.33,9,2026-10-06
+Coventry City,7,opta,possession_ground_duel_success_perc,44.98,9,2026-10-06
+Coventry City,7,opta,possession_interceptions,49.0,9,2026-10-06
+Coventry City,7,opta,possession_left_pass_perc,20.86,9,2026-10-06
+Coventry City,7,opta,possession_op_cross_accuracy_perc,25.45,9,2026-10-06
+Coventry City,7,opta,possession_op_crosses,55.0,9,2026-10-06
+Coventry City,7,opta,possession_passes,1711.0,9,2026-10-06
+Coventry City,7,opta,possession_pos_perc,38.97999992370605,9,2026-10-06
+Coventry City,7,opta,possession_rec,222.0,9,2026-10-06
+Coventry City,7,opta,possession_right_pass_perc,20.05,9,2026-10-06
+Coventry City,7,opta,possession_successful_final_third_passes,335.0,9,2026-10-06
+Coventry City,7,opta,possession_successful_final_third_passes_perc,62.73,9,2026-10-06
+Coventry City,7,opta,possession_successful_long_balls_perc,39.73,9,2026-10-06
+Coventry City,7,opta,possession_successful_op_crosses,14.0,9,2026-10-06
+Coventry City,7,opta,possession_successful_pass,1322.0,9,2026-10-06
+Coventry City,7,opta,possession_through_balls,2.0,9,2026-10-06
+Coventry City,7,opta,possession_total_tackles,45.0,9,2026-10-06
+Coventry City,7,opta,sequences_build_up_goals,0.0,9,2026-10-06
+Coventry City,7,opta,sequences_build_ups,4.0,9,2026-10-06
+Coventry City,7,opta,sequences_defensive_actions,96.0,9,2026-10-06
+Coventry City,7,opta,sequences_direct_attack_goals,0.0,9,2026-10-06
+Coventry City,7,opta,sequences_direct_attacks,5.0,9,2026-10-06
+Coventry City,7,opta,sequences_direct_speed_for,1.94,9,2026-10-06
+Coventry City,7,opta,sequences_goal_ending_high_turnovers,0.0,9,2026-10-06
+Coventry City,7,opta,sequences_high_turnovers,19.0,9,2026-10-06
+Coventry City,7,opta,sequences_opposition_passes,1901.0,9,2026-10-06
+Coventry City,7,opta,sequences_passes_for,3.02,9,2026-10-06
+Coventry City,7,opta,sequences_ppda,19.8,9,2026-10-06
+Coventry City,7,opta,sequences_pressed_sequences,38.0,9,2026-10-06
+Coventry City,7,opta,sequences_seq_time_for,8.41,9,2026-10-06
+Coventry City,7,opta,sequences_shot_ending_high_turnovers,1.0,9,2026-10-06
+Coventry City,7,opta,sequences_shot_ending_hto_perc,5.263,9,2026-10-06
+Coventry City,7,opta,sequences_start_distance,39.4,9,2026-10-06
+Coventry City,7,opta,sequences_ten_plus_passes,33.0,9,2026-10-06
+Crystal Palace,8,opta,attack_goals,6.0,31,2026-10-06
+Crystal Palace,8,opta,attack_goals_in_box_perc,83.333,31,2026-10-06
+Crystal Palace,8,opta,attack_goals_vs_xg,-0.27,31,2026-10-06
+Crystal Palace,8,opta,attack_misc_dfk,2.0,31,2026-10-06
+Crystal Palace,8,opta,attack_misc_dfk_goals,0.0,31,2026-10-06
+Crystal Palace,8,opta,attack_misc_fast_break_goals,1.0,31,2026-10-06
+Crystal Palace,8,opta,attack_misc_fast_break_shots,4.0,31,2026-10-06
+Crystal Palace,8,opta,attack_misc_headed_goals,0.0,31,2026-10-06
+Crystal Palace,8,opta,attack_misc_headed_shots,7.0,31,2026-10-06
+Crystal Palace,8,opta,attack_misc_hit_woodwork,3.0,31,2026-10-06
+Crystal Palace,8,opta,attack_misc_offsides,11.0,31,2026-10-06
+Crystal Palace,8,opta,attack_misc_pen_goals,0.0,31,2026-10-06
+Crystal Palace,8,opta,attack_misc_pens,0.0,31,2026-10-06
+Crystal Palace,8,opta,attack_misc_tch_in_box,85.0,31,2026-10-06
+Crystal Palace,8,opta,attack_non_pen_goals_in_box_perc,83.3333,31,2026-10-06
+Crystal Palace,8,opta,attack_non_pen_goals_vs_xg,-0.27,31,2026-10-06
+Crystal Palace,8,opta,attack_non_pen_np_goals,6.0,31,2026-10-06
+Crystal Palace,8,opta,attack_non_pen_np_shots,53.0,31,2026-10-06
+Crystal Palace,8,opta,attack_non_pen_np_sot,18.0,31,2026-10-06
+Crystal Palace,8,opta,attack_non_pen_shot_conv,11.3208,31,2026-10-06
+Crystal Palace,8,opta,attack_non_pen_shots_in_box_perc,66.0377,31,2026-10-06
+Crystal Palace,8,opta,attack_non_pen_team_np_xG,6.27,31,2026-10-06
+Crystal Palace,8,opta,attack_non_pen_xg_per_shot,0.118,31,2026-10-06
+Crystal Palace,8,opta,attack_set_piece_sp_goals,0.0,31,2026-10-06
+Crystal Palace,8,opta,attack_set_piece_sp_shots,12.0,31,2026-10-06
+Crystal Palace,8,opta,attack_set_piece_team_sp_goal_perc,0.0,31,2026-10-06
+Crystal Palace,8,opta,attack_set_piece_team_sp_shot_perc,22.64,31,2026-10-06
+Crystal Palace,8,opta,attack_set_piece_team_sp_xG,1.0,31,2026-10-06
+Crystal Palace,8,opta,attack_set_piece_team_sp_xg_perc,15.93,31,2026-10-06
+Crystal Palace,8,opta,attack_shot_conv,11.3208,31,2026-10-06
+Crystal Palace,8,opta,attack_shots_in_box_perc,66.038,31,2026-10-06
+Crystal Palace,8,opta,attack_sot,18.0,31,2026-10-06
+Crystal Palace,8,opta,attack_total_shots,53.0,31,2026-10-06
+Crystal Palace,8,opta,attack_xg,6.27,31,2026-10-06
+Crystal Palace,8,opta,attack_xg_per_shot,0.118,31,2026-10-06
+Crystal Palace,8,opta,defending_goals_against,11.0,31,2026-10-06
+Crystal Palace,8,opta,defending_goals_in_box_perc_against,90.9091,31,2026-10-06
+Crystal Palace,8,opta,defending_goals_vs_xg_conceded,1.54,31,2026-10-06
+Crystal Palace,8,opta,defending_misc_dfk_against,1.0,31,2026-10-06
+Crystal Palace,8,opta,defending_misc_dfk_goals_against,0.0,31,2026-10-06
+Crystal Palace,8,opta,defending_misc_fast_break_goals_against,1.0,31,2026-10-06
+Crystal Palace,8,opta,defending_misc_fast_break_shots_against,6.0,31,2026-10-06
+Crystal Palace,8,opta,defending_misc_headed_goals_against,4.0,31,2026-10-06
+Crystal Palace,8,opta,defending_misc_headed_shots_against,12.0,31,2026-10-06
+Crystal Palace,8,opta,defending_misc_offsides_provoked,6.0,31,2026-10-06
+Crystal Palace,8,opta,defending_misc_opp_hit_woodwork,1.0,31,2026-10-06
+Crystal Palace,8,opta,defending_misc_opp_tch_in_box,181.0,31,2026-10-06
+Crystal Palace,8,opta,defending_misc_pen_goals_against,0.0,31,2026-10-06
+Crystal Palace,8,opta,defending_misc_pens_faced,0.0,31,2026-10-06
+Crystal Palace,8,opta,defending_non_pen_goals_in_box_perc_against,90.9091,31,2026-10-06
+Crystal Palace,8,opta,defending_non_pen_goals_vs_xg_against,1.54,31,2026-10-06
+Crystal Palace,8,opta,defending_non_pen_np_goals_against,11.0,31,2026-10-06
+Crystal Palace,8,opta,defending_non_pen_np_shots_against,84.0,31,2026-10-06
+Crystal Palace,8,opta,defending_non_pen_np_sot_against,28.0,31,2026-10-06
+Crystal Palace,8,opta,defending_non_pen_shot_conv_against,13.0952,31,2026-10-06
+Crystal Palace,8,opta,defending_non_pen_shots_in_box_perc_against,75.0,31,2026-10-06
+Crystal Palace,8,opta,defending_non_pen_team_np_xG_against,9.46,31,2026-10-06
+Crystal Palace,8,opta,defending_non_pen_xg_per_shot_against,0.113,31,2026-10-06
+Crystal Palace,8,opta,defending_set_piece_sp_goals_against,1.0,31,2026-10-06
+Crystal Palace,8,opta,defending_set_piece_sp_shots,24.0,31,2026-10-06
+Crystal Palace,8,opta,defending_set_piece_team_sp_goal_perc_against,9.09,31,2026-10-06
+Crystal Palace,8,opta,defending_set_piece_team_sp_shot_perc_against,28.57,31,2026-10-06
+Crystal Palace,8,opta,defending_set_piece_team_sp_xG_against,2.1,31,2026-10-06
+Crystal Palace,8,opta,defending_set_piece_team_sp_xg_perc_against,22.2,31,2026-10-06
+Crystal Palace,8,opta,defending_shot_conv_against,13.0952,31,2026-10-06
+Crystal Palace,8,opta,defending_shots_in_box_perc_against,75.0,31,2026-10-06
+Crystal Palace,8,opta,defending_sot_against,28.0,31,2026-10-06
+Crystal Palace,8,opta,defending_total_shots_against,84.0,31,2026-10-06
+Crystal Palace,8,opta,defending_xg_against,9.46,31,2026-10-06
+Crystal Palace,8,opta,defending_xg_per_shot_against,0.113,31,2026-10-06
+Crystal Palace,8,opta,misc_errors_lead_to_goal,2.0,31,2026-10-06
+Crystal Palace,8,opta,misc_errors_lead_to_shot,7.0,31,2026-10-06
+Crystal Palace,8,opta,misc_fouls_lost,46.0,31,2026-10-06
+Crystal Palace,8,opta,misc_fouls_won,46.0,31,2026-10-06
+Crystal Palace,8,opta,misc_opp_reds,0.0,31,2026-10-06
+Crystal Palace,8,opta,misc_opp_yellows,8.0,31,2026-10-06
+Crystal Palace,8,opta,misc_pens_conceded,0.0,31,2026-10-06
+Crystal Palace,8,opta,misc_pens_won,0.0,31,2026-10-06
+Crystal Palace,8,opta,misc_reds,1.0,31,2026-10-06
+Crystal Palace,8,opta,misc_subs_goals,1.0,31,2026-10-06
+Crystal Palace,8,opta,misc_subs_used,23.0,31,2026-10-06
+Crystal Palace,8,opta,misc_yellows,6.0,31,2026-10-06
+Crystal Palace,8,opta,possession_accuracy,82.15,31,2026-10-06
+Crystal Palace,8,opta,possession_aerial_duel_success_perc,44.36,31,2026-10-06
+Crystal Palace,8,opta,possession_backward_pass_perc,14.06,31,2026-10-06
+Crystal Palace,8,opta,possession_blocks,23.0,31,2026-10-06
+Crystal Palace,8,opta,possession_clearances,150.0,31,2026-10-06
+Crystal Palace,8,opta,possession_final_third_passes,530.0,31,2026-10-06
+Crystal Palace,8,opta,possession_fwd_pass_perc,33.22,31,2026-10-06
+Crystal Palace,8,opta,possession_ground_duel_success_perc,53.04,31,2026-10-06
+Crystal Palace,8,opta,possession_interceptions,48.0,31,2026-10-06
+Crystal Palace,8,opta,possession_left_pass_perc,26.38,31,2026-10-06
+Crystal Palace,8,opta,possession_op_cross_accuracy_perc,15.69,31,2026-10-06
+Crystal Palace,8,opta,possession_op_crosses,51.0,31,2026-10-06
+Crystal Palace,8,opta,possession_passes,2062.0,31,2026-10-06
+Crystal Palace,8,opta,possession_pos_perc,43.45999984741211,31,2026-10-06
+Crystal Palace,8,opta,possession_rec,231.0,31,2026-10-06
+Crystal Palace,8,opta,possession_right_pass_perc,26.33,31,2026-10-06
+Crystal Palace,8,opta,possession_successful_final_third_passes,367.0,31,2026-10-06
+Crystal Palace,8,opta,possession_successful_final_third_passes_perc,69.25,31,2026-10-06
+Crystal Palace,8,opta,possession_successful_long_balls_perc,43.06,31,2026-10-06
+Crystal Palace,8,opta,possession_successful_op_crosses,8.0,31,2026-10-06
+Crystal Palace,8,opta,possession_successful_pass,1694.0,31,2026-10-06
+Crystal Palace,8,opta,possession_through_balls,14.0,31,2026-10-06
+Crystal Palace,8,opta,possession_total_tackles,112.0,31,2026-10-06
+Crystal Palace,8,opta,sequences_build_up_goals,0.0,31,2026-10-06
+Crystal Palace,8,opta,sequences_build_ups,8.0,31,2026-10-06
+Crystal Palace,8,opta,sequences_defensive_actions,134.0,31,2026-10-06
+Crystal Palace,8,opta,sequences_direct_attack_goals,0.0,31,2026-10-06
+Crystal Palace,8,opta,sequences_direct_attacks,5.0,31,2026-10-06
+Crystal Palace,8,opta,sequences_direct_speed_for,1.96,31,2026-10-06
+Crystal Palace,8,opta,sequences_goal_ending_high_turnovers,0.0,31,2026-10-06
+Crystal Palace,8,opta,sequences_high_turnovers,43.0,31,2026-10-06
+Crystal Palace,8,opta,sequences_opposition_passes,1986.0,31,2026-10-06
+Crystal Palace,8,opta,sequences_passes_for,3.39,31,2026-10-06
+Crystal Palace,8,opta,sequences_ppda,14.8,31,2026-10-06
+Crystal Palace,8,opta,sequences_pressed_sequences,43.0,31,2026-10-06
+Crystal Palace,8,opta,sequences_seq_time_for,9.0,31,2026-10-06
+Crystal Palace,8,opta,sequences_shot_ending_high_turnovers,6.0,31,2026-10-06
+Crystal Palace,8,opta,sequences_shot_ending_hto_perc,13.953,31,2026-10-06
+Crystal Palace,8,opta,sequences_start_distance,41.7,31,2026-10-06
+Crystal Palace,8,opta,sequences_ten_plus_passes,41.0,31,2026-10-06
+Everton,9,opta,attack_goals,6.0,11,2026-10-06
+Everton,9,opta,attack_goals_in_box_perc,83.333,11,2026-10-06
+Everton,9,opta,attack_goals_vs_xg,-1.32,11,2026-10-06
+Everton,9,opta,attack_misc_dfk,1.0,11,2026-10-06
+Everton,9,opta,attack_misc_dfk_goals,0.0,11,2026-10-06
+Everton,9,opta,attack_misc_fast_break_goals,0.0,11,2026-10-06
+Everton,9,opta,attack_misc_fast_break_shots,3.0,11,2026-10-06
+Everton,9,opta,attack_misc_headed_goals,1.0,11,2026-10-06
+Everton,9,opta,attack_misc_headed_shots,14.0,11,2026-10-06
+Everton,9,opta,attack_misc_hit_woodwork,0.0,11,2026-10-06
+Everton,9,opta,attack_misc_offsides,8.0,11,2026-10-06
+Everton,9,opta,attack_misc_pen_goals,0.0,11,2026-10-06
+Everton,9,opta,attack_misc_pens,0.0,11,2026-10-06
+Everton,9,opta,attack_misc_tch_in_box,130.0,11,2026-10-06
+Everton,9,opta,attack_non_pen_goals_in_box_perc,83.3333,11,2026-10-06
+Everton,9,opta,attack_non_pen_goals_vs_xg,-1.32,11,2026-10-06
+Everton,9,opta,attack_non_pen_np_goals,6.0,11,2026-10-06
+Everton,9,opta,attack_non_pen_np_shots,80.0,11,2026-10-06
+Everton,9,opta,attack_non_pen_np_sot,23.0,11,2026-10-06
+Everton,9,opta,attack_non_pen_shot_conv,7.5,11,2026-10-06
+Everton,9,opta,attack_non_pen_shots_in_box_perc,67.5,11,2026-10-06
+Everton,9,opta,attack_non_pen_team_np_xG,7.32,11,2026-10-06
+Everton,9,opta,attack_non_pen_xg_per_shot,0.091,11,2026-10-06
+Everton,9,opta,attack_set_piece_sp_goals,2.0,11,2026-10-06
+Everton,9,opta,attack_set_piece_sp_shots,23.0,11,2026-10-06
+Everton,9,opta,attack_set_piece_team_sp_goal_perc,33.33,11,2026-10-06
+Everton,9,opta,attack_set_piece_team_sp_shot_perc,28.75,11,2026-10-06
+Everton,9,opta,attack_set_piece_team_sp_xG,1.51,11,2026-10-06
+Everton,9,opta,attack_set_piece_team_sp_xg_perc,20.68,11,2026-10-06
+Everton,9,opta,attack_shot_conv,7.5,11,2026-10-06
+Everton,9,opta,attack_shots_in_box_perc,67.5,11,2026-10-06
+Everton,9,opta,attack_sot,23.0,11,2026-10-06
+Everton,9,opta,attack_total_shots,80.0,11,2026-10-06
+Everton,9,opta,attack_xg,7.32,11,2026-10-06
+Everton,9,opta,attack_xg_per_shot,0.091,11,2026-10-06
+Everton,9,opta,defending_goals_against,3.0,11,2026-10-06
+Everton,9,opta,defending_goals_in_box_perc_against,66.6667,11,2026-10-06
+Everton,9,opta,defending_goals_vs_xg_conceded,-3.94,11,2026-10-06
+Everton,9,opta,defending_misc_dfk_against,0.0,11,2026-10-06
+Everton,9,opta,defending_misc_dfk_goals_against,0.0,11,2026-10-06
+Everton,9,opta,defending_misc_fast_break_goals_against,1.0,11,2026-10-06
+Everton,9,opta,defending_misc_fast_break_shots_against,7.0,11,2026-10-06
+Everton,9,opta,defending_misc_headed_goals_against,1.0,11,2026-10-06
+Everton,9,opta,defending_misc_headed_shots_against,9.0,11,2026-10-06
+Everton,9,opta,defending_misc_offsides_provoked,3.0,11,2026-10-06
+Everton,9,opta,defending_misc_opp_hit_woodwork,2.0,11,2026-10-06
+Everton,9,opta,defending_misc_opp_tch_in_box,125.0,11,2026-10-06
+Everton,9,opta,defending_misc_pen_goals_against,0.0,11,2026-10-06
+Everton,9,opta,defending_misc_pens_faced,0.0,11,2026-10-06
+Everton,9,opta,defending_non_pen_goals_in_box_perc_against,66.6667,11,2026-10-06
+Everton,9,opta,defending_non_pen_goals_vs_xg_against,-3.94,11,2026-10-06
+Everton,9,opta,defending_non_pen_np_goals_against,3.0,11,2026-10-06
+Everton,9,opta,defending_non_pen_np_shots_against,69.0,11,2026-10-06
+Everton,9,opta,defending_non_pen_np_sot_against,18.0,11,2026-10-06
+Everton,9,opta,defending_non_pen_shot_conv_against,4.3478,11,2026-10-06
+Everton,9,opta,defending_non_pen_shots_in_box_perc_against,63.7681,11,2026-10-06
+Everton,9,opta,defending_non_pen_team_np_xG_against,6.94,11,2026-10-06
+Everton,9,opta,defending_non_pen_xg_per_shot_against,0.101,11,2026-10-06
+Everton,9,opta,defending_set_piece_sp_goals_against,0.0,11,2026-10-06
+Everton,9,opta,defending_set_piece_sp_shots,12.0,11,2026-10-06
+Everton,9,opta,defending_set_piece_team_sp_goal_perc_against,0.0,11,2026-10-06
+Everton,9,opta,defending_set_piece_team_sp_shot_perc_against,17.39,11,2026-10-06
+Everton,9,opta,defending_set_piece_team_sp_xG_against,1.27,11,2026-10-06
+Everton,9,opta,defending_set_piece_team_sp_xg_perc_against,18.27,11,2026-10-06
+Everton,9,opta,defending_shot_conv_against,4.3478,11,2026-10-06
+Everton,9,opta,defending_shots_in_box_perc_against,63.7681,11,2026-10-06
+Everton,9,opta,defending_sot_against,18.0,11,2026-10-06
+Everton,9,opta,defending_total_shots_against,69.0,11,2026-10-06
+Everton,9,opta,defending_xg_against,6.94,11,2026-10-06
+Everton,9,opta,defending_xg_per_shot_against,0.101,11,2026-10-06
+Everton,9,opta,misc_errors_lead_to_goal,0.0,11,2026-10-06
+Everton,9,opta,misc_errors_lead_to_shot,5.0,11,2026-10-06
+Everton,9,opta,misc_fouls_lost,40.0,11,2026-10-06
+Everton,9,opta,misc_fouls_won,58.0,11,2026-10-06
+Everton,9,opta,misc_opp_reds,1.0,11,2026-10-06
+Everton,9,opta,misc_opp_yellows,8.0,11,2026-10-06
+Everton,9,opta,misc_pens_conceded,0.0,11,2026-10-06
+Everton,9,opta,misc_pens_won,0.0,11,2026-10-06
+Everton,9,opta,misc_reds,0.0,11,2026-10-06
+Everton,9,opta,misc_subs_goals,1.0,11,2026-10-06
+Everton,9,opta,misc_subs_used,19.0,11,2026-10-06
+Everton,9,opta,misc_yellows,9.0,11,2026-10-06
+Everton,9,opta,possession_accuracy,83.01,11,2026-10-06
+Everton,9,opta,possession_aerial_duel_success_perc,47.44,11,2026-10-06
+Everton,9,opta,possession_backward_pass_perc,16.65,11,2026-10-06
+Everton,9,opta,possession_blocks,30.0,11,2026-10-06
+Everton,9,opta,possession_clearances,118.0,11,2026-10-06
+Everton,9,opta,possession_final_third_passes,640.0,11,2026-10-06
+Everton,9,opta,possession_fwd_pass_perc,32.91,11,2026-10-06
+Everton,9,opta,possession_ground_duel_success_perc,54.77,11,2026-10-06
+Everton,9,opta,possession_interceptions,49.0,11,2026-10-06
+Everton,9,opta,possession_left_pass_perc,26.05,11,2026-10-06
+Everton,9,opta,possession_op_cross_accuracy_perc,16.13,11,2026-10-06
+Everton,9,opta,possession_op_crosses,62.0,11,2026-10-06
+Everton,9,opta,possession_passes,2042.0,11,2026-10-06
+Everton,9,opta,possession_pos_perc,43.55999908447266,11,2026-10-06
+Everton,9,opta,possession_rec,271.0,11,2026-10-06
+Everton,9,opta,possession_right_pass_perc,24.39,11,2026-10-06
+Everton,9,opta,possession_successful_final_third_passes,452.0,11,2026-10-06
+Everton,9,opta,possession_successful_final_third_passes_perc,70.63,11,2026-10-06
+Everton,9,opta,possession_successful_long_balls_perc,35.77,11,2026-10-06
+Everton,9,opta,possession_successful_op_crosses,10.0,11,2026-10-06
+Everton,9,opta,possession_successful_pass,1695.0,11,2026-10-06
+Everton,9,opta,possession_through_balls,5.0,11,2026-10-06
+Everton,9,opta,possession_total_tackles,90.0,11,2026-10-06
+Everton,9,opta,sequences_build_up_goals,0.0,11,2026-10-06
+Everton,9,opta,sequences_build_ups,13.0,11,2026-10-06
+Everton,9,opta,sequences_defensive_actions,128.0,11,2026-10-06
+Everton,9,opta,sequences_direct_attack_goals,0.0,11,2026-10-06
+Everton,9,opta,sequences_direct_attacks,7.0,11,2026-10-06
+Everton,9,opta,sequences_direct_speed_for,1.83,11,2026-10-06
+Everton,9,opta,sequences_goal_ending_high_turnovers,1.0,11,2026-10-06
+Everton,9,opta,sequences_high_turnovers,40.0,11,2026-10-06
+Everton,9,opta,sequences_opposition_passes,1869.0,11,2026-10-06
+Everton,9,opta,sequences_passes_for,3.33,11,2026-10-06
+Everton,9,opta,sequences_ppda,14.6,11,2026-10-06
+Everton,9,opta,sequences_pressed_sequences,62.0,11,2026-10-06
+Everton,9,opta,sequences_seq_time_for,9.07,11,2026-10-06
+Everton,9,opta,sequences_shot_ending_high_turnovers,11.0,11,2026-10-06
+Everton,9,opta,sequences_shot_ending_hto_perc,27.5,11,2026-10-06
+Everton,9,opta,sequences_start_distance,40.1,11,2026-10-06
+Everton,9,opta,sequences_ten_plus_passes,48.0,11,2026-10-06
+Fulham,10,opta,attack_goals,5.0,54,2026-10-06
+Fulham,10,opta,attack_goals_in_box_perc,80.0,54,2026-10-06
+Fulham,10,opta,attack_goals_vs_xg,-2.74,54,2026-10-06
+Fulham,10,opta,attack_misc_dfk,0.0,54,2026-10-06
+Fulham,10,opta,attack_misc_dfk_goals,0.0,54,2026-10-06
+Fulham,10,opta,attack_misc_fast_break_goals,1.0,54,2026-10-06
+Fulham,10,opta,attack_misc_fast_break_shots,5.0,54,2026-10-06
+Fulham,10,opta,attack_misc_headed_goals,1.0,54,2026-10-06
+Fulham,10,opta,attack_misc_headed_shots,7.0,54,2026-10-06
+Fulham,10,opta,attack_misc_hit_woodwork,0.0,54,2026-10-06
+Fulham,10,opta,attack_misc_offsides,4.0,54,2026-10-06
+Fulham,10,opta,attack_misc_pen_goals,0.0,54,2026-10-06
+Fulham,10,opta,attack_misc_pens,0.0,54,2026-10-06
+Fulham,10,opta,attack_misc_tch_in_box,159.0,54,2026-10-06
+Fulham,10,opta,attack_non_pen_goals_in_box_perc,80.0,54,2026-10-06
+Fulham,10,opta,attack_non_pen_goals_vs_xg,-2.74,54,2026-10-06
+Fulham,10,opta,attack_non_pen_np_goals,5.0,54,2026-10-06
+Fulham,10,opta,attack_non_pen_np_shots,72.0,54,2026-10-06
+Fulham,10,opta,attack_non_pen_np_sot,22.0,54,2026-10-06
+Fulham,10,opta,attack_non_pen_shot_conv,6.9444,54,2026-10-06
+Fulham,10,opta,attack_non_pen_shots_in_box_perc,77.7778,54,2026-10-06
+Fulham,10,opta,attack_non_pen_team_np_xG,7.74,54,2026-10-06
+Fulham,10,opta,attack_non_pen_xg_per_shot,0.108,54,2026-10-06
+Fulham,10,opta,attack_set_piece_sp_goals,0.0,54,2026-10-06
+Fulham,10,opta,attack_set_piece_sp_shots,14.0,54,2026-10-06
+Fulham,10,opta,attack_set_piece_team_sp_goal_perc,0.0,54,2026-10-06
+Fulham,10,opta,attack_set_piece_team_sp_shot_perc,19.44,54,2026-10-06
+Fulham,10,opta,attack_set_piece_team_sp_xG,0.96,54,2026-10-06
+Fulham,10,opta,attack_set_piece_team_sp_xg_perc,12.41,54,2026-10-06
+Fulham,10,opta,attack_shot_conv,6.9444,54,2026-10-06
+Fulham,10,opta,attack_shots_in_box_perc,77.778,54,2026-10-06
+Fulham,10,opta,attack_sot,22.0,54,2026-10-06
+Fulham,10,opta,attack_total_shots,72.0,54,2026-10-06
+Fulham,10,opta,attack_xg,7.74,54,2026-10-06
+Fulham,10,opta,attack_xg_per_shot,0.108,54,2026-10-06
+Fulham,10,opta,defending_goals_against,8.0,54,2026-10-06
+Fulham,10,opta,defending_goals_in_box_perc_against,87.5,54,2026-10-06
+Fulham,10,opta,defending_goals_vs_xg_conceded,-1.12,54,2026-10-06
+Fulham,10,opta,defending_misc_dfk_against,1.0,54,2026-10-06
+Fulham,10,opta,defending_misc_dfk_goals_against,0.0,54,2026-10-06
+Fulham,10,opta,defending_misc_fast_break_goals_against,2.0,54,2026-10-06
+Fulham,10,opta,defending_misc_fast_break_shots_against,8.0,54,2026-10-06
+Fulham,10,opta,defending_misc_headed_goals_against,0.0,54,2026-10-06
+Fulham,10,opta,defending_misc_headed_shots_against,12.0,54,2026-10-06
+Fulham,10,opta,defending_misc_offsides_provoked,13.0,54,2026-10-06
+Fulham,10,opta,defending_misc_opp_hit_woodwork,2.0,54,2026-10-06
+Fulham,10,opta,defending_misc_opp_tch_in_box,137.0,54,2026-10-06
+Fulham,10,opta,defending_misc_pen_goals_against,0.0,54,2026-10-06
+Fulham,10,opta,defending_misc_pens_faced,0.0,54,2026-10-06
+Fulham,10,opta,defending_non_pen_goals_in_box_perc_against,87.5,54,2026-10-06
+Fulham,10,opta,defending_non_pen_goals_vs_xg_against,-1.12,54,2026-10-06
+Fulham,10,opta,defending_non_pen_np_goals_against,8.0,54,2026-10-06
+Fulham,10,opta,defending_non_pen_np_shots_against,83.0,54,2026-10-06
+Fulham,10,opta,defending_non_pen_np_sot_against,24.0,54,2026-10-06
+Fulham,10,opta,defending_non_pen_shot_conv_against,9.6386,54,2026-10-06
+Fulham,10,opta,defending_non_pen_shots_in_box_perc_against,66.2651,54,2026-10-06
+Fulham,10,opta,defending_non_pen_team_np_xG_against,9.12,54,2026-10-06
+Fulham,10,opta,defending_non_pen_xg_per_shot_against,0.11,54,2026-10-06
+Fulham,10,opta,defending_set_piece_sp_goals_against,0.0,54,2026-10-06
+Fulham,10,opta,defending_set_piece_sp_shots,24.0,54,2026-10-06
+Fulham,10,opta,defending_set_piece_team_sp_goal_perc_against,0.0,54,2026-10-06
+Fulham,10,opta,defending_set_piece_team_sp_shot_perc_against,28.92,54,2026-10-06
+Fulham,10,opta,defending_set_piece_team_sp_xG_against,1.44,54,2026-10-06
+Fulham,10,opta,defending_set_piece_team_sp_xg_perc_against,15.78,54,2026-10-06
+Fulham,10,opta,defending_shot_conv_against,9.6386,54,2026-10-06
+Fulham,10,opta,defending_shots_in_box_perc_against,66.2651,54,2026-10-06
+Fulham,10,opta,defending_sot_against,24.0,54,2026-10-06
+Fulham,10,opta,defending_total_shots_against,83.0,54,2026-10-06
+Fulham,10,opta,defending_xg_against,9.12,54,2026-10-06
+Fulham,10,opta,defending_xg_per_shot_against,0.11,54,2026-10-06
+Fulham,10,opta,misc_errors_lead_to_goal,1.0,54,2026-10-06
+Fulham,10,opta,misc_errors_lead_to_shot,5.0,54,2026-10-06
+Fulham,10,opta,misc_fouls_lost,47.0,54,2026-10-06
+Fulham,10,opta,misc_fouls_won,38.0,54,2026-10-06
+Fulham,10,opta,misc_opp_reds,0.0,54,2026-10-06
+Fulham,10,opta,misc_opp_yellows,3.0,54,2026-10-06
+Fulham,10,opta,misc_pens_conceded,0.0,54,2026-10-06
+Fulham,10,opta,misc_pens_won,0.0,54,2026-10-06
+Fulham,10,opta,misc_reds,0.0,54,2026-10-06
+Fulham,10,opta,misc_subs_goals,0.0,54,2026-10-06
+Fulham,10,opta,misc_subs_used,23.0,54,2026-10-06
+Fulham,10,opta,misc_yellows,8.0,54,2026-10-06
+Fulham,10,opta,possession_accuracy,85.4,54,2026-10-06
+Fulham,10,opta,possession_aerial_duel_success_perc,41.46,54,2026-10-06
+Fulham,10,opta,possession_backward_pass_perc,16.65,54,2026-10-06
+Fulham,10,opta,possession_blocks,29.0,54,2026-10-06
+Fulham,10,opta,possession_clearances,117.0,54,2026-10-06
+Fulham,10,opta,possession_final_third_passes,674.0,54,2026-10-06
+Fulham,10,opta,possession_fwd_pass_perc,29.65,54,2026-10-06
+Fulham,10,opta,possession_ground_duel_success_perc,47.87,54,2026-10-06
+Fulham,10,opta,possession_interceptions,41.0,54,2026-10-06
+Fulham,10,opta,possession_left_pass_perc,26.57,54,2026-10-06
+Fulham,10,opta,possession_op_cross_accuracy_perc,18.75,54,2026-10-06
+Fulham,10,opta,possession_op_crosses,48.0,54,2026-10-06
+Fulham,10,opta,possession_passes,2732.0,54,2026-10-06
+Fulham,10,opta,possession_pos_perc,54.300000762939455,54,2026-10-06
+Fulham,10,opta,possession_rec,228.0,54,2026-10-06
+Fulham,10,opta,possession_right_pass_perc,27.12,54,2026-10-06
+Fulham,10,opta,possession_successful_final_third_passes,510.0,54,2026-10-06
+Fulham,10,opta,possession_successful_final_third_passes_perc,75.67,54,2026-10-06
+Fulham,10,opta,possession_successful_long_balls_perc,40.15,54,2026-10-06
+Fulham,10,opta,possession_successful_op_crosses,9.0,54,2026-10-06
+Fulham,10,opta,possession_successful_pass,2333.0,54,2026-10-06
+Fulham,10,opta,possession_through_balls,11.0,54,2026-10-06
+Fulham,10,opta,possession_total_tackles,69.0,54,2026-10-06
+Fulham,10,opta,sequences_build_up_goals,1.0,54,2026-10-06
+Fulham,10,opta,sequences_build_ups,26.0,54,2026-10-06
+Fulham,10,opta,sequences_defensive_actions,116.0,54,2026-10-06
+Fulham,10,opta,sequences_direct_attack_goals,0.0,54,2026-10-06
+Fulham,10,opta,sequences_direct_attacks,6.0,54,2026-10-06
+Fulham,10,opta,sequences_direct_speed_for,1.39,54,2026-10-06
+Fulham,10,opta,sequences_goal_ending_high_turnovers,0.0,54,2026-10-06
+Fulham,10,opta,sequences_high_turnovers,24.0,54,2026-10-06
+Fulham,10,opta,sequences_opposition_passes,1575.0,54,2026-10-06
+Fulham,10,opta,sequences_passes_for,4.4,54,2026-10-06
+Fulham,10,opta,sequences_ppda,13.6,54,2026-10-06
+Fulham,10,opta,sequences_pressed_sequences,49.0,54,2026-10-06
+Fulham,10,opta,sequences_seq_time_for,11.95,54,2026-10-06
+Fulham,10,opta,sequences_shot_ending_high_turnovers,8.0,54,2026-10-06
+Fulham,10,opta,sequences_shot_ending_hto_perc,33.333,54,2026-10-06
+Fulham,10,opta,sequences_start_distance,41.2,54,2026-10-06
+Fulham,10,opta,sequences_ten_plus_passes,75.0,54,2026-10-06
+Hull City,11,opta,attack_goals,6.0,88,2026-10-06
+Hull City,11,opta,attack_goals_in_box_perc,66.667,88,2026-10-06
+Hull City,11,opta,attack_goals_vs_xg,0.73,88,2026-10-06
+Hull City,11,opta,attack_misc_dfk,0.0,88,2026-10-06
+Hull City,11,opta,attack_misc_dfk_goals,0.0,88,2026-10-06
+Hull City,11,opta,attack_misc_fast_break_goals,1.0,88,2026-10-06
+Hull City,11,opta,attack_misc_fast_break_shots,7.0,88,2026-10-06
+Hull City,11,opta,attack_misc_headed_goals,1.0,88,2026-10-06
+Hull City,11,opta,attack_misc_headed_shots,9.0,88,2026-10-06
+Hull City,11,opta,attack_misc_hit_woodwork,3.0,88,2026-10-06
+Hull City,11,opta,attack_misc_offsides,4.0,88,2026-10-06
+Hull City,11,opta,attack_misc_pen_goals,0.0,88,2026-10-06
+Hull City,11,opta,attack_misc_pens,0.0,88,2026-10-06
+Hull City,11,opta,attack_misc_tch_in_box,83.0,88,2026-10-06
+Hull City,11,opta,attack_non_pen_goals_in_box_perc,66.6667,88,2026-10-06
+Hull City,11,opta,attack_non_pen_goals_vs_xg,0.73,88,2026-10-06
+Hull City,11,opta,attack_non_pen_np_goals,6.0,88,2026-10-06
+Hull City,11,opta,attack_non_pen_np_shots,61.0,88,2026-10-06
+Hull City,11,opta,attack_non_pen_np_sot,19.0,88,2026-10-06
+Hull City,11,opta,attack_non_pen_shot_conv,9.8361,88,2026-10-06
+Hull City,11,opta,attack_non_pen_shots_in_box_perc,52.459,88,2026-10-06
+Hull City,11,opta,attack_non_pen_team_np_xG,5.27,88,2026-10-06
+Hull City,11,opta,attack_non_pen_xg_per_shot,0.086,88,2026-10-06
+Hull City,11,opta,attack_set_piece_sp_goals,3.0,88,2026-10-06
+Hull City,11,opta,attack_set_piece_sp_shots,19.0,88,2026-10-06
+Hull City,11,opta,attack_set_piece_team_sp_goal_perc,50.0,88,2026-10-06
+Hull City,11,opta,attack_set_piece_team_sp_shot_perc,31.15,88,2026-10-06
+Hull City,11,opta,attack_set_piece_team_sp_xG,1.64,88,2026-10-06
+Hull City,11,opta,attack_set_piece_team_sp_xg_perc,31.2,88,2026-10-06
+Hull City,11,opta,attack_shot_conv,9.8361,88,2026-10-06
+Hull City,11,opta,attack_shots_in_box_perc,52.459,88,2026-10-06
+Hull City,11,opta,attack_sot,19.0,88,2026-10-06
+Hull City,11,opta,attack_total_shots,61.0,88,2026-10-06
+Hull City,11,opta,attack_xg,5.27,88,2026-10-06
+Hull City,11,opta,attack_xg_per_shot,0.086,88,2026-10-06
+Hull City,11,opta,defending_goals_against,4.0,88,2026-10-06
+Hull City,11,opta,defending_goals_in_box_perc_against,100.0,88,2026-10-06
+Hull City,11,opta,defending_goals_vs_xg_conceded,-3.39,88,2026-10-06
+Hull City,11,opta,defending_misc_dfk_against,4.0,88,2026-10-06
+Hull City,11,opta,defending_misc_dfk_goals_against,0.0,88,2026-10-06
+Hull City,11,opta,defending_misc_fast_break_goals_against,2.0,88,2026-10-06
+Hull City,11,opta,defending_misc_fast_break_shots_against,5.0,88,2026-10-06
+Hull City,11,opta,defending_misc_headed_goals_against,0.0,88,2026-10-06
+Hull City,11,opta,defending_misc_headed_shots_against,13.0,88,2026-10-06
+Hull City,11,opta,defending_misc_offsides_provoked,11.0,88,2026-10-06
+Hull City,11,opta,defending_misc_opp_hit_woodwork,0.0,88,2026-10-06
+Hull City,11,opta,defending_misc_opp_tch_in_box,138.0,88,2026-10-06
+Hull City,11,opta,defending_misc_pen_goals_against,0.0,88,2026-10-06
+Hull City,11,opta,defending_misc_pens_faced,1.0,88,2026-10-06
+Hull City,11,opta,defending_non_pen_goals_in_box_perc_against,75.0,88,2026-10-06
+Hull City,11,opta,defending_non_pen_goals_vs_xg_against,-2.6,88,2026-10-06
+Hull City,11,opta,defending_non_pen_np_goals_against,4.0,88,2026-10-06
+Hull City,11,opta,defending_non_pen_np_shots_against,68.0,88,2026-10-06
+Hull City,11,opta,defending_non_pen_np_sot_against,20.0,88,2026-10-06
+Hull City,11,opta,defending_non_pen_shot_conv_against,5.8824,88,2026-10-06
+Hull City,11,opta,defending_non_pen_shots_in_box_perc_against,67.6471,88,2026-10-06
+Hull City,11,opta,defending_non_pen_team_np_xG_against,6.6,88,2026-10-06
+Hull City,11,opta,defending_non_pen_xg_per_shot_against,0.097,88,2026-10-06
+Hull City,11,opta,defending_set_piece_sp_goals_against,0.0,88,2026-10-06
+Hull City,11,opta,defending_set_piece_sp_shots,16.0,88,2026-10-06
+Hull City,11,opta,defending_set_piece_team_sp_goal_perc_against,0.0,88,2026-10-06
+Hull City,11,opta,defending_set_piece_team_sp_shot_perc_against,23.19,88,2026-10-06
+Hull City,11,opta,defending_set_piece_team_sp_xG_against,0.8,88,2026-10-06
+Hull City,11,opta,defending_set_piece_team_sp_xg_perc_against,10.86,88,2026-10-06
+Hull City,11,opta,defending_shot_conv_against,5.7971,88,2026-10-06
+Hull City,11,opta,defending_shots_in_box_perc_against,68.1159,88,2026-10-06
+Hull City,11,opta,defending_sot_against,21.0,88,2026-10-06
+Hull City,11,opta,defending_total_shots_against,69.0,88,2026-10-06
+Hull City,11,opta,defending_xg_against,7.39,88,2026-10-06
+Hull City,11,opta,defending_xg_per_shot_against,0.107,88,2026-10-06
+Hull City,11,opta,misc_errors_lead_to_goal,2.0,88,2026-10-06
+Hull City,11,opta,misc_errors_lead_to_shot,3.0,88,2026-10-06
+Hull City,11,opta,misc_fouls_lost,49.0,88,2026-10-06
+Hull City,11,opta,misc_fouls_won,35.0,88,2026-10-06
+Hull City,11,opta,misc_opp_reds,0.0,88,2026-10-06
+Hull City,11,opta,misc_opp_yellows,4.0,88,2026-10-06
+Hull City,11,opta,misc_pens_conceded,1.0,88,2026-10-06
+Hull City,11,opta,misc_pens_won,0.0,88,2026-10-06
+Hull City,11,opta,misc_reds,0.0,88,2026-10-06
+Hull City,11,opta,misc_subs_goals,2.0,88,2026-10-06
+Hull City,11,opta,misc_subs_used,26.0,88,2026-10-06
+Hull City,11,opta,misc_yellows,18.0,88,2026-10-06
+Hull City,11,opta,possession_accuracy,72.44,88,2026-10-06
+Hull City,11,opta,possession_aerial_duel_success_perc,52.15,88,2026-10-06
+Hull City,11,opta,possession_backward_pass_perc,15.46,88,2026-10-06
+Hull City,11,opta,possession_blocks,21.0,88,2026-10-06
+Hull City,11,opta,possession_clearances,146.0,88,2026-10-06
+Hull City,11,opta,possession_final_third_passes,459.0,88,2026-10-06
+Hull City,11,opta,possession_fwd_pass_perc,40.1,88,2026-10-06
+Hull City,11,opta,possession_ground_duel_success_perc,53.45,88,2026-10-06
+Hull City,11,opta,possession_interceptions,43.0,88,2026-10-06
+Hull City,11,opta,possession_left_pass_perc,23.86,88,2026-10-06
+Hull City,11,opta,possession_op_cross_accuracy_perc,18.67,88,2026-10-06
+Hull City,11,opta,possession_op_crosses,75.0,88,2026-10-06
+Hull City,11,opta,possession_passes,1404.0,88,2026-10-06
+Hull City,11,opta,possession_pos_perc,32.25999984741211,88,2026-10-06
+Hull City,11,opta,possession_rec,224.0,88,2026-10-06
+Hull City,11,opta,possession_right_pass_perc,20.58,88,2026-10-06
+Hull City,11,opta,possession_successful_final_third_passes,266.0,88,2026-10-06
+Hull City,11,opta,possession_successful_final_third_passes_perc,57.95,88,2026-10-06
+Hull City,11,opta,possession_successful_long_balls_perc,37.72,88,2026-10-06
+Hull City,11,opta,possession_successful_op_crosses,14.0,88,2026-10-06
+Hull City,11,opta,possession_successful_pass,1017.0,88,2026-10-06
+Hull City,11,opta,possession_through_balls,3.0,88,2026-10-06
+Hull City,11,opta,possession_total_tackles,85.0,88,2026-10-06
+Hull City,11,opta,sequences_build_up_goals,0.0,88,2026-10-06
+Hull City,11,opta,sequences_build_ups,2.0,88,2026-10-06
+Hull City,11,opta,sequences_defensive_actions,117.0,88,2026-10-06
+Hull City,11,opta,sequences_direct_attack_goals,1.0,88,2026-10-06
+Hull City,11,opta,sequences_direct_attacks,6.0,88,2026-10-06
+Hull City,11,opta,sequences_direct_speed_for,2.29,88,2026-10-06
+Hull City,11,opta,sequences_goal_ending_high_turnovers,1.0,88,2026-10-06
+Hull City,11,opta,sequences_high_turnovers,31.0,88,2026-10-06
+Hull City,11,opta,sequences_opposition_passes,2007.0,88,2026-10-06
+Hull City,11,opta,sequences_passes_for,2.6,88,2026-10-06
+Hull City,11,opta,sequences_ppda,17.2,88,2026-10-06
+Hull City,11,opta,sequences_pressed_sequences,54.0,88,2026-10-06
+Hull City,11,opta,sequences_seq_time_for,7.25,88,2026-10-06
+Hull City,11,opta,sequences_shot_ending_high_turnovers,10.0,88,2026-10-06
+Hull City,11,opta,sequences_shot_ending_hto_perc,32.258,88,2026-10-06
+Hull City,11,opta,sequences_start_distance,38.6,88,2026-10-06
+Hull City,11,opta,sequences_ten_plus_passes,22.0,88,2026-10-06
+Ipswich Town,12,opta,attack_goals,7.0,40,2026-10-06
+Ipswich Town,12,opta,attack_goals_in_box_perc,100.0,40,2026-10-06
+Ipswich Town,12,opta,attack_goals_vs_xg,-0.72,40,2026-10-06
+Ipswich Town,12,opta,attack_misc_dfk,0.0,40,2026-10-06
+Ipswich Town,12,opta,attack_misc_dfk_goals,0.0,40,2026-10-06
+Ipswich Town,12,opta,attack_misc_fast_break_goals,1.0,40,2026-10-06
+Ipswich Town,12,opta,attack_misc_fast_break_shots,8.0,40,2026-10-06
+Ipswich Town,12,opta,attack_misc_headed_goals,2.0,40,2026-10-06
+Ipswich Town,12,opta,attack_misc_headed_shots,9.0,40,2026-10-06
+Ipswich Town,12,opta,attack_misc_hit_woodwork,1.0,40,2026-10-06
+Ipswich Town,12,opta,attack_misc_offsides,8.0,40,2026-10-06
+Ipswich Town,12,opta,attack_misc_pen_goals,0.0,40,2026-10-06
+Ipswich Town,12,opta,attack_misc_pens,0.0,40,2026-10-06
+Ipswich Town,12,opta,attack_misc_tch_in_box,98.0,40,2026-10-06
+Ipswich Town,12,opta,attack_non_pen_goals_in_box_perc,100.0,40,2026-10-06
+Ipswich Town,12,opta,attack_non_pen_goals_vs_xg,-0.72,40,2026-10-06
+Ipswich Town,12,opta,attack_non_pen_np_goals,7.0,40,2026-10-06
+Ipswich Town,12,opta,attack_non_pen_np_shots,58.0,40,2026-10-06
+Ipswich Town,12,opta,attack_non_pen_np_sot,23.0,40,2026-10-06
+Ipswich Town,12,opta,attack_non_pen_shot_conv,12.069,40,2026-10-06
+Ipswich Town,12,opta,attack_non_pen_shots_in_box_perc,60.3448,40,2026-10-06
+Ipswich Town,12,opta,attack_non_pen_team_np_xG,7.72,40,2026-10-06
+Ipswich Town,12,opta,attack_non_pen_xg_per_shot,0.133,40,2026-10-06
+Ipswich Town,12,opta,attack_set_piece_sp_goals,0.0,40,2026-10-06
+Ipswich Town,12,opta,attack_set_piece_sp_shots,8.0,40,2026-10-06
+Ipswich Town,12,opta,attack_set_piece_team_sp_goal_perc,0.0,40,2026-10-06
+Ipswich Town,12,opta,attack_set_piece_team_sp_shot_perc,13.79,40,2026-10-06
+Ipswich Town,12,opta,attack_set_piece_team_sp_xG,0.4,40,2026-10-06
+Ipswich Town,12,opta,attack_set_piece_team_sp_xg_perc,5.18,40,2026-10-06
+Ipswich Town,12,opta,attack_shot_conv,12.069,40,2026-10-06
+Ipswich Town,12,opta,attack_shots_in_box_perc,60.345,40,2026-10-06
+Ipswich Town,12,opta,attack_sot,23.0,40,2026-10-06
+Ipswich Town,12,opta,attack_total_shots,58.0,40,2026-10-06
+Ipswich Town,12,opta,attack_xg,7.72,40,2026-10-06
+Ipswich Town,12,opta,attack_xg_per_shot,0.133,40,2026-10-06
+Ipswich Town,12,opta,defending_goals_against,11.0,40,2026-10-06
+Ipswich Town,12,opta,defending_goals_in_box_perc_against,72.7273,40,2026-10-06
+Ipswich Town,12,opta,defending_goals_vs_xg_conceded,2.02,40,2026-10-06
+Ipswich Town,12,opta,defending_misc_dfk_against,3.0,40,2026-10-06
+Ipswich Town,12,opta,defending_misc_dfk_goals_against,1.0,40,2026-10-06
+Ipswich Town,12,opta,defending_misc_fast_break_goals_against,2.0,40,2026-10-06
+Ipswich Town,12,opta,defending_misc_fast_break_shots_against,8.0,40,2026-10-06
+Ipswich Town,12,opta,defending_misc_headed_goals_against,0.0,40,2026-10-06
+Ipswich Town,12,opta,defending_misc_headed_shots_against,11.0,40,2026-10-06
+Ipswich Town,12,opta,defending_misc_offsides_provoked,9.0,40,2026-10-06
+Ipswich Town,12,opta,defending_misc_opp_hit_woodwork,1.0,40,2026-10-06
+Ipswich Town,12,opta,defending_misc_opp_tch_in_box,127.0,40,2026-10-06
+Ipswich Town,12,opta,defending_misc_pen_goals_against,1.0,40,2026-10-06
+Ipswich Town,12,opta,defending_misc_pens_faced,1.0,40,2026-10-06
+Ipswich Town,12,opta,defending_non_pen_goals_in_box_perc_against,70.0,40,2026-10-06
+Ipswich Town,12,opta,defending_non_pen_goals_vs_xg_against,1.81,40,2026-10-06
+Ipswich Town,12,opta,defending_non_pen_np_goals_against,10.0,40,2026-10-06
+Ipswich Town,12,opta,defending_non_pen_np_shots_against,85.0,40,2026-10-06
+Ipswich Town,12,opta,defending_non_pen_np_sot_against,27.0,40,2026-10-06
+Ipswich Town,12,opta,defending_non_pen_shot_conv_against,11.7647,40,2026-10-06
+Ipswich Town,12,opta,defending_non_pen_shots_in_box_perc_against,58.8235,40,2026-10-06
+Ipswich Town,12,opta,defending_non_pen_team_np_xG_against,8.19,40,2026-10-06
+Ipswich Town,12,opta,defending_non_pen_xg_per_shot_against,0.096,40,2026-10-06
+Ipswich Town,12,opta,defending_set_piece_sp_goals_against,1.0,40,2026-10-06
+Ipswich Town,12,opta,defending_set_piece_sp_shots,17.0,40,2026-10-06
+Ipswich Town,12,opta,defending_set_piece_team_sp_goal_perc_against,9.09,40,2026-10-06
+Ipswich Town,12,opta,defending_set_piece_team_sp_shot_perc_against,19.77,40,2026-10-06
+Ipswich Town,12,opta,defending_set_piece_team_sp_xG_against,0.59,40,2026-10-06
+Ipswich Town,12,opta,defending_set_piece_team_sp_xg_perc_against,6.59,40,2026-10-06
+Ipswich Town,12,opta,defending_shot_conv_against,12.7907,40,2026-10-06
+Ipswich Town,12,opta,defending_shots_in_box_perc_against,59.3023,40,2026-10-06
+Ipswich Town,12,opta,defending_sot_against,28.0,40,2026-10-06
+Ipswich Town,12,opta,defending_total_shots_against,86.0,40,2026-10-06
+Ipswich Town,12,opta,defending_xg_against,8.98,40,2026-10-06
+Ipswich Town,12,opta,defending_xg_per_shot_against,0.104,40,2026-10-06
+Ipswich Town,12,opta,misc_errors_lead_to_goal,1.0,40,2026-10-06
+Ipswich Town,12,opta,misc_errors_lead_to_shot,3.0,40,2026-10-06
+Ipswich Town,12,opta,misc_fouls_lost,57.0,40,2026-10-06
+Ipswich Town,12,opta,misc_fouls_won,46.0,40,2026-10-06
+Ipswich Town,12,opta,misc_opp_reds,1.0,40,2026-10-06
+Ipswich Town,12,opta,misc_opp_yellows,10.0,40,2026-10-06
+Ipswich Town,12,opta,misc_pens_conceded,1.0,40,2026-10-06
+Ipswich Town,12,opta,misc_pens_won,0.0,40,2026-10-06
+Ipswich Town,12,opta,misc_reds,1.0,40,2026-10-06
+Ipswich Town,12,opta,misc_subs_goals,3.0,40,2026-10-06
+Ipswich Town,12,opta,misc_subs_used,24.0,40,2026-10-06
+Ipswich Town,12,opta,misc_yellows,9.0,40,2026-10-06
+Ipswich Town,12,opta,possession_accuracy,81.79,40,2026-10-06
+Ipswich Town,12,opta,possession_aerial_duel_success_perc,47.76,40,2026-10-06
+Ipswich Town,12,opta,possession_backward_pass_perc,16.02,40,2026-10-06
+Ipswich Town,12,opta,possession_blocks,30.0,40,2026-10-06
+Ipswich Town,12,opta,possession_clearances,134.0,40,2026-10-06
+Ipswich Town,12,opta,possession_final_third_passes,512.0,40,2026-10-06
+Ipswich Town,12,opta,possession_fwd_pass_perc,32.08,40,2026-10-06
+Ipswich Town,12,opta,possession_ground_duel_success_perc,45.48,40,2026-10-06
+Ipswich Town,12,opta,possession_interceptions,51.0,40,2026-10-06
+Ipswich Town,12,opta,possession_left_pass_perc,24.29,40,2026-10-06
+Ipswich Town,12,opta,possession_op_cross_accuracy_perc,28.85,40,2026-10-06
+Ipswich Town,12,opta,possession_op_crosses,52.0,40,2026-10-06
+Ipswich Town,12,opta,possession_passes,2054.0,40,2026-10-06
+Ipswich Town,12,opta,possession_pos_perc,44.779999542236325,40,2026-10-06
+Ipswich Town,12,opta,possession_rec,238.0,40,2026-10-06
+Ipswich Town,12,opta,possession_right_pass_perc,27.6,40,2026-10-06
+Ipswich Town,12,opta,possession_successful_final_third_passes,338.0,40,2026-10-06
+Ipswich Town,12,opta,possession_successful_final_third_passes_perc,66.02,40,2026-10-06
+Ipswich Town,12,opta,possession_successful_long_balls_perc,37.71,40,2026-10-06
+Ipswich Town,12,opta,possession_successful_op_crosses,15.0,40,2026-10-06
+Ipswich Town,12,opta,possession_successful_pass,1680.0,40,2026-10-06
+Ipswich Town,12,opta,possession_through_balls,6.0,40,2026-10-06
+Ipswich Town,12,opta,possession_total_tackles,70.0,40,2026-10-06
+Ipswich Town,12,opta,sequences_build_up_goals,0.0,40,2026-10-06
+Ipswich Town,12,opta,sequences_build_ups,11.0,40,2026-10-06
+Ipswich Town,12,opta,sequences_defensive_actions,136.0,40,2026-10-06
+Ipswich Town,12,opta,sequences_direct_attack_goals,0.0,40,2026-10-06
+Ipswich Town,12,opta,sequences_direct_attacks,10.0,40,2026-10-06
+Ipswich Town,12,opta,sequences_direct_speed_for,1.81,40,2026-10-06
+Ipswich Town,12,opta,sequences_goal_ending_high_turnovers,2.0,40,2026-10-06
+Ipswich Town,12,opta,sequences_high_turnovers,28.0,40,2026-10-06
+Ipswich Town,12,opta,sequences_opposition_passes,1839.0,40,2026-10-06
+Ipswich Town,12,opta,sequences_passes_for,3.46,40,2026-10-06
+Ipswich Town,12,opta,sequences_ppda,13.5,40,2026-10-06
+Ipswich Town,12,opta,sequences_pressed_sequences,54.0,40,2026-10-06
+Ipswich Town,12,opta,sequences_seq_time_for,9.55,40,2026-10-06
+Ipswich Town,12,opta,sequences_shot_ending_high_turnovers,11.0,40,2026-10-06
+Ipswich Town,12,opta,sequences_shot_ending_hto_perc,39.286,40,2026-10-06
+Ipswich Town,12,opta,sequences_start_distance,39.4,40,2026-10-06
+Ipswich Town,12,opta,sequences_ten_plus_passes,47.0,40,2026-10-06
+Leeds,13,opta,attack_goals,7.0,2,2026-10-06
+Leeds,13,opta,attack_goals_in_box_perc,71.429,2,2026-10-06
+Leeds,13,opta,attack_goals_vs_xg,-0.72,2,2026-10-06
+Leeds,13,opta,attack_misc_dfk,4.0,2,2026-10-06
+Leeds,13,opta,attack_misc_dfk_goals,1.0,2,2026-10-06
+Leeds,13,opta,attack_misc_fast_break_goals,0.0,2,2026-10-06
+Leeds,13,opta,attack_misc_fast_break_shots,3.0,2,2026-10-06
+Leeds,13,opta,attack_misc_headed_goals,1.0,2,2026-10-06
+Leeds,13,opta,attack_misc_headed_shots,10.0,2,2026-10-06
+Leeds,13,opta,attack_misc_hit_woodwork,1.0,2,2026-10-06
+Leeds,13,opta,attack_misc_offsides,11.0,2,2026-10-06
+Leeds,13,opta,attack_misc_pen_goals,0.0,2,2026-10-06
+Leeds,13,opta,attack_misc_pens,0.0,2,2026-10-06
+Leeds,13,opta,attack_misc_tch_in_box,98.0,2,2026-10-06
+Leeds,13,opta,attack_non_pen_goals_in_box_perc,71.4286,2,2026-10-06
+Leeds,13,opta,attack_non_pen_goals_vs_xg,-0.72,2,2026-10-06
+Leeds,13,opta,attack_non_pen_np_goals,7.0,2,2026-10-06
+Leeds,13,opta,attack_non_pen_np_shots,60.0,2,2026-10-06
+Leeds,13,opta,attack_non_pen_np_sot,18.0,2,2026-10-06
+Leeds,13,opta,attack_non_pen_shot_conv,11.6667,2,2026-10-06
+Leeds,13,opta,attack_non_pen_shots_in_box_perc,68.3333,2,2026-10-06
+Leeds,13,opta,attack_non_pen_team_np_xG,7.72,2,2026-10-06
+Leeds,13,opta,attack_non_pen_xg_per_shot,0.129,2,2026-10-06
+Leeds,13,opta,attack_set_piece_sp_goals,3.0,2,2026-10-06
+Leeds,13,opta,attack_set_piece_sp_shots,28.0,2,2026-10-06
+Leeds,13,opta,attack_set_piece_team_sp_goal_perc,42.86,2,2026-10-06
+Leeds,13,opta,attack_set_piece_team_sp_shot_perc,46.67,2,2026-10-06
+Leeds,13,opta,attack_set_piece_team_sp_xG,3.16,2,2026-10-06
+Leeds,13,opta,attack_set_piece_team_sp_xg_perc,40.98,2,2026-10-06
+Leeds,13,opta,attack_shot_conv,11.6667,2,2026-10-06
+Leeds,13,opta,attack_shots_in_box_perc,68.333,2,2026-10-06
+Leeds,13,opta,attack_sot,18.0,2,2026-10-06
+Leeds,13,opta,attack_total_shots,60.0,2,2026-10-06
+Leeds,13,opta,attack_xg,7.72,2,2026-10-06
+Leeds,13,opta,attack_xg_per_shot,0.129,2,2026-10-06
+Leeds,13,opta,defending_goals_against,3.0,2,2026-10-06
+Leeds,13,opta,defending_goals_in_box_perc_against,100.0,2,2026-10-06
+Leeds,13,opta,defending_goals_vs_xg_conceded,-3.46,2,2026-10-06
+Leeds,13,opta,defending_misc_dfk_against,2.0,2,2026-10-06
+Leeds,13,opta,defending_misc_dfk_goals_against,0.0,2,2026-10-06
+Leeds,13,opta,defending_misc_fast_break_goals_against,0.0,2,2026-10-06
+Leeds,13,opta,defending_misc_fast_break_shots_against,1.0,2,2026-10-06
+Leeds,13,opta,defending_misc_headed_goals_against,1.0,2,2026-10-06
+Leeds,13,opta,defending_misc_headed_shots_against,17.0,2,2026-10-06
+Leeds,13,opta,defending_misc_offsides_provoked,12.0,2,2026-10-06
+Leeds,13,opta,defending_misc_opp_hit_woodwork,2.0,2,2026-10-06
+Leeds,13,opta,defending_misc_opp_tch_in_box,128.0,2,2026-10-06
+Leeds,13,opta,defending_misc_pen_goals_against,0.0,2,2026-10-06
+Leeds,13,opta,defending_misc_pens_faced,0.0,2,2026-10-06
+Leeds,13,opta,defending_non_pen_goals_in_box_perc_against,100.0,2,2026-10-06
+Leeds,13,opta,defending_non_pen_goals_vs_xg_against,-3.46,2,2026-10-06
+Leeds,13,opta,defending_non_pen_np_goals_against,3.0,2,2026-10-06
+Leeds,13,opta,defending_non_pen_np_shots_against,73.0,2,2026-10-06
+Leeds,13,opta,defending_non_pen_np_sot_against,21.0,2,2026-10-06
+Leeds,13,opta,defending_non_pen_shot_conv_against,4.1096,2,2026-10-06
+Leeds,13,opta,defending_non_pen_shots_in_box_perc_against,57.5342,2,2026-10-06
+Leeds,13,opta,defending_non_pen_team_np_xG_against,6.46,2,2026-10-06
+Leeds,13,opta,defending_non_pen_xg_per_shot_against,0.088,2,2026-10-06
+Leeds,13,opta,defending_set_piece_sp_goals_against,1.0,2,2026-10-06
+Leeds,13,opta,defending_set_piece_sp_shots,29.0,2,2026-10-06
+Leeds,13,opta,defending_set_piece_team_sp_goal_perc_against,33.33,2,2026-10-06
+Leeds,13,opta,defending_set_piece_team_sp_shot_perc_against,39.73,2,2026-10-06
+Leeds,13,opta,defending_set_piece_team_sp_xG_against,2.49,2,2026-10-06
+Leeds,13,opta,defending_set_piece_team_sp_xg_perc_against,38.62,2,2026-10-06
+Leeds,13,opta,defending_shot_conv_against,4.1096,2,2026-10-06
+Leeds,13,opta,defending_shots_in_box_perc_against,57.5342,2,2026-10-06
+Leeds,13,opta,defending_sot_against,21.0,2,2026-10-06
+Leeds,13,opta,defending_total_shots_against,73.0,2,2026-10-06
+Leeds,13,opta,defending_xg_against,6.46,2,2026-10-06
+Leeds,13,opta,defending_xg_per_shot_against,0.088,2,2026-10-06
+Leeds,13,opta,misc_errors_lead_to_goal,0.0,2,2026-10-06
+Leeds,13,opta,misc_errors_lead_to_shot,0.0,2,2026-10-06
+Leeds,13,opta,misc_fouls_lost,51.0,2,2026-10-06
+Leeds,13,opta,misc_fouls_won,65.0,2,2026-10-06
+Leeds,13,opta,misc_opp_reds,0.0,2,2026-10-06
+Leeds,13,opta,misc_opp_yellows,14.0,2,2026-10-06
+Leeds,13,opta,misc_pens_conceded,0.0,2,2026-10-06
+Leeds,13,opta,misc_pens_won,0.0,2,2026-10-06
+Leeds,13,opta,misc_reds,0.0,2,2026-10-06
+Leeds,13,opta,misc_subs_goals,0.0,2,2026-10-06
+Leeds,13,opta,misc_subs_used,21.0,2,2026-10-06
+Leeds,13,opta,misc_yellows,7.0,2,2026-10-06
+Leeds,13,opta,possession_accuracy,76.92,2,2026-10-06
+Leeds,13,opta,possession_aerial_duel_success_perc,51.47,2,2026-10-06
+Leeds,13,opta,possession_backward_pass_perc,15.63,2,2026-10-06
+Leeds,13,opta,possession_blocks,22.0,2,2026-10-06
+Leeds,13,opta,possession_clearances,158.0,2,2026-10-06
+Leeds,13,opta,possession_final_third_passes,451.0,2,2026-10-06
+Leeds,13,opta,possession_fwd_pass_perc,37.33,2,2026-10-06
+Leeds,13,opta,possession_ground_duel_success_perc,54.52,2,2026-10-06
+Leeds,13,opta,possession_interceptions,60.0,2,2026-10-06
+Leeds,13,opta,possession_left_pass_perc,23.74,2,2026-10-06
+Leeds,13,opta,possession_op_cross_accuracy_perc,23.53,2,2026-10-06
+Leeds,13,opta,possession_op_crosses,51.0,2,2026-10-06
+Leeds,13,opta,possession_passes,1811.0,2,2026-10-06
+Leeds,13,opta,possession_pos_perc,44.81999969482422,2,2026-10-06
+Leeds,13,opta,possession_rec,225.0,2,2026-10-06
+Leeds,13,opta,possession_right_pass_perc,23.3,2,2026-10-06
+Leeds,13,opta,possession_successful_final_third_passes,244.0,2,2026-10-06
+Leeds,13,opta,possession_successful_final_third_passes_perc,54.1,2,2026-10-06
+Leeds,13,opta,possession_successful_long_balls_perc,40.54,2,2026-10-06
+Leeds,13,opta,possession_successful_op_crosses,12.0,2,2026-10-06
+Leeds,13,opta,possession_successful_pass,1393.0,2,2026-10-06
+Leeds,13,opta,possession_through_balls,2.0,2,2026-10-06
+Leeds,13,opta,possession_total_tackles,90.0,2,2026-10-06
+Leeds,13,opta,sequences_build_up_goals,0.0,2,2026-10-06
+Leeds,13,opta,sequences_build_ups,5.0,2,2026-10-06
+Leeds,13,opta,sequences_defensive_actions,136.0,2,2026-10-06
+Leeds,13,opta,sequences_direct_attack_goals,0.0,2,2026-10-06
+Leeds,13,opta,sequences_direct_attacks,4.0,2,2026-10-06
+Leeds,13,opta,sequences_direct_speed_for,2.03,2,2026-10-06
+Leeds,13,opta,sequences_goal_ending_high_turnovers,1.0,2,2026-10-06
+Leeds,13,opta,sequences_high_turnovers,34.0,2,2026-10-06
+Leeds,13,opta,sequences_opposition_passes,1622.0,2,2026-10-06
+Leeds,13,opta,sequences_passes_for,2.88,2,2026-10-06
+Leeds,13,opta,sequences_ppda,11.9,2,2026-10-06
+Leeds,13,opta,sequences_pressed_sequences,63.0,2,2026-10-06
+Leeds,13,opta,sequences_seq_time_for,7.68,2,2026-10-06
+Leeds,13,opta,sequences_shot_ending_high_turnovers,6.0,2,2026-10-06
+Leeds,13,opta,sequences_shot_ending_hto_perc,17.647,2,2026-10-06
+Leeds,13,opta,sequences_start_distance,41.4,2,2026-10-06
+Leeds,13,opta,sequences_ten_plus_passes,38.0,2,2026-10-06
+Liverpool,14,opta,attack_goals,7.0,14,2026-10-06
+Liverpool,14,opta,attack_goals_in_box_perc,85.714,14,2026-10-06
+Liverpool,14,opta,attack_goals_vs_xg,-1.34,14,2026-10-06
+Liverpool,14,opta,attack_misc_dfk,6.0,14,2026-10-06
+Liverpool,14,opta,attack_misc_dfk_goals,0.0,14,2026-10-06
+Liverpool,14,opta,attack_misc_fast_break_goals,0.0,14,2026-10-06
+Liverpool,14,opta,attack_misc_fast_break_shots,4.0,14,2026-10-06
+Liverpool,14,opta,attack_misc_headed_goals,0.0,14,2026-10-06
+Liverpool,14,opta,attack_misc_headed_shots,9.0,14,2026-10-06
+Liverpool,14,opta,attack_misc_hit_woodwork,0.0,14,2026-10-06
+Liverpool,14,opta,attack_misc_offsides,11.0,14,2026-10-06
+Liverpool,14,opta,attack_misc_pen_goals,1.0,14,2026-10-06
+Liverpool,14,opta,attack_misc_pens,1.0,14,2026-10-06
+Liverpool,14,opta,attack_misc_tch_in_box,114.0,14,2026-10-06
+Liverpool,14,opta,attack_non_pen_goals_in_box_perc,83.3333,14,2026-10-06
+Liverpool,14,opta,attack_non_pen_goals_vs_xg,-1.55,14,2026-10-06
+Liverpool,14,opta,attack_non_pen_np_goals,6.0,14,2026-10-06
+Liverpool,14,opta,attack_non_pen_np_shots,75.0,14,2026-10-06
+Liverpool,14,opta,attack_non_pen_np_sot,23.0,14,2026-10-06
+Liverpool,14,opta,attack_non_pen_shot_conv,8.0,14,2026-10-06
+Liverpool,14,opta,attack_non_pen_shots_in_box_perc,58.6667,14,2026-10-06
+Liverpool,14,opta,attack_non_pen_team_np_xG,7.55,14,2026-10-06
+Liverpool,14,opta,attack_non_pen_xg_per_shot,0.101,14,2026-10-06
+Liverpool,14,opta,attack_set_piece_sp_goals,0.0,14,2026-10-06
+Liverpool,14,opta,attack_set_piece_sp_shots,19.0,14,2026-10-06
+Liverpool,14,opta,attack_set_piece_team_sp_goal_perc,0.0,14,2026-10-06
+Liverpool,14,opta,attack_set_piece_team_sp_shot_perc,25.0,14,2026-10-06
+Liverpool,14,opta,attack_set_piece_team_sp_xG,1.95,14,2026-10-06
+Liverpool,14,opta,attack_set_piece_team_sp_xg_perc,23.39,14,2026-10-06
+Liverpool,14,opta,attack_shot_conv,9.2105,14,2026-10-06
+Liverpool,14,opta,attack_shots_in_box_perc,59.211,14,2026-10-06
+Liverpool,14,opta,attack_sot,24.0,14,2026-10-06
+Liverpool,14,opta,attack_total_shots,76.0,14,2026-10-06
+Liverpool,14,opta,attack_xg,8.34,14,2026-10-06
+Liverpool,14,opta,attack_xg_per_shot,0.11,14,2026-10-06
+Liverpool,14,opta,defending_goals_against,4.0,14,2026-10-06
+Liverpool,14,opta,defending_goals_in_box_perc_against,75.0,14,2026-10-06
+Liverpool,14,opta,defending_goals_vs_xg_conceded,-2.12,14,2026-10-06
+Liverpool,14,opta,defending_misc_dfk_against,2.0,14,2026-10-06
+Liverpool,14,opta,defending_misc_dfk_goals_against,0.0,14,2026-10-06
+Liverpool,14,opta,defending_misc_fast_break_goals_against,2.0,14,2026-10-06
+Liverpool,14,opta,defending_misc_fast_break_shots_against,5.0,14,2026-10-06
+Liverpool,14,opta,defending_misc_headed_goals_against,0.0,14,2026-10-06
+Liverpool,14,opta,defending_misc_headed_shots_against,6.0,14,2026-10-06
+Liverpool,14,opta,defending_misc_offsides_provoked,12.0,14,2026-10-06
+Liverpool,14,opta,defending_misc_opp_hit_woodwork,0.0,14,2026-10-06
+Liverpool,14,opta,defending_misc_opp_tch_in_box,106.0,14,2026-10-06
+Liverpool,14,opta,defending_misc_pen_goals_against,1.0,14,2026-10-06
+Liverpool,14,opta,defending_misc_pens_faced,1.0,14,2026-10-06
+Liverpool,14,opta,defending_non_pen_goals_in_box_perc_against,66.6667,14,2026-10-06
+Liverpool,14,opta,defending_non_pen_goals_vs_xg_against,-2.34,14,2026-10-06
+Liverpool,14,opta,defending_non_pen_np_goals_against,3.0,14,2026-10-06
+Liverpool,14,opta,defending_non_pen_np_shots_against,57.0,14,2026-10-06
+Liverpool,14,opta,defending_non_pen_np_sot_against,17.0,14,2026-10-06
+Liverpool,14,opta,defending_non_pen_shot_conv_against,5.2632,14,2026-10-06
+Liverpool,14,opta,defending_non_pen_shots_in_box_perc_against,57.8947,14,2026-10-06
+Liverpool,14,opta,defending_non_pen_team_np_xG_against,5.34,14,2026-10-06
+Liverpool,14,opta,defending_non_pen_xg_per_shot_against,0.094,14,2026-10-06
+Liverpool,14,opta,defending_set_piece_sp_goals_against,0.0,14,2026-10-06
+Liverpool,14,opta,defending_set_piece_sp_shots,13.0,14,2026-10-06
+Liverpool,14,opta,defending_set_piece_team_sp_goal_perc_against,0.0,14,2026-10-06
+Liverpool,14,opta,defending_set_piece_team_sp_shot_perc_against,22.41,14,2026-10-06
+Liverpool,14,opta,defending_set_piece_team_sp_xG_against,0.78,14,2026-10-06
+Liverpool,14,opta,defending_set_piece_team_sp_xg_perc_against,12.69,14,2026-10-06
+Liverpool,14,opta,defending_shot_conv_against,6.8966,14,2026-10-06
+Liverpool,14,opta,defending_shots_in_box_perc_against,58.6207,14,2026-10-06
+Liverpool,14,opta,defending_sot_against,18.0,14,2026-10-06
+Liverpool,14,opta,defending_total_shots_against,58.0,14,2026-10-06
+Liverpool,14,opta,defending_xg_against,6.12,14,2026-10-06
+Liverpool,14,opta,defending_xg_per_shot_against,0.106,14,2026-10-06
+Liverpool,14,opta,misc_errors_lead_to_goal,0.0,14,2026-10-06
+Liverpool,14,opta,misc_errors_lead_to_shot,4.0,14,2026-10-06
+Liverpool,14,opta,misc_fouls_lost,61.0,14,2026-10-06
+Liverpool,14,opta,misc_fouls_won,50.0,14,2026-10-06
+Liverpool,14,opta,misc_opp_reds,0.0,14,2026-10-06
+Liverpool,14,opta,misc_opp_yellows,10.0,14,2026-10-06
+Liverpool,14,opta,misc_pens_conceded,1.0,14,2026-10-06
+Liverpool,14,opta,misc_pens_won,1.0,14,2026-10-06
+Liverpool,14,opta,misc_reds,0.0,14,2026-10-06
+Liverpool,14,opta,misc_subs_goals,0.0,14,2026-10-06
+Liverpool,14,opta,misc_subs_used,22.0,14,2026-10-06
+Liverpool,14,opta,misc_yellows,12.0,14,2026-10-06
+Liverpool,14,opta,possession_accuracy,85.66,14,2026-10-06
+Liverpool,14,opta,possession_aerial_duel_success_perc,58.4,14,2026-10-06
+Liverpool,14,opta,possession_backward_pass_perc,13.29,14,2026-10-06
+Liverpool,14,opta,possession_blocks,22.0,14,2026-10-06
+Liverpool,14,opta,possession_clearances,128.0,14,2026-10-06
+Liverpool,14,opta,possession_final_third_passes,795.0,14,2026-10-06
+Liverpool,14,opta,possession_fwd_pass_perc,31.47,14,2026-10-06
+Liverpool,14,opta,possession_ground_duel_success_perc,49.12,14,2026-10-06
+Liverpool,14,opta,possession_interceptions,43.0,14,2026-10-06
+Liverpool,14,opta,possession_left_pass_perc,27.31,14,2026-10-06
+Liverpool,14,opta,possession_op_cross_accuracy_perc,17.72,14,2026-10-06
+Liverpool,14,opta,possession_op_crosses,79.0,14,2026-10-06
+Liverpool,14,opta,possession_passes,2574.0,14,2026-10-06
+Liverpool,14,opta,possession_pos_perc,58.91999969482422,14,2026-10-06
+Liverpool,14,opta,possession_rec,234.0,14,2026-10-06
+Liverpool,14,opta,possession_right_pass_perc,27.93,14,2026-10-06
+Liverpool,14,opta,possession_successful_final_third_passes,599.0,14,2026-10-06
+Liverpool,14,opta,possession_successful_final_third_passes_perc,75.35,14,2026-10-06
+Liverpool,14,opta,possession_successful_long_balls_perc,55.43,14,2026-10-06
+Liverpool,14,opta,possession_successful_op_crosses,14.0,14,2026-10-06
+Liverpool,14,opta,possession_successful_pass,2205.0,14,2026-10-06
+Liverpool,14,opta,possession_through_balls,9.0,14,2026-10-06
+Liverpool,14,opta,possession_total_tackles,81.0,14,2026-10-06
+Liverpool,14,opta,sequences_build_up_goals,3.0,14,2026-10-06
+Liverpool,14,opta,sequences_build_ups,19.0,14,2026-10-06
+Liverpool,14,opta,sequences_defensive_actions,156.0,14,2026-10-06
+Liverpool,14,opta,sequences_direct_attack_goals,0.0,14,2026-10-06
+Liverpool,14,opta,sequences_direct_attacks,9.0,14,2026-10-06
+Liverpool,14,opta,sequences_direct_speed_for,1.86,14,2026-10-06
+Liverpool,14,opta,sequences_goal_ending_high_turnovers,1.0,14,2026-10-06
+Liverpool,14,opta,sequences_high_turnovers,38.0,14,2026-10-06
+Liverpool,14,opta,sequences_opposition_passes,1416.0,14,2026-10-06
+Liverpool,14,opta,sequences_passes_for,3.91,14,2026-10-06
+Liverpool,14,opta,sequences_ppda,9.1,14,2026-10-06
+Liverpool,14,opta,sequences_pressed_sequences,58.0,14,2026-10-06
+Liverpool,14,opta,sequences_seq_time_for,11.22,14,2026-10-06
+Liverpool,14,opta,sequences_shot_ending_high_turnovers,7.0,14,2026-10-06
+Liverpool,14,opta,sequences_shot_ending_hto_perc,18.421,14,2026-10-06
+Liverpool,14,opta,sequences_start_distance,43.8,14,2026-10-06
+Liverpool,14,opta,sequences_ten_plus_passes,66.0,14,2026-10-06
+Man City,15,opta,attack_goals,13.0,43,2026-10-06
+Man City,15,opta,attack_goals_in_box_perc,84.615,43,2026-10-06
+Man City,15,opta,attack_goals_vs_xg,2.5,43,2026-10-06
+Man City,15,opta,attack_misc_dfk,1.0,43,2026-10-06
+Man City,15,opta,attack_misc_dfk_goals,1.0,43,2026-10-06
+Man City,15,opta,attack_misc_fast_break_goals,0.0,43,2026-10-06
+Man City,15,opta,attack_misc_fast_break_shots,4.0,43,2026-10-06
+Man City,15,opta,attack_misc_headed_goals,3.0,43,2026-10-06
+Man City,15,opta,attack_misc_headed_shots,10.0,43,2026-10-06
+Man City,15,opta,attack_misc_hit_woodwork,2.0,43,2026-10-06
+Man City,15,opta,attack_misc_offsides,8.0,43,2026-10-06
+Man City,15,opta,attack_misc_pen_goals,0.0,43,2026-10-06
+Man City,15,opta,attack_misc_pens,0.0,43,2026-10-06
+Man City,15,opta,attack_misc_tch_in_box,154.0,43,2026-10-06
+Man City,15,opta,attack_non_pen_goals_in_box_perc,84.6154,43,2026-10-06
+Man City,15,opta,attack_non_pen_goals_vs_xg,2.5,43,2026-10-06
+Man City,15,opta,attack_non_pen_np_goals,13.0,43,2026-10-06
+Man City,15,opta,attack_non_pen_np_shots,68.0,43,2026-10-06
+Man City,15,opta,attack_non_pen_np_sot,27.0,43,2026-10-06
+Man City,15,opta,attack_non_pen_shot_conv,19.1176,43,2026-10-06
+Man City,15,opta,attack_non_pen_shots_in_box_perc,76.4706,43,2026-10-06
+Man City,15,opta,attack_non_pen_team_np_xG,10.5,43,2026-10-06
+Man City,15,opta,attack_non_pen_xg_per_shot,0.154,43,2026-10-06
+Man City,15,opta,attack_set_piece_sp_goals,3.0,43,2026-10-06
+Man City,15,opta,attack_set_piece_sp_shots,22.0,43,2026-10-06
+Man City,15,opta,attack_set_piece_team_sp_goal_perc,23.08,43,2026-10-06
+Man City,15,opta,attack_set_piece_team_sp_shot_perc,32.35,43,2026-10-06
+Man City,15,opta,attack_set_piece_team_sp_xG,2.58,43,2026-10-06
+Man City,15,opta,attack_set_piece_team_sp_xg_perc,24.59,43,2026-10-06
+Man City,15,opta,attack_shot_conv,19.1176,43,2026-10-06
+Man City,15,opta,attack_shots_in_box_perc,76.471,43,2026-10-06
+Man City,15,opta,attack_sot,27.0,43,2026-10-06
+Man City,15,opta,attack_total_shots,68.0,43,2026-10-06
+Man City,15,opta,attack_xg,10.5,43,2026-10-06
+Man City,15,opta,attack_xg_per_shot,0.154,43,2026-10-06
+Man City,15,opta,defending_goals_against,5.0,43,2026-10-06
+Man City,15,opta,defending_goals_in_box_perc_against,80.0,43,2026-10-06
+Man City,15,opta,defending_goals_vs_xg_conceded,-2.25,43,2026-10-06
+Man City,15,opta,defending_misc_dfk_against,2.0,43,2026-10-06
+Man City,15,opta,defending_misc_dfk_goals_against,0.0,43,2026-10-06
+Man City,15,opta,defending_misc_fast_break_goals_against,0.0,43,2026-10-06
+Man City,15,opta,defending_misc_fast_break_shots_against,4.0,43,2026-10-06
+Man City,15,opta,defending_misc_headed_goals_against,0.0,43,2026-10-06
+Man City,15,opta,defending_misc_headed_shots_against,15.0,43,2026-10-06
+Man City,15,opta,defending_misc_offsides_provoked,10.0,43,2026-10-06
+Man City,15,opta,defending_misc_opp_hit_woodwork,3.0,43,2026-10-06
+Man City,15,opta,defending_misc_opp_tch_in_box,94.0,43,2026-10-06
+Man City,15,opta,defending_misc_pen_goals_against,0.0,43,2026-10-06
+Man City,15,opta,defending_misc_pens_faced,0.0,43,2026-10-06
+Man City,15,opta,defending_non_pen_goals_in_box_perc_against,80.0,43,2026-10-06
+Man City,15,opta,defending_non_pen_goals_vs_xg_against,-2.25,43,2026-10-06
+Man City,15,opta,defending_non_pen_np_goals_against,5.0,43,2026-10-06
+Man City,15,opta,defending_non_pen_np_shots_against,59.0,43,2026-10-06
+Man City,15,opta,defending_non_pen_np_sot_against,20.0,43,2026-10-06
+Man City,15,opta,defending_non_pen_shot_conv_against,8.4746,43,2026-10-06
+Man City,15,opta,defending_non_pen_shots_in_box_perc_against,64.4068,43,2026-10-06
+Man City,15,opta,defending_non_pen_team_np_xG_against,7.25,43,2026-10-06
+Man City,15,opta,defending_non_pen_xg_per_shot_against,0.123,43,2026-10-06
+Man City,15,opta,defending_set_piece_sp_goals_against,1.0,43,2026-10-06
+Man City,15,opta,defending_set_piece_sp_shots,28.0,43,2026-10-06
+Man City,15,opta,defending_set_piece_team_sp_goal_perc_against,20.0,43,2026-10-06
+Man City,15,opta,defending_set_piece_team_sp_shot_perc_against,47.46,43,2026-10-06
+Man City,15,opta,defending_set_piece_team_sp_xG_against,2.96,43,2026-10-06
+Man City,15,opta,defending_set_piece_team_sp_xg_perc_against,40.83,43,2026-10-06
+Man City,15,opta,defending_shot_conv_against,8.4746,43,2026-10-06
+Man City,15,opta,defending_shots_in_box_perc_against,64.4068,43,2026-10-06
+Man City,15,opta,defending_sot_against,20.0,43,2026-10-06
+Man City,15,opta,defending_total_shots_against,59.0,43,2026-10-06
+Man City,15,opta,defending_xg_against,7.25,43,2026-10-06
+Man City,15,opta,defending_xg_per_shot_against,0.123,43,2026-10-06
+Man City,15,opta,misc_errors_lead_to_goal,0.0,43,2026-10-06
+Man City,15,opta,misc_errors_lead_to_shot,3.0,43,2026-10-06
+Man City,15,opta,misc_fouls_lost,50.0,43,2026-10-06
+Man City,15,opta,misc_fouls_won,67.0,43,2026-10-06
+Man City,15,opta,misc_opp_reds,0.0,43,2026-10-06
+Man City,15,opta,misc_opp_yellows,7.0,43,2026-10-06
+Man City,15,opta,misc_pens_conceded,0.0,43,2026-10-06
+Man City,15,opta,misc_pens_won,0.0,43,2026-10-06
+Man City,15,opta,misc_reds,1.0,43,2026-10-06
+Man City,15,opta,misc_subs_goals,0.0,43,2026-10-06
+Man City,15,opta,misc_subs_used,16.0,43,2026-10-06
+Man City,15,opta,misc_yellows,6.0,43,2026-10-06
+Man City,15,opta,possession_accuracy,89.18,43,2026-10-06
+Man City,15,opta,possession_aerial_duel_success_perc,55.97,43,2026-10-06
+Man City,15,opta,possession_backward_pass_perc,16.35,43,2026-10-06
+Man City,15,opta,possession_blocks,12.0,43,2026-10-06
+Man City,15,opta,possession_clearances,105.0,43,2026-10-06
+Man City,15,opta,possession_final_third_passes,749.0,43,2026-10-06
+Man City,15,opta,possession_fwd_pass_perc,26.66,43,2026-10-06
+Man City,15,opta,possession_ground_duel_success_perc,48.9,43,2026-10-06
+Man City,15,opta,possession_interceptions,39.0,43,2026-10-06
+Man City,15,opta,possession_left_pass_perc,28.03,43,2026-10-06
+Man City,15,opta,possession_op_cross_accuracy_perc,25.4,43,2026-10-06
+Man City,15,opta,possession_op_crosses,63.0,43,2026-10-06
+Man City,15,opta,possession_passes,3143.0,43,2026-10-06
+Man City,15,opta,possession_pos_perc,63.13999938964844,43,2026-10-06
+Man City,15,opta,possession_rec,213.0,43,2026-10-06
+Man City,15,opta,possession_right_pass_perc,28.95,43,2026-10-06
+Man City,15,opta,possession_successful_final_third_passes,609.0,43,2026-10-06
+Man City,15,opta,possession_successful_final_third_passes_perc,81.31,43,2026-10-06
+Man City,15,opta,possession_successful_long_balls_perc,48.78,43,2026-10-06
+Man City,15,opta,possession_successful_op_crosses,16.0,43,2026-10-06
+Man City,15,opta,possession_successful_pass,2803.0,43,2026-10-06
+Man City,15,opta,possession_through_balls,19.0,43,2026-10-06
+Man City,15,opta,possession_total_tackles,61.0,43,2026-10-06
+Man City,15,opta,sequences_build_up_goals,5.0,43,2026-10-06
+Man City,15,opta,sequences_build_ups,25.0,43,2026-10-06
+Man City,15,opta,sequences_defensive_actions,131.0,43,2026-10-06
+Man City,15,opta,sequences_direct_attack_goals,0.0,43,2026-10-06
+Man City,15,opta,sequences_direct_attacks,3.0,43,2026-10-06
+Man City,15,opta,sequences_direct_speed_for,1.43,43,2026-10-06
+Man City,15,opta,sequences_goal_ending_high_turnovers,2.0,43,2026-10-06
+Man City,15,opta,sequences_high_turnovers,30.0,43,2026-10-06
+Man City,15,opta,sequences_opposition_passes,1291.0,43,2026-10-06
+Man City,15,opta,sequences_passes_for,5.17,43,2026-10-06
+Man City,15,opta,sequences_ppda,9.9,43,2026-10-06
+Man City,15,opta,sequences_pressed_sequences,50.0,43,2026-10-06
+Man City,15,opta,sequences_seq_time_for,14.59,43,2026-10-06
+Man City,15,opta,sequences_shot_ending_high_turnovers,4.0,43,2026-10-06
+Man City,15,opta,sequences_shot_ending_hto_perc,13.333,43,2026-10-06
+Man City,15,opta,sequences_start_distance,40.9,43,2026-10-06
+Man City,15,opta,sequences_ten_plus_passes,118.0,43,2026-10-06
+Man Utd,16,opta,attack_goals,8.0,1,2026-10-06
+Man Utd,16,opta,attack_goals_in_box_perc,50.0,1,2026-10-06
+Man Utd,16,opta,attack_goals_vs_xg,-1.89,1,2026-10-06
+Man Utd,16,opta,attack_misc_dfk,3.0,1,2026-10-06
+Man Utd,16,opta,attack_misc_dfk_goals,0.0,1,2026-10-06
+Man Utd,16,opta,attack_misc_fast_break_goals,2.0,1,2026-10-06
+Man Utd,16,opta,attack_misc_fast_break_shots,11.0,1,2026-10-06
+Man Utd,16,opta,attack_misc_headed_goals,1.0,1,2026-10-06
+Man Utd,16,opta,attack_misc_headed_shots,18.0,1,2026-10-06
+Man Utd,16,opta,attack_misc_hit_woodwork,6.0,1,2026-10-06
+Man Utd,16,opta,attack_misc_offsides,10.0,1,2026-10-06
+Man Utd,16,opta,attack_misc_pen_goals,1.0,1,2026-10-06
+Man Utd,16,opta,attack_misc_pens,1.0,1,2026-10-06
+Man Utd,16,opta,attack_misc_tch_in_box,182.0,1,2026-10-06
+Man Utd,16,opta,attack_non_pen_goals_in_box_perc,42.8571,1,2026-10-06
+Man Utd,16,opta,attack_non_pen_goals_vs_xg,-2.1,1,2026-10-06
+Man Utd,16,opta,attack_non_pen_np_goals,7.0,1,2026-10-06
+Man Utd,16,opta,attack_non_pen_np_shots,112.0,1,2026-10-06
+Man Utd,16,opta,attack_non_pen_np_sot,27.0,1,2026-10-06
+Man Utd,16,opta,attack_non_pen_shot_conv,6.25,1,2026-10-06
+Man Utd,16,opta,attack_non_pen_shots_in_box_perc,56.25,1,2026-10-06
+Man Utd,16,opta,attack_non_pen_team_np_xG,9.1,1,2026-10-06
+Man Utd,16,opta,attack_non_pen_xg_per_shot,0.081,1,2026-10-06
+Man Utd,16,opta,attack_set_piece_sp_goals,0.0,1,2026-10-06
+Man Utd,16,opta,attack_set_piece_sp_shots,32.0,1,2026-10-06
+Man Utd,16,opta,attack_set_piece_team_sp_goal_perc,0.0,1,2026-10-06
+Man Utd,16,opta,attack_set_piece_team_sp_shot_perc,28.32,1,2026-10-06
+Man Utd,16,opta,attack_set_piece_team_sp_xG,1.26,1,2026-10-06
+Man Utd,16,opta,attack_set_piece_team_sp_xg_perc,12.69,1,2026-10-06
+Man Utd,16,opta,attack_shot_conv,7.0796,1,2026-10-06
+Man Utd,16,opta,attack_shots_in_box_perc,56.637,1,2026-10-06
+Man Utd,16,opta,attack_sot,28.0,1,2026-10-06
+Man Utd,16,opta,attack_total_shots,113.0,1,2026-10-06
+Man Utd,16,opta,attack_xg,9.89,1,2026-10-06
+Man Utd,16,opta,attack_xg_per_shot,0.088,1,2026-10-06
+Man Utd,16,opta,defending_goals_against,8.0,1,2026-10-06
+Man Utd,16,opta,defending_goals_in_box_perc_against,75.0,1,2026-10-06
+Man Utd,16,opta,defending_goals_vs_xg_conceded,1.2,1,2026-10-06
+Man Utd,16,opta,defending_misc_dfk_against,0.0,1,2026-10-06
+Man Utd,16,opta,defending_misc_dfk_goals_against,0.0,1,2026-10-06
+Man Utd,16,opta,defending_misc_fast_break_goals_against,0.0,1,2026-10-06
+Man Utd,16,opta,defending_misc_fast_break_shots_against,4.0,1,2026-10-06
+Man Utd,16,opta,defending_misc_headed_goals_against,1.0,1,2026-10-06
+Man Utd,16,opta,defending_misc_headed_shots_against,7.0,1,2026-10-06
+Man Utd,16,opta,defending_misc_offsides_provoked,6.0,1,2026-10-06
+Man Utd,16,opta,defending_misc_opp_hit_woodwork,0.0,1,2026-10-06
+Man Utd,16,opta,defending_misc_opp_tch_in_box,92.0,1,2026-10-06
+Man Utd,16,opta,defending_misc_pen_goals_against,0.0,1,2026-10-06
+Man Utd,16,opta,defending_misc_pens_faced,0.0,1,2026-10-06
+Man Utd,16,opta,defending_non_pen_goals_in_box_perc_against,75.0,1,2026-10-06
+Man Utd,16,opta,defending_non_pen_goals_vs_xg_against,1.2,1,2026-10-06
+Man Utd,16,opta,defending_non_pen_np_goals_against,8.0,1,2026-10-06
+Man Utd,16,opta,defending_non_pen_np_shots_against,53.0,1,2026-10-06
+Man Utd,16,opta,defending_non_pen_np_sot_against,23.0,1,2026-10-06
+Man Utd,16,opta,defending_non_pen_shot_conv_against,15.0943,1,2026-10-06
+Man Utd,16,opta,defending_non_pen_shots_in_box_perc_against,71.6981,1,2026-10-06
+Man Utd,16,opta,defending_non_pen_team_np_xG_against,6.8,1,2026-10-06
+Man Utd,16,opta,defending_non_pen_xg_per_shot_against,0.128,1,2026-10-06
+Man Utd,16,opta,defending_set_piece_sp_goals_against,2.0,1,2026-10-06
+Man Utd,16,opta,defending_set_piece_sp_shots,18.0,1,2026-10-06
+Man Utd,16,opta,defending_set_piece_team_sp_goal_perc_against,25.0,1,2026-10-06
+Man Utd,16,opta,defending_set_piece_team_sp_shot_perc_against,33.96,1,2026-10-06
+Man Utd,16,opta,defending_set_piece_team_sp_xG_against,1.85,1,2026-10-06
+Man Utd,16,opta,defending_set_piece_team_sp_xg_perc_against,27.26,1,2026-10-06
+Man Utd,16,opta,defending_shot_conv_against,15.0943,1,2026-10-06
+Man Utd,16,opta,defending_shots_in_box_perc_against,71.6981,1,2026-10-06
+Man Utd,16,opta,defending_sot_against,23.0,1,2026-10-06
+Man Utd,16,opta,defending_total_shots_against,53.0,1,2026-10-06
+Man Utd,16,opta,defending_xg_against,6.8,1,2026-10-06
+Man Utd,16,opta,defending_xg_per_shot_against,0.128,1,2026-10-06
+Man Utd,16,opta,misc_errors_lead_to_goal,1.0,1,2026-10-06
+Man Utd,16,opta,misc_errors_lead_to_shot,2.0,1,2026-10-06
+Man Utd,16,opta,misc_fouls_lost,49.0,1,2026-10-06
+Man Utd,16,opta,misc_fouls_won,45.0,1,2026-10-06
+Man Utd,16,opta,misc_opp_reds,1.0,1,2026-10-06
+Man Utd,16,opta,misc_opp_yellows,13.0,1,2026-10-06
+Man Utd,16,opta,misc_pens_conceded,0.0,1,2026-10-06
+Man Utd,16,opta,misc_pens_won,1.0,1,2026-10-06
+Man Utd,16,opta,misc_reds,0.0,1,2026-10-06
+Man Utd,16,opta,misc_subs_goals,1.0,1,2026-10-06
+Man Utd,16,opta,misc_subs_used,20.0,1,2026-10-06
+Man Utd,16,opta,misc_yellows,6.0,1,2026-10-06
+Man Utd,16,opta,possession_accuracy,88.35,1,2026-10-06
+Man Utd,16,opta,possession_aerial_duel_success_perc,50.37,1,2026-10-06
+Man Utd,16,opta,possession_backward_pass_perc,15.82,1,2026-10-06
+Man Utd,16,opta,possession_blocks,16.0,1,2026-10-06
+Man Utd,16,opta,possession_clearances,83.0,1,2026-10-06
+Man Utd,16,opta,possession_final_third_passes,958.0,1,2026-10-06
+Man Utd,16,opta,possession_fwd_pass_perc,28.11,1,2026-10-06
+Man Utd,16,opta,possession_ground_duel_success_perc,48.33,1,2026-10-06
+Man Utd,16,opta,possession_interceptions,42.0,1,2026-10-06
+Man Utd,16,opta,possession_left_pass_perc,28.53,1,2026-10-06
+Man Utd,16,opta,possession_op_cross_accuracy_perc,22.12,1,2026-10-06
+Man Utd,16,opta,possession_op_crosses,104.0,1,2026-10-06
+Man Utd,16,opta,possession_passes,2850.0,1,2026-10-06
+Man Utd,16,opta,possession_pos_perc,59.9,1,2026-10-06
+Man Utd,16,opta,possession_rec,248.0,1,2026-10-06
+Man Utd,16,opta,possession_right_pass_perc,27.54,1,2026-10-06
+Man Utd,16,opta,possession_successful_final_third_passes,781.0,1,2026-10-06
+Man Utd,16,opta,possession_successful_final_third_passes_perc,81.52,1,2026-10-06
+Man Utd,16,opta,possession_successful_long_balls_perc,50.25,1,2026-10-06
+Man Utd,16,opta,possession_successful_op_crosses,23.0,1,2026-10-06
+Man Utd,16,opta,possession_successful_pass,2518.0,1,2026-10-06
+Man Utd,16,opta,possession_through_balls,11.0,1,2026-10-06
+Man Utd,16,opta,possession_total_tackles,65.0,1,2026-10-06
+Man Utd,16,opta,sequences_build_up_goals,1.0,1,2026-10-06
+Man Utd,16,opta,sequences_build_ups,25.0,1,2026-10-06
+Man Utd,16,opta,sequences_defensive_actions,123.0,1,2026-10-06
+Man Utd,16,opta,sequences_direct_attack_goals,1.0,1,2026-10-06
+Man Utd,16,opta,sequences_direct_attacks,10.0,1,2026-10-06
+Man Utd,16,opta,sequences_direct_speed_for,1.86,1,2026-10-06
+Man Utd,16,opta,sequences_goal_ending_high_turnovers,0.0,1,2026-10-06
+Man Utd,16,opta,sequences_high_turnovers,26.0,1,2026-10-06
+Man Utd,16,opta,sequences_opposition_passes,1483.0,1,2026-10-06
+Man Utd,16,opta,sequences_passes_for,4.37,1,2026-10-06
+Man Utd,16,opta,sequences_ppda,12.1,1,2026-10-06
+Man Utd,16,opta,sequences_pressed_sequences,52.0,1,2026-10-06
+Man Utd,16,opta,sequences_seq_time_for,11.75,1,2026-10-06
+Man Utd,16,opta,sequences_shot_ending_high_turnovers,6.0,1,2026-10-06
+Man Utd,16,opta,sequences_shot_ending_hto_perc,23.077,1,2026-10-06
+Man Utd,16,opta,sequences_start_distance,40.5,1,2026-10-06
+Man Utd,16,opta,sequences_ten_plus_passes,74.0,1,2026-10-06
+Newcastle,17,opta,attack_goals,9.0,4,2026-10-06
+Newcastle,17,opta,attack_goals_in_box_perc,88.889,4,2026-10-06
+Newcastle,17,opta,attack_goals_vs_xg,3.71,4,2026-10-06
+Newcastle,17,opta,attack_misc_dfk,2.0,4,2026-10-06
+Newcastle,17,opta,attack_misc_dfk_goals,0.0,4,2026-10-06
+Newcastle,17,opta,attack_misc_fast_break_goals,3.0,4,2026-10-06
+Newcastle,17,opta,attack_misc_fast_break_shots,5.0,4,2026-10-06
+Newcastle,17,opta,attack_misc_headed_goals,0.0,4,2026-10-06
+Newcastle,17,opta,attack_misc_headed_shots,5.0,4,2026-10-06
+Newcastle,17,opta,attack_misc_hit_woodwork,1.0,4,2026-10-06
+Newcastle,17,opta,attack_misc_offsides,9.0,4,2026-10-06
+Newcastle,17,opta,attack_misc_pen_goals,0.0,4,2026-10-06
+Newcastle,17,opta,attack_misc_pens,1.0,4,2026-10-06
+Newcastle,17,opta,attack_misc_tch_in_box,92.0,4,2026-10-06
+Newcastle,17,opta,attack_non_pen_goals_in_box_perc,88.8889,4,2026-10-06
+Newcastle,17,opta,attack_non_pen_goals_vs_xg,4.5,4,2026-10-06
+Newcastle,17,opta,attack_non_pen_np_goals,9.0,4,2026-10-06
+Newcastle,17,opta,attack_non_pen_np_shots,50.0,4,2026-10-06
+Newcastle,17,opta,attack_non_pen_np_sot,17.0,4,2026-10-06
+Newcastle,17,opta,attack_non_pen_shot_conv,18.0,4,2026-10-06
+Newcastle,17,opta,attack_non_pen_shots_in_box_perc,60.0,4,2026-10-06
+Newcastle,17,opta,attack_non_pen_team_np_xG,4.5,4,2026-10-06
+Newcastle,17,opta,attack_non_pen_xg_per_shot,0.09,4,2026-10-06
+Newcastle,17,opta,attack_set_piece_sp_goals,2.0,4,2026-10-06
+Newcastle,17,opta,attack_set_piece_sp_shots,14.0,4,2026-10-06
+Newcastle,17,opta,attack_set_piece_team_sp_goal_perc,22.22,4,2026-10-06
+Newcastle,17,opta,attack_set_piece_team_sp_shot_perc,27.45,4,2026-10-06
+Newcastle,17,opta,attack_set_piece_team_sp_xG,1.11,4,2026-10-06
+Newcastle,17,opta,attack_set_piece_team_sp_xg_perc,21.05,4,2026-10-06
+Newcastle,17,opta,attack_shot_conv,17.6471,4,2026-10-06
+Newcastle,17,opta,attack_shots_in_box_perc,60.784,4,2026-10-06
+Newcastle,17,opta,attack_sot,18.0,4,2026-10-06
+Newcastle,17,opta,attack_total_shots,51.0,4,2026-10-06
+Newcastle,17,opta,attack_xg,5.29,4,2026-10-06
+Newcastle,17,opta,attack_xg_per_shot,0.104,4,2026-10-06
+Newcastle,17,opta,defending_goals_against,9.0,4,2026-10-06
+Newcastle,17,opta,defending_goals_in_box_perc_against,66.6667,4,2026-10-06
+Newcastle,17,opta,defending_goals_vs_xg_conceded,-0.05,4,2026-10-06
+Newcastle,17,opta,defending_misc_dfk_against,4.0,4,2026-10-06
+Newcastle,17,opta,defending_misc_dfk_goals_against,0.0,4,2026-10-06
+Newcastle,17,opta,defending_misc_fast_break_goals_against,0.0,4,2026-10-06
+Newcastle,17,opta,defending_misc_fast_break_shots_against,8.0,4,2026-10-06
+Newcastle,17,opta,defending_misc_headed_goals_against,1.0,4,2026-10-06
+Newcastle,17,opta,defending_misc_headed_shots_against,13.0,4,2026-10-06
+Newcastle,17,opta,defending_misc_offsides_provoked,7.0,4,2026-10-06
+Newcastle,17,opta,defending_misc_opp_hit_woodwork,1.0,4,2026-10-06
+Newcastle,17,opta,defending_misc_opp_tch_in_box,156.0,4,2026-10-06
+Newcastle,17,opta,defending_misc_pen_goals_against,1.0,4,2026-10-06
+Newcastle,17,opta,defending_misc_pens_faced,1.0,4,2026-10-06
+Newcastle,17,opta,defending_non_pen_goals_in_box_perc_against,62.5,4,2026-10-06
+Newcastle,17,opta,defending_non_pen_goals_vs_xg_against,-0.26,4,2026-10-06
+Newcastle,17,opta,defending_non_pen_np_goals_against,8.0,4,2026-10-06
+Newcastle,17,opta,defending_non_pen_np_shots_against,96.0,4,2026-10-06
+Newcastle,17,opta,defending_non_pen_np_sot_against,27.0,4,2026-10-06
+Newcastle,17,opta,defending_non_pen_shot_conv_against,8.3333,4,2026-10-06
+Newcastle,17,opta,defending_non_pen_shots_in_box_perc_against,57.2917,4,2026-10-06
+Newcastle,17,opta,defending_non_pen_team_np_xG_against,8.26,4,2026-10-06
+Newcastle,17,opta,defending_non_pen_xg_per_shot_against,0.086,4,2026-10-06
+Newcastle,17,opta,defending_set_piece_sp_goals_against,1.0,4,2026-10-06
+Newcastle,17,opta,defending_set_piece_sp_shots,31.0,4,2026-10-06
+Newcastle,17,opta,defending_set_piece_team_sp_goal_perc_against,11.11,4,2026-10-06
+Newcastle,17,opta,defending_set_piece_team_sp_shot_perc_against,31.96,4,2026-10-06
+Newcastle,17,opta,defending_set_piece_team_sp_xG_against,2.13,4,2026-10-06
+Newcastle,17,opta,defending_set_piece_team_sp_xg_perc_against,23.48,4,2026-10-06
+Newcastle,17,opta,defending_shot_conv_against,9.2784,4,2026-10-06
+Newcastle,17,opta,defending_shots_in_box_perc_against,57.732,4,2026-10-06
+Newcastle,17,opta,defending_sot_against,28.0,4,2026-10-06
+Newcastle,17,opta,defending_total_shots_against,97.0,4,2026-10-06
+Newcastle,17,opta,defending_xg_against,9.05,4,2026-10-06
+Newcastle,17,opta,defending_xg_per_shot_against,0.093,4,2026-10-06
+Newcastle,17,opta,misc_errors_lead_to_goal,2.0,4,2026-10-06
+Newcastle,17,opta,misc_errors_lead_to_shot,12.0,4,2026-10-06
+Newcastle,17,opta,misc_fouls_lost,61.0,4,2026-10-06
+Newcastle,17,opta,misc_fouls_won,64.0,4,2026-10-06
+Newcastle,17,opta,misc_opp_reds,0.0,4,2026-10-06
+Newcastle,17,opta,misc_opp_yellows,13.0,4,2026-10-06
+Newcastle,17,opta,misc_pens_conceded,1.0,4,2026-10-06
+Newcastle,17,opta,misc_pens_won,1.0,4,2026-10-06
+Newcastle,17,opta,misc_reds,0.0,4,2026-10-06
+Newcastle,17,opta,misc_subs_goals,3.0,4,2026-10-06
+Newcastle,17,opta,misc_subs_used,23.0,4,2026-10-06
+Newcastle,17,opta,misc_yellows,12.0,4,2026-10-06
+Newcastle,17,opta,possession_accuracy,83.11,4,2026-10-06
+Newcastle,17,opta,possession_aerial_duel_success_perc,49.35,4,2026-10-06
+Newcastle,17,opta,possession_backward_pass_perc,16.65,4,2026-10-06
+Newcastle,17,opta,possession_blocks,40.0,4,2026-10-06
+Newcastle,17,opta,possession_clearances,174.0,4,2026-10-06
+Newcastle,17,opta,possession_final_third_passes,488.0,4,2026-10-06
+Newcastle,17,opta,possession_fwd_pass_perc,31.86,4,2026-10-06
+Newcastle,17,opta,possession_ground_duel_success_perc,48.55,4,2026-10-06
+Newcastle,17,opta,possession_interceptions,25.0,4,2026-10-06
+Newcastle,17,opta,possession_left_pass_perc,25.24,4,2026-10-06
+Newcastle,17,opta,possession_op_cross_accuracy_perc,20.93,4,2026-10-06
+Newcastle,17,opta,possession_op_crosses,43.0,4,2026-10-06
+Newcastle,17,opta,possession_passes,2084.0,4,2026-10-06
+Newcastle,17,opta,possession_pos_perc,49.08000030517578,4,2026-10-06
+Newcastle,17,opta,possession_rec,224.0,4,2026-10-06
+Newcastle,17,opta,possession_right_pass_perc,26.25,4,2026-10-06
+Newcastle,17,opta,possession_successful_final_third_passes,349.0,4,2026-10-06
+Newcastle,17,opta,possession_successful_final_third_passes_perc,71.52,4,2026-10-06
+Newcastle,17,opta,possession_successful_long_balls_perc,36.3,4,2026-10-06
+Newcastle,17,opta,possession_successful_op_crosses,9.0,4,2026-10-06
+Newcastle,17,opta,possession_successful_pass,1732.0,4,2026-10-06
+Newcastle,17,opta,possession_through_balls,13.0,4,2026-10-06
+Newcastle,17,opta,possession_total_tackles,68.0,4,2026-10-06
+Newcastle,17,opta,sequences_build_up_goals,0.0,4,2026-10-06
+Newcastle,17,opta,sequences_build_ups,14.0,4,2026-10-06
+Newcastle,17,opta,sequences_defensive_actions,131.0,4,2026-10-06
+Newcastle,17,opta,sequences_direct_attack_goals,2.0,4,2026-10-06
+Newcastle,17,opta,sequences_direct_attacks,6.0,4,2026-10-06
+Newcastle,17,opta,sequences_direct_speed_for,1.57,4,2026-10-06
+Newcastle,17,opta,sequences_goal_ending_high_turnovers,1.0,4,2026-10-06
+Newcastle,17,opta,sequences_high_turnovers,24.0,4,2026-10-06
+Newcastle,17,opta,sequences_opposition_passes,1464.0,4,2026-10-06
+Newcastle,17,opta,sequences_passes_for,3.53,4,2026-10-06
+Newcastle,17,opta,sequences_ppda,11.2,4,2026-10-06
+Newcastle,17,opta,sequences_pressed_sequences,44.0,4,2026-10-06
+Newcastle,17,opta,sequences_seq_time_for,9.97,4,2026-10-06
+Newcastle,17,opta,sequences_shot_ending_high_turnovers,5.0,4,2026-10-06
+Newcastle,17,opta,sequences_shot_ending_hto_perc,20.833,4,2026-10-06
+Newcastle,17,opta,sequences_start_distance,41.0,4,2026-10-06
+Newcastle,17,opta,sequences_ten_plus_passes,47.0,4,2026-10-06
+Nott'm Forest,18,opta,attack_goals,4.0,17,2026-10-06
+Nott'm Forest,18,opta,attack_goals_in_box_perc,75.0,17,2026-10-06
+Nott'm Forest,18,opta,attack_goals_vs_xg,-2.96,17,2026-10-06
+Nott'm Forest,18,opta,attack_misc_dfk,2.0,17,2026-10-06
+Nott'm Forest,18,opta,attack_misc_dfk_goals,0.0,17,2026-10-06
+Nott'm Forest,18,opta,attack_misc_fast_break_goals,0.0,17,2026-10-06
+Nott'm Forest,18,opta,attack_misc_fast_break_shots,5.0,17,2026-10-06
+Nott'm Forest,18,opta,attack_misc_headed_goals,0.0,17,2026-10-06
+Nott'm Forest,18,opta,attack_misc_headed_shots,15.0,17,2026-10-06
+Nott'm Forest,18,opta,attack_misc_hit_woodwork,3.0,17,2026-10-06
+Nott'm Forest,18,opta,attack_misc_offsides,11.0,17,2026-10-06
+Nott'm Forest,18,opta,attack_misc_pen_goals,1.0,17,2026-10-06
+Nott'm Forest,18,opta,attack_misc_pens,1.0,17,2026-10-06
+Nott'm Forest,18,opta,attack_misc_tch_in_box,121.0,17,2026-10-06
+Nott'm Forest,18,opta,attack_non_pen_goals_in_box_perc,66.6667,17,2026-10-06
+Nott'm Forest,18,opta,attack_non_pen_goals_vs_xg,-3.17,17,2026-10-06
+Nott'm Forest,18,opta,attack_non_pen_np_goals,3.0,17,2026-10-06
+Nott'm Forest,18,opta,attack_non_pen_np_shots,81.0,17,2026-10-06
+Nott'm Forest,18,opta,attack_non_pen_np_sot,16.0,17,2026-10-06
+Nott'm Forest,18,opta,attack_non_pen_shot_conv,3.7037,17,2026-10-06
+Nott'm Forest,18,opta,attack_non_pen_shots_in_box_perc,58.0247,17,2026-10-06
+Nott'm Forest,18,opta,attack_non_pen_team_np_xG,6.17,17,2026-10-06
+Nott'm Forest,18,opta,attack_non_pen_xg_per_shot,0.076,17,2026-10-06
+Nott'm Forest,18,opta,attack_set_piece_sp_goals,0.0,17,2026-10-06
+Nott'm Forest,18,opta,attack_set_piece_sp_shots,26.0,17,2026-10-06
+Nott'm Forest,18,opta,attack_set_piece_team_sp_goal_perc,0.0,17,2026-10-06
+Nott'm Forest,18,opta,attack_set_piece_team_sp_shot_perc,31.71,17,2026-10-06
+Nott'm Forest,18,opta,attack_set_piece_team_sp_xG,1.65,17,2026-10-06
+Nott'm Forest,18,opta,attack_set_piece_team_sp_xg_perc,23.71,17,2026-10-06
+Nott'm Forest,18,opta,attack_shot_conv,4.878,17,2026-10-06
+Nott'm Forest,18,opta,attack_shots_in_box_perc,58.537,17,2026-10-06
+Nott'm Forest,18,opta,attack_sot,17.0,17,2026-10-06
+Nott'm Forest,18,opta,attack_total_shots,82.0,17,2026-10-06
+Nott'm Forest,18,opta,attack_xg,6.96,17,2026-10-06
+Nott'm Forest,18,opta,attack_xg_per_shot,0.085,17,2026-10-06
+Nott'm Forest,18,opta,defending_goals_against,5.0,17,2026-10-06
+Nott'm Forest,18,opta,defending_goals_in_box_perc_against,80.0,17,2026-10-06
+Nott'm Forest,18,opta,defending_goals_vs_xg_conceded,0.2,17,2026-10-06
+Nott'm Forest,18,opta,defending_misc_dfk_against,4.0,17,2026-10-06
+Nott'm Forest,18,opta,defending_misc_dfk_goals_against,1.0,17,2026-10-06
+Nott'm Forest,18,opta,defending_misc_fast_break_goals_against,0.0,17,2026-10-06
+Nott'm Forest,18,opta,defending_misc_fast_break_shots_against,3.0,17,2026-10-06
+Nott'm Forest,18,opta,defending_misc_headed_goals_against,1.0,17,2026-10-06
+Nott'm Forest,18,opta,defending_misc_headed_shots_against,14.0,17,2026-10-06
+Nott'm Forest,18,opta,defending_misc_offsides_provoked,9.0,17,2026-10-06
+Nott'm Forest,18,opta,defending_misc_opp_hit_woodwork,0.0,17,2026-10-06
+Nott'm Forest,18,opta,defending_misc_opp_tch_in_box,96.0,17,2026-10-06
+Nott'm Forest,18,opta,defending_misc_pen_goals_against,0.0,17,2026-10-06
+Nott'm Forest,18,opta,defending_misc_pens_faced,0.0,17,2026-10-06
+Nott'm Forest,18,opta,defending_non_pen_goals_in_box_perc_against,80.0,17,2026-10-06
+Nott'm Forest,18,opta,defending_non_pen_goals_vs_xg_against,0.2,17,2026-10-06
+Nott'm Forest,18,opta,defending_non_pen_np_goals_against,5.0,17,2026-10-06
+Nott'm Forest,18,opta,defending_non_pen_np_shots_against,52.0,17,2026-10-06
+Nott'm Forest,18,opta,defending_non_pen_np_sot_against,15.0,17,2026-10-06
+Nott'm Forest,18,opta,defending_non_pen_shot_conv_against,9.6154,17,2026-10-06
+Nott'm Forest,18,opta,defending_non_pen_shots_in_box_perc_against,63.4615,17,2026-10-06
+Nott'm Forest,18,opta,defending_non_pen_team_np_xG_against,4.8,17,2026-10-06
+Nott'm Forest,18,opta,defending_non_pen_xg_per_shot_against,0.092,17,2026-10-06
+Nott'm Forest,18,opta,defending_set_piece_sp_goals_against,2.0,17,2026-10-06
+Nott'm Forest,18,opta,defending_set_piece_sp_shots,19.0,17,2026-10-06
+Nott'm Forest,18,opta,defending_set_piece_team_sp_goal_perc_against,40.0,17,2026-10-06
+Nott'm Forest,18,opta,defending_set_piece_team_sp_shot_perc_against,36.54,17,2026-10-06
+Nott'm Forest,18,opta,defending_set_piece_team_sp_xG_against,1.34,17,2026-10-06
+Nott'm Forest,18,opta,defending_set_piece_team_sp_xg_perc_against,27.92,17,2026-10-06
+Nott'm Forest,18,opta,defending_shot_conv_against,9.6154,17,2026-10-06
+Nott'm Forest,18,opta,defending_shots_in_box_perc_against,63.4615,17,2026-10-06
+Nott'm Forest,18,opta,defending_sot_against,15.0,17,2026-10-06
+Nott'm Forest,18,opta,defending_total_shots_against,52.0,17,2026-10-06
+Nott'm Forest,18,opta,defending_xg_against,4.8,17,2026-10-06
+Nott'm Forest,18,opta,defending_xg_per_shot_against,0.092,17,2026-10-06
+Nott'm Forest,18,opta,misc_errors_lead_to_goal,0.0,17,2026-10-06
+Nott'm Forest,18,opta,misc_errors_lead_to_shot,1.0,17,2026-10-06
+Nott'm Forest,18,opta,misc_fouls_lost,74.0,17,2026-10-06
+Nott'm Forest,18,opta,misc_fouls_won,62.0,17,2026-10-06
+Nott'm Forest,18,opta,misc_opp_reds,0.0,17,2026-10-06
+Nott'm Forest,18,opta,misc_opp_yellows,9.0,17,2026-10-06
+Nott'm Forest,18,opta,misc_pens_conceded,0.0,17,2026-10-06
+Nott'm Forest,18,opta,misc_pens_won,1.0,17,2026-10-06
+Nott'm Forest,18,opta,misc_reds,0.0,17,2026-10-06
+Nott'm Forest,18,opta,misc_subs_goals,1.0,17,2026-10-06
+Nott'm Forest,18,opta,misc_subs_used,19.0,17,2026-10-06
+Nott'm Forest,18,opta,misc_yellows,13.0,17,2026-10-06
+Nott'm Forest,18,opta,possession_accuracy,79.29,17,2026-10-06
+Nott'm Forest,18,opta,possession_aerial_duel_success_perc,54.4,17,2026-10-06
+Nott'm Forest,18,opta,possession_backward_pass_perc,15.6,17,2026-10-06
+Nott'm Forest,18,opta,possession_blocks,19.0,17,2026-10-06
+Nott'm Forest,18,opta,possession_clearances,153.0,17,2026-10-06
+Nott'm Forest,18,opta,possession_final_third_passes,589.0,17,2026-10-06
+Nott'm Forest,18,opta,possession_fwd_pass_perc,37.59,17,2026-10-06
+Nott'm Forest,18,opta,possession_ground_duel_success_perc,48.2,17,2026-10-06
+Nott'm Forest,18,opta,possession_interceptions,25.0,17,2026-10-06
+Nott'm Forest,18,opta,possession_left_pass_perc,22.52,17,2026-10-06
+Nott'm Forest,18,opta,possession_op_cross_accuracy_perc,28.79,17,2026-10-06
+Nott'm Forest,18,opta,possession_op_crosses,66.0,17,2026-10-06
+Nott'm Forest,18,opta,possession_passes,1878.0,17,2026-10-06
+Nott'm Forest,18,opta,possession_pos_perc,47.340000534057616,17,2026-10-06
+Nott'm Forest,18,opta,possession_rec,237.0,17,2026-10-06
+Nott'm Forest,18,opta,possession_right_pass_perc,24.28,17,2026-10-06
+Nott'm Forest,18,opta,possession_successful_final_third_passes,418.0,17,2026-10-06
+Nott'm Forest,18,opta,possession_successful_final_third_passes_perc,70.97,17,2026-10-06
+Nott'm Forest,18,opta,possession_successful_long_balls_perc,43.73,17,2026-10-06
+Nott'm Forest,18,opta,possession_successful_op_crosses,19.0,17,2026-10-06
+Nott'm Forest,18,opta,possession_successful_pass,1489.0,17,2026-10-06
+Nott'm Forest,18,opta,possession_through_balls,13.0,17,2026-10-06
+Nott'm Forest,18,opta,possession_total_tackles,91.0,17,2026-10-06
+Nott'm Forest,18,opta,sequences_build_up_goals,0.0,17,2026-10-06
+Nott'm Forest,18,opta,sequences_build_ups,4.0,17,2026-10-06
+Nott'm Forest,18,opta,sequences_defensive_actions,132.0,17,2026-10-06
+Nott'm Forest,18,opta,sequences_direct_attack_goals,0.0,17,2026-10-06
+Nott'm Forest,18,opta,sequences_direct_attacks,7.0,17,2026-10-06
+Nott'm Forest,18,opta,sequences_direct_speed_for,1.9,17,2026-10-06
+Nott'm Forest,18,opta,sequences_goal_ending_high_turnovers,1.0,17,2026-10-06
+Nott'm Forest,18,opta,sequences_high_turnovers,22.0,17,2026-10-06
+Nott'm Forest,18,opta,sequences_opposition_passes,1603.0,17,2026-10-06
+Nott'm Forest,18,opta,sequences_passes_for,2.99,17,2026-10-06
+Nott'm Forest,18,opta,sequences_ppda,12.1,17,2026-10-06
+Nott'm Forest,18,opta,sequences_pressed_sequences,36.0,17,2026-10-06
+Nott'm Forest,18,opta,sequences_seq_time_for,7.94,17,2026-10-06
+Nott'm Forest,18,opta,sequences_shot_ending_high_turnovers,6.0,17,2026-10-06
+Nott'm Forest,18,opta,sequences_shot_ending_hto_perc,27.273,17,2026-10-06
+Nott'm Forest,18,opta,sequences_start_distance,38.3,17,2026-10-06
+Nott'm Forest,18,opta,sequences_ten_plus_passes,28.0,17,2026-10-06
+Spurs,19,opta,attack_goals,2.0,6,2026-10-06
+Spurs,19,opta,attack_goals_in_box_perc,100.0,6,2026-10-06
+Spurs,19,opta,attack_goals_vs_xg,-3.0,6,2026-10-06
+Spurs,19,opta,attack_misc_dfk,4.0,6,2026-10-06
+Spurs,19,opta,attack_misc_dfk_goals,0.0,6,2026-10-06
+Spurs,19,opta,attack_misc_fast_break_goals,0.0,6,2026-10-06
+Spurs,19,opta,attack_misc_fast_break_shots,1.0,6,2026-10-06
+Spurs,19,opta,attack_misc_headed_goals,1.0,6,2026-10-06
+Spurs,19,opta,attack_misc_headed_shots,11.0,6,2026-10-06
+Spurs,19,opta,attack_misc_hit_woodwork,0.0,6,2026-10-06
+Spurs,19,opta,attack_misc_offsides,12.0,6,2026-10-06
+Spurs,19,opta,attack_misc_pen_goals,0.0,6,2026-10-06
+Spurs,19,opta,attack_misc_pens,0.0,6,2026-10-06
+Spurs,19,opta,attack_misc_tch_in_box,150.0,6,2026-10-06
+Spurs,19,opta,attack_non_pen_goals_in_box_perc,100.0,6,2026-10-06
+Spurs,19,opta,attack_non_pen_goals_vs_xg,-3.0,6,2026-10-06
+Spurs,19,opta,attack_non_pen_np_goals,2.0,6,2026-10-06
+Spurs,19,opta,attack_non_pen_np_shots,71.0,6,2026-10-06
+Spurs,19,opta,attack_non_pen_np_sot,19.0,6,2026-10-06
+Spurs,19,opta,attack_non_pen_shot_conv,2.8169,6,2026-10-06
+Spurs,19,opta,attack_non_pen_shots_in_box_perc,59.1549,6,2026-10-06
+Spurs,19,opta,attack_non_pen_team_np_xG,5.0,6,2026-10-06
+Spurs,19,opta,attack_non_pen_xg_per_shot,0.07,6,2026-10-06
+Spurs,19,opta,attack_set_piece_sp_goals,1.0,6,2026-10-06
+Spurs,19,opta,attack_set_piece_sp_shots,27.0,6,2026-10-06
+Spurs,19,opta,attack_set_piece_team_sp_goal_perc,50.0,6,2026-10-06
+Spurs,19,opta,attack_set_piece_team_sp_shot_perc,38.03,6,2026-10-06
+Spurs,19,opta,attack_set_piece_team_sp_xG,1.89,6,2026-10-06
+Spurs,19,opta,attack_set_piece_team_sp_xg_perc,37.8,6,2026-10-06
+Spurs,19,opta,attack_shot_conv,2.8169,6,2026-10-06
+Spurs,19,opta,attack_shots_in_box_perc,59.155,6,2026-10-06
+Spurs,19,opta,attack_sot,19.0,6,2026-10-06
+Spurs,19,opta,attack_total_shots,71.0,6,2026-10-06
+Spurs,19,opta,attack_xg,5.0,6,2026-10-06
+Spurs,19,opta,attack_xg_per_shot,0.07,6,2026-10-06
+Spurs,19,opta,defending_goals_against,8.0,6,2026-10-06
+Spurs,19,opta,defending_goals_in_box_perc_against,87.5,6,2026-10-06
+Spurs,19,opta,defending_goals_vs_xg_conceded,0.14,6,2026-10-06
+Spurs,19,opta,defending_misc_dfk_against,2.0,6,2026-10-06
+Spurs,19,opta,defending_misc_dfk_goals_against,0.0,6,2026-10-06
+Spurs,19,opta,defending_misc_fast_break_goals_against,0.0,6,2026-10-06
+Spurs,19,opta,defending_misc_fast_break_shots_against,6.0,6,2026-10-06
+Spurs,19,opta,defending_misc_headed_goals_against,0.0,6,2026-10-06
+Spurs,19,opta,defending_misc_headed_shots_against,15.0,6,2026-10-06
+Spurs,19,opta,defending_misc_offsides_provoked,9.0,6,2026-10-06
+Spurs,19,opta,defending_misc_opp_hit_woodwork,1.0,6,2026-10-06
+Spurs,19,opta,defending_misc_opp_tch_in_box,110.0,6,2026-10-06
+Spurs,19,opta,defending_misc_pen_goals_against,0.0,6,2026-10-06
+Spurs,19,opta,defending_misc_pens_faced,1.0,6,2026-10-06
+Spurs,19,opta,defending_non_pen_goals_in_box_perc_against,75.0,6,2026-10-06
+Spurs,19,opta,defending_non_pen_goals_vs_xg_against,0.93,6,2026-10-06
+Spurs,19,opta,defending_non_pen_np_goals_against,8.0,6,2026-10-06
+Spurs,19,opta,defending_non_pen_np_shots_against,75.0,6,2026-10-06
+Spurs,19,opta,defending_non_pen_np_sot_against,21.0,6,2026-10-06
+Spurs,19,opta,defending_non_pen_shot_conv_against,10.6667,6,2026-10-06
+Spurs,19,opta,defending_non_pen_shots_in_box_perc_against,65.3333,6,2026-10-06
+Spurs,19,opta,defending_non_pen_team_np_xG_against,7.07,6,2026-10-06
+Spurs,19,opta,defending_non_pen_xg_per_shot_against,0.094,6,2026-10-06
+Spurs,19,opta,defending_set_piece_sp_goals_against,2.0,6,2026-10-06
+Spurs,19,opta,defending_set_piece_sp_shots,22.0,6,2026-10-06
+Spurs,19,opta,defending_set_piece_team_sp_goal_perc_against,25.0,6,2026-10-06
+Spurs,19,opta,defending_set_piece_team_sp_shot_perc_against,28.95,6,2026-10-06
+Spurs,19,opta,defending_set_piece_team_sp_xG_against,2.12,6,2026-10-06
+Spurs,19,opta,defending_set_piece_team_sp_xg_perc_against,26.94,6,2026-10-06
+Spurs,19,opta,defending_shot_conv_against,10.5263,6,2026-10-06
+Spurs,19,opta,defending_shots_in_box_perc_against,65.7895,6,2026-10-06
+Spurs,19,opta,defending_sot_against,21.0,6,2026-10-06
+Spurs,19,opta,defending_total_shots_against,76.0,6,2026-10-06
+Spurs,19,opta,defending_xg_against,7.86,6,2026-10-06
+Spurs,19,opta,defending_xg_per_shot_against,0.103,6,2026-10-06
+Spurs,19,opta,misc_errors_lead_to_goal,2.0,6,2026-10-06
+Spurs,19,opta,misc_errors_lead_to_shot,7.0,6,2026-10-06
+Spurs,19,opta,misc_fouls_lost,63.0,6,2026-10-06
+Spurs,19,opta,misc_fouls_won,67.0,6,2026-10-06
+Spurs,19,opta,misc_opp_reds,0.0,6,2026-10-06
+Spurs,19,opta,misc_opp_yellows,9.0,6,2026-10-06
+Spurs,19,opta,misc_pens_conceded,1.0,6,2026-10-06
+Spurs,19,opta,misc_pens_won,0.0,6,2026-10-06
+Spurs,19,opta,misc_reds,0.0,6,2026-10-06
+Spurs,19,opta,misc_subs_goals,1.0,6,2026-10-06
+Spurs,19,opta,misc_subs_used,24.0,6,2026-10-06
+Spurs,19,opta,misc_yellows,5.0,6,2026-10-06
+Spurs,19,opta,possession_accuracy,88.31,6,2026-10-06
+Spurs,19,opta,possession_aerial_duel_success_perc,43.44,6,2026-10-06
+Spurs,19,opta,possession_backward_pass_perc,16.42,6,2026-10-06
+Spurs,19,opta,possession_blocks,23.0,6,2026-10-06
+Spurs,19,opta,possession_clearances,110.0,6,2026-10-06
+Spurs,19,opta,possession_final_third_passes,841.0,6,2026-10-06
+Spurs,19,opta,possession_fwd_pass_perc,27.24,6,2026-10-06
+Spurs,19,opta,possession_ground_duel_success_perc,52.04,6,2026-10-06
+Spurs,19,opta,possession_interceptions,31.0,6,2026-10-06
+Spurs,19,opta,possession_left_pass_perc,26.21,6,2026-10-06
+Spurs,19,opta,possession_op_cross_accuracy_perc,21.95,6,2026-10-06
+Spurs,19,opta,possession_op_crosses,82.0,6,2026-10-06
+Spurs,19,opta,possession_passes,2728.0,6,2026-10-06
+Spurs,19,opta,possession_pos_perc,60.58000030517578,6,2026-10-06
+Spurs,19,opta,possession_rec,232.0,6,2026-10-06
+Spurs,19,opta,possession_right_pass_perc,30.13,6,2026-10-06
+Spurs,19,opta,possession_successful_final_third_passes,678.0,6,2026-10-06
+Spurs,19,opta,possession_successful_final_third_passes_perc,80.62,6,2026-10-06
+Spurs,19,opta,possession_successful_long_balls_perc,46.56,6,2026-10-06
+Spurs,19,opta,possession_successful_op_crosses,18.0,6,2026-10-06
+Spurs,19,opta,possession_successful_pass,2409.0,6,2026-10-06
+Spurs,19,opta,possession_through_balls,10.0,6,2026-10-06
+Spurs,19,opta,possession_total_tackles,93.0,6,2026-10-06
+Spurs,19,opta,sequences_build_up_goals,0.0,6,2026-10-06
+Spurs,19,opta,sequences_build_ups,21.0,6,2026-10-06
+Spurs,19,opta,sequences_defensive_actions,159.0,6,2026-10-06
+Spurs,19,opta,sequences_direct_attack_goals,0.0,6,2026-10-06
+Spurs,19,opta,sequences_direct_attacks,3.0,6,2026-10-06
+Spurs,19,opta,sequences_direct_speed_for,1.63,6,2026-10-06
+Spurs,19,opta,sequences_goal_ending_high_turnovers,1.0,6,2026-10-06
+Spurs,19,opta,sequences_high_turnovers,48.0,6,2026-10-06
+Spurs,19,opta,sequences_opposition_passes,1404.0,6,2026-10-06
+Spurs,19,opta,sequences_passes_for,4.38,6,2026-10-06
+Spurs,19,opta,sequences_ppda,8.8,6,2026-10-06
+Spurs,19,opta,sequences_pressed_sequences,68.0,6,2026-10-06
+Spurs,19,opta,sequences_seq_time_for,12.23,6,2026-10-06
+Spurs,19,opta,sequences_shot_ending_high_turnovers,3.0,6,2026-10-06
+Spurs,19,opta,sequences_shot_ending_hto_perc,6.25,6,2026-10-06
+Spurs,19,opta,sequences_start_distance,46.0,6,2026-10-06
+Spurs,19,opta,sequences_ten_plus_passes,84.0,6,2026-10-06
+Sunderland,20,opta,attack_goals,6.0,56,2026-10-06
+Sunderland,20,opta,attack_goals_in_box_perc,83.333,56,2026-10-06
+Sunderland,20,opta,attack_goals_vs_xg,-3.77,56,2026-10-06
+Sunderland,20,opta,attack_misc_dfk,3.0,56,2026-10-06
+Sunderland,20,opta,attack_misc_dfk_goals,1.0,56,2026-10-06
+Sunderland,20,opta,attack_misc_fast_break_goals,0.0,56,2026-10-06
+Sunderland,20,opta,attack_misc_fast_break_shots,3.0,56,2026-10-06
+Sunderland,20,opta,attack_misc_headed_goals,0.0,56,2026-10-06
+Sunderland,20,opta,attack_misc_headed_shots,12.0,56,2026-10-06
+Sunderland,20,opta,attack_misc_hit_woodwork,5.0,56,2026-10-06
+Sunderland,20,opta,attack_misc_offsides,10.0,56,2026-10-06
+Sunderland,20,opta,attack_misc_pen_goals,1.0,56,2026-10-06
+Sunderland,20,opta,attack_misc_pens,2.0,56,2026-10-06
+Sunderland,20,opta,attack_misc_tch_in_box,123.0,56,2026-10-06
+Sunderland,20,opta,attack_non_pen_goals_in_box_perc,80.0,56,2026-10-06
+Sunderland,20,opta,attack_non_pen_goals_vs_xg,-3.19,56,2026-10-06
+Sunderland,20,opta,attack_non_pen_np_goals,5.0,56,2026-10-06
+Sunderland,20,opta,attack_non_pen_np_shots,64.0,56,2026-10-06
+Sunderland,20,opta,attack_non_pen_np_sot,23.0,56,2026-10-06
+Sunderland,20,opta,attack_non_pen_shot_conv,7.8125,56,2026-10-06
+Sunderland,20,opta,attack_non_pen_shots_in_box_perc,67.1875,56,2026-10-06
+Sunderland,20,opta,attack_non_pen_team_np_xG,8.19,56,2026-10-06
+Sunderland,20,opta,attack_non_pen_xg_per_shot,0.128,56,2026-10-06
+Sunderland,20,opta,attack_set_piece_sp_goals,2.0,56,2026-10-06
+Sunderland,20,opta,attack_set_piece_sp_shots,29.0,56,2026-10-06
+Sunderland,20,opta,attack_set_piece_team_sp_goal_perc,33.33,56,2026-10-06
+Sunderland,20,opta,attack_set_piece_team_sp_shot_perc,43.94,56,2026-10-06
+Sunderland,20,opta,attack_set_piece_team_sp_xG,3.19,56,2026-10-06
+Sunderland,20,opta,attack_set_piece_team_sp_xg_perc,32.62,56,2026-10-06
+Sunderland,20,opta,attack_shot_conv,9.0909,56,2026-10-06
+Sunderland,20,opta,attack_shots_in_box_perc,68.182,56,2026-10-06
+Sunderland,20,opta,attack_sot,25.0,56,2026-10-06
+Sunderland,20,opta,attack_total_shots,66.0,56,2026-10-06
+Sunderland,20,opta,attack_xg,9.77,56,2026-10-06
+Sunderland,20,opta,attack_xg_per_shot,0.148,56,2026-10-06
+Sunderland,20,opta,defending_goals_against,10.0,56,2026-10-06
+Sunderland,20,opta,defending_goals_in_box_perc_against,80.0,56,2026-10-06
+Sunderland,20,opta,defending_goals_vs_xg_conceded,1.35,56,2026-10-06
+Sunderland,20,opta,defending_misc_dfk_against,1.0,56,2026-10-06
+Sunderland,20,opta,defending_misc_dfk_goals_against,1.0,56,2026-10-06
+Sunderland,20,opta,defending_misc_fast_break_goals_against,1.0,56,2026-10-06
+Sunderland,20,opta,defending_misc_fast_break_shots_against,5.0,56,2026-10-06
+Sunderland,20,opta,defending_misc_headed_goals_against,0.0,56,2026-10-06
+Sunderland,20,opta,defending_misc_headed_shots_against,11.0,56,2026-10-06
+Sunderland,20,opta,defending_misc_offsides_provoked,4.0,56,2026-10-06
+Sunderland,20,opta,defending_misc_opp_hit_woodwork,0.0,56,2026-10-06
+Sunderland,20,opta,defending_misc_opp_tch_in_box,118.0,56,2026-10-06
+Sunderland,20,opta,defending_misc_pen_goals_against,1.0,56,2026-10-06
+Sunderland,20,opta,defending_misc_pens_faced,1.0,56,2026-10-06
+Sunderland,20,opta,defending_non_pen_goals_in_box_perc_against,77.7778,56,2026-10-06
+Sunderland,20,opta,defending_non_pen_goals_vs_xg_against,1.14,56,2026-10-06
+Sunderland,20,opta,defending_non_pen_np_goals_against,9.0,56,2026-10-06
+Sunderland,20,opta,defending_non_pen_np_shots_against,59.0,56,2026-10-06
+Sunderland,20,opta,defending_non_pen_np_sot_against,15.0,56,2026-10-06
+Sunderland,20,opta,defending_non_pen_shot_conv_against,15.2542,56,2026-10-06
+Sunderland,20,opta,defending_non_pen_shots_in_box_perc_against,69.4915,56,2026-10-06
+Sunderland,20,opta,defending_non_pen_team_np_xG_against,7.86,56,2026-10-06
+Sunderland,20,opta,defending_non_pen_xg_per_shot_against,0.133,56,2026-10-06
+Sunderland,20,opta,defending_set_piece_sp_goals_against,2.0,56,2026-10-06
+Sunderland,20,opta,defending_set_piece_sp_shots,21.0,56,2026-10-06
+Sunderland,20,opta,defending_set_piece_team_sp_goal_perc_against,20.0,56,2026-10-06
+Sunderland,20,opta,defending_set_piece_team_sp_shot_perc_against,35.0,56,2026-10-06
+Sunderland,20,opta,defending_set_piece_team_sp_xG_against,1.55,56,2026-10-06
+Sunderland,20,opta,defending_set_piece_team_sp_xg_perc_against,17.87,56,2026-10-06
+Sunderland,20,opta,defending_shot_conv_against,16.6667,56,2026-10-06
+Sunderland,20,opta,defending_shots_in_box_perc_against,70.0,56,2026-10-06
+Sunderland,20,opta,defending_sot_against,16.0,56,2026-10-06
+Sunderland,20,opta,defending_total_shots_against,60.0,56,2026-10-06
+Sunderland,20,opta,defending_xg_against,8.65,56,2026-10-06
+Sunderland,20,opta,defending_xg_per_shot_against,0.144,56,2026-10-06
+Sunderland,20,opta,misc_errors_lead_to_goal,3.0,56,2026-10-06
+Sunderland,20,opta,misc_errors_lead_to_shot,4.0,56,2026-10-06
+Sunderland,20,opta,misc_fouls_lost,64.0,56,2026-10-06
+Sunderland,20,opta,misc_fouls_won,69.0,56,2026-10-06
+Sunderland,20,opta,misc_opp_reds,0.0,56,2026-10-06
+Sunderland,20,opta,misc_opp_yellows,7.0,56,2026-10-06
+Sunderland,20,opta,misc_pens_conceded,1.0,56,2026-10-06
+Sunderland,20,opta,misc_pens_won,2.0,56,2026-10-06
+Sunderland,20,opta,misc_reds,1.0,56,2026-10-06
+Sunderland,20,opta,misc_subs_goals,1.0,56,2026-10-06
+Sunderland,20,opta,misc_subs_used,17.0,56,2026-10-06
+Sunderland,20,opta,misc_yellows,10.0,56,2026-10-06
+Sunderland,20,opta,possession_accuracy,81.78,56,2026-10-06
+Sunderland,20,opta,possession_aerial_duel_success_perc,50.83,56,2026-10-06
+Sunderland,20,opta,possession_backward_pass_perc,17.92,56,2026-10-06
+Sunderland,20,opta,possession_blocks,22.0,56,2026-10-06
+Sunderland,20,opta,possession_clearances,119.0,56,2026-10-06
+Sunderland,20,opta,possession_final_third_passes,558.0,56,2026-10-06
+Sunderland,20,opta,possession_fwd_pass_perc,33.8,56,2026-10-06
+Sunderland,20,opta,possession_ground_duel_success_perc,53.53,56,2026-10-06
+Sunderland,20,opta,possession_interceptions,40.0,56,2026-10-06
+Sunderland,20,opta,possession_left_pass_perc,25.61,56,2026-10-06
+Sunderland,20,opta,possession_op_cross_accuracy_perc,25.4,56,2026-10-06
+Sunderland,20,opta,possession_op_crosses,63.0,56,2026-10-06
+Sunderland,20,opta,possession_passes,2003.0,56,2026-10-06
+Sunderland,20,opta,possession_pos_perc,48.44000015258789,56,2026-10-06
+Sunderland,20,opta,possession_rec,217.0,56,2026-10-06
+Sunderland,20,opta,possession_right_pass_perc,22.67,56,2026-10-06
+Sunderland,20,opta,possession_successful_final_third_passes,372.0,56,2026-10-06
+Sunderland,20,opta,possession_successful_final_third_passes_perc,66.67,56,2026-10-06
+Sunderland,20,opta,possession_successful_long_balls_perc,52.92,56,2026-10-06
+Sunderland,20,opta,possession_successful_op_crosses,16.0,56,2026-10-06
+Sunderland,20,opta,possession_successful_pass,1638.0,56,2026-10-06
+Sunderland,20,opta,possession_through_balls,12.0,56,2026-10-06
+Sunderland,20,opta,possession_total_tackles,78.0,56,2026-10-06
+Sunderland,20,opta,sequences_build_up_goals,0.0,56,2026-10-06
+Sunderland,20,opta,sequences_build_ups,7.0,56,2026-10-06
+Sunderland,20,opta,sequences_defensive_actions,148.0,56,2026-10-06
+Sunderland,20,opta,sequences_direct_attack_goals,1.0,56,2026-10-06
+Sunderland,20,opta,sequences_direct_attacks,6.0,56,2026-10-06
+Sunderland,20,opta,sequences_direct_speed_for,1.79,56,2026-10-06
+Sunderland,20,opta,sequences_goal_ending_high_turnovers,0.0,56,2026-10-06
+Sunderland,20,opta,sequences_high_turnovers,29.0,56,2026-10-06
+Sunderland,20,opta,sequences_opposition_passes,1543.0,56,2026-10-06
+Sunderland,20,opta,sequences_passes_for,3.28,56,2026-10-06
+Sunderland,20,opta,sequences_ppda,10.4,56,2026-10-06
+Sunderland,20,opta,sequences_pressed_sequences,52.0,56,2026-10-06
+Sunderland,20,opta,sequences_seq_time_for,8.98,56,2026-10-06
+Sunderland,20,opta,sequences_shot_ending_high_turnovers,3.0,56,2026-10-06
+Sunderland,20,opta,sequences_shot_ending_hto_perc,10.345,56,2026-10-06
+Sunderland,20,opta,sequences_start_distance,41.7,56,2026-10-06
+Sunderland,20,opta,sequences_ten_plus_passes,42.0,56,2026-10-06

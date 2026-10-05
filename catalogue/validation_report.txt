@@ -1,6 +1,6 @@
-PL catalogue validation - 2026-10-05
+PL catalogue validation - 2026-10-06
 ============================================================
-row counts: clubs=20, players=667, gws=38, fixtures=380, player_fixture=3216, player_snapshot=667, player_season_prior=2109, season_stats=8628
+row counts: clubs=20, players=667, gws=38, fixtures=380, player_fixture=3216, player_snapshot=667, player_season_prior=2109, season_stats=36916
 
 [PASS] clubs: 20 (expect 20)
 [PASS] gws: 38 (expect 38)
@@ -26,7 +26,7 @@ coverage key_understat: 511/667 (76.6%)
 coverage key_transfermarkt: 628/667 (94.2%)
 coverage date_of_birth: 666/667 (99.9%)
 coverage nationality: 613/667 (91.9%)
-coverage season_stats players: 420/667 (63.0%)
+coverage season_stats players: 476/667 (71.4%)
 latest snapshot: 667 players
 [PASS] identity coverage: reep_id >70% required
 [PASS] season_stats coverage: stats >40% required (grows with enrichment)
@@ -47,5 +47,10 @@ xp_projection: 25346 rows, 667 players, backtest MAE=1.192 over 2668 rows
 [PASS] xp backtest mae: 1.192 (<2.0 required)
 
 transfer_history: 1897 rows over 5 seasons, 839 matched to FPL players, 822 with fees
+
+opta: 28288 player values over 476 players, 2440 team values over 20 clubs
+[PASS] opta team coverage: 20/20 clubs with club_stats rows
+[PASS] opta player coverage: 476 players with Opta metrics (>=300 required)
+[PASS] opta metric families: 28288 player metric values (>=5000 required)
 
 ALL CHECKS PASSED

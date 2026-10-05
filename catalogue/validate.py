@@ -9,6 +9,7 @@ from pathlib import Path
 
 DB = Path(__file__).parent / "catalogue.db"
 OUT = Path(__file__).parent / "validation_report.txt"
+SEASON = "2026-27"
 
 TABLES = ["clubs", "players", "gws", "fixtures", "player_fixture",
           "player_snapshot", "player_season_prior", "season_stats"]
@@ -192,6 +193,35 @@ def run(verbose=True):
         ).fetchone()[0]
         lines.append(f"transfer_history: {n_th} rows over {n_saisons} seasons, "
                      f"{n_matched} matched to FPL players, {n_fees} with fees")
+
+    # --- Opta season stats via The Analyst (enrich_opta) ---
+    lines.append("")
+    if not con.execute("SELECT 1 FROM sqlite_master WHERE type='table'"
+                       " AND name='club_stats'").fetchone():
+        lines.append("[INFO] club_stats not present (enrich_opta not run)")
+    else:
+        n_cs = con.execute(
+            "SELECT COUNT(*) FROM club_stats WHERE season=?", (SEASON,)).fetchone()[0]
+        n_cs_clubs = con.execute(
+            "SELECT COUNT(DISTINCT club_id) FROM club_stats WHERE season=?",
+            (SEASON,)).fetchone()[0]
+        n_opta = con.execute(
+            "SELECT COUNT(*) FROM season_stats WHERE source='opta'"
+            " AND season=?", (SEASON,)).fetchone()[0]
+        n_opta_pl = con.execute(
+            "SELECT COUNT(DISTINCT player_id) FROM season_stats WHERE source='opta'"
+            " AND season=?", (SEASON,)).fetchone()[0]
+        if n_cs == 0 and n_opta == 0:
+            lines.append("[INFO] opta stats empty (enrich_opta not run or feed down)")
+        else:
+            lines.append(f"opta: {n_opta} player values over {n_opta_pl} players, "
+                         f"{n_cs} team values over {n_cs_clubs} clubs")
+            check("opta team coverage", n_cs_clubs == 20,
+                  f"{n_cs_clubs}/20 clubs with club_stats rows")
+            check("opta player coverage", n_opta_pl >= 300,
+                  f"{n_opta_pl} players with Opta metrics (>=300 required)")
+            check("opta metric families", n_opta >= 5000,
+                  f"{n_opta} player metric values (>=5000 required)")
 
     lines.append("")
     lines.append(("ALL CHECKS PASSED" if not fails else f"FAILURES: {', '.join(fails)}"))

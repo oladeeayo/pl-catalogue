@@ -10,11 +10,12 @@ data/2026-27/
 │   └── First_Last_id/
 │       ├── profile.csv         # identity + live snapshot + season + market (1 row)
 │       ├── gw.csv              # their per-GW performance rows (fixture context + result)
-│       ├── season_stats.csv    # FBref + Understat season metrics (long format)
+│       ├── season_stats.csv    # FBref + Understat + Opta season metrics (long format)
 │       ├── shots.csv           # Understat shot events they took (x, y, xG, body part…)
 │       ├── history.csv         # prior-season FPL career history
 │       ├── market.csv          # Transfermarkt value/contract snapshots (time series)
 │       └── transfers.csv       # their transfer history (fees, loans, 5 seasons)
+├── club_stats.csv               # Opta team season metrics (long format, The Analyst/sdapi)
 ├── gws/                        # one slice per matchweek (only played GWs)
 │   ├── gw1.csv … gw5.csv       # every player's row in that GW
 │   ├── merged_gw.csv           # all GWs stacked
@@ -56,7 +57,8 @@ data/2026-27/
 | players / clubs / fixtures | 667 / 20 / 380 |
 | player-fixture rows | 3,216 |
 | shot events | 1,398 (99.4% player-resolved) |
-| season metric rows | 8,628 (420 players) |
+| season metric rows | 36,916 (476 players: 28,288 Opta, 6,545 FBref, 2,083 Understat) |
+| Opta team rows (club_stats.csv) | 2,440 metrics over 20 clubs |
 | market snapshots | 530 players, €13.1bn |
 | transfer rows | 1,897 (522 players with per-player files) |
 | expected-points rows | 25,346 (backtest MAE 1.19) |

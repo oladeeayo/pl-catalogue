@@ -4,10 +4,10 @@
       /TR "\"C:\\...\\python.exe\" \"C:\\...\\catalogue\\run_weekly.py\""
 
 Steps: FPL spine -> Reep identity -> stats seed -> Understat enrichment ->
-Transfermarkt enrichment -> transfer history -> xP model -> validation ->
-data export (data/<season>/ tree). Every step is idempotent; history rows are
-never mutated (append-only facts), so a failed run leaves the catalogue
-consistent.
+Transfermarkt enrichment -> Opta enrichment (The Analyst) -> transfer history
+-> xP model -> validation -> data export (data/<season>/ tree). Every step is
+idempotent; history rows are never mutated (append-only facts), so a failed
+run leaves the catalogue consistent.
 """
 import traceback
 from datetime import datetime
@@ -24,6 +24,7 @@ def log(msg):
 
 
 def main():
+    import enrich_opta
     import enrich_transfermarkt
     import enrich_transfers
     import enrich_understat
@@ -37,6 +38,7 @@ def main():
     steps = [("fpl_spine", fpl_spine.sync), ("identity", identity.run),
              ("stats_seed", stats_seed.run), ("enrich_understat", enrich_understat.run),
              ("enrich_transfermarkt", enrich_transfermarkt.run),
+             ("enrich_opta", enrich_opta.run),
              ("enrich_transfers", enrich_transfers.main),
              ("xp_model", xp_model.main),
              ("validate", validate.run), ("export", export_data.run)]

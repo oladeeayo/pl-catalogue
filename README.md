@@ -9,6 +9,7 @@ expected-points forecast. This README explains how to navigate the data.
 ```
 data/2026-27/
 ├── players.csv                  # master table: one row per player, all sources flattened
+├── club_stats.csv               # Opta team season metrics (long format, The Analyst/sdapi)
 ├── gws/
 │   ├── gw1.csv … gw5.csv        # every player's row in that gameweek
 │   ├── merged_gw.csv            # all gameweeks stacked
@@ -69,6 +70,7 @@ Folder names are `First_Second_playerid` (accents/spaces stripped from the name)
 | FPL official API | spine: clubs, players, fixtures, per-GW stats, prices, xG/xA | weekly |
 | Reep crosswalk | identity: cross-provider ids, DOB, nationality (95.5% linked) | on release |
 | FBref (Opta) | season tables: shooting, passing, possession, defence, misc | on demand¹ |
+| **The Analyst / Opta (sdapi)** | **season totals the FBref feed can't serve: goalkeeping (xGOT, goals prevented, save%), set pieces, duels, progressive carries, discipline; full team-level tables** | **weekly (feed refreshes daily 05:36)²** |
 | Understat | shot events, per-appearance xG/xA | weekly |
 | Transfermarkt | market values, contracts, transfer history (5 seasons) | daily / weekly |
 | local model `ols-v1` | expected points (`xp_projection` → `gws/xP1.csv`) | weekly |
@@ -76,6 +78,20 @@ Folder names are `First_Second_playerid` (accents/spaces stripped from the name)
 ¹ FBref currently serves empty advanced-stat columns (their Opta feed lapsed in
 Jan 2026); scraping is a manual browser step — `python fbref_scrape.py` — and the
 pipeline skips what isn't there.
+
+² Opta season totals are pulled from The Analyst's public sdapi endpoint
+(`wp-json/sdapi/v1/soccerdata/tournamentstats?tmcl=...`), parsed fresh from
+theanalyst.com/competition/premier-league/stats each run (fallback token if the page is
+down). The feed refreshes daily (last 2026-10-05 05:36). Those totals cover the metric
+families FBref can't currently serve; FBref's own pages remain the source of truth for
+shooting detail (the Opta family there) and anything the sdapi feed doesn't expose.
+
+² Opta season totals are pulled from The Analyst's public sdapi endpoint
+(`wp-json/sdapi/v1/soccerdata/tournamentstats?tmcl=...`), parsed fresh from
+theanalyst.com/competition/premier-league/stats each run (fallback token if the page is
+down). The feed refreshes daily (last 2026-10-05 05:36). Those totals cover the metric
+families FBref can't currently serve; FBref's own pages remain the source of truth for
+shooting detail (the Opta family there) and anything the sdapi feed doesn't expose.
 
 Raw source captures live in **`sources/`** (FBref HTML + extracts, Understat JSON,
 Reep CSV, merged season metrics). `catalogue/` holds the pipeline code;
@@ -98,7 +114,8 @@ Weekly automation runs Mondays 06:00 via Task Scheduler (`catalogue/run.bat`).
 | players / clubs / fixtures | 667 / 20 / 380 |
 | player-fixture rows | 3,216 |
 | shot events | 1,398 (99.4% player-resolved) |
-| season metric rows | 8,628 (420 players) |
+| season metric rows | 36,916 (476 players: 28,288 Opta, 6,545 FBref, 2,083 Understat) |
+| Opta team rows (club_stats.csv) | 2,440 metrics over 20 clubs |
 | market snapshots | 530 players, €13.1bn |
 | transfer rows | 1,897 (839 matched to current players) |
 | expected-points rows | 25,346 (backtest MAE 1.19) |
