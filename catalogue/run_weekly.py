@@ -1,6 +1,6 @@
 """Weekly catalogue runner. Intended for Windows Task Scheduler:
 
-  schtasks /Create /TN "pl-catalogue" /SC WEEKLY /D TUE /ST 02:00 ^
+  schtasks /Create /TN "pl-catalogue" /SC WEEKLY /D TUE /ST 10:00 ^
       /TR "\"C:\\...\\python.exe\" \"C:\\...\\catalogue\\run_weekly.py\""
 
 Steps: FPL spine -> Reep identity -> stats seed -> Understat enrichment ->
