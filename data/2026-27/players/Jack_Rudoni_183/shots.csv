@@ -5,3 +5,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 694491,31217,38,4,2026-09-13 13:00:00,22,183,Rudoni,Jay Dasilva,0.899,0.564,0.0333,MissedShots,OpenPlay,Head,Aerial,h
 694492,31217,38,4,2026-09-13 13:00:00,26,183,Rudoni,Jay Dasilva,0.929,0.434,0.334,SavedShot,OpenPlay,RightFoot,Chipped,h
 696134,31227,47,5,2026-09-19 16:30:00,2,183,Rudoni,Ephron Mason-Clark,0.817,0.586,0.0861,MissedShots,OpenPlay,LeftFoot,Pass,a
+698527,31239,54,6,2026-10-12 19:00:00,5,183,Rudoni,,0.885,0.5,0.7612,Goal,Penalty,LeftFoot,Standard,h

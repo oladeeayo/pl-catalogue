@@ -12,3 +12,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 695944,31224,42,5,2026-09-19 14:00:00,34,138,Kostoulas,Diego Gómez,0.746,0.427,0.0255,MissedShots,OpenPlay,RightFoot,Pass,h
 695949,31224,42,5,2026-09-19 14:00:00,44,138,Kostoulas,Diego Gómez,0.756,0.419,0.0486,Goal,OpenPlay,RightFoot,Pass,h
 695950,31224,42,5,2026-09-19 14:00:00,50,138,Kostoulas,Pascal Groß,0.806,0.338,0.0877,MissedShots,OpenPlay,RightFoot,Pass,h
+697457,31234,60,6,2026-10-10 14:00:00,19,138,Kostoulas,Pascal Groß,0.71,0.609,0.0132,BlockedShot,OpenPlay,RightFoot,BallTouch,a

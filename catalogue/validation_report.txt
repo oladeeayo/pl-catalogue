@@ -1,12 +1,12 @@
-PL catalogue validation - 2026-10-06
+PL catalogue validation - 2026-10-14
 ============================================================
-row counts: clubs=20, players=667, gws=38, fixtures=380, player_fixture=3216, player_snapshot=667, player_season_prior=2109, season_stats=36916
+row counts: clubs=20, players=667, gws=38, fixtures=380, player_fixture=3883, player_snapshot=1334, player_season_prior=2109, season_stats=37549
 
 [PASS] clubs: 20 (expect 20)
 [PASS] gws: 38 (expect 38)
 [PASS] fixtures: 380 (expect 380)
 [PASS] players: 667 (expect ~667)
-[PASS] player_fixture has rows: 3216
+[PASS] player_fixture has rows: 3883
 [PASS] player_fixture->fixtures: 0 orphan rows
 [PASS] player_fixture->players: 0 orphan rows
 [PASS] players have club: 0 without club
@@ -18,6 +18,7 @@ per-GW detail:
 [PASS] GW3: 10 fixtures, 654 player rows, 28.6 xG, 912 pts
 [PASS] GW4: 10 fixtures, 659 player rows, 26.7 xG, 921 pts
 [PASS] GW5: 10 fixtures, 667 player rows, 32.4 xG, 966 pts
+[PASS] GW6: 10 fixtures, 667 player rows, 30.9 xG, 899 pts
 [PASS] finished fixtures in player_fixture: finished fixtures with zero player rows (bench-only matches can be legit - inspect)
 
 coverage reep_id: 637/667 (95.5%)
@@ -26,31 +27,31 @@ coverage key_understat: 511/667 (76.6%)
 coverage key_transfermarkt: 628/667 (94.2%)
 coverage date_of_birth: 666/667 (99.9%)
 coverage nationality: 613/667 (91.9%)
-coverage season_stats players: 476/667 (71.4%)
+coverage season_stats players: 485/667 (72.7%)
 latest snapshot: 667 players
 [PASS] identity coverage: reep_id >70% required
 [PASS] season_stats coverage: stats >40% required (grows with enrichment)
 
-understat: us_shots=1398 (99.4% resolved), us_appearances=1538, finished fixtures linked=50/50
-xG cross-check (finished): understat=166.9 vs FPL/Opta=153.1 (diff 13.8, expect same ballpark)
+understat: us_shots=1665 (99.4% resolved), us_appearances=1853, finished fixtures linked=60/60
+xG cross-check (finished): understat=202.1 vs FPL/Opta=183.9 (diff 18.1, expect same ballpark)
 [PASS] understat fixture linkage: every finished fixture has us_match_id
-[PASS] understat shots: 1398 shot rows
+[PASS] understat shots: 1665 shot rows
 [PASS] understat shot resolve: 99.4% of shots resolve to an FPL player (>=75% required)
 
-market values (2026-10-05): 530/667 players (79.5%), 530 valued, total €13.1bn
-[PASS] market coverage: 79.5% of players in latest snapshot (>=72% required)
-[PASS] market values present: 530 valued rows
+market values (2026-10-14): 532/667 players (79.8%), 532 valued, total €14.1bn
+[PASS] market coverage: 79.8% of players in latest snapshot (>=72% required)
+[PASS] market values present: 532 valued rows
 
-xp_projection: 25346 rows, 667 players, backtest MAE=1.192 over 2668 rows
+xp_projection: 25346 rows, 667 players, backtest MAE=1.181 over 3335 rows
 [PASS] xp coverage: 667/667 eligible players projected
-[PASS] xp rows: 25346 rows; next GW (#6) has 667
-[PASS] xp backtest mae: 1.192 (<2.0 required)
+[PASS] xp rows: 25346 rows; next GW (#7) has 667
+[PASS] xp backtest mae: 1.181 (<2.0 required)
 
-transfer_history: 1897 rows over 5 seasons, 839 matched to FPL players, 822 with fees
+transfer_history: 1899 rows over 5 seasons, 841 matched to FPL players, 822 with fees
 
-opta: 28288 player values over 476 players, 2440 team values over 20 clubs
+opta: 28846 player values over 485 players, 2440 team values over 20 clubs
 [PASS] opta team coverage: 20/20 clubs with club_stats rows
-[PASS] opta player coverage: 476 players with Opta metrics (>=300 required)
-[PASS] opta metric families: 28288 player metric values (>=5000 required)
+[PASS] opta player coverage: 485 players with Opta metrics (>=300 required)
+[PASS] opta metric families: 28846 player metric values (>=5000 required)
 
 ALL CHECKS PASSED

@@ -1,3 +1,4 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
 694064,31214,35,4,2026-09-12 14:00:00,78,263,Kevin,Sander Berge,0.815,0.309,0.0289,MissedShots,OpenPlay,RightFoot,Pass,a
 696686,31229,50,5,2026-09-20 15:30:00,75,263,Kevin,César Palacios,0.853,0.268,0.0566,SavedShot,OpenPlay,RightFoot,Pass,h
+697381,31233,57,6,2026-10-10 14:00:00,93,263,Kevin,Kenny Tete,0.908,0.438,0.1153,SavedShot,OpenPlay,RightFoot,Pass,a

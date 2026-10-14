@@ -4,3 +4,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 694034,31213,34,4,2026-09-12 14:00:00,73,644,Timber,Jørgen Strand Larsen,0.872,0.403,0.1248,SavedShot,OpenPlay,RightFoot,TakeOn,h
 696441,31225,44,5,2026-09-20 13:00:00,5,644,Timber,Takehiro Tomiyasu,0.78,0.252,0.0187,MissedShots,OpenPlay,RightFoot,Pass,a
 696449,31225,44,5,2026-09-20 13:00:00,31,644,Timber,,0.87,0.528,0.0932,BlockedShot,OpenPlay,RightFoot,Dispossessed,a
+697927,31236,55,6,2026-10-11 13:00:00,10,644,Timber,Daichi Kamada,0.819,0.528,0.0985,MissedShots,OpenPlay,LeftFoot,Pass,h

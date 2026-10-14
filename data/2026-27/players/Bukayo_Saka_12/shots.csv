@@ -14,3 +14,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 694281,31216,36,4,2026-09-12 19:00:00,96,12,Saka,,0.885,0.5,0.7612,Goal,Penalty,LeftFoot,Standard,a
 695948,31224,42,5,2026-09-19 14:00:00,44,12,Saka,,0.921,0.547,0.629,SavedShot,OpenPlay,RightFoot,Rebound,a
 695955,31224,42,5,2026-09-19 14:00:00,74,12,Saka,Ezri Konsa Ngoyo,0.946,0.286,0.0361,BlockedShot,OpenPlay,LeftFoot,Chipped,a
+697123,31230,51,6,2026-10-10 11:30:00,74,12,Saka,Viktor Gyokeres,0.824,0.389,0.0875,MissedShots,OpenPlay,LeftFoot,Pass,h
+697126,31230,51,6,2026-10-10 11:30:00,95,12,Saka,Viktor Gyokeres,0.814,0.564,0.2334,SavedShot,OpenPlay,LeftFoot,Pass,h

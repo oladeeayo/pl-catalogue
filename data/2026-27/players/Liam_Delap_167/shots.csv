@@ -11,3 +11,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 696149,31227,47,5,2026-09-19 16:30:00,34,167,Delap,Murillo,0.797,0.711,0.0213,MissedShots,OpenPlay,RightFoot,BallRecovery,h
 696160,31227,47,5,2026-09-19 16:30:00,71,167,Delap,,0.826,0.721,0.024,MissedShots,OpenPlay,RightFoot,None,h
 696162,31227,47,5,2026-09-19 16:30:00,76,167,Delap,Morgan Gibbs-White,0.911,0.658,0.0631,MissedShots,OpenPlay,LeftFoot,Pass,h
+697937,31236,55,6,2026-10-11 13:00:00,34,167,Delap,,0.949,0.507,0.651,SavedShot,OpenPlay,RightFoot,Rebound,a
+697938,31236,55,6,2026-10-11 13:00:00,39,167,Delap,Daniel Muñoz,0.931,0.544,0.3903,MissedShots,OpenPlay,Head,Cross,a

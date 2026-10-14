@@ -1,2 +1,2 @@
 row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
-2022:631:in:2,2022,631,Chelsea FC,in,475411,Wesley Fofana,21,Centre-Back,40000000.0,Leicester City,Chelsea FC,80400000.0,€80.40m,permanent,4048054,145.0,2026-10-05T21:50:18+00:00,Fofana
+2022:631:in:2,2022,631,Chelsea FC,in,475411,Wesley Fofana,21,Centre-Back,40000000.0,Leicester City,Chelsea FC,80400000.0,€80.40m,permanent,4048054,145.0,2026-10-14T15:14:15+00:00,Fofana

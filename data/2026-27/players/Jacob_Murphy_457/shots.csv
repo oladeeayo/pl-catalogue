@@ -1,3 +1,5 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
 695908,31223,46,5,2026-09-19 14:00:00,5,457,J.Murphy,Lewis Miley,0.779,0.261,0.0235,MissedShots,OpenPlay,LeftFoot,Pass,h
 695912,31223,46,5,2026-09-19 14:00:00,29,457,J.Murphy,,0.793,0.19,0.0147,MissedShots,OpenPlay,RightFoot,BallRecovery,h
+698533,31239,54,6,2026-10-12 19:00:00,29,457,J.Murphy,,0.762,0.313,0.0153,MissedShots,OpenPlay,RightFoot,None,a
+698534,31239,54,6,2026-10-12 19:00:00,30,457,J.Murphy,Harvey Barnes,0.976,0.44,0.5545,MissedShots,OpenPlay,RightFoot,Cross,a

@@ -1,2 +1,3 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
 692337,31202,26,3,2026-09-05 14:00:00,79,195,Simms,,0.967,0.581,0.4884,SavedShot,OpenPlay,RightFoot,None,a
+698548,31239,54,6,2026-10-12 19:00:00,80,195,Simms,Brandon Thomas-Asante,0.864,0.601,0.0905,Goal,OpenPlay,RightFoot,BallTouch,h

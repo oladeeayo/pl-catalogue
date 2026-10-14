@@ -1,6 +1,6 @@
 row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
-2026:11:in:11,2026,11,Arsenal FC,in,340325,Reiss Nelson,26,Left Winger,8000000.0,Brentford FC,Arsenal FC,,End of loan30/06/2026,end_loan,5912104,24.0,2026-10-05T21:50:18+00:00,Nelson
-2025:11:in:15,2025,11,Arsenal FC,in,340325,Reiss Nelson,25,Left Winger,16000000.0,Fulham FC,Arsenal FC,,End of loan30/06/2025,end_loan,5239157,24.0,2026-10-05T21:50:18+00:00,Nelson
-2025:1148:in:8,2025,1148,Brentford FC,in,340325,Reiss Nelson,25,Left Winger,16000000.0,Arsenal FC,Brentford FC,,loan transfer,loan,5912103,24.0,2026-10-05T21:50:18+00:00,Nelson
-2024:931:in:6,2024,931,Fulham FC,in,340325,Reiss Nelson,24,Left Winger,15000000.0,Arsenal FC,Fulham FC,,loan transfer,loan,5239156,24.0,2026-10-05T21:50:18+00:00,Nelson
-2022:11:in:22,2022,11,Arsenal FC,in,340325,Reiss Nelson,22,Left Winger,6500000.0,Feyenoord Rotterdam,Arsenal FC,,End of loan30/06/2022,end_loan,3529445,24.0,2026-10-05T21:50:18+00:00,Nelson
+2026:11:in:11,2026,11,Arsenal FC,in,340325,Reiss Nelson,26,Left Winger,8000000.0,Brentford FC,Arsenal FC,,End of loan30/06/2026,end_loan,5912104,24.0,2026-10-14T15:14:15+00:00,Nelson
+2025:11:in:15,2025,11,Arsenal FC,in,340325,Reiss Nelson,25,Left Winger,16000000.0,Fulham FC,Arsenal FC,,End of loan30/06/2025,end_loan,5239157,24.0,2026-10-14T15:14:15+00:00,Nelson
+2025:1148:in:8,2025,1148,Brentford FC,in,340325,Reiss Nelson,25,Left Winger,16000000.0,Arsenal FC,Brentford FC,,loan transfer,loan,5912103,24.0,2026-10-14T15:14:15+00:00,Nelson
+2024:931:in:6,2024,931,Fulham FC,in,340325,Reiss Nelson,24,Left Winger,15000000.0,Arsenal FC,Fulham FC,,loan transfer,loan,5239156,24.0,2026-10-14T15:14:15+00:00,Nelson
+2022:11:in:22,2022,11,Arsenal FC,in,340325,Reiss Nelson,22,Left Winger,6500000.0,Feyenoord Rotterdam,Arsenal FC,,End of loan30/06/2022,end_loan,3529445,24.0,2026-10-14T15:14:15+00:00,Nelson

@@ -7,3 +7,6 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 692068,31201,27,3,2026-09-05 11:30:00,51,79,Evanilson,,0.917,0.299,0.0632,MissedShots,OpenPlay,RightFoot,None,a
 696419,31228,49,5,2026-09-20 13:00:00,17,79,Evanilson,Marcus Tavernier,0.943,0.582,0.114,SavedShot,OpenPlay,LeftFoot,Cross,h
 696433,31228,49,5,2026-09-20 13:00:00,67,79,Evanilson,Tyler Adams,0.84,0.66,0.0451,SavedShot,OpenPlay,RightFoot,Pass,h
+697353,31232,53,6,2026-10-10 14:00:00,50,79,Evanilson,,0.975,0.498,0.7915,Goal,FromCorner,RightFoot,None,a
+697354,31232,53,6,2026-10-10 14:00:00,60,79,Evanilson,Ben Doak,0.767,0.587,0.0259,MissedShots,OpenPlay,LeftFoot,Pass,a
+697357,31232,53,6,2026-10-10 14:00:00,84,79,Evanilson,Ben Doak,0.885,0.436,0.0357,MissedShots,OpenPlay,Head,Aerial,a

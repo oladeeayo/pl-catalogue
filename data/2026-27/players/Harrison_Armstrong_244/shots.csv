@@ -3,3 +3,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 692874,31208,30,3,2026-09-06 13:00:00,72,244,Armstrong,,0.838,0.447,0.0538,MissedShots,OpenPlay,LeftFoot,None,h
 696016,31226,43,5,2026-09-19 14:00:00,72,244,Armstrong,Jack Grealish,0.746,0.611,0.0229,MissedShots,OpenPlay,RightFoot,Pass,h
 696023,31226,43,5,2026-09-19 14:00:00,85,244,Armstrong,Thierno Barry,0.813,0.505,0.0732,MissedShots,OpenPlay,RightFoot,Pass,h
+697964,31237,56,6,2026-10-11 13:00:00,33,244,Armstrong,Kiernan Dewsbury-Hall,0.897,0.504,0.4481,BlockedShot,OpenPlay,RightFoot,None,a
+697975,31237,56,6,2026-10-11 13:00:00,50,244,Armstrong,Jack Grealish,0.801,0.717,0.0209,SavedShot,OpenPlay,RightFoot,Pass,a

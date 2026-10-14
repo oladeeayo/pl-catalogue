@@ -1,3 +1,3 @@
 row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
-2025:31:in:12,2025,31,Liverpool FC,in,706815,Harvey Davies,22,Goalkeeper,500000.0,Crawley Town,Liverpool FC,,End of loan02/02/2026,end_loan,5730582,355.0,2026-10-05T21:50:18+00:00,Davies
-2024:31:in:4,2024,31,Liverpool FC,in,706815,Harvey Davies,20,Goalkeeper,500000.0,Liverpool FC U21,Liverpool FC,,-,unknown,5467809,355.0,2026-10-05T21:50:18+00:00,Davies
+2025:31:in:12,2025,31,Liverpool FC,in,706815,Harvey Davies,22,Goalkeeper,500000.0,Crawley Town,Liverpool FC,,End of loan02/02/2026,end_loan,5730582,355.0,2026-10-14T15:14:15+00:00,Davies
+2024:31:in:4,2024,31,Liverpool FC,in,706815,Harvey Davies,20,Goalkeeper,500000.0,Liverpool FC U21,Liverpool FC,,-,unknown,5467809,355.0,2026-10-14T15:14:15+00:00,Davies

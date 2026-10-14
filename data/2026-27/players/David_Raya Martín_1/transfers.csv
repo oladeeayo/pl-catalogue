@@ -1,4 +1,4 @@
 row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
-2024:11:in:3,2024,11,Arsenal FC,in,262749,David Raya,28,Goalkeeper,35000000.0,Brentford FC,Arsenal FC,31900000.0,€31.90m,permanent,5093912,1.0,2026-10-05T21:50:18+00:00,Raya
-2024:1148:in:10,2024,1148,Brentford FC,in,262749,David Raya,28,Goalkeeper,35000000.0,Arsenal FC,Brentford FC,,End of loan30/06/2024,end_loan,4584850,1.0,2026-10-05T21:50:18+00:00,Raya
-2023:11:in:4,2023,11,Arsenal FC,in,262749,David Raya,27,Goalkeeper,30000000.0,Brentford FC,Arsenal FC,3500000.0,Loan fee:€3.50m,loan_fee,4584849,1.0,2026-10-05T21:50:18+00:00,Raya
+2024:11:in:3,2024,11,Arsenal FC,in,262749,David Raya,28,Goalkeeper,35000000.0,Brentford FC,Arsenal FC,31900000.0,€31.90m,permanent,5093912,1.0,2026-10-14T15:14:15+00:00,Raya
+2024:1148:in:10,2024,1148,Brentford FC,in,262749,David Raya,28,Goalkeeper,35000000.0,Arsenal FC,Brentford FC,,End of loan30/06/2024,end_loan,4584850,1.0,2026-10-14T15:14:15+00:00,Raya
+2023:11:in:4,2023,11,Arsenal FC,in,262749,David Raya,27,Goalkeeper,30000000.0,Brentford FC,Arsenal FC,3500000.0,Loan fee:€3.50m,loan_fee,4584849,1.0,2026-10-14T15:14:15+00:00,Raya

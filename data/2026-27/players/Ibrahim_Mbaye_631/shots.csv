@@ -1,2 +1,3 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
 693983,31211,31,4,2026-09-12 14:00:00,72,631,Mbaye,John McGinn,0.854,0.748,0.0243,SavedShot,SetPiece,RightFoot,Pass,h
+697339,31231,52,6,2026-10-10 14:00:00,95,631,Mbaye,Ross Barkley,0.971,0.669,0.0686,SavedShot,OpenPlay,LeftFoot,Pass,h

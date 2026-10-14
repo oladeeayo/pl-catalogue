@@ -1,4 +1,4 @@
 row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
-2025:29:in:6,2025,29,Everton FC,in,357658,Mark Travers,26,Goalkeeper,4000000.0,AFC Bournemouth,Everton FC,4600000.0,€4.60m,permanent,5780289,227.0,2026-10-05T21:50:18+00:00,Travers
-2024:989:in:12,2024,989,AFC Bournemouth,in,357658,Mark Travers,26,Goalkeeper,4000000.0,Middlesbrough FC,AFC Bournemouth,,End of loan31/05/2025,end_loan,5488770,227.0,2026-10-05T21:50:18+00:00,Travers
-2023:989:in:23,2023,989,AFC Bournemouth,in,357658,Mark Travers,24,Goalkeeper,3500000.0,Stoke City,AFC Bournemouth,,End of loan27/10/2023,end_loan,4536074,227.0,2026-10-05T21:50:18+00:00,Travers
+2025:29:in:6,2025,29,Everton FC,in,357658,Mark Travers,26,Goalkeeper,4000000.0,AFC Bournemouth,Everton FC,4600000.0,€4.60m,permanent,5780289,227.0,2026-10-14T15:14:15+00:00,Travers
+2024:989:in:12,2024,989,AFC Bournemouth,in,357658,Mark Travers,26,Goalkeeper,4000000.0,Middlesbrough FC,AFC Bournemouth,,End of loan31/05/2025,end_loan,5488770,227.0,2026-10-14T15:14:15+00:00,Travers
+2023:989:in:23,2023,989,AFC Bournemouth,in,357658,Mark Travers,24,Goalkeeper,3500000.0,Stoke City,AFC Bournemouth,,End of loan27/10/2023,end_loan,4536074,227.0,2026-10-14T15:14:15+00:00,Travers

@@ -1,3 +1,4 @@
 gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
 4,658,661016,Ibrahim,MID,Brighton,Coventry City,0,W,5,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,45,0,0,0,0
 5,658,661016,Ibrahim,MID,Brighton,Arsenal,1,W,3,0,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,45,1545,1163,268,895
+6,658,661016,Ibrahim,MID,Brighton,Sunderland,0,W,2,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,45,1767,484,292,192

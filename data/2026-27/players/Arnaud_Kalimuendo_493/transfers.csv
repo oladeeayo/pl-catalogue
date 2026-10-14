@@ -1,3 +1,3 @@
 row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
-2026:703:in:8,2026,703,Nottingham Forest,in,585959,Arnaud Kalimuendo,24,Centre-Forward,25000000.0,Eintracht Frankfurt,Nottingham Forest,,End of loan30/06/2026,end_loan,6103323,493.0,2026-10-05T21:50:18+00:00,Kalimuendo
-2025:703:in:4,2025,703,Nottingham Forest,in,585959,Arnaud Kalimuendo,23,Centre-Forward,22000000.0,Stade Rennais FC,Nottingham Forest,30000000.0,€30.00m,permanent,5871525,493.0,2026-10-05T21:50:18+00:00,Kalimuendo
+2026:703:in:8,2026,703,Nottingham Forest,in,585959,Arnaud Kalimuendo,24,Centre-Forward,25000000.0,Eintracht Frankfurt,Nottingham Forest,,End of loan30/06/2026,end_loan,6103323,493.0,2026-10-14T15:14:15+00:00,Kalimuendo
+2025:703:in:4,2025,703,Nottingham Forest,in,585959,Arnaud Kalimuendo,23,Centre-Forward,22000000.0,Stade Rennais FC,Nottingham Forest,30000000.0,€30.00m,permanent,5871525,493.0,2026-10-14T15:14:15+00:00,Kalimuendo

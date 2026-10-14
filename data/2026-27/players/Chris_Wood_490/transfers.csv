@@ -1,4 +1,4 @@
 row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
-2023:762:in:14,2023,762,Newcastle United,in,108725,Chris Wood,31,Centre-Forward,8000000.0,Nottingham Forest,Newcastle United,,End of loan30/06/2023,end_loan,4234314,490.0,2026-10-05T21:50:18+00:00,Wood
-2023:703:in:3,2023,703,Nottingham Forest,in,108725,Chris Wood,31,Centre-Forward,8000000.0,Newcastle United,Nottingham Forest,17000000.0,€17.00m,permanent,4396277,490.0,2026-10-05T21:50:18+00:00,Wood
-2022:703:in:14,2022,703,Nottingham Forest,in,108725,Chris Wood,31,Centre-Forward,10000000.0,Newcastle United,Nottingham Forest,4500000.0,Loan fee:€4.50m,loan_fee,4234313,490.0,2026-10-05T21:50:18+00:00,Wood
+2023:762:in:14,2023,762,Newcastle United,in,108725,Chris Wood,31,Centre-Forward,8000000.0,Nottingham Forest,Newcastle United,,End of loan30/06/2023,end_loan,4234314,490.0,2026-10-14T15:14:15+00:00,Wood
+2023:703:in:3,2023,703,Nottingham Forest,in,108725,Chris Wood,31,Centre-Forward,8000000.0,Newcastle United,Nottingham Forest,17000000.0,€17.00m,permanent,4396277,490.0,2026-10-14T15:14:15+00:00,Wood
+2022:703:in:14,2022,703,Nottingham Forest,in,108725,Chris Wood,31,Centre-Forward,10000000.0,Newcastle United,Nottingham Forest,4500000.0,Loan fee:€4.50m,loan_fee,4234313,490.0,2026-10-14T15:14:15+00:00,Wood

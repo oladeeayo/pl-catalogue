@@ -3,3 +3,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 688743,31185,2,1,2026-08-22 16:30:00,42,95,O.Dango,Mamadou Sangaré,0.743,0.435,0.0205,MissedShots,OpenPlay,LeftFoot,Pass,h
 691113,31197,17,2,2026-08-30 13:00:00,69,95,O.Dango,Mamadou Sangaré,0.758,0.287,0.0148,BlockedShot,OpenPlay,LeftFoot,TakeOn,a
 693965,31210,32,4,2026-09-12 14:00:00,95,95,O.Dango,,0.772,0.364,0.021,BlockedShot,OpenPlay,LeftFoot,None,a
+697336,31231,52,6,2026-10-10 14:00:00,85,95,O.Dango,Mamadou Sangaré,0.875,0.317,0.0349,MissedShots,SetPiece,LeftFoot,Pass,a

@@ -1,3 +1,3 @@
 row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
-2026:677:in:20,2026,677,Ipswich Town,in,610581,Ali Al-Hamadi,24,Centre-Forward,1500000.0,Luton Town,Ipswich Town,,End of loan30/06/2026,end_loan,5911836,322.0,2026-10-05T21:50:18+00:00,Al-Hamadi
-2026:677:in:16,2026,677,Ipswich Town,in,610581,Ali Al-Hamadi,25,Centre-Forward,1500000.0,Sheffield Wednesday,Ipswich Town,,End of loan31/05/2027,end_loan,6536376,322.0,2026-10-05T21:50:18+00:00,Al-Hamadi
+2026:677:in:20,2026,677,Ipswich Town,in,610581,Ali Al-Hamadi,24,Centre-Forward,1500000.0,Luton Town,Ipswich Town,,End of loan30/06/2026,end_loan,5911836,322.0,2026-10-14T15:14:15+00:00,Al-Hamadi
+2026:677:in:16,2026,677,Ipswich Town,in,610581,Ali Al-Hamadi,25,Centre-Forward,1500000.0,Sheffield Wednesday,Ipswich Town,,End of loan31/05/2027,end_loan,6536376,322.0,2026-10-14T15:14:15+00:00,Al-Hamadi

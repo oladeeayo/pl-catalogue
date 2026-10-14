@@ -11,3 +11,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 694066,31214,35,4,2026-09-12 14:00:00,80,366,Wirtz,Alexis Mac Allister,0.879,0.603,0.0993,BlockedShot,OpenPlay,RightFoot,Pass,h
 696423,31228,49,5,2026-09-20 13:00:00,33,366,Wirtz,Cody Gakpo,0.863,0.451,0.1063,BlockedShot,OpenPlay,LeftFoot,Pass,a
 696430,31228,49,5,2026-09-20 13:00:00,56,366,Wirtz,Cody Gakpo,0.922,0.487,0.1219,BlockedShot,OpenPlay,RightFoot,Cross,a
+698249,31238,58,6,2026-10-11 15:30:00,45,366,Wirtz,,0.782,0.462,0.0327,BlockedShot,OpenPlay,RightFoot,None,h
+698254,31238,58,6,2026-10-11 15:30:00,54,366,Wirtz,Ryan Gravenberch,0.78,0.458,0.0738,MissedShots,OpenPlay,RightFoot,BallTouch,h

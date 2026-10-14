@@ -9,3 +9,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 694506,31217,38,4,2026-09-13 13:00:00,69,124,Groß,,0.885,0.5,0.7612,Goal,Penalty,RightFoot,Standard,a
 695943,31224,42,5,2026-09-19 14:00:00,30,124,Groß,Charalampos Kostoulas,0.794,0.307,0.0251,Goal,OpenPlay,RightFoot,Pass,h
 695959,31224,42,5,2026-09-19 14:00:00,78,124,Groß,,0.919,0.673,0.0717,BlockedShot,OpenPlay,RightFoot,None,h
+697473,31234,60,6,2026-10-10 14:00:00,77,124,Groß,,0.399,0.416,0.0098,MissedShots,OpenPlay,RightFoot,BallRecovery,a

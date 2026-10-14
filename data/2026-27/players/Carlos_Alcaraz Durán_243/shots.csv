@@ -1,3 +1,4 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
 688609,31182,3,1,2026-08-22 14:00:00,95,243,Alcaraz,James Garner,0.853,0.673,0.0593,SavedShot,OpenPlay,RightFoot,Pass,h
 690429,31193,12,2,2026-08-29 14:00:00,92,243,Alcaraz,,0.933,0.69,0.0796,MissedShots,OpenPlay,LeftFoot,TakeOn,a
+697982,31237,56,6,2026-10-11 13:00:00,88,243,Alcaraz,Kiernan Dewsbury-Hall,0.756,0.3,0.0152,MissedShots,OpenPlay,RightFoot,BallRecovery,a

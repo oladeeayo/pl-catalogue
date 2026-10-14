@@ -1,3 +1,4 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
 688638,31184,6,1,2026-08-22 14:00:00,35,473,Aina,James McAtee,0.765,0.324,0.0198,SavedShot,OpenPlay,LeftFoot,Pass,h
 688647,31184,6,1,2026-08-22 14:00:00,62,473,Aina,Ibrahim Sangare,0.759,0.31,0.0177,BlockedShot,OpenPlay,RightFoot,Pass,h
+697947,31236,55,6,2026-10-11 13:00:00,49,473,Aina,Dan Ndoye,0.767,0.379,0.0216,MissedShots,OpenPlay,RightFoot,Pass,a

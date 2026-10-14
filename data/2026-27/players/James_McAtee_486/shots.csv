@@ -8,3 +8,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 696136,31227,47,5,2026-09-19 16:30:00,12,486,McAtee,Dan Ndoye,0.823,0.411,0.0391,BlockedShot,OpenPlay,LeftFoot,Rebound,h
 696150,31227,47,5,2026-09-19 16:30:00,36,486,McAtee,Jair,0.71,0.297,0.0127,BlockedShot,OpenPlay,LeftFoot,Pass,h
 696153,31227,47,5,2026-09-19 16:30:00,45,486,McAtee,Liam Delap,0.88,0.493,0.1187,BlockedShot,OpenPlay,LeftFoot,Pass,h
+697928,31236,55,6,2026-10-11 13:00:00,17,486,McAtee,,0.756,0.658,0.0526,BlockedShot,DirectFreekick,LeftFoot,Standard,a

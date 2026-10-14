@@ -2,3 +2,7 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 695932,31223,46,5,2026-09-19 14:00:00,83,340,Gelhardt,Robinio Vaz,0.869,0.306,0.0359,BlockedShot,OpenPlay,LeftFoot,TakeOn,a
 695936,31223,46,5,2026-09-19 14:00:00,90,340,Gelhardt,Lucas Herrington,0.776,0.385,0.0209,BlockedShot,FromCorner,LeftFoot,Pass,a
 695937,31223,46,5,2026-09-19 14:00:00,90,340,Gelhardt,,0.821,0.376,0.0297,MissedShots,FromCorner,LeftFoot,None,a
+697961,31237,56,6,2026-10-11 13:00:00,21,340,Gelhardt,Sorba Thomas,0.881,0.255,0.0692,SavedShot,OpenPlay,RightFoot,BallRecovery,h
+697968,31237,56,6,2026-10-11 13:00:00,43,340,Gelhardt,Oliver McBurnie,0.894,0.388,0.1047,BlockedShot,OpenPlay,LeftFoot,Pass,h
+697970,31237,56,6,2026-10-11 13:00:00,45,340,Gelhardt,John Egan,0.856,0.37,0.0567,SavedShot,OpenPlay,RightFoot,Chipped,h
+697974,31237,56,6,2026-10-11 13:00:00,47,340,Gelhardt,Sorba Thomas,0.916,0.619,0.5526,Goal,OpenPlay,LeftFoot,Throughball,h

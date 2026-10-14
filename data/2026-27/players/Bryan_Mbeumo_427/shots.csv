@@ -18,3 +18,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 696675,31229,50,5,2026-09-20 15:30:00,43,427,Mbeumo,Matheus Cunha,0.919,0.407,0.1263,MissedShots,OpenPlay,LeftFoot,Pass,a
 696680,31229,50,5,2026-09-20 15:30:00,66,427,Mbeumo,Marcus Rashford,0.776,0.363,0.0295,SavedShot,FromCorner,LeftFoot,Pass,a
 696687,31229,50,5,2026-09-20 15:30:00,77,427,Mbeumo,Joshua Zirkzee,0.822,0.37,0.0674,BlockedShot,OpenPlay,LeftFoot,Pass,a
+697639,31235,59,6,2026-10-10 16:30:00,72,427,Mbeumo,Matheus Cunha,0.925,0.648,0.0897,Goal,OpenPlay,LeftFoot,Pass,h
+697640,31235,59,6,2026-10-10 16:30:00,85,427,Mbeumo,Carlos Baleba,0.883,0.301,0.3346,SavedShot,OpenPlay,RightFoot,Chipped,h

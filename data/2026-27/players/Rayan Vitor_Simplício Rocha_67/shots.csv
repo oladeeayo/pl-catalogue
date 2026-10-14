@@ -11,3 +11,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 693957,31210,32,4,2026-09-12 14:00:00,74,67,Rayan,Evanilson,0.921,0.316,0.0342,MissedShots,OpenPlay,RightFoot,Cross,h
 693958,31210,32,4,2026-09-12 14:00:00,75,67,Rayan,Alex Scott,0.81,0.493,0.0513,MissedShots,OpenPlay,LeftFoot,Pass,h
 693959,31210,32,4,2026-09-12 14:00:00,77,67,Rayan,Marcus Tavernier,0.85,0.499,0.0987,SavedShot,OpenPlay,LeftFoot,Pass,h
+697343,31232,53,6,2026-10-10 14:00:00,5,67,Rayan,Marcus Tavernier,0.933,0.705,0.0571,MissedShots,OpenPlay,LeftFoot,Pass,a
+697347,31232,53,6,2026-10-10 14:00:00,35,67,Rayan,Adrien Truffert,0.865,0.673,0.2892,SavedShot,OpenPlay,LeftFoot,Throughball,a

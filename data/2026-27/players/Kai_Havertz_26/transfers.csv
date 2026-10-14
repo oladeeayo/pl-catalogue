@@ -1,2 +1,2 @@
 row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
-2023:11:in:2,2023,11,Arsenal FC,in,309400,Kai Havertz,24,Centre-Forward,55000000.0,Chelsea FC,Arsenal FC,75000000.0,€75.00m,permanent,4462044,26.0,2026-10-05T21:50:18+00:00,Havertz
+2023:11:in:2,2023,11,Arsenal FC,in,309400,Kai Havertz,24,Centre-Forward,55000000.0,Chelsea FC,Arsenal FC,75000000.0,€75.00m,permanent,4462044,26.0,2026-10-14T15:14:15+00:00,Havertz

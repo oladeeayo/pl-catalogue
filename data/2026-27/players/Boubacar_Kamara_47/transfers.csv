@@ -1,2 +1,2 @@
 row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
-2022:405:in:8,2022,405,Aston Villa,in,394327,Boubacar Kamara,22,Defensive Midfield,25000000.0,Olympique Marseille,Aston Villa,0.0,free transfer,free,3857805,47.0,2026-10-05T21:50:18+00:00,Kamara
+2022:405:in:8,2022,405,Aston Villa,in,394327,Boubacar Kamara,22,Defensive Midfield,25000000.0,Olympique Marseille,Aston Villa,0.0,free transfer,free,3857805,47.0,2026-10-14T15:14:15+00:00,Kamara

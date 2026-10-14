@@ -5,3 +5,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 694028,31213,34,4,2026-09-12 14:00:00,44,305,Davis,Emersonn,0.943,0.528,0.4708,Goal,OpenPlay,Head,Rebound,a
 694040,31213,34,4,2026-09-12 14:00:00,89,305,Davis,Julio Enciso,0.899,0.589,0.0346,ShotOnPost,OpenPlay,Head,Chipped,a
 696007,31226,43,5,2026-09-19 14:00:00,37,305,Davis,Abdul Fatawu,0.962,0.562,0.507,MissedShots,OpenPlay,LeftFoot,Cross,a
+697368,31233,57,6,2026-10-10 14:00:00,49,305,Davis,,0.738,0.434,0.054,MissedShots,DirectFreekick,LeftFoot,Standard,h

@@ -1,3 +1,4 @@
 gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
 4,655,242893,Gboho,MID,Coventry City,Brighton,1,L,0,5,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,55,72,65,7,58
 5,655,242893,Gboho,MID,Coventry City,Nott'm Forest,0,W,1,0,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,55,195,133,42,91
+6,655,242893,Gboho,MID,Coventry City,Newcastle,1,W,4,1,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,55,252,111,78,33

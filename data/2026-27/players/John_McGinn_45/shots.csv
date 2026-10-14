@@ -3,3 +3,6 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 691696,31199,20,2,2026-08-31 19:00:00,6,45,McGinn,Emiliano Buendía,0.746,0.433,0.0207,MissedShots,OpenPlay,LeftFoot,Pass,h
 691708,31199,20,2,2026-08-31 19:00:00,69,45,McGinn,,0.818,0.372,0.037,MissedShots,OpenPlay,LeftFoot,BallTouch,h
 692579,31207,25,3,2026-09-05 16:30:00,49,45,McGinn,Nicolas Jackson,0.906,0.484,0.4635,MissedShots,OpenPlay,LeftFoot,Pass,a
+697320,31231,52,6,2026-10-10 14:00:00,49,45,McGinn,,0.91,0.499,0.4294,SavedShot,OpenPlay,LeftFoot,Rebound,h
+697331,31231,52,6,2026-10-10 14:00:00,76,45,McGinn,Johan Manzambi,0.851,0.67,0.0509,Goal,OpenPlay,RightFoot,Pass,h
+697335,31231,52,6,2026-10-10 14:00:00,83,45,McGinn,Ibrahim Mbaye,0.86,0.618,0.0666,SavedShot,OpenPlay,LeftFoot,Pass,h

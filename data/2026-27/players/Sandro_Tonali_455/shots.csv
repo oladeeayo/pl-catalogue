@@ -7,3 +7,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 695671,31221,48,5,2026-09-19 11:30:00,32,455,Tonali,Andrew Robertson,0.722,0.618,0.0135,BlockedShot,OpenPlay,RightFoot,Pass,h
 695673,31221,48,5,2026-09-19 11:30:00,33,455,Tonali,,0.965,0.66,0.0571,BlockedShot,FromCorner,RightFoot,Rebound,h
 695685,31221,48,5,2026-09-19 11:30:00,69,455,Tonali,Sávio,0.762,0.612,0.0249,MissedShots,FromCorner,RightFoot,Pass,h
+697627,31235,59,6,2026-10-10 16:30:00,33,455,Tonali,,0.754,0.465,0.0175,BlockedShot,FromCorner,RightFoot,None,a

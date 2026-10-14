@@ -7,3 +7,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 692310,31206,23,3,2026-09-05 14:00:00,86,504,Vuskovic,,0.844,0.37,0.0202,BlockedShot,OpenPlay,RightFoot,Aerial,h
 694501,31217,38,4,2026-09-13 13:00:00,45,504,Vuskovic,,0.864,0.487,0.0979,BlockedShot,OpenPlay,RightFoot,None,a
 694503,31217,38,4,2026-09-13 13:00:00,46,504,Vuskovic,Pascal Groß,0.921,0.64,0.0248,MissedShots,SetPiece,Head,Cross,a
+697454,31234,60,6,2026-10-10 14:00:00,9,504,Vuskovic,Pascal Groß,0.975,0.558,0.3756,MissedShots,FromCorner,Head,Aerial,a
+697472,31234,60,6,2026-10-10 14:00:00,75,504,Vuskovic,Lewis Dunk,0.885,0.431,0.0653,MissedShots,FromCorner,RightFoot,BallTouch,a

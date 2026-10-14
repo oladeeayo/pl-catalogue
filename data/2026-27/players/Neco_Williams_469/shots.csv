@@ -5,3 +5,6 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 696140,31227,47,5,2026-09-19 16:30:00,19,469,N.Williams,James McAtee,0.774,0.699,0.019,SavedShot,OpenPlay,RightFoot,Pass,h
 696143,31227,47,5,2026-09-19 16:30:00,28,469,N.Williams,Morgan Gibbs-White,0.807,0.733,0.0192,BlockedShot,SetPiece,RightFoot,Pass,h
 696159,31227,47,5,2026-09-19 16:30:00,68,469,N.Williams,Murillo,0.915,0.679,0.044,BlockedShot,SetPiece,RightFoot,Pass,h
+697943,31236,55,6,2026-10-11 13:00:00,50,469,N.Williams,,0.79,0.531,0.0363,BlockedShot,OpenPlay,RightFoot,Rebound,a
+697952,31236,55,6,2026-10-11 13:00:00,67,469,N.Williams,Ibrahim Sangare,0.816,0.667,0.0358,ShotOnPost,OpenPlay,RightFoot,Pass,a
+697953,31236,55,6,2026-10-11 13:00:00,69,469,N.Williams,Liam Delap,0.781,0.509,0.025,BlockedShot,OpenPlay,RightFoot,Pass,a

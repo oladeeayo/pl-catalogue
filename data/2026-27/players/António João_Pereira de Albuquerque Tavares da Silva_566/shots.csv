@@ -3,3 +3,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 692055,31201,27,3,2026-09-05 11:30:00,14,566,Silva,James Hill,0.933,0.346,0.0163,SavedShot,OpenPlay,Head,Aerial,a
 693940,31210,32,4,2026-09-12 14:00:00,6,566,Silva,Marcus Tavernier,0.925,0.485,0.3829,MissedShots,SetPiece,Head,Cross,h
 693949,31210,32,4,2026-09-12 14:00:00,48,566,Silva,Marcus Tavernier,0.979,0.503,0.6494,MissedShots,FromCorner,Head,Aerial,h
+697350,31232,53,6,2026-10-10 14:00:00,46,566,Silva,Adrien Truffert,0.919,0.455,0.0886,SavedShot,FromCorner,Head,Cross,a
+697352,31232,53,6,2026-10-10 14:00:00,50,566,Silva,Ryan Christie,0.972,0.504,0.3479,BlockedShot,FromCorner,Head,Goal,a

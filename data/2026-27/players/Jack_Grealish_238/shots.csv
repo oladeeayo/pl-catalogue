@@ -1,2 +1,4 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
 692880,31208,30,3,2026-09-06 13:00:00,89,238,Grealish,Kiernan Dewsbury-Hall,0.776,0.667,0.0207,BlockedShot,OpenPlay,RightFoot,LayOff,h
+697960,31237,56,6,2026-10-11 13:00:00,8,238,Grealish,Kiernan Dewsbury-Hall,0.779,0.652,0.0232,SavedShot,SetPiece,RightFoot,Pass,a
+697971,31237,56,6,2026-10-11 13:00:00,45,238,Grealish,Ainsley Maitland-Niles,0.923,0.721,0.0355,MissedShots,OpenPlay,RightFoot,Chipped,a

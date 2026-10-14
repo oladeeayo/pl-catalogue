@@ -1,2 +1,2 @@
 row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
-2023:1148:in:8,2023,1148,Brentford FC,in,717411,Yegor Yarmolyuk,19,Central Midfield,400000.0,Brentford FC B,Brentford FC,,-,unknown,4423251,102.0,2026-10-05T21:50:18+00:00,Yarmoliuk
+2023:1148:in:8,2023,1148,Brentford FC,in,717411,Yegor Yarmolyuk,19,Central Midfield,400000.0,Brentford FC B,Brentford FC,,-,unknown,4423251,102.0,2026-10-14T15:14:15+00:00,Yarmoliuk

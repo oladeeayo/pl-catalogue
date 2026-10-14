@@ -1,5 +1,5 @@
 row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
-2026:281:in:13,2026,281,Manchester City,in,994536,Claudio Echeverri,20,Attacking Midfield,15000000.0,Girona FC,Manchester City,,End of loan30/06/2026,end_loan,6127555,407.0,2026-10-05T21:50:18+00:00,Echeverri
-2025:281:in:11,2025,281,Manchester City,in,994536,Claudio Echeverri,19,Attacking Midfield,15000000.0,Bayer 04 Leverkusen,Manchester City,,End of loan31/12/2025,end_loan,5881441,407.0,2026-10-05T21:50:18+00:00,Echeverri
-2024:281:in:12,2024,281,Manchester City,in,994536,Claudio Echeverri,18,Attacking Midfield,18000000.0,CA River Plate,Manchester City,,End of loan31/12/2024,end_loan,4845859,407.0,2026-10-05T21:50:18+00:00,Echeverri
-2023:281:in:5,2023,281,Manchester City,in,994536,Claudio Echeverri,18,Attacking Midfield,12000000.0,CA River Plate,Manchester City,18500000.0,€18.50m,permanent,4845857,407.0,2026-10-05T21:50:18+00:00,Echeverri
+2026:281:in:13,2026,281,Manchester City,in,994536,Claudio Echeverri,20,Attacking Midfield,15000000.0,Girona FC,Manchester City,,End of loan30/06/2026,end_loan,6127555,407.0,2026-10-14T15:14:15+00:00,Echeverri
+2025:281:in:11,2025,281,Manchester City,in,994536,Claudio Echeverri,19,Attacking Midfield,15000000.0,Bayer 04 Leverkusen,Manchester City,,End of loan31/12/2025,end_loan,5881441,407.0,2026-10-14T15:14:15+00:00,Echeverri
+2024:281:in:12,2024,281,Manchester City,in,994536,Claudio Echeverri,18,Attacking Midfield,18000000.0,CA River Plate,Manchester City,,End of loan31/12/2024,end_loan,4845859,407.0,2026-10-14T15:14:15+00:00,Echeverri
+2023:281:in:5,2023,281,Manchester City,in,994536,Claudio Echeverri,18,Attacking Midfield,12000000.0,CA River Plate,Manchester City,18500000.0,€18.50m,permanent,4845857,407.0,2026-10-14T15:14:15+00:00,Echeverri

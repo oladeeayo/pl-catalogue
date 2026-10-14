@@ -1,3 +1,3 @@
 row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
-2025:281:in:1,2025,281,Manchester City,in,583255,Antoine Semenyo,26,Right Winger,65000000.0,AFC Bournemouth,Manchester City,72000000.0,€72.00m,permanent,6107087,397.0,2026-10-05T21:50:18+00:00,Semenyo
-2022:989:in:5,2022,989,AFC Bournemouth,in,583255,Antoine Semenyo,23,Right Winger,3000000.0,Bristol City,AFC Bournemouth,10250000.0,€10.25m,permanent,4246102,397.0,2026-10-05T21:50:18+00:00,Semenyo
+2025:281:in:1,2025,281,Manchester City,in,583255,Antoine Semenyo,26,Right Winger,65000000.0,AFC Bournemouth,Manchester City,72000000.0,€72.00m,permanent,6107087,397.0,2026-10-14T15:14:15+00:00,Semenyo
+2022:989:in:5,2022,989,AFC Bournemouth,in,583255,Antoine Semenyo,23,Right Winger,3000000.0,Bristol City,AFC Bournemouth,10250000.0,€10.25m,permanent,4246102,397.0,2026-10-14T15:14:15+00:00,Semenyo

@@ -4,3 +4,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 695029,31219,40,4,2026-09-14 19:00:00,53,449,Hall,Matias Fernandez-Pardo,0.79,0.723,0.0126,SavedShot,OpenPlay,LeftFoot,Pass,a
 695909,31223,46,5,2026-09-19 14:00:00,6,449,Hall,Harvey Barnes,0.894,0.69,0.0959,Goal,OpenPlay,LeftFoot,Pass,h
 695913,31223,46,5,2026-09-19 14:00:00,32,449,Hall,Jacob Murphy,0.971,0.603,0.1247,MissedShots,OpenPlay,RightFoot,Cross,h
+698545,31239,54,6,2026-10-12 19:00:00,71,449,Hall,Nico González,0.764,0.661,0.021,SavedShot,FromCorner,LeftFoot,Pass,a

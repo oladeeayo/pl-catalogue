@@ -1,3 +1,3 @@
 row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
-2023:1148:in:2,2023,1148,Brentford FC,in,473050,Kevin Schade,21,Left Winger,25000000.0,SC Freiburg,Brentford FC,25000000.0,€25.00m,permanent,4433969,94.0,2026-10-05T21:50:18+00:00,Schade
-2022:1148:in:4,2022,1148,Brentford FC,in,473050,Kevin Schade,21,Left Winger,12000000.0,SC Freiburg,Brentford FC,1000000.0,Loan fee:€1.00m,loan_fee,4203025,94.0,2026-10-05T21:50:18+00:00,Schade
+2023:1148:in:2,2023,1148,Brentford FC,in,473050,Kevin Schade,21,Left Winger,25000000.0,SC Freiburg,Brentford FC,25000000.0,€25.00m,permanent,4433969,94.0,2026-10-14T15:14:15+00:00,Schade
+2022:1148:in:4,2022,1148,Brentford FC,in,473050,Kevin Schade,21,Left Winger,12000000.0,SC Freiburg,Brentford FC,1000000.0,Loan fee:€1.00m,loan_fee,4203025,94.0,2026-10-14T15:14:15+00:00,Schade

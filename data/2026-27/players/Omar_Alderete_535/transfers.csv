@@ -1,2 +1,2 @@
 row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
-2025:289:in:10,2025,289,Sunderland AFC,in,353032,Omar Alderete,28,Centre-Back,8000000.0,Getafe CF,Sunderland AFC,11600000.0,€11.60m,permanent,5857503,535.0,2026-10-05T21:50:18+00:00,Alderete
+2025:289:in:10,2025,289,Sunderland AFC,in,353032,Omar Alderete,28,Centre-Back,8000000.0,Getafe CF,Sunderland AFC,11600000.0,€11.60m,permanent,5857503,535.0,2026-10-14T15:14:15+00:00,Alderete

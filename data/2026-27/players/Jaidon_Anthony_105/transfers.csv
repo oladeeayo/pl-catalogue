@@ -1,5 +1,5 @@
 row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
-2026:1148:in:4,2026,1148,Brentford FC,in,684210,Jaidon Anthony,26,Left Winger,20000000.0,Burnley FC,Brentford FC,17500000.0,€17.50m,permanent,6409562,105.0,2026-10-05T21:50:18+00:00,Anthony
-2025:989:in:16,2025,989,AFC Bournemouth,in,684210,Jaidon Anthony,25,Left Winger,9000000.0,Burnley FC,AFC Bournemouth,,End of loan30/06/2025,end_loan,5234103,105.0,2026-10-05T21:50:18+00:00,Anthony
-2025:1132:in:7,2025,1132,Burnley FC,in,684210,Jaidon Anthony,25,Left Winger,9000000.0,AFC Bournemouth,Burnley FC,9500000.0,€9.50m,permanent,5664671,105.0,2026-10-05T21:50:18+00:00,Anthony
-2024:989:in:13,2024,989,AFC Bournemouth,in,684210,Jaidon Anthony,24,Left Winger,6000000.0,Leeds United,AFC Bournemouth,,End of loan30/06/2024,end_loan,4626435,105.0,2026-10-05T21:50:18+00:00,Anthony
+2026:1148:in:4,2026,1148,Brentford FC,in,684210,Jaidon Anthony,26,Left Winger,20000000.0,Burnley FC,Brentford FC,17500000.0,€17.50m,permanent,6409562,105.0,2026-10-14T15:14:15+00:00,Anthony
+2025:989:in:16,2025,989,AFC Bournemouth,in,684210,Jaidon Anthony,25,Left Winger,9000000.0,Burnley FC,AFC Bournemouth,,End of loan30/06/2025,end_loan,5234103,105.0,2026-10-14T15:14:15+00:00,Anthony
+2025:1132:in:7,2025,1132,Burnley FC,in,684210,Jaidon Anthony,25,Left Winger,9000000.0,AFC Bournemouth,Burnley FC,9500000.0,€9.50m,permanent,5664671,105.0,2026-10-14T15:14:15+00:00,Anthony
+2024:989:in:13,2024,989,AFC Bournemouth,in,684210,Jaidon Anthony,24,Left Winger,6000000.0,Leeds United,AFC Bournemouth,,End of loan30/06/2024,end_loan,4626435,105.0,2026-10-14T15:14:15+00:00,Anthony

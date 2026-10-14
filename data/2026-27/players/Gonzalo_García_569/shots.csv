@@ -14,3 +14,6 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 696651,31229,50,5,2026-09-20 15:30:00,3,569,Gonzalo,Antonee Robinson,0.869,0.661,0.0678,MissedShots,OpenPlay,RightFoot,Pass,h
 696656,31229,50,5,2026-09-20 15:30:00,17,569,Gonzalo,Alex Iwobi,0.899,0.538,0.3933,MissedShots,OpenPlay,RightFoot,Throughball,h
 696663,31229,50,5,2026-09-20 15:30:00,28,569,Gonzalo,Antonee Robinson,0.884,0.427,0.0763,MissedShots,OpenPlay,LeftFoot,Cross,h
+697366,31233,57,6,2026-10-10 14:00:00,36,569,Gonzalo,Sander Berge,0.886,0.66,0.0706,MissedShots,OpenPlay,RightFoot,Pass,a
+697370,31233,57,6,2026-10-10 14:00:00,52,569,Gonzalo,Joshua King,0.905,0.52,0.4456,BlockedShot,OpenPlay,RightFoot,Pass,a
+697374,31233,57,6,2026-10-10 14:00:00,59,569,Gonzalo,Alex Iwobi,0.882,0.481,0.2157,SavedShot,OpenPlay,Head,Cross,a

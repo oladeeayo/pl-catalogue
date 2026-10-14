@@ -1,2 +1,5 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
 692415,31205,22,3,2026-09-05 14:00:00,62,544,Xhaka,,0.776,0.339,0.0634,MissedShots,DirectFreekick,LeftFoot,Standard,a
+697464,31234,60,6,2026-10-10 14:00:00,58,544,Xhaka,,0.741,0.358,0.0476,SavedShot,DirectFreekick,LeftFoot,Standard,h
+697466,31234,60,6,2026-10-10 14:00:00,64,544,Xhaka,Noah Sadiki,0.705,0.499,0.0149,MissedShots,OpenPlay,LeftFoot,Pass,h
+697469,31234,60,6,2026-10-10 14:00:00,71,544,Xhaka,Reinildo,0.774,0.714,0.0184,MissedShots,OpenPlay,LeftFoot,Pass,h

@@ -4,3 +4,7 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 692364,31203,28,3,2026-09-05 14:00:00,87,526,Solanke,Mohammed Kudus,0.921,0.498,0.1317,MissedShots,OpenPlay,Head,Cross,a
 695672,31221,48,5,2026-09-19 11:30:00,33,526,Solanke,,0.961,0.581,0.049,BlockedShot,FromCorner,Head,None,h
 695683,31221,48,5,2026-09-19 11:30:00,65,526,Solanke,Sávio,0.914,0.561,0.0219,MissedShots,FromCorner,Head,Aerial,h
+697622,31235,59,6,2026-10-10 16:30:00,2,526,Solanke,,0.853,0.488,0.3539,SavedShot,OpenPlay,RightFoot,BallRecovery,a
+697623,31235,59,6,2026-10-10 16:30:00,5,526,Solanke,Marcos Senesi,0.824,0.493,0.0707,BlockedShot,OpenPlay,LeftFoot,Pass,a
+697631,31235,59,6,2026-10-10 16:30:00,50,526,Solanke,Sávio,0.927,0.433,0.3492,MissedShots,OpenPlay,RightFoot,Cross,a
+697643,31235,59,6,2026-10-10 16:30:00,91,526,Solanke,Sandro Tonali,0.929,0.488,0.3619,Goal,OpenPlay,Head,Cross,a

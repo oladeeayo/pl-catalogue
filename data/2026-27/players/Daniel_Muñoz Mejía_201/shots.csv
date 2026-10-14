@@ -5,3 +5,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 693988,31211,31,4,2026-09-12 14:00:00,84,201,Muñoz,Neco Williams,0.961,0.385,0.1852,SavedShot,OpenPlay,Head,Cross,a
 696147,31227,47,5,2026-09-19 16:30:00,34,201,Muñoz,,0.891,0.52,0.0451,MissedShots,OpenPlay,Head,Aerial,h
 696154,31227,47,5,2026-09-19 16:30:00,46,201,Muñoz,,0.873,0.327,0.0421,BlockedShot,OpenPlay,RightFoot,Rebound,h
+697934,31236,55,6,2026-10-11 13:00:00,26,201,Muñoz,Neco Williams,0.922,0.408,0.3127,MissedShots,OpenPlay,RightFoot,Chipped,a
+697958,31236,55,6,2026-10-11 13:00:00,94,201,Muñoz,James McAtee,0.907,0.579,0.0429,MissedShots,FromCorner,Head,Cross,a

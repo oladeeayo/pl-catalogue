@@ -1,2 +1,2 @@
 row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
-2022:985:in:3,2022,985,Manchester United,in,480762,Lisandro Martínez,24,Centre-Back,32000000.0,Ajax Amsterdam,Manchester United,57370000.0,€57.37m,permanent,3949175,419.0,2026-10-05T21:50:18+00:00,Martinez
+2022:985:in:3,2022,985,Manchester United,in,480762,Lisandro Martínez,24,Centre-Back,32000000.0,Ajax Amsterdam,Manchester United,57370000.0,€57.37m,permanent,3949175,419.0,2026-10-14T15:14:15+00:00,Martinez

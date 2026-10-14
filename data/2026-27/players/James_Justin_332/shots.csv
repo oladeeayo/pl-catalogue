@@ -3,3 +3,6 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 692287,31206,23,3,2026-09-05 14:00:00,21,332,Justin,Anton Stach,0.916,0.426,0.0194,MissedShots,FromCorner,Head,Aerial,a
 692297,31206,23,3,2026-09-05 14:00:00,62,332,Justin,Dominic Calvert-Lewin,0.881,0.356,0.0835,SavedShot,OpenPlay,RightFoot,BallTouch,a
 696440,31225,44,5,2026-09-20 13:00:00,5,332,Justin,,0.857,0.491,0.0386,BlockedShot,OpenPlay,RightFoot,Aerial,h
+697103,31230,51,6,2026-10-10 11:30:00,7,332,Justin,Anton Stach,0.873,0.412,0.0241,BlockedShot,SetPiece,Head,Cross,a
+697115,31230,51,6,2026-10-10 11:30:00,51,332,Justin,Jayden Bogle,0.794,0.348,0.0239,MissedShots,OpenPlay,LeftFoot,Pass,a
+697117,31230,51,6,2026-10-10 11:30:00,54,332,Justin,Gabriel Gudmundsson,0.923,0.314,0.2492,Goal,OpenPlay,RightFoot,Cross,a

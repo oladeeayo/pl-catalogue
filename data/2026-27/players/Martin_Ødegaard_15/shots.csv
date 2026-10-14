@@ -6,3 +6,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 693063,31209,29,3,2026-09-06 15:30:00,22,15,Ødegaard,Kai Havertz,0.899,0.386,0.1296,BlockedShot,OpenPlay,LeftFoot,Pass,h
 693071,31209,29,3,2026-09-06 15:30:00,49,15,Ødegaard,Christos Tzolis,0.902,0.516,0.5587,Goal,OpenPlay,LeftFoot,Pass,h
 695947,31224,42,5,2026-09-19 14:00:00,44,15,Ødegaard,Riccardo Calafiori,0.85,0.333,0.072,BlockedShot,OpenPlay,LeftFoot,Pass,a
+697114,31230,51,6,2026-10-10 11:30:00,50,15,Ødegaard,Noni Madueke,0.844,0.545,0.084,SavedShot,OpenPlay,LeftFoot,Pass,h
+697124,31230,51,6,2026-10-10 11:30:00,82,15,Ødegaard,,0.97,0.517,0.6206,SavedShot,OpenPlay,RightFoot,Foul,h

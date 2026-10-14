@@ -8,3 +8,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 694029,31213,34,4,2026-09-12 14:00:00,50,316,Emersonn,Dara O&#039;Shea,0.921,0.303,0.0614,MissedShots,OpenPlay,RightFoot,TakeOn,a
 695995,31226,43,5,2026-09-19 14:00:00,8,316,Emersonn,Julio Enciso,0.936,0.305,0.0631,SavedShot,OpenPlay,RightFoot,Pass,a
 696006,31226,43,5,2026-09-19 14:00:00,34,316,Emersonn,Jack Clarke,0.927,0.43,0.0391,MissedShots,OpenPlay,Head,Aerial,a
+697372,31233,57,6,2026-10-10 14:00:00,57,316,Emersonn,Julio Enciso,0.927,0.468,0.3102,ShotOnPost,OpenPlay,Head,Cross,h
+697375,31233,57,6,2026-10-10 14:00:00,60,316,Emersonn,Florentino Luís,0.914,0.534,0.0469,MissedShots,OpenPlay,Head,Aerial,h

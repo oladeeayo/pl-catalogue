@@ -1,1 +1,4 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+697109,31230,51,6,2026-10-10 11:30:00,28,16,Madueke,Riccardo Calafiori,0.881,0.562,0.0786,MissedShots,OpenPlay,RightFoot,Cross,h
+697118,31230,51,6,2026-10-10 11:30:00,61,16,Madueke,Riccardo Calafiori,0.849,0.735,0.0288,BlockedShot,OpenPlay,RightFoot,Pass,h
+697125,31230,51,6,2026-10-10 11:30:00,91,16,Madueke,Bukayo Saka,0.812,0.544,0.0671,BlockedShot,OpenPlay,LeftFoot,Pass,h

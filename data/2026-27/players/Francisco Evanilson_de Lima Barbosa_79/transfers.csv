@@ -1,2 +1,2 @@
 row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
-2024:989:in:1,2024,989,AFC Bournemouth,in,711337,Evanilson,24,Centre-Forward,35000000.0,FC Porto,AFC Bournemouth,44800000.0,€44.80m,permanent,5201245,79.0,2026-10-05T21:50:18+00:00,Evanilson
+2024:989:in:1,2024,989,AFC Bournemouth,in,711337,Evanilson,24,Centre-Forward,35000000.0,FC Porto,AFC Bournemouth,44800000.0,€44.80m,permanent,5201245,79.0,2026-10-14T15:14:15+00:00,Evanilson

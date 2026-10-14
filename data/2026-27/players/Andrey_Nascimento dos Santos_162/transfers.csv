@@ -1,7 +1,7 @@
 row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
-2026:985:in:2,2026,985,Manchester United,in,743600,Andrey Santos,22,Defensive Midfield,40000000.0,Chelsea FC,Manchester United,56300000.0,€56.30m,permanent,6424261,162.0,2026-10-05T21:50:18+00:00,Andrey Santos
-2024:631:in:22,2024,631,Chelsea FC,in,743600,Andrey Santos,21,Defensive Midfield,25000000.0,RC Strasbourg Alsace,Chelsea FC,,End of loan31/05/2025,end_loan,5166756,162.0,2026-10-05T21:50:18+00:00,Andrey Santos
-2023:631:in:25,2023,631,Chelsea FC,in,743600,Andrey Santos,19,Defensive Midfield,15000000.0,Clube de Regatas Vasco da Gama,Chelsea FC,,End of loan30/06/2023,end_loan,4303665,162.0,2026-10-05T21:50:18+00:00,Andrey Santos
-2023:631:in:24,2023,631,Chelsea FC,in,743600,Andrey Santos,19,Defensive Midfield,14000000.0,Nottingham Forest,Chelsea FC,,End of loan03/01/2024,end_loan,4606753,162.0,2026-10-05T21:50:18+00:00,Andrey Santos
-2023:703:in:16,2023,703,Nottingham Forest,in,743600,Andrey Santos,19,Defensive Midfield,15000000.0,Chelsea FC,Nottingham Forest,,loan transfer,loan,4606752,162.0,2026-10-05T21:50:18+00:00,Andrey Santos
-2022:631:in:12,2022,631,Chelsea FC,in,743600,Andrey Santos,18,Defensive Midfield,10000000.0,Clube de Regatas Vasco da Gama,Chelsea FC,12500000.0,€12.50m,permanent,4207516,162.0,2026-10-05T21:50:18+00:00,Andrey Santos
+2026:985:in:2,2026,985,Manchester United,in,743600,Andrey Santos,22,Defensive Midfield,40000000.0,Chelsea FC,Manchester United,56300000.0,€56.30m,permanent,6424261,162.0,2026-10-14T15:14:15+00:00,Andrey Santos
+2024:631:in:22,2024,631,Chelsea FC,in,743600,Andrey Santos,21,Defensive Midfield,25000000.0,RC Strasbourg Alsace,Chelsea FC,,End of loan31/05/2025,end_loan,5166756,162.0,2026-10-14T15:14:15+00:00,Andrey Santos
+2023:631:in:25,2023,631,Chelsea FC,in,743600,Andrey Santos,19,Defensive Midfield,15000000.0,Clube de Regatas Vasco da Gama,Chelsea FC,,End of loan30/06/2023,end_loan,4303665,162.0,2026-10-14T15:14:15+00:00,Andrey Santos
+2023:631:in:24,2023,631,Chelsea FC,in,743600,Andrey Santos,19,Defensive Midfield,14000000.0,Nottingham Forest,Chelsea FC,,End of loan03/01/2024,end_loan,4606753,162.0,2026-10-14T15:14:15+00:00,Andrey Santos
+2023:703:in:16,2023,703,Nottingham Forest,in,743600,Andrey Santos,19,Defensive Midfield,15000000.0,Chelsea FC,Nottingham Forest,,loan transfer,loan,4606752,162.0,2026-10-14T15:14:15+00:00,Andrey Santos
+2022:631:in:12,2022,631,Chelsea FC,in,743600,Andrey Santos,18,Defensive Midfield,10000000.0,Clube de Regatas Vasco da Gama,Chelsea FC,12500000.0,€12.50m,permanent,4207516,162.0,2026-10-14T15:14:15+00:00,Andrey Santos

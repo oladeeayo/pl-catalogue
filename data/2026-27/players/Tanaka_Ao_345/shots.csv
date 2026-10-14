@@ -4,3 +4,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 695021,31219,40,4,2026-09-14 19:00:00,31,345,Tanaka,Noah Okafor,0.813,0.501,0.0605,BlockedShot,OpenPlay,RightFoot,Pass,h
 696445,31225,44,5,2026-09-20 13:00:00,21,345,Tanaka,,0.913,0.429,0.1186,MissedShots,OpenPlay,LeftFoot,Rebound,h
 696451,31225,44,5,2026-09-20 13:00:00,33,345,Tanaka,,0.711,0.5,0.0122,MissedShots,OpenPlay,RightFoot,None,h
+697116,31230,51,6,2026-10-10 11:30:00,52,345,Tanaka,Ethan Ampadu,0.781,0.54,0.0349,SavedShot,OpenPlay,RightFoot,Pass,a

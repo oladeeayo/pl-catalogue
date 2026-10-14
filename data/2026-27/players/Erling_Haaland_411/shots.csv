@@ -19,3 +19,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 696475,31222,45,5,2026-09-20 13:00:00,44,411,Haaland,Iliman Ndiaye,0.872,0.419,0.4904,MissedShots,OpenPlay,RightFoot,Pass,h
 696491,31222,45,5,2026-09-20 13:00:00,80,411,Haaland,Josko Gvardiol,0.967,0.468,0.7498,Goal,OpenPlay,RightFoot,Pass,h
 696493,31222,45,5,2026-09-20 13:00:00,86,411,Haaland,,0.86,0.336,0.0357,BlockedShot,FromCorner,LeftFoot,None,h
+698256,31238,58,6,2026-10-11 15:30:00,59,411,Haaland,Antoine Semenyo,0.895,0.354,0.2641,MissedShots,OpenPlay,RightFoot,Pass,a
+698259,31238,58,6,2026-10-11 15:30:00,64,411,Haaland,,0.889,0.419,0.0885,Goal,OpenPlay,LeftFoot,Rebound,a

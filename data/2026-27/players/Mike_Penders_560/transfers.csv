@@ -1,4 +1,4 @@
 row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
-2026:631:in:13,2026,631,Chelsea FC,in,834397,Mike Penders,20,Goalkeeper,25000000.0,RC Strasbourg Alsace,Chelsea FC,,End of loan30/06/2026,end_loan,5816644,560.0,2026-10-05T21:50:18+00:00,Penders
-2025:631:in:16,2025,631,Chelsea FC,in,834397,Mike Penders,19,Goalkeeper,10000000.0,KRC Genk,Chelsea FC,,End of loan01/06/2025,end_loan,5228370,560.0,2026-10-05T21:50:18+00:00,Penders
-2024:631:in:5,2024,631,Chelsea FC,in,834397,Mike Penders,19,Goalkeeper,1000000.0,KRC Genk,Chelsea FC,20000000.0,€20.00m,permanent,5228368,560.0,2026-10-05T21:50:18+00:00,Penders
+2026:631:in:17,2026,631,Chelsea FC,in,834397,Mike Penders,20,Goalkeeper,25000000.0,RC Strasbourg Alsace,Chelsea FC,,End of loan30/06/2026,end_loan,5816644,560.0,2026-10-14T15:14:15+00:00,Penders
+2025:631:in:16,2025,631,Chelsea FC,in,834397,Mike Penders,19,Goalkeeper,10000000.0,KRC Genk,Chelsea FC,,End of loan01/06/2025,end_loan,5228370,560.0,2026-10-14T15:14:15+00:00,Penders
+2024:631:in:5,2024,631,Chelsea FC,in,834397,Mike Penders,19,Goalkeeper,1000000.0,KRC Genk,Chelsea FC,20000000.0,€20.00m,permanent,5228368,560.0,2026-10-14T15:14:15+00:00,Penders

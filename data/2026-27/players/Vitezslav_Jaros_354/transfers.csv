@@ -1,5 +1,5 @@
 row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
-2026:31:in:13,2026,31,Liverpool FC,in,486604,Vitezslav Jaros,24,Goalkeeper,5000000.0,Ajax Amsterdam,Liverpool FC,,End of loan30/06/2026,end_loan,5713023,354.0,2026-10-05T21:50:18+00:00,Jaros
-2024:31:in:9,2024,31,Liverpool FC,in,486604,Vitezslav Jaros,22,Goalkeeper,5000000.0,SK Sturm Graz,Liverpool FC,,End of loan30/06/2024,end_loan,4810543,354.0,2026-10-05T21:50:18+00:00,Jaros
-2022:31:in:7,2022,31,Liverpool FC,in,486604,Vitezslav Jaros,21,Goalkeeper,150000.0,Stockport County,Liverpool FC,,End of loan31/05/2023,end_loan,3920592,354.0,2026-10-05T21:50:18+00:00,Jaros
-2022:31:in:6,2022,31,Liverpool FC,in,486604,Vitezslav Jaros,20,Goalkeeper,100000.0,Liverpool FC U21,Liverpool FC,,-,unknown,5143021,354.0,2026-10-05T21:50:18+00:00,Jaros
+2026:31:in:13,2026,31,Liverpool FC,in,486604,Vitezslav Jaros,24,Goalkeeper,5000000.0,Ajax Amsterdam,Liverpool FC,,End of loan30/06/2026,end_loan,5713023,354.0,2026-10-14T15:14:15+00:00,Jaros
+2024:31:in:9,2024,31,Liverpool FC,in,486604,Vitezslav Jaros,22,Goalkeeper,5000000.0,SK Sturm Graz,Liverpool FC,,End of loan30/06/2024,end_loan,4810543,354.0,2026-10-14T15:14:15+00:00,Jaros
+2022:31:in:7,2022,31,Liverpool FC,in,486604,Vitezslav Jaros,21,Goalkeeper,150000.0,Stockport County,Liverpool FC,,End of loan31/05/2023,end_loan,3920592,354.0,2026-10-14T15:14:15+00:00,Jaros
+2022:31:in:6,2022,31,Liverpool FC,in,486604,Vitezslav Jaros,20,Goalkeeper,100000.0,Liverpool FC U21,Liverpool FC,,-,unknown,5143021,354.0,2026-10-14T15:14:15+00:00,Jaros

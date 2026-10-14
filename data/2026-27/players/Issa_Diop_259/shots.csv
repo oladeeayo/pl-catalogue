@@ -1,2 +1,3 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
 696026,31226,43,5,2026-09-19 14:00:00,96,259,Diop,Dara O&#039;Shea,0.86,0.416,0.0699,BlockedShot,SetPiece,LeftFoot,BallTouch,a
+697376,31233,57,6,2026-10-10 14:00:00,67,259,Diop,,0.907,0.625,0.0693,MissedShots,SetPiece,LeftFoot,None,h

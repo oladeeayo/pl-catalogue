@@ -16,3 +16,8 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 695997,31226,43,5,2026-09-19 14:00:00,10,249,Barry,James Tarkowski,0.901,0.506,0.3461,Goal,OpenPlay,OtherBodyPart,Rebound,h
 696005,31226,43,5,2026-09-19 14:00:00,32,249,Barry,Ainsley Maitland-Niles,0.911,0.544,0.2856,MissedShots,OpenPlay,Head,Cross,h
 696012,31226,43,5,2026-09-19 14:00:00,63,249,Barry,Jack Grealish,0.908,0.513,0.2983,MissedShots,OpenPlay,Head,Chipped,h
+697962,31237,56,6,2026-10-11 13:00:00,26,249,Barry,James Garner,0.975,0.529,0.569,SavedShot,FromCorner,Head,Aerial,a
+697966,31237,56,6,2026-10-11 13:00:00,40,249,Barry,Harrison Armstrong,0.899,0.361,0.09,BlockedShot,OpenPlay,RightFoot,Pass,a
+697972,31237,56,6,2026-10-11 13:00:00,46,249,Barry,Jack Grealish,0.955,0.42,0.3406,MissedShots,OpenPlay,Head,Cross,a
+697976,31237,56,6,2026-10-11 13:00:00,52,249,Barry,Brennan Johnson,0.923,0.505,0.3529,SavedShot,OpenPlay,Head,Cross,a
+697978,31237,56,6,2026-10-11 13:00:00,67,249,Barry,Kiernan Dewsbury-Hall,0.875,0.395,0.3314,Goal,OpenPlay,RightFoot,BallTouch,a

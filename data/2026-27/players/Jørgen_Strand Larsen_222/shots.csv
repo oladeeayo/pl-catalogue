@@ -5,3 +5,6 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 694024,31213,34,4,2026-09-12 14:00:00,17,222,Strand Larsen,,0.969,0.263,0.041,BlockedShot,OpenPlay,RightFoot,Rebound,h
 694035,31213,34,4,2026-09-12 14:00:00,74,222,Strand Larsen,Daichi Kamada,0.875,0.356,0.068,Goal,OpenPlay,RightFoot,Pass,h
 696456,31225,44,5,2026-09-20 13:00:00,54,222,Strand Larsen,Adam Wharton,0.772,0.516,0.0307,SavedShot,OpenPlay,RightFoot,Pass,a
+697924,31236,55,6,2026-10-11 13:00:00,7,222,Strand Larsen,Anan Khalaili,0.933,0.5,0.111,SavedShot,OpenPlay,LeftFoot,Cross,h
+697925,31236,55,6,2026-10-11 13:00:00,7,222,Strand Larsen,,0.981,0.397,0.0744,BlockedShot,OpenPlay,RightFoot,Rebound,h
+697949,31236,55,6,2026-10-11 13:00:00,58,222,Strand Larsen,,0.904,0.539,0.4376,SavedShot,OpenPlay,LeftFoot,None,h

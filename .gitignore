@@ -8,6 +8,8 @@
 __pycache__/
 *.py[cod]
 
+catalogue/.freebuff/
+
 # --- browser session junk & logs ---
 *.cookies.json
 *.log

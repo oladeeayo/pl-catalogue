@@ -1,5 +1,5 @@
 row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
-2026:289:in:7,2026,289,Sunderland AFC,in,658536,Simon Adingra,24,Left Winger,22000000.0,AS Monaco,Sunderland AFC,,End of loan30/06/2026,end_loan,6163310,546.0,2026-10-05T21:50:18+00:00,Adingra
-2025:289:in:2,2025,289,Sunderland AFC,in,658536,Simon Adingra,23,Left Winger,28000000.0,Brighton & Hove Albion,Sunderland AFC,24400000.0,€24.40m,permanent,5767314,546.0,2026-10-05T21:50:18+00:00,Adingra
-2023:1237:in:28,2023,1237,Brighton & Hove Albion,in,658536,Simon Adingra,21,Left Winger,10000000.0,Union Saint-Gilloise,Brighton & Hove Albion,,End of loan30/06/2023,end_loan,3919448,546.0,2026-10-05T21:50:18+00:00,Adingra
-2022:1237:in:4,2022,1237,Brighton & Hove Albion,in,658536,Simon Adingra,20,Left Winger,1500000.0,FC Nordsjaelland,Brighton & Hove Albion,8000000.0,€8.00m,permanent,3902712,546.0,2026-10-05T21:50:18+00:00,Adingra
+2026:289:in:7,2026,289,Sunderland AFC,in,658536,Simon Adingra,24,Left Winger,22000000.0,AS Monaco,Sunderland AFC,,End of loan30/06/2026,end_loan,6163310,546.0,2026-10-14T15:14:15+00:00,Adingra
+2025:289:in:2,2025,289,Sunderland AFC,in,658536,Simon Adingra,23,Left Winger,28000000.0,Brighton & Hove Albion,Sunderland AFC,24400000.0,€24.40m,permanent,5767314,546.0,2026-10-14T15:14:15+00:00,Adingra
+2023:1237:in:28,2023,1237,Brighton & Hove Albion,in,658536,Simon Adingra,21,Left Winger,10000000.0,Union Saint-Gilloise,Brighton & Hove Albion,,End of loan30/06/2023,end_loan,3919448,546.0,2026-10-14T15:14:15+00:00,Adingra
+2022:1237:in:4,2022,1237,Brighton & Hove Albion,in,658536,Simon Adingra,20,Left Winger,1500000.0,FC Nordsjaelland,Brighton & Hove Albion,8000000.0,€8.00m,permanent,3902712,546.0,2026-10-14T15:14:15+00:00,Adingra

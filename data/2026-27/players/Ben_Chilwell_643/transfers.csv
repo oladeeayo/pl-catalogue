@@ -1,4 +1,4 @@
 row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
-2026:873:in:8,2026,873,Crystal Palace,in,316125,Ben Chilwell,29,Left-Back,10000000.0,RC Strasbourg Alsace,Crystal Palace,0.0,free transfer,free,6558560,643.0,2026-10-05T21:50:18+00:00,Chilwell
-2025:631:in:26,2025,631,Chelsea FC,in,316125,Ben Chilwell,28,Left-Back,15000000.0,Crystal Palace,Chelsea FC,,End of loan30/06/2025,end_loan,5501735,643.0,2026-10-05T21:50:18+00:00,Chilwell
-2024:873:in:9,2024,873,Crystal Palace,in,316125,Ben Chilwell,28,Left-Back,20000000.0,Chelsea FC,Crystal Palace,,loan transfer,loan,5501734,643.0,2026-10-05T21:50:18+00:00,Chilwell
+2026:873:in:8,2026,873,Crystal Palace,in,316125,Ben Chilwell,29,Left-Back,10000000.0,RC Strasbourg Alsace,Crystal Palace,0.0,free transfer,free,6558560,643.0,2026-10-14T15:14:15+00:00,Chilwell
+2025:631:in:26,2025,631,Chelsea FC,in,316125,Ben Chilwell,28,Left-Back,15000000.0,Crystal Palace,Chelsea FC,,End of loan30/06/2025,end_loan,5501735,643.0,2026-10-14T15:14:15+00:00,Chilwell
+2024:873:in:9,2024,873,Crystal Palace,in,316125,Ben Chilwell,28,Left-Back,20000000.0,Chelsea FC,Crystal Palace,,loan transfer,loan,5501734,643.0,2026-10-14T15:14:15+00:00,Chilwell

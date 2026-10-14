@@ -3,9 +3,9 @@ gw,name,deadline_time,finished,is_current,is_next,average_entry_score,highest_sc
 2,Gameweek 2,2026-08-28T17:30:00Z,1,0,0,81,161.0,11562127,165.0,115.0,411.0,1.0,João Pedro,De Cuyper,Haaland,Raya
 3,Gameweek 3,2026-09-04T17:30:00Z,1,0,0,51,119.0,27412065,411.0,399.0,411.0,426.0,Haaland,Cherki,Haaland,B.Fernandes
 4,Gameweek 4,2026-09-12T12:30:00Z,1,0,0,69,151.0,24092744,165.0,40.0,411.0,165.0,João Pedro,Rogers,Haaland,João Pedro
-5,Gameweek 5,2026-09-18T17:30:00Z,1,1,0,48,126.0,18907524,411.0,480.0,411.0,426.0,Haaland,Gibbs-White,Haaland,B.Fernandes
-6,Gameweek 6,2026-10-10T10:00:00Z,0,0,1,0,,4611571,,,,,,,,
-7,Gameweek 7,2026-10-17T10:00:00Z,0,0,0,0,,0,,,,,,,,
+5,Gameweek 5,2026-09-18T17:30:00Z,1,0,0,48,126.0,18907524,411.0,480.0,411.0,426.0,Haaland,Gibbs-White,Haaland,B.Fernandes
+6,Gameweek 6,2026-10-10T10:00:00Z,1,1,0,58,131.0,19638667,411.0,124.0,411.0,1.0,Haaland,Groß,Haaland,Raya
+7,Gameweek 7,2026-10-17T10:00:00Z,0,0,1,0,,0,,,,,,,,
 8,Gameweek 8,2026-10-23T17:30:00Z,0,0,0,0,,0,,,,,,,,
 9,Gameweek 9,2026-10-31T11:00:00Z,0,0,0,0,,0,,,,,,,,
 10,Gameweek 10,2026-11-06T18:30:00Z,0,0,0,0,,0,,,,,,,,

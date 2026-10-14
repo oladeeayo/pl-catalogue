@@ -1,4 +1,4 @@
 row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
-2025:989:in:2,2025,989,AFC Bournemouth,in,465555,Djordje Petrović,25,Goalkeeper,20000000.0,Chelsea FC,AFC Bournemouth,28900000.0,€28.90m,permanent,5784637,57.0,2026-10-05T21:50:18+00:00,Petrović
-2025:631:in:18,2025,631,Chelsea FC,in,465555,Djordje Petrović,25,Goalkeeper,20000000.0,RC Strasbourg Alsace,Chelsea FC,,End of loan30/06/2025,end_loan,5237082,57.0,2026-10-05T21:50:18+00:00,Petrović
-2023:631:in:9,2023,631,Chelsea FC,in,465555,Djordje Petrović,23,Goalkeeper,6000000.0,New England Revolution,Chelsea FC,16000000.0,€16.00m,permanent,4609418,57.0,2026-10-05T21:50:18+00:00,Petrović
+2025:989:in:2,2025,989,AFC Bournemouth,in,465555,Djordje Petrović,25,Goalkeeper,20000000.0,Chelsea FC,AFC Bournemouth,28900000.0,€28.90m,permanent,5784637,57.0,2026-10-14T15:14:15+00:00,Petrović
+2025:631:in:18,2025,631,Chelsea FC,in,465555,Djordje Petrović,25,Goalkeeper,20000000.0,RC Strasbourg Alsace,Chelsea FC,,End of loan30/06/2025,end_loan,5237082,57.0,2026-10-14T15:14:15+00:00,Petrović
+2023:631:in:9,2023,631,Chelsea FC,in,465555,Djordje Petrović,23,Goalkeeper,6000000.0,New England Revolution,Chelsea FC,16000000.0,€16.00m,permanent,4609418,57.0,2026-10-14T15:14:15+00:00,Petrović

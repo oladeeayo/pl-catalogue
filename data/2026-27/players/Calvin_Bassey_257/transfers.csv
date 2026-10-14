@@ -1,2 +1,2 @@
 row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
-2023:931:in:2,2023,931,Fulham FC,in,461883,Calvin Bassey,23,Centre-Back,15000000.0,Ajax Amsterdam,Fulham FC,22500000.0,€22.50m,permanent,4540550,257.0,2026-10-05T21:50:18+00:00,Bassey
+2023:931:in:2,2023,931,Fulham FC,in,461883,Calvin Bassey,23,Centre-Back,15000000.0,Ajax Amsterdam,Fulham FC,22500000.0,€22.50m,permanent,4540550,257.0,2026-10-14T15:14:15+00:00,Bassey

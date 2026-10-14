@@ -1,6 +1,6 @@
 row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
-2025:281:in:20,2025,281,Manchester City,in,351749,Kalvin Phillips,29,Defensive Midfield,12000000.0,Ipswich Town,Manchester City,,End of loan30/06/2025,end_loan,5200789,408.0,2026-10-05T21:50:18+00:00,Phillips
-2024:677:in:14,2024,677,Ipswich Town,in,351749,Kalvin Phillips,28,Defensive Midfield,25000000.0,Manchester City,Ipswich Town,,loan transfer,loan,5200788,408.0,2026-10-05T21:50:18+00:00,Phillips
-2024:281:in:8,2024,281,Manchester City,in,351749,Kalvin Phillips,28,Defensive Midfield,25000000.0,West Ham United,Manchester City,,End of loan30/06/2024,end_loan,4847893,408.0,2026-10-05T21:50:18+00:00,Phillips
-2023:379:in:5,2023,379,West Ham United,in,351749,Kalvin Phillips,28,Defensive Midfield,28000000.0,Manchester City,West Ham United,7000000.0,Loan fee:€7.00m,loan_fee,4847892,408.0,2026-10-05T21:50:18+00:00,Phillips
-2022:281:in:2,2022,281,Manchester City,in,351749,Kalvin Phillips,26,Defensive Midfield,50000000.0,Leeds United,Manchester City,49000000.0,€49.00m,permanent,3919572,408.0,2026-10-05T21:50:18+00:00,Phillips
+2025:281:in:20,2025,281,Manchester City,in,351749,Kalvin Phillips,29,Defensive Midfield,12000000.0,Ipswich Town,Manchester City,,End of loan30/06/2025,end_loan,5200789,408.0,2026-10-14T15:14:15+00:00,Phillips
+2024:677:in:14,2024,677,Ipswich Town,in,351749,Kalvin Phillips,28,Defensive Midfield,25000000.0,Manchester City,Ipswich Town,,loan transfer,loan,5200788,408.0,2026-10-14T15:14:15+00:00,Phillips
+2024:281:in:8,2024,281,Manchester City,in,351749,Kalvin Phillips,28,Defensive Midfield,25000000.0,West Ham United,Manchester City,,End of loan30/06/2024,end_loan,4847893,408.0,2026-10-14T15:14:15+00:00,Phillips
+2023:379:in:5,2023,379,West Ham United,in,351749,Kalvin Phillips,28,Defensive Midfield,28000000.0,Manchester City,West Ham United,7000000.0,Loan fee:€7.00m,loan_fee,4847892,408.0,2026-10-14T15:14:15+00:00,Phillips
+2022:281:in:2,2022,281,Manchester City,in,351749,Kalvin Phillips,26,Defensive Midfield,50000000.0,Leeds United,Manchester City,49000000.0,€49.00m,permanent,3919572,408.0,2026-10-14T15:14:15+00:00,Phillips

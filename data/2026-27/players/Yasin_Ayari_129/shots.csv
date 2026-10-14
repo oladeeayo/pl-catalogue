@@ -9,3 +9,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 694517,31217,38,4,2026-09-13 13:00:00,93,129,Ayari,Pascal Groß,0.809,0.545,0.0716,Goal,OpenPlay,RightFoot,Pass,a
 695941,31224,42,5,2026-09-19 14:00:00,7,129,Ayari,,0.911,0.429,0.0961,BlockedShot,FromCorner,RightFoot,None,h
 695945,31224,42,5,2026-09-19 14:00:00,39,129,Ayari,Ferdi Kadioglu,0.951,0.313,0.3079,MissedShots,OpenPlay,RightFoot,Pass,h
+697455,31234,60,6,2026-10-10 14:00:00,10,129,Ayari,,0.813,0.448,0.0489,MissedShots,OpenPlay,LeftFoot,None,a
+697468,31234,60,6,2026-10-10 14:00:00,70,129,Ayari,Diego Gómez,0.795,0.732,0.043,MissedShots,OpenPlay,RightFoot,Pass,a

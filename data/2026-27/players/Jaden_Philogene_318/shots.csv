@@ -1,3 +1,4 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
 694037,31213,34,4,2026-09-12 14:00:00,81,318,Philogene,Florentino Luís,0.739,0.679,0.0103,SavedShot,OpenPlay,RightFoot,Chipped,a
 696021,31226,43,5,2026-09-19 14:00:00,84,318,Philogene,Zian Flemming,0.787,0.703,0.0189,BlockedShot,OpenPlay,RightFoot,Pass,a
+697360,31233,57,6,2026-10-10 14:00:00,18,318,Philogene,Sasa Lukic,0.881,0.752,0.0326,SavedShot,OpenPlay,RightFoot,Pass,h

@@ -6,3 +6,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 694267,31216,36,4,2026-09-12 19:00:00,41,541,Meunier,Enzo Le Fée,0.817,0.4,0.0505,BlockedShot,OpenPlay,LeftFoot,Pass,h
 694269,31216,36,4,2026-09-12 19:00:00,46,541,Meunier,,0.908,0.307,0.0514,BlockedShot,OpenPlay,RightFoot,None,h
 694273,31216,36,4,2026-09-12 19:00:00,63,541,Meunier,,0.845,0.358,0.0429,BlockedShot,SetPiece,RightFoot,None,h
+697459,31234,60,6,2026-10-10 14:00:00,28,541,Meunier,Noah Sadiki,0.904,0.391,0.3593,BlockedShot,OpenPlay,RightFoot,TakeOn,h

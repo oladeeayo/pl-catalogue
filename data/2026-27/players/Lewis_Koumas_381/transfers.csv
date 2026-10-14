@@ -1,2 +1,2 @@
 row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
-2026:31:in:9,2026,31,Liverpool FC,in,922462,Lewis Koumas,20,Centre-Forward,4000000.0,Liverpool FC U21,Liverpool FC,,-,unknown,6594021,381.0,2026-10-05T21:50:18+00:00,Koumas
+2026:31:in:9,2026,31,Liverpool FC,in,922462,Lewis Koumas,20,Centre-Forward,4000000.0,Liverpool FC U21,Liverpool FC,,-,unknown,6594021,381.0,2026-10-14T15:14:15+00:00,Koumas

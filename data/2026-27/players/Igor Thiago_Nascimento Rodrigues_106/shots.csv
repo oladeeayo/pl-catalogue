@@ -12,3 +12,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 695603,31220,41,5,2026-09-18 19:00:00,4,106,Thiago,Yehor Yarmolyuk,0.861,0.473,0.0676,MissedShots,OpenPlay,RightFoot,Cross,h
 695615,31220,41,5,2026-09-18 19:00:00,58,106,Thiago,,0.757,0.491,0.0224,MissedShots,OpenPlay,RightFoot,None,h
 695625,31220,41,5,2026-09-18 19:00:00,82,106,Thiago,,0.888,0.462,0.5216,Goal,OpenPlay,RightFoot,Rebound,h
+697323,31231,52,6,2026-10-10 14:00:00,53,106,Thiago,Michael Kayode,0.914,0.426,0.0983,MissedShots,OpenPlay,RightFoot,Cross,a

@@ -8,3 +8,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 693939,31210,32,4,2026-09-12 14:00:00,2,86,Lewis-Potter,Vitaly Janelt,0.867,0.718,0.0379,MissedShots,OpenPlay,RightFoot,Pass,a
 695606,31220,41,5,2026-09-18 19:00:00,22,86,Lewis-Potter,,0.853,0.358,0.0539,BlockedShot,OpenPlay,RightFoot,None,h
 695613,31220,41,5,2026-09-18 19:00:00,42,86,Lewis-Potter,Jaidon Anthony,0.858,0.69,0.0402,SavedShot,OpenPlay,RightFoot,Pass,h
+697322,31231,52,6,2026-10-10 14:00:00,49,86,Lewis-Potter,El Hadji Malick Diouf,0.849,0.702,0.0346,BlockedShot,OpenPlay,RightFoot,Pass,a

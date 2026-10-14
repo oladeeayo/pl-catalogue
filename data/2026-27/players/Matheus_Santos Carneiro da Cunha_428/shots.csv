@@ -12,3 +12,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 696666,31229,50,5,2026-09-20 15:30:00,30,428,Cunha,Marcus Rashford,0.752,0.679,0.0153,BlockedShot,OpenPlay,RightFoot,Pass,a
 696684,31229,50,5,2026-09-20 15:30:00,73,428,Cunha,Lisandro Martínez,0.732,0.612,0.0164,SavedShot,OpenPlay,RightFoot,TakeOn,a
 696689,31229,50,5,2026-09-20 15:30:00,88,428,Cunha,Patrick Dorgu,0.752,0.708,0.0157,Goal,OpenPlay,RightFoot,Pass,a
+697642,31235,59,6,2026-10-10 16:30:00,89,428,Cunha,Diogo Dalot,0.866,0.455,0.1114,BlockedShot,OpenPlay,RightFoot,Pass,h

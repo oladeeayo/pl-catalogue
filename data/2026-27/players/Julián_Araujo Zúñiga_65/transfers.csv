@@ -1,3 +1,3 @@
 row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
-2026:989:in:10,2026,989,AFC Bournemouth,in,513970,Julián Araujo,24,Right-Back,8000000.0,Celtic FC,AFC Bournemouth,,End of loan30/06/2026,end_loan,6090154,65.0,2026-10-05T21:50:18+00:00,J.Araujo
-2024:989:in:6,2024,989,AFC Bournemouth,in,513970,Julián Araujo,23,Right-Back,8000000.0,FC Barcelona,AFC Bournemouth,10000000.0,€10.00m,permanent,5193699,65.0,2026-10-05T21:50:18+00:00,J.Araujo
+2026:989:in:10,2026,989,AFC Bournemouth,in,513970,Julián Araujo,24,Right-Back,8000000.0,Celtic FC,AFC Bournemouth,,End of loan30/06/2026,end_loan,6090154,65.0,2026-10-14T15:14:15+00:00,J.Araujo
+2024:989:in:6,2024,989,AFC Bournemouth,in,513970,Julián Araujo,23,Right-Back,8000000.0,FC Barcelona,AFC Bournemouth,10000000.0,€10.00m,permanent,5193699,65.0,2026-10-14T15:14:15+00:00,J.Araujo

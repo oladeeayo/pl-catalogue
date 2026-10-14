@@ -12,3 +12,7 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 695611,31220,41,5,2026-09-18 19:00:00,42,94,Schade,,0.858,0.45,0.0709,BlockedShot,OpenPlay,LeftFoot,None,h
 695618,31220,41,5,2026-09-18 19:00:00,63,94,Schade,Kristoffer Ajer,0.843,0.521,0.1044,BlockedShot,OpenPlay,RightFoot,Pass,h
 695624,31220,41,5,2026-09-18 19:00:00,82,94,Schade,Mikkel Damsgaard,0.858,0.592,0.3358,SavedShot,OpenPlay,RightFoot,Pass,h
+697306,31231,52,6,2026-10-10 14:00:00,3,94,Schade,Thiago,0.817,0.529,0.0964,MissedShots,OpenPlay,RightFoot,Pass,a
+697312,31231,52,6,2026-10-10 14:00:00,16,94,Schade,,0.912,0.512,0.056,MissedShots,OpenPlay,Head,Aerial,a
+697318,31231,52,6,2026-10-10 14:00:00,46,94,Schade,Thiago,0.887,0.688,0.0544,MissedShots,OpenPlay,LeftFoot,BallTouch,a
+697321,31231,52,6,2026-10-10 14:00:00,48,94,Schade,Thiago,0.858,0.592,0.1111,SavedShot,OpenPlay,RightFoot,HeadPass,a

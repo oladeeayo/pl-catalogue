@@ -1,3 +1,4 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
 691099,31197,17,2,2026-08-30 13:00:00,20,338,Ampadu,,0.719,0.483,0.0134,MissedShots,OpenPlay,RightFoot,None,h
 695016,31219,40,4,2026-09-14 19:00:00,10,338,Ampadu,Anton Stach,0.79,0.539,0.0307,BlockedShot,OpenPlay,RightFoot,Pass,h
+697110,31230,51,6,2026-10-10 11:30:00,34,338,Ampadu,,0.817,0.346,0.0096,SavedShot,SetPiece,Head,Aerial,a

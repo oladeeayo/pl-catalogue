@@ -9,3 +9,8 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 695035,31219,40,4,2026-09-14 19:00:00,76,460,Willock,Sean Steur,0.785,0.729,0.0193,SavedShot,OpenPlay,RightFoot,Pass,a
 695906,31223,46,5,2026-09-19 14:00:00,2,460,Willock,Lewis Hall,0.84,0.648,0.0511,BlockedShot,OpenPlay,RightFoot,Pass,h
 695907,31223,46,5,2026-09-19 14:00:00,2,460,Willock,Harvey Barnes,0.907,0.615,0.1098,Goal,OpenPlay,LeftFoot,Pass,h
+698530,31239,54,6,2026-10-12 19:00:00,22,460,Willock,Lewis Hall,0.86,0.752,0.0326,BlockedShot,OpenPlay,RightFoot,TakeOn,a
+698535,31239,54,6,2026-10-12 19:00:00,37,460,Willock,Harvey Barnes,0.845,0.627,0.0591,BlockedShot,OpenPlay,RightFoot,Pass,a
+698537,31239,54,6,2026-10-12 19:00:00,43,460,Willock,Nico González,0.822,0.613,0.0505,BlockedShot,OpenPlay,RightFoot,Pass,a
+698539,31239,54,6,2026-10-12 19:00:00,49,460,Willock,Jacob Murphy,0.978,0.577,0.1289,MissedShots,OpenPlay,Head,Cross,a
+698542,31239,54,6,2026-10-12 19:00:00,58,460,Willock,Jacob Murphy,0.899,0.374,0.0895,MissedShots,OpenPlay,RightFoot,Pass,a

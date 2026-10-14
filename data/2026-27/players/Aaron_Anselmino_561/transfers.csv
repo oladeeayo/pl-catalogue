@@ -1,5 +1,5 @@
 row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
-2026:631:in:14,2026,631,Chelsea FC,in,1145504,Aarón Anselmino,21,Centre-Back,10000000.0,RC Strasbourg Alsace,Chelsea FC,,End of loan30/06/2026,end_loan,6162941,561.0,2026-10-05T21:50:18+00:00,Anselmino
-2025:631:in:19,2025,631,Chelsea FC,in,1145504,Aarón Anselmino,20,Centre-Back,12000000.0,Borussia Dortmund,Chelsea FC,,End of loan26/01/2026,end_loan,6143883,561.0,2026-10-05T21:50:18+00:00,Anselmino
-2024:631:in:29,2024,631,Chelsea FC,in,1145504,Aarón Anselmino,19,Centre-Back,8000000.0,CA Boca Juniors,Chelsea FC,,End of loan03/01/2025,end_loan,5180512,561.0,2026-10-05T21:50:18+00:00,Anselmino
-2024:631:in:6,2024,631,Chelsea FC,in,1145504,Aarón Anselmino,19,Centre-Back,3000000.0,CA Boca Juniors,Chelsea FC,16500000.0,€16.50m,permanent,5180509,561.0,2026-10-05T21:50:18+00:00,Anselmino
+2026:631:in:16,2026,631,Chelsea FC,in,1145504,Aarón Anselmino,21,Centre-Back,10000000.0,RC Strasbourg Alsace,Chelsea FC,,End of loan30/06/2026,end_loan,6162941,561.0,2026-10-14T15:14:15+00:00,Anselmino
+2025:631:in:19,2025,631,Chelsea FC,in,1145504,Aarón Anselmino,20,Centre-Back,12000000.0,Borussia Dortmund,Chelsea FC,,End of loan26/01/2026,end_loan,6143883,561.0,2026-10-14T15:14:15+00:00,Anselmino
+2024:631:in:29,2024,631,Chelsea FC,in,1145504,Aarón Anselmino,19,Centre-Back,8000000.0,CA Boca Juniors,Chelsea FC,,End of loan03/01/2025,end_loan,5180512,561.0,2026-10-14T15:14:15+00:00,Anselmino
+2024:631:in:6,2024,631,Chelsea FC,in,1145504,Aarón Anselmino,19,Centre-Back,3000000.0,CA Boca Juniors,Chelsea FC,16500000.0,€16.50m,permanent,5180509,561.0,2026-10-14T15:14:15+00:00,Anselmino

@@ -1,2 +1,2 @@
 row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
-2024:631:in:4,2024,631,Chelsea FC,in,585323,Filip Jørgensen,22,Goalkeeper,20000000.0,Villarreal CF,Chelsea FC,24500000.0,€24.50m,permanent,5159419,141.0,2026-10-05T21:50:18+00:00,Jörgensen
+2024:631:in:4,2024,631,Chelsea FC,in,585323,Filip Jørgensen,22,Goalkeeper,20000000.0,Villarreal CF,Chelsea FC,24500000.0,€24.50m,permanent,5159419,141.0,2026-10-14T15:14:15+00:00,Jörgensen

@@ -14,3 +14,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 695607,31220,41,5,2026-09-18 19:00:00,29,40,Rogers,,0.815,0.295,0.0747,SavedShot,DirectFreekick,RightFoot,Standard,a
 695610,31220,41,5,2026-09-18 19:00:00,40,40,Rogers,Pep Chavarría,0.877,0.679,0.0568,BlockedShot,OpenPlay,LeftFoot,Pass,a
 695614,31220,41,5,2026-09-18 19:00:00,51,40,Rogers,Pep Chavarría,0.708,0.626,0.0123,BlockedShot,OpenPlay,RightFoot,BallRecovery,a
+697342,31232,53,6,2026-10-10 14:00:00,2,40,Rogers,Jordan Henderson,0.84,0.658,0.0633,Goal,OpenPlay,RightFoot,Pass,h
+697346,31232,53,6,2026-10-10 14:00:00,26,40,Rogers,,0.858,0.472,0.0921,BlockedShot,OpenPlay,RightFoot,None,h

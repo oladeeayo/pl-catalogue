@@ -1,3 +1,4 @@
 gw,element,code,name,position,team,opponent,was_home,result,team_score,opp_score,fixture_id,minutes,starts,total_points,goals_scored,assists,clean_sheets,goals_conceded,saves,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,selected,transfers_in,transfers_out,transfers_balance
 4,657,626464,Nunes,MID,Brentford,Bournemouth,0,D,2,2,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,45,0,0,0,0
 5,657,626464,Nunes,MID,Brentford,Chelsea,1,W,3,0,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,45,2569,1742,393,1349
+6,657,626464,Nunes,MID,Brentford,Aston Villa,0,D,2,2,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,45,2850,547,355,192

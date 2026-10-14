@@ -1,3 +1,3 @@
 row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
-2026:148:in:1,2026,148,Tottenham Hotspur,in,397033,Sandro Tonali,26,Defensive Midfield,80000000.0,Newcastle United,Tottenham Hotspur,108000000.0,€108.00m,permanent,6405567,455.0,2026-10-05T21:50:18+00:00,Tonali
-2023:762:in:1,2023,762,Newcastle United,in,397033,Sandro Tonali,23,Defensive Midfield,50000000.0,AC Milan,Newcastle United,67099999.99999999,€67.10m,permanent,4472573,455.0,2026-10-05T21:50:18+00:00,Tonali
+2026:148:in:1,2026,148,Tottenham Hotspur,in,397033,Sandro Tonali,26,Defensive Midfield,80000000.0,Newcastle United,Tottenham Hotspur,108000000.0,€108.00m,permanent,6405567,455.0,2026-10-14T15:14:15+00:00,Tonali
+2023:762:in:1,2023,762,Newcastle United,in,397033,Sandro Tonali,23,Defensive Midfield,50000000.0,AC Milan,Newcastle United,67099999.99999999,€67.10m,permanent,4472573,455.0,2026-10-14T15:14:15+00:00,Tonali

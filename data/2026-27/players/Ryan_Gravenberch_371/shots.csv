@@ -2,3 +2,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 689374,31188,9,1,2026-08-23 15:30:00,40,371,Gravenberch,,0.732,0.541,0.0152,BlockedShot,OpenPlay,RightFoot,BallRecovery,a
 689384,31188,9,1,2026-08-23 15:30:00,56,371,Gravenberch,Alexander Isak,0.789,0.452,0.0405,BlockedShot,OpenPlay,LeftFoot,BallTouch,a
 694047,31214,35,4,2026-09-12 14:00:00,23,371,Gravenberch,Florian Wirtz,0.744,0.425,0.0188,BlockedShot,OpenPlay,RightFoot,Pass,h
+698252,31238,58,6,2026-10-11 15:30:00,48,371,Gravenberch,Alexis Mac Allister,0.671,0.366,0.0141,SavedShot,OpenPlay,RightFoot,Pass,h
+698257,31238,58,6,2026-10-11 15:30:00,61,371,Gravenberch,Alexis Mac Allister,0.709,0.377,0.0174,SavedShot,OpenPlay,RightFoot,Pass,h

@@ -1,2 +1,2 @@
 row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
-2024:677:in:10,2024,677,Ipswich Town,in,245625,Alex Palmer,28,Goalkeeper,1200000.0,West Bromwich Albion,Ipswich Town,2400000.0,€2.40m,permanent,5501274,301.0,2026-10-05T21:50:18+00:00,Palmer
+2024:677:in:10,2024,677,Ipswich Town,in,245625,Alex Palmer,28,Goalkeeper,1200000.0,West Bromwich Albion,Ipswich Town,2400000.0,€2.40m,permanent,5501274,301.0,2026-10-14T15:14:15+00:00,Palmer

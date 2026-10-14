@@ -1,4 +1,4 @@
 row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
-2024:1148:in:2,2024,1148,Brentford FC,in,541231,Sepp van den Berg,22,Centre-Back,12000000.0,Liverpool FC,Brentford FC,23600000.0,€23.60m,permanent,5216946,85.0,2026-10-05T21:50:18+00:00,Van den Berg
-2024:31:in:11,2024,31,Liverpool FC,in,541231,Sepp van den Berg,22,Centre-Back,12000000.0,1.FSV Mainz 05,Liverpool FC,,End of loan30/06/2024,end_loan,4501495,85.0,2026-10-05T21:50:18+00:00,Van den Berg
-2023:31:in:12,2023,31,Liverpool FC,in,541231,Sepp van den Berg,21,Centre-Back,5000000.0,FC Schalke 04,Liverpool FC,,End of loan30/06/2023,end_loan,4045419,85.0,2026-10-05T21:50:18+00:00,Van den Berg
+2024:1148:in:2,2024,1148,Brentford FC,in,541231,Sepp van den Berg,22,Centre-Back,12000000.0,Liverpool FC,Brentford FC,23600000.0,€23.60m,permanent,5216946,85.0,2026-10-14T15:14:15+00:00,Van den Berg
+2024:31:in:11,2024,31,Liverpool FC,in,541231,Sepp van den Berg,22,Centre-Back,12000000.0,1.FSV Mainz 05,Liverpool FC,,End of loan30/06/2024,end_loan,4501495,85.0,2026-10-14T15:14:15+00:00,Van den Berg
+2023:31:in:12,2023,31,Liverpool FC,in,541231,Sepp van den Berg,21,Centre-Back,5000000.0,FC Schalke 04,Liverpool FC,,End of loan30/06/2023,end_loan,4045419,85.0,2026-10-14T15:14:15+00:00,Van den Berg

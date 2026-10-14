@@ -6,3 +6,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 694260,31216,36,4,2026-09-12 19:00:00,6,8,Calafiori,Martin Odegaard,0.836,0.517,0.0851,BlockedShot,OpenPlay,RightFoot,Pass,a
 695942,31224,42,5,2026-09-19 14:00:00,19,8,Calafiori,Bukayo Saka,0.877,0.595,0.0177,BlockedShot,OpenPlay,Head,Cross,a
 695954,31224,42,5,2026-09-19 14:00:00,71,8,Calafiori,Declan Rice,0.924,0.604,0.0151,MissedShots,FromCorner,Head,Aerial,a
+697119,31230,51,6,2026-10-10 11:30:00,61,8,Calafiori,Ben White,0.955,0.52,0.5819,Goal,OpenPlay,LeftFoot,HeadPass,h
+697121,31230,51,6,2026-10-10 11:30:00,66,8,Calafiori,,0.849,0.547,0.0581,MissedShots,FromCorner,LeftFoot,None,h

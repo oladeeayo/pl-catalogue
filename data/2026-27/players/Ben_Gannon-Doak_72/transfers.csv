@@ -1,4 +1,4 @@
 row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
-2025:989:in:4,2025,989,AFC Bournemouth,in,719673,Ben Gannon-Doak,19,Right Winger,14000000.0,Liverpool FC,AFC Bournemouth,23200000.0,€23.20m,permanent,5872894,72.0,2026-10-05T21:50:18+00:00,Gannon-Doak
-2025:31:in:15,2025,31,Liverpool FC,in,719673,Ben Gannon-Doak,19,Right Winger,14000000.0,Middlesbrough FC,Liverpool FC,,End of loan30/06/2025,end_loan,5238682,72.0,2026-10-05T21:50:18+00:00,Gannon-Doak
-2023:31:in:5,2023,31,Liverpool FC,in,719673,Ben Gannon-Doak,17,Right Winger,,Liverpool FC U18,Liverpool FC,,-,unknown,4581895,72.0,2026-10-05T21:50:18+00:00,Gannon-Doak
+2025:989:in:4,2025,989,AFC Bournemouth,in,719673,Ben Gannon-Doak,19,Right Winger,14000000.0,Liverpool FC,AFC Bournemouth,23200000.0,€23.20m,permanent,5872894,72.0,2026-10-14T15:14:15+00:00,Gannon-Doak
+2025:31:in:15,2025,31,Liverpool FC,in,719673,Ben Gannon-Doak,19,Right Winger,14000000.0,Middlesbrough FC,Liverpool FC,,End of loan30/06/2025,end_loan,5238682,72.0,2026-10-14T15:14:15+00:00,Gannon-Doak
+2023:31:in:5,2023,31,Liverpool FC,in,719673,Ben Gannon-Doak,17,Right Winger,,Liverpool FC U18,Liverpool FC,,-,unknown,4581895,72.0,2026-10-14T15:14:15+00:00,Gannon-Doak

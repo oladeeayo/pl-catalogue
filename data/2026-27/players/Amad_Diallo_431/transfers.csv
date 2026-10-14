@@ -1,2 +1,2 @@
 row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
-2022:985:in:16,2022,985,Manchester United,in,536835,Amad Diallo,20,Right Winger,13000000.0,Sunderland AFC,Manchester United,,End of loan31/05/2023,end_loan,4049292,431.0,2026-10-05T21:50:18+00:00,Amad
+2022:985:in:16,2022,985,Manchester United,in,536835,Amad Diallo,20,Right Winger,13000000.0,Sunderland AFC,Manchester United,,End of loan31/05/2023,end_loan,4049292,431.0,2026-10-14T15:14:15+00:00,Amad

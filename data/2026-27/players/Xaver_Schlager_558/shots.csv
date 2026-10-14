@@ -5,3 +5,6 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 693989,31211,31,4,2026-09-12 14:00:00,85,558,Schlager,Daniel Muñoz,0.88,0.523,0.044,SavedShot,OpenPlay,Head,Cross,a
 696152,31227,47,5,2026-09-19 16:30:00,45,558,Schlager,Morgan Gibbs-White,0.772,0.515,0.0274,BlockedShot,SetPiece,LeftFoot,TakeOn,h
 696165,31227,47,5,2026-09-19 16:30:00,84,558,Schlager,,0.801,0.544,0.0397,BlockedShot,OpenPlay,LeftFoot,None,h
+697930,31236,55,6,2026-10-11 13:00:00,18,558,Schlager,James McAtee,0.886,0.607,0.0435,BlockedShot,FromCorner,RightFoot,Cross,a
+697945,31236,55,6,2026-10-11 13:00:00,48,558,Schlager,Morgan Gibbs-White,0.951,0.411,0.0871,BlockedShot,OpenPlay,LeftFoot,None,a
+697942,31236,55,6,2026-10-11 13:00:00,50,558,Schlager,,0.759,0.399,0.021,MissedShots,OpenPlay,RightFoot,None,a

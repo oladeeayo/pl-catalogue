@@ -1,5 +1,5 @@
 row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
-2024:1148:in:3,2024,1148,Brentford FC,in,559263,Fábio Carvalho,21,Attacking Midfield,14000000.0,Liverpool FC,Brentford FC,23400000.0,€23.40m,permanent,5191371,100.0,2026-10-05T21:50:18+00:00,Carvalho
-2024:31:in:8,2024,31,Liverpool FC,in,559263,Fábio Carvalho,21,Attacking Midfield,14000000.0,Hull City,Liverpool FC,,End of loan30/06/2024,end_loan,4812625,100.0,2026-10-05T21:50:18+00:00,Carvalho
-2023:31:in:9,2023,31,Liverpool FC,in,559263,Fábio Carvalho,21,Attacking Midfield,14000000.0,RB Leipzig,Liverpool FC,,End of loan31/12/2023,end_loan,4465395,100.0,2026-10-05T21:50:18+00:00,Carvalho
-2022:31:in:3,2022,31,Liverpool FC,in,559263,Fábio Carvalho,19,Attacking Midfield,12000000.0,Fulham FC,Liverpool FC,9400000.0,€9.40m,permanent,3858852,100.0,2026-10-05T21:50:18+00:00,Carvalho
+2024:1148:in:3,2024,1148,Brentford FC,in,559263,Fábio Carvalho,21,Attacking Midfield,14000000.0,Liverpool FC,Brentford FC,23400000.0,€23.40m,permanent,5191371,100.0,2026-10-14T15:14:15+00:00,Carvalho
+2024:31:in:8,2024,31,Liverpool FC,in,559263,Fábio Carvalho,21,Attacking Midfield,14000000.0,Hull City,Liverpool FC,,End of loan30/06/2024,end_loan,4812625,100.0,2026-10-14T15:14:15+00:00,Carvalho
+2023:31:in:9,2023,31,Liverpool FC,in,559263,Fábio Carvalho,21,Attacking Midfield,14000000.0,RB Leipzig,Liverpool FC,,End of loan31/12/2023,end_loan,4465395,100.0,2026-10-14T15:14:15+00:00,Carvalho
+2022:31:in:3,2022,31,Liverpool FC,in,559263,Fábio Carvalho,19,Attacking Midfield,12000000.0,Fulham FC,Liverpool FC,9400000.0,€9.40m,permanent,3858852,100.0,2026-10-14T15:14:15+00:00,Carvalho

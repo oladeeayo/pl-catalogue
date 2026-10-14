@@ -6,3 +6,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 692293,31206,23,3,2026-09-05 14:00:00,47,335,Stach,Nico Elvedi,0.935,0.414,0.4998,SavedShot,OpenPlay,RightFoot,Pass,a
 695030,31219,40,4,2026-09-14 19:00:00,54,335,Stach,,0.9,0.376,0.4177,MissedShots,OpenPlay,LeftFoot,BallRecovery,h
 696439,31225,44,5,2026-09-20 13:00:00,3,335,Stach,,0.691,0.43,0.034,BlockedShot,DirectFreekick,RightFoot,Standard,h
+697107,31230,51,6,2026-10-10 11:30:00,24,335,Stach,Gabriel Gudmundsson,0.955,0.378,0.2762,BlockedShot,OpenPlay,RightFoot,Cross,a
+697113,31230,51,6,2026-10-10 11:30:00,44,335,Stach,Ethan Ampadu,0.911,0.633,0.0205,MissedShots,OpenPlay,Head,Pass,a

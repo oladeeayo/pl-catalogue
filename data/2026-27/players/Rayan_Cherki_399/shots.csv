@@ -8,3 +8,8 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 694678,31218,39,4,2026-09-13 15:30:00,26,399,Cherki,,0.798,0.52,0.0177,BlockedShot,FromCorner,LeftFoot,Aerial,a
 696471,31222,45,5,2026-09-20 13:00:00,28,399,Cherki,Antoine Semenyo,0.868,0.47,0.1115,Goal,OpenPlay,RightFoot,Pass,h
 696484,31222,45,5,2026-09-20 13:00:00,65,399,Cherki,Antoine Semenyo,0.882,0.616,0.0894,MissedShots,OpenPlay,LeftFoot,Pass,h
+698247,31238,58,6,2026-10-11 15:30:00,37,399,Cherki,Elliot Anderson,0.929,0.271,0.043,MissedShots,OpenPlay,LeftFoot,Pass,a
+698261,31238,58,6,2026-10-11 15:30:00,69,399,Cherki,Jéremy Doku,0.807,0.657,0.0357,BlockedShot,OpenPlay,RightFoot,Pass,a
+698264,31238,58,6,2026-10-11 15:30:00,77,399,Cherki,Josko Gvardiol,0.956,0.526,0.7523,Goal,OpenPlay,RightFoot,TakeOn,a
+698266,31238,58,6,2026-10-11 15:30:00,88,399,Cherki,Ayyoub Bouaddi,0.813,0.563,0.0794,BlockedShot,OpenPlay,LeftFoot,Pass,a
+698268,31238,58,6,2026-10-11 15:30:00,92,399,Cherki,Ayyoub Bouaddi,0.855,0.264,0.0423,BlockedShot,OpenPlay,LeftFoot,Pass,a

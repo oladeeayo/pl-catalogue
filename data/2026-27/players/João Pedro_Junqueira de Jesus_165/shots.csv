@@ -11,3 +11,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 691600,31196,16,2,2026-08-30 13:00:00,62,165,João Pedro,,0.089,0.65,0.0,OwnGoal,FromCorner,LeftFoot,CornerAwarded,h
 693068,31209,29,3,2026-09-06 15:30:00,35,165,João Pedro,Reece James,0.694,0.531,0.0163,MissedShots,OpenPlay,RightFoot,Pass,a
 694009,31212,33,4,2026-09-12 14:00:00,65,165,João Pedro,Cole Palmer,0.923,0.555,0.4453,Goal,OpenPlay,LeftFoot,Pass,h
+697351,31232,53,6,2026-10-10 14:00:00,45,165,João Pedro,Pedro Neto,0.861,0.433,0.1142,Goal,OpenPlay,RightFoot,Pass,h
+697355,31232,53,6,2026-10-10 14:00:00,66,165,João Pedro,Pep Chavarría,0.927,0.504,0.5253,Goal,OpenPlay,RightFoot,Cross,h

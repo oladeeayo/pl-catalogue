@@ -1,2 +1,3 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
 695919,31223,46,5,2026-09-19 14:00:00,54,634,Fernandez-Pardo,Sean Steur,0.861,0.271,0.0524,BlockedShot,OpenPlay,RightFoot,Pass,h
+698536,31239,54,6,2026-10-12 19:00:00,42,634,Fernandez-Pardo,Nico González,0.89,0.417,0.807,BlockedShot,OpenPlay,RightFoot,TakeOn,a

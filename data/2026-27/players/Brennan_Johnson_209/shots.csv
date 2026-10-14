@@ -3,3 +3,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 694180,31215,37,4,2026-09-12 16:30:00,74,209,Johnson,Kiernan Dewsbury-Hall,0.858,0.527,0.3461,MissedShots,OpenPlay,RightFoot,Pass,a
 695994,31226,43,5,2026-09-19 14:00:00,4,209,Johnson,Harrison Armstrong,0.885,0.449,0.3846,MissedShots,OpenPlay,RightFoot,Throughball,h
 696013,31226,43,5,2026-09-19 14:00:00,65,209,Johnson,Kiernan Dewsbury-Hall,0.86,0.442,0.1141,MissedShots,OpenPlay,RightFoot,Pass,h
+697973,31237,56,6,2026-10-11 13:00:00,48,209,Johnson,Harrison Armstrong,0.868,0.319,0.0442,BlockedShot,OpenPlay,LeftFoot,Pass,a

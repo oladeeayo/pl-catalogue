@@ -8,3 +8,7 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 695668,31221,48,5,2026-09-19 11:30:00,26,41,Buendía,Nicolas Jackson,0.886,0.636,0.0739,SavedShot,OpenPlay,RightFoot,Pass,a
 695688,31221,48,5,2026-09-19 11:30:00,78,41,Buendía,John McGinn,0.738,0.487,0.0204,Goal,OpenPlay,RightFoot,Pass,a
 695691,31221,48,5,2026-09-19 11:30:00,87,41,Buendía,,0.912,0.642,0.0694,BlockedShot,OpenPlay,LeftFoot,TakeOn,a
+697310,31231,52,6,2026-10-10 14:00:00,11,41,Buendía,John McGinn,0.798,0.61,0.0323,BlockedShot,OpenPlay,LeftFoot,Pass,h
+697315,31231,52,6,2026-10-10 14:00:00,30,41,Buendía,,0.899,0.576,0.1018,MissedShots,OpenPlay,LeftFoot,Rebound,h
+697325,31231,52,6,2026-10-10 14:00:00,57,41,Buendía,Nicolas Jackson,0.899,0.714,0.0464,MissedShots,OpenPlay,RightFoot,Pass,h
+697328,31231,52,6,2026-10-10 14:00:00,61,41,Buendía,Boubacar Kamara,0.824,0.481,0.0715,BlockedShot,OpenPlay,RightFoot,Pass,h

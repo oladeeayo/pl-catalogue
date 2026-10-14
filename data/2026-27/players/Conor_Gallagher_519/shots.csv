@@ -1,3 +1,5 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
 688735,31185,2,1,2026-08-22 16:30:00,9,519,Gallagher,Mathys Tel,0.719,0.633,0.0168,MissedShots,OpenPlay,RightFoot,Pass,a
 695690,31221,48,5,2026-09-19 11:30:00,85,519,Gallagher,Mohammed Kudus,0.959,0.413,0.3785,Goal,OpenPlay,RightFoot,Pass,h
+697625,31235,59,6,2026-10-10 16:30:00,18,519,Gallagher,Dominic Solanke,0.953,0.682,0.0546,BlockedShot,OpenPlay,RightFoot,Pass,a
+697629,31235,59,6,2026-10-10 16:30:00,41,519,Gallagher,,0.956,0.445,0.522,SavedShot,OpenPlay,RightFoot,Dispossessed,a

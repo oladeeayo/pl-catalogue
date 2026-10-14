@@ -7,3 +7,7 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 695681,31221,48,5,2026-09-19 11:30:00,55,166,N.Jackson,Matteo Ruggeri,0.725,0.651,0.0264,MissedShots,OpenPlay,RightFoot,TakeOn,a
 695682,31221,48,5,2026-09-19 11:30:00,57,166,N.Jackson,John McGinn,0.764,0.607,0.0496,BlockedShot,OpenPlay,RightFoot,Pass,a
 695684,31221,48,5,2026-09-19 11:30:00,66,166,N.Jackson,Johan Manzambi,0.846,0.411,0.1156,Goal,OpenPlay,RightFoot,TakeOn,a
+697307,31231,52,6,2026-10-10 14:00:00,8,166,N.Jackson,Johan Manzambi,0.873,0.681,0.0542,BlockedShot,OpenPlay,LeftFoot,Pass,h
+697311,31231,52,6,2026-10-10 14:00:00,11,166,N.Jackson,,0.937,0.401,0.386,Goal,OpenPlay,RightFoot,Rebound,h
+697317,31231,52,6,2026-10-10 14:00:00,46,166,N.Jackson,Johan Manzambi,0.875,0.618,0.0934,MissedShots,OpenPlay,RightFoot,Pass,h
+697319,31231,52,6,2026-10-10 14:00:00,49,166,N.Jackson,Matteo Ruggeri,0.853,0.712,0.0308,SavedShot,OpenPlay,RightFoot,Pass,h

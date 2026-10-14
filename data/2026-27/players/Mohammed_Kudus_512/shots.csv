@@ -2,3 +2,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 690594,31194,15,2,2026-08-29 16:30:00,87,512,Kudus,Jan Paul van Hecke,0.878,0.31,0.0546,BlockedShot,OpenPlay,LeftFoot,Pass,h
 695687,31221,48,5,2026-09-19 11:30:00,75,512,Kudus,,0.797,0.432,0.0268,MissedShots,FromCorner,LeftFoot,None,h
 695693,31221,48,5,2026-09-19 11:30:00,92,512,Kudus,,0.916,0.332,0.0532,MissedShots,SetPiece,RightFoot,Rebound,h
+697626,31235,59,6,2026-10-10 16:30:00,20,512,Kudus,Sávio,0.864,0.472,0.0984,MissedShots,OpenPlay,LeftFoot,Pass,a
+697633,31235,59,6,2026-10-10 16:30:00,58,512,Kudus,,0.825,0.4,0.0353,BlockedShot,FromCorner,LeftFoot,None,a

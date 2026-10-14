@@ -1,5 +1,5 @@
 row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
-2025:29:in:4,2025,29,Everton FC,in,748319,Carlos Alcaraz,22,Central Midfield,14000000.0,CR Flamengo,Everton FC,15000000.0,€15.00m,permanent,5683328,243.0,2026-10-05T21:50:18+00:00,Alcaraz
-2024:29:in:8,2024,29,Everton FC,in,748319,Carlos Alcaraz,22,Central Midfield,14000000.0,CR Flamengo,Everton FC,,loan transfer,loan,5501855,243.0,2026-10-05T21:50:18+00:00,Alcaraz
-2024:180:in:24,2024,180,Southampton FC,in,748319,Carlos Alcaraz,21,Central Midfield,15000000.0,Juventus FC,Southampton FC,,End of loan30/06/2024,end_loan,4860595,243.0,2026-10-05T21:50:18+00:00,Alcaraz
-2022:180:in:5,2022,180,Southampton FC,in,748319,Carlos Alcaraz,20,Central Midfield,8500000.0,Racing Club,Southampton FC,13650000.0,€13.65m,permanent,4213327,243.0,2026-10-05T21:50:18+00:00,Alcaraz
+2025:29:in:4,2025,29,Everton FC,in,748319,Charly Alcaraz,22,Central Midfield,14000000.0,CR Flamengo,Everton FC,15000000.0,€15.00m,permanent,5683328,243.0,2026-10-14T15:14:15+00:00,Alcaraz
+2024:29:in:8,2024,29,Everton FC,in,748319,Charly Alcaraz,22,Central Midfield,14000000.0,CR Flamengo,Everton FC,,loan transfer,loan,5501855,243.0,2026-10-14T15:14:15+00:00,Alcaraz
+2024:180:in:24,2024,180,Southampton FC,in,748319,Charly Alcaraz,21,Central Midfield,15000000.0,Juventus FC,Southampton FC,,End of loan30/06/2024,end_loan,4860595,243.0,2026-10-14T15:14:15+00:00,Alcaraz
+2022:180:in:5,2022,180,Southampton FC,in,748319,Charly Alcaraz,20,Central Midfield,8500000.0,Racing Club,Southampton FC,13650000.0,€13.65m,permanent,4213327,243.0,2026-10-14T15:14:15+00:00,Alcaraz

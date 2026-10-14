@@ -5,3 +5,6 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 694679,31218,39,4,2026-09-13 15:30:00,41,418,Maguire,Diogo Dalot,0.755,0.253,0.012,MissedShots,OpenPlay,RightFoot,Pass,h
 694694,31218,39,4,2026-09-13 15:30:00,85,418,Maguire,Bryan Mbeumo,0.918,0.537,0.0364,MissedShots,FromCorner,Head,Aerial,h
 696681,31229,50,5,2026-09-20 15:30:00,67,418,Maguire,Bruno Fernandes,0.975,0.383,0.0232,BlockedShot,FromCorner,Head,Cross,a
+697638,31235,59,6,2026-10-10 16:30:00,71,418,Maguire,Diogo Dalot,0.754,0.301,0.0143,BlockedShot,OpenPlay,RightFoot,Pass,h
+697641,31235,59,6,2026-10-10 16:30:00,85,418,Maguire,Bruno Fernandes,0.917,0.481,0.0407,MissedShots,FromCorner,Head,Aerial,h
+697644,31235,59,6,2026-10-10 16:30:00,93,418,Maguire,Carlos Baleba,0.769,0.271,0.016,SavedShot,OpenPlay,RightFoot,Pass,h

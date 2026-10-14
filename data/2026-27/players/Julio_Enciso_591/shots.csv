@@ -16,3 +16,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 695998,31226,43,5,2026-09-19 14:00:00,17,591,Enciso,Sasa Lukic,0.867,0.481,0.1059,BlockedShot,OpenPlay,RightFoot,Throughball,a
 696009,31226,43,5,2026-09-19 14:00:00,45,591,Enciso,Jack Clarke,0.907,0.639,0.1037,SavedShot,OpenPlay,LeftFoot,Throughball,a
 696011,31226,43,5,2026-09-19 14:00:00,62,591,Enciso,Issa Diop,0.762,0.505,0.0273,MissedShots,OpenPlay,RightFoot,Pass,a
+697359,31233,57,6,2026-10-10 14:00:00,15,591,Enciso,Daizen Maeda,0.772,0.493,0.0239,MissedShots,OpenPlay,RightFoot,Pass,h
+697369,31233,57,6,2026-10-10 14:00:00,51,591,Enciso,Emersonn,0.719,0.519,0.0175,SavedShot,OpenPlay,RightFoot,Pass,h

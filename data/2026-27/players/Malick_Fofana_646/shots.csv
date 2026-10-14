@@ -2,3 +2,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 696486,31222,45,5,2026-09-20 13:00:00,69,646,Fofana,,0.886,0.545,0.076,BlockedShot,OpenPlay,LeftFoot,None,a
 696490,31222,45,5,2026-09-20 13:00:00,80,646,Fofana,Granit Xhaka,0.858,0.72,0.0361,SavedShot,OpenPlay,RightFoot,Pass,a
 696496,31222,45,5,2026-09-20 13:00:00,93,646,Fofana,Nordi Mukiele,0.915,0.493,0.3195,SavedShot,OpenPlay,Head,Cross,a
+697467,31234,60,6,2026-10-10 14:00:00,66,646,Fofana,Reinildo,0.85,0.762,0.0249,SavedShot,OpenPlay,RightFoot,Pass,h

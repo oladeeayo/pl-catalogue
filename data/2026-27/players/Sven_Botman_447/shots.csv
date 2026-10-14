@@ -1,3 +1,4 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
 690583,31194,15,2,2026-08-29 16:30:00,54,447,Botman,Nico González,0.708,0.6,0.0147,BlockedShot,OpenPlay,LeftFoot,Pass,a
 695917,31223,46,5,2026-09-19 14:00:00,51,447,Botman,Lewis Hall,0.909,0.442,0.0349,SavedShot,SetPiece,Head,Aerial,h
+698544,31239,54,6,2026-10-12 19:00:00,69,447,Botman,Nico González,0.816,0.723,0.0212,Goal,OpenPlay,LeftFoot,Pass,a

@@ -1,3 +1,4 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
 690086,31190,11,2,2026-08-28 19:00:00,38,202,Richards,Yeremi Pino,0.877,0.403,0.0243,SavedShot,SetPiece,Head,Cross,h
 692367,31204,24,3,2026-09-05 14:00:00,17,202,Richards,Axel Disasi,0.819,0.501,0.0335,SavedShot,FromCorner,RightFoot,Pass,a
+697957,31236,55,6,2026-10-11 13:00:00,91,202,Richards,Adam Wharton,0.917,0.459,0.0829,MissedShots,FromCorner,Head,Cross,h

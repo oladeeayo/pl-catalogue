@@ -1,3 +1,3 @@
 row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
-2022:29:in:15,2022,29,Everton FC,in,511550,Ellis Simms,21,Centre-Forward,1200000.0,Sunderland AFC,Everton FC,,End of loan31/12/2022,end_loan,3977445,195.0,2026-10-05T21:50:18+00:00,Simms
-2022:29:in:10,2022,29,Everton FC,in,511550,Ellis Simms,21,Centre-Forward,300000.0,Everton FC U21,Everton FC,,-,unknown,4196902,195.0,2026-10-05T21:50:18+00:00,Simms
+2022:29:in:15,2022,29,Everton FC,in,511550,Ellis Simms,21,Centre-Forward,1200000.0,Sunderland AFC,Everton FC,,End of loan31/12/2022,end_loan,3977445,195.0,2026-10-14T15:14:15+00:00,Simms
+2022:29:in:10,2022,29,Everton FC,in,511550,Ellis Simms,21,Centre-Forward,300000.0,Everton FC U21,Everton FC,,-,unknown,4196902,195.0,2026-10-14T15:14:15+00:00,Simms
