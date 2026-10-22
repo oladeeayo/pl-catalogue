@@ -5,3 +5,8 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 694055,31214,35,4,2026-09-12 14:00:00,48,261,Iwobi,,0.848,0.619,0.0847,BlockedShot,OpenPlay,RightFoot,Rebound,a
 696674,31229,50,5,2026-09-20 15:30:00,41,261,Iwobi,Gonzalo García,0.919,0.591,0.3845,SavedShot,OpenPlay,RightFoot,Throughball,h
 696677,31229,50,5,2026-09-20 15:30:00,60,261,Iwobi,Sander Berge,0.871,0.68,0.0571,BlockedShot,OpenPlay,LeftFoot,Pass,h
+699051,31241,65,7,2026-10-17 14:00:00,2,261,Iwobi,Joshua King,0.844,0.718,0.0281,BlockedShot,OpenPlay,RightFoot,Pass,h
+699057,31241,65,7,2026-10-17 14:00:00,32,261,Iwobi,Sander Berge,0.831,0.391,0.0573,Goal,OpenPlay,RightFoot,Pass,h
+699060,31241,65,7,2026-10-17 14:00:00,40,261,Iwobi,,0.852,0.691,0.0271,MissedShots,FromCorner,LeftFoot,None,h
+699064,31241,65,7,2026-10-17 14:00:00,57,261,Iwobi,Gonzalo García,0.891,0.505,0.3699,SavedShot,OpenPlay,RightFoot,HeadPass,h
+699066,31241,65,7,2026-10-17 14:00:00,69,261,Iwobi,Oscar Bobb,0.784,0.741,0.0192,MissedShots,OpenPlay,RightFoot,Pass,h

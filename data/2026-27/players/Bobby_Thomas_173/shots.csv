@@ -9,3 +9,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 694495,31217,38,4,2026-09-13 13:00:00,32,173,Thomas,Jack Rudoni,0.898,0.485,0.0201,MissedShots,FromCorner,Head,Aerial,h
 694511,31217,38,4,2026-09-13 13:00:00,81,173,Thomas,Milan van Ewijk,0.862,0.576,0.0256,MissedShots,OpenPlay,Head,Aerial,h
 696157,31227,47,5,2026-09-19 16:30:00,57,173,Thomas,Jack Rudoni,0.911,0.547,0.0431,MissedShots,SetPiece,Head,Aerial,a
+700149,31249,70,7,2026-10-19 19:00:00,67,173,Thomas,Frank Onyeka,0.931,0.577,0.0408,BlockedShot,OpenPlay,Head,Aerial,a
+700154,31249,70,7,2026-10-19 19:00:00,89,173,Thomas,Gustavo Hamer,0.874,0.561,0.0109,MissedShots,SetPiece,Head,Aerial,a

@@ -1,1 +1,2 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+698792,31240,64,7,2026-10-17 11:30:00,25,246,Röhl,Kiernan Dewsbury-Hall,0.85,0.311,0.0305,SavedShot,OpenPlay,RightFoot,TakeOn,h

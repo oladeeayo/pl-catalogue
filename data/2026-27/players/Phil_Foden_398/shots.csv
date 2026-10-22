@@ -5,3 +5,6 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 690082,31190,11,2,2026-08-28 19:00:00,27,398,Foden,Mathis Cherki,0.93,0.464,0.4552,MissedShots,OpenPlay,OtherBodyPart,Pass,a
 690091,31190,11,2,2026-08-28 19:00:00,47,398,Foden,Marc Guehi,0.794,0.665,0.0368,BlockedShot,FromCorner,LeftFoot,Pass,a
 692335,31202,26,3,2026-09-05 14:00:00,77,398,Foden,Erling Haaland,0.951,0.466,0.628,BlockedShot,OpenPlay,LeftFoot,Pass,h
+699026,31243,67,7,2026-10-17 14:00:00,18,398,Foden,Jéremy Doku,0.926,0.534,0.636,Goal,OpenPlay,LeftFoot,Pass,h
+699028,31243,67,7,2026-10-17 14:00:00,22,398,Foden,Nico O&#039;Reilly,0.887,0.454,0.0325,MissedShots,OpenPlay,Head,Aerial,h
+699040,31243,67,7,2026-10-17 14:00:00,56,398,Foden,Enzo Fernández,0.782,0.539,0.0461,BlockedShot,OpenPlay,LeftFoot,Pass,h

@@ -20,3 +20,6 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 696687,31229,50,5,2026-09-20 15:30:00,77,427,Mbeumo,Joshua Zirkzee,0.822,0.37,0.0674,BlockedShot,OpenPlay,LeftFoot,Pass,a
 697639,31235,59,6,2026-10-10 16:30:00,72,427,Mbeumo,Matheus Cunha,0.925,0.648,0.0897,Goal,OpenPlay,LeftFoot,Pass,h
 697640,31235,59,6,2026-10-10 16:30:00,85,427,Mbeumo,Carlos Baleba,0.883,0.301,0.3346,SavedShot,OpenPlay,RightFoot,Chipped,h
+699509,31247,66,7,2026-10-18 13:00:00,26,427,Mbeumo,Youri Tielemans,0.91,0.476,0.2934,MissedShots,OpenPlay,Head,Cross,a
+699510,31247,66,7,2026-10-18 13:00:00,32,427,Mbeumo,Youri Tielemans,0.848,0.631,0.0542,SavedShot,OpenPlay,RightFoot,Chipped,a
+699511,31247,66,7,2026-10-18 13:00:00,34,427,Mbeumo,Youri Tielemans,0.926,0.481,0.409,Goal,OpenPlay,LeftFoot,Cross,a

@@ -13,3 +13,6 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 694009,31212,33,4,2026-09-12 14:00:00,65,165,João Pedro,Cole Palmer,0.923,0.555,0.4453,Goal,OpenPlay,LeftFoot,Pass,h
 697351,31232,53,6,2026-10-10 14:00:00,45,165,João Pedro,Pedro Neto,0.861,0.433,0.1142,Goal,OpenPlay,RightFoot,Pass,h
 697355,31232,53,6,2026-10-10 14:00:00,66,165,João Pedro,Pep Chavarría,0.927,0.504,0.5253,Goal,OpenPlay,RightFoot,Cross,h
+698804,31240,64,7,2026-10-17 11:30:00,63,165,João Pedro,Pedro Neto,0.793,0.399,0.0457,MissedShots,OpenPlay,LeftFoot,Pass,a
+698805,31240,64,7,2026-10-17 11:30:00,81,165,João Pedro,Jordan Henderson,0.952,0.582,0.0358,SavedShot,FromCorner,Head,Aerial,a
+698807,31240,64,7,2026-10-17 11:30:00,85,165,João Pedro,Cole Palmer,0.881,0.38,0.3748,SavedShot,OpenPlay,RightFoot,Pass,a

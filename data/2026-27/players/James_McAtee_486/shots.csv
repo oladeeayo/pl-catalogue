@@ -9,3 +9,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 696150,31227,47,5,2026-09-19 16:30:00,36,486,McAtee,Jair,0.71,0.297,0.0127,BlockedShot,OpenPlay,LeftFoot,Pass,h
 696153,31227,47,5,2026-09-19 16:30:00,45,486,McAtee,Liam Delap,0.88,0.493,0.1187,BlockedShot,OpenPlay,LeftFoot,Pass,h
 697928,31236,55,6,2026-10-11 13:00:00,17,486,McAtee,,0.756,0.658,0.0526,BlockedShot,DirectFreekick,LeftFoot,Standard,a
+699902,31248,69,7,2026-10-18 15:30:00,47,486,McAtee,,0.753,0.527,0.0234,MissedShots,OpenPlay,LeftFoot,BallTouch,h
+699903,31248,69,7,2026-10-18 15:30:00,48,486,McAtee,,0.757,0.531,0.0699,MissedShots,DirectFreekick,LeftFoot,Standard,h

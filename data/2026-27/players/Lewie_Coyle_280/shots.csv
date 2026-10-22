@@ -1,2 +1,3 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
 693999,31212,33,4,2026-09-12 14:00:00,32,280,Coyle,Mohamed Belloumi,0.861,0.383,0.0776,BlockedShot,OpenPlay,RightFoot,Pass,a
+699065,31241,65,7,2026-10-17 14:00:00,60,280,Coyle,,0.831,0.322,0.0337,MissedShots,OpenPlay,RightFoot,None,a

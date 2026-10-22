@@ -3,3 +3,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 693960,31210,32,4,2026-09-12 14:00:00,79,61,Truffert,Alex Scott,0.809,0.626,0.0381,SavedShot,OpenPlay,RightFoot,Pass,h
 693963,31210,32,4,2026-09-12 14:00:00,92,61,Truffert,Alex Scott,0.896,0.709,0.0467,SavedShot,OpenPlay,LeftFoot,Pass,h
 696435,31228,49,5,2026-09-20 13:00:00,84,61,Truffert,David Brooks,0.692,0.727,0.0113,MissedShots,OpenPlay,LeftFoot,Pass,h
+699579,31246,61,7,2026-10-18 13:00:00,71,61,Truffert,Ryan Christie,0.729,0.561,0.0185,MissedShots,SetPiece,LeftFoot,Pass,h

@@ -12,3 +12,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 697315,31231,52,6,2026-10-10 14:00:00,30,41,Buendía,,0.899,0.576,0.1018,MissedShots,OpenPlay,LeftFoot,Rebound,h
 697325,31231,52,6,2026-10-10 14:00:00,57,41,Buendía,Nicolas Jackson,0.899,0.714,0.0464,MissedShots,OpenPlay,RightFoot,Pass,h
 697328,31231,52,6,2026-10-10 14:00:00,61,41,Buendía,Boubacar Kamara,0.824,0.481,0.0715,BlockedShot,OpenPlay,RightFoot,Pass,h
+699270,31244,68,7,2026-10-17 16:30:00,37,41,Buendía,Nicolas Jackson,0.878,0.532,0.1233,BlockedShot,OpenPlay,RightFoot,Pass,a

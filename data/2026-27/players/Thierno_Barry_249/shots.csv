@@ -21,3 +21,6 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 697972,31237,56,6,2026-10-11 13:00:00,46,249,Barry,Jack Grealish,0.955,0.42,0.3406,MissedShots,OpenPlay,Head,Cross,a
 697976,31237,56,6,2026-10-11 13:00:00,52,249,Barry,Brennan Johnson,0.923,0.505,0.3529,SavedShot,OpenPlay,Head,Cross,a
 697978,31237,56,6,2026-10-11 13:00:00,67,249,Barry,Kiernan Dewsbury-Hall,0.875,0.395,0.3314,Goal,OpenPlay,RightFoot,BallTouch,a
+698793,31240,64,7,2026-10-17 11:30:00,26,249,Barry,Jack Grealish,0.912,0.499,0.2744,SavedShot,FromCorner,Head,Cross,h
+698795,31240,64,7,2026-10-17 11:30:00,36,249,Barry,Vitalii Mykolenko,0.886,0.509,0.1262,SavedShot,OpenPlay,RightFoot,Pass,h
+698811,31240,64,7,2026-10-17 11:30:00,87,249,Barry,Vitalii Mykolenko,0.908,0.462,0.0408,SavedShot,OpenPlay,Head,Aerial,h

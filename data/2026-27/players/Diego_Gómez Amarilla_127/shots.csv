@@ -17,3 +17,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 697456,31234,60,6,2026-10-10 14:00:00,11,127,Gomez,Charalampos Kostoulas,0.799,0.319,0.0255,BlockedShot,OpenPlay,RightFoot,Pass,a
 697462,31234,60,6,2026-10-10 14:00:00,45,127,Gomez,,0.769,0.259,0.0144,SavedShot,OpenPlay,RightFoot,BallRecovery,a
 697465,31234,60,6,2026-10-10 14:00:00,61,127,Gomez,,0.446,0.082,0.0097,MissedShots,OpenPlay,RightFoot,BallRecovery,a
+699533,31245,63,7,2026-10-18 13:00:00,6,127,Gomez,Olivier Boscagli,0.513,0.555,0.0158,Goal,OpenPlay,RightFoot,Pass,h

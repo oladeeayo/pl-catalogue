@@ -3,3 +3,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 697926,31236,55,6,2026-10-11 13:00:00,8,213,Lerma,Chris Richards,0.93,0.633,0.0156,MissedShots,OpenPlay,Head,Aerial,h
 697941,31236,55,6,2026-10-11 13:00:00,48,213,Lerma,Adam Wharton,0.957,0.53,0.4752,Goal,FromCorner,Head,Cross,h
 697948,31236,55,6,2026-10-11 13:00:00,55,213,Lerma,Yeremi Pino,0.923,0.448,0.0872,SavedShot,FromCorner,Head,Cross,h
+699551,31245,63,7,2026-10-18 13:00:00,73,213,Lerma,Adam Wharton,0.955,0.539,0.1274,ShotOnPost,FromCorner,Head,Cross,a

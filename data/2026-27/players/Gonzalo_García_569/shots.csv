@@ -17,3 +17,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 697366,31233,57,6,2026-10-10 14:00:00,36,569,Gonzalo,Sander Berge,0.886,0.66,0.0706,MissedShots,OpenPlay,RightFoot,Pass,a
 697370,31233,57,6,2026-10-10 14:00:00,52,569,Gonzalo,Joshua King,0.905,0.52,0.4456,BlockedShot,OpenPlay,RightFoot,Pass,a
 697374,31233,57,6,2026-10-10 14:00:00,59,569,Gonzalo,Alex Iwobi,0.882,0.481,0.2157,SavedShot,OpenPlay,Head,Cross,a
+699068,31241,65,7,2026-10-17 14:00:00,73,569,Gonzalo,Alex Iwobi,0.952,0.458,0.5394,ShotOnPost,OpenPlay,Head,Cross,h

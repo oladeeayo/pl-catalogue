@@ -10,3 +10,6 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 698528,31239,54,6,2026-10-12 19:00:00,9,453,Barnes,Nico González,0.817,0.536,0.0545,BlockedShot,OpenPlay,RightFoot,Pass,a
 698529,31239,54,6,2026-10-12 19:00:00,12,453,Barnes,Joe Willock,0.856,0.587,0.068,SavedShot,OpenPlay,RightFoot,Pass,a
 698531,31239,54,6,2026-10-12 19:00:00,22,453,Barnes,,0.917,0.534,0.1219,MissedShots,OpenPlay,RightFoot,Rebound,a
+699259,31244,68,7,2026-10-17 16:30:00,6,453,Barnes,,0.829,0.581,0.0538,BlockedShot,OpenPlay,RightFoot,None,h
+699276,31244,68,7,2026-10-17 16:30:00,68,453,Barnes,Lewis Miley,0.8,0.497,0.0479,BlockedShot,OpenPlay,RightFoot,Pass,h
+699283,31244,68,7,2026-10-17 16:30:00,83,453,Barnes,Bazoumana Touré,0.89,0.587,0.0976,BlockedShot,OpenPlay,LeftFoot,Pass,h

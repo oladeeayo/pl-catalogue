@@ -6,3 +6,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 692853,31208,30,3,2026-09-06 13:00:00,17,43,Tielemans,Diogo Dalot,0.72,0.399,0.0142,SavedShot,OpenPlay,RightFoot,Pass,a
 692869,31208,30,3,2026-09-06 13:00:00,64,43,Tielemans,Diogo Dalot,0.777,0.663,0.0302,BlockedShot,OpenPlay,LeftFoot,BallTouch,a
 696671,31229,50,5,2026-09-20 15:30:00,33,43,Tielemans,Marcus Rashford,0.844,0.539,0.0888,MissedShots,OpenPlay,LeftFoot,Pass,a
+699522,31247,66,7,2026-10-18 13:00:00,70,43,Tielemans,Andrey Santos,0.794,0.301,0.0234,BlockedShot,OpenPlay,RightFoot,Pass,a

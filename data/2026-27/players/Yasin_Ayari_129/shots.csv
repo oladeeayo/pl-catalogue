@@ -11,3 +11,7 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 695945,31224,42,5,2026-09-19 14:00:00,39,129,Ayari,Ferdi Kadioglu,0.951,0.313,0.3079,MissedShots,OpenPlay,RightFoot,Pass,h
 697455,31234,60,6,2026-10-10 14:00:00,10,129,Ayari,,0.813,0.448,0.0489,MissedShots,OpenPlay,LeftFoot,None,a
 697468,31234,60,6,2026-10-10 14:00:00,70,129,Ayari,Diego Gómez,0.795,0.732,0.043,MissedShots,OpenPlay,RightFoot,Pass,a
+699534,31245,63,7,2026-10-18 13:00:00,9,129,Ayari,Charalampos Kostoulas,0.844,0.492,0.1177,Goal,OpenPlay,RightFoot,Pass,h
+699539,31245,63,7,2026-10-18 13:00:00,22,129,Ayari,Lewis Dunk,0.773,0.32,0.0338,SavedShot,OpenPlay,RightFoot,Pass,h
+699540,31245,63,7,2026-10-18 13:00:00,32,129,Ayari,Maxim De Cuyper,0.809,0.5,0.0769,BlockedShot,OpenPlay,RightFoot,Pass,h
+699545,31245,63,7,2026-10-18 13:00:00,48,129,Ayari,,0.859,0.476,0.0932,BlockedShot,OpenPlay,RightFoot,None,h

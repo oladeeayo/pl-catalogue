@@ -10,3 +10,6 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 695026,31219,40,4,2026-09-14 19:00:00,37,346,Calvert-Lewin,Jayden Bogle,0.859,0.517,0.029,MissedShots,OpenPlay,Head,Cross,h
 695028,31219,40,4,2026-09-14 19:00:00,45,346,Calvert-Lewin,Tarik Muharemovic,0.912,0.591,0.4843,Goal,OpenPlay,RightFoot,TakeOn,h
 696457,31225,44,5,2026-09-20 13:00:00,55,346,Calvert-Lewin,James Justin,0.918,0.502,0.3905,SavedShot,OpenPlay,RightFoot,Cross,h
+699513,31247,66,7,2026-10-18 13:00:00,38,346,Calvert-Lewin,Jayden Bogle,0.875,0.458,0.0376,MissedShots,OpenPlay,Head,Chipped,h
+699515,31247,66,7,2026-10-18 13:00:00,49,346,Calvert-Lewin,James Justin,0.894,0.501,0.0413,MissedShots,OpenPlay,OtherBodyPart,Aerial,h
+699517,31247,66,7,2026-10-18 13:00:00,50,346,Calvert-Lewin,Tarik Muharemovic,0.939,0.522,0.5574,Goal,FromCorner,RightFoot,Rebound,h

@@ -2,3 +2,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 689211,31186,7,1,2026-08-23 13:00:00,23,125,Georginio,Diego Gómez,0.761,0.285,0.0166,MissedShots,OpenPlay,RightFoot,BallRecovery,h
 689225,31186,7,1,2026-08-23 13:00:00,60,125,Georginio,Mats Wieffer,0.918,0.655,0.0529,MissedShots,FromCorner,RightFoot,HeadPass,h
 695961,31224,42,5,2026-09-19 14:00:00,79,125,Georginio,Maxim De Cuyper,0.908,0.638,0.0669,MissedShots,FromCorner,RightFoot,Rebound,h
+699552,31245,63,7,2026-10-18 13:00:00,73,125,Georginio,Maxim De Cuyper,0.763,0.606,0.0347,SavedShot,OpenPlay,RightFoot,Pass,h

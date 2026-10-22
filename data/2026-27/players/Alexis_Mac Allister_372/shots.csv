@@ -6,3 +6,7 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 698253,31238,58,6,2026-10-11 15:30:00,48,372,Mac Allister,Bradley Barcola,0.751,0.597,0.0186,MissedShots,OpenPlay,RightFoot,Pass,h
 698255,31238,58,6,2026-10-11 15:30:00,58,372,Mac Allister,Florian Wirtz,0.927,0.427,0.092,MissedShots,SetPiece,RightFoot,Cross,h
 698265,31238,58,6,2026-10-11 15:30:00,86,372,Mac Allister,,0.77,0.409,0.0742,SavedShot,DirectFreekick,RightFoot,Standard,h
+698995,31242,62,7,2026-10-17 14:00:00,14,372,Mac Allister,Florian Wirtz,0.753,0.634,0.023,MissedShots,FromCorner,RightFoot,Pass,a
+699007,31242,62,7,2026-10-17 14:00:00,48,372,Mac Allister,Florian Wirtz,0.781,0.481,0.0416,BlockedShot,OpenPlay,RightFoot,TakeOn,a
+699011,31242,62,7,2026-10-17 14:00:00,58,372,Mac Allister,Milos Kerkez,0.765,0.712,0.0248,SavedShot,OpenPlay,RightFoot,TakeOn,a
+699022,31242,62,7,2026-10-17 14:00:00,92,372,Mac Allister,,0.804,0.333,0.082,MissedShots,DirectFreekick,RightFoot,Standard,a

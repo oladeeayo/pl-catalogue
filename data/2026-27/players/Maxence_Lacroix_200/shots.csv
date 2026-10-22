@@ -1,3 +1,4 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
 691603,31196,16,2,2026-08-30 13:00:00,70,200,Lacroix,Cole Palmer,0.881,0.562,0.0128,MissedShots,SetPiece,Head,Aerial,h
 695626,31220,41,5,2026-09-18 19:00:00,92,200,Lacroix,Cole Palmer,0.918,0.441,0.2882,MissedShots,SetPiece,Head,Chipped,a
+698798,31240,64,7,2026-10-17 11:30:00,47,200,Lacroix,Jordan Henderson,0.966,0.53,0.1367,BlockedShot,FromCorner,Head,Cross,a

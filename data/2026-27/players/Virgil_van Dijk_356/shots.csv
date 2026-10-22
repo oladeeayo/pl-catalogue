@@ -1,3 +1,4 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
 689363,31188,9,1,2026-08-23 15:30:00,8,356,Virgil,Dominik Szoboszlai,0.931,0.511,0.0573,BlockedShot,SetPiece,Head,CornerAwarded,a
 689387,31188,9,1,2026-08-23 15:30:00,65,356,Virgil,Dominik Szoboszlai,0.924,0.654,0.0656,SavedShot,SetPiece,RightFoot,Chipped,a
+699012,31242,62,7,2026-10-17 14:00:00,58,356,Virgil,Rio Ngumoha,0.909,0.643,0.0424,MissedShots,FromCorner,RightFoot,Cross,a

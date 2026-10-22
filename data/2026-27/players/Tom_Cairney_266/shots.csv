@@ -1,1 +1,2 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+699073,31241,65,7,2026-10-17 14:00:00,92,266,Cairney,César Palacios,0.761,0.498,0.0703,SavedShot,OpenPlay,LeftFoot,TakeOn,h

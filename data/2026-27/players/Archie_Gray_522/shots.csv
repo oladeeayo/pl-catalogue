@@ -2,3 +2,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 694163,31215,37,4,2026-09-12 16:30:00,8,522,Gray,,0.732,0.509,0.0117,BlockedShot,OpenPlay,LeftFoot,TakeOn,h
 694183,31215,37,4,2026-09-12 16:30:00,84,522,Gray,Sávio,0.928,0.432,0.0534,MissedShots,OpenPlay,Head,Aerial,h
 695665,31221,48,5,2026-09-19 11:30:00,20,522,Gray,Sávio,0.955,0.337,0.2615,SavedShot,OpenPlay,RightFoot,Pass,h
+700135,31249,70,7,2026-10-19 19:00:00,15,522,Gray,James Maddison,0.848,0.411,0.1158,BlockedShot,OpenPlay,LeftFoot,Pass,h

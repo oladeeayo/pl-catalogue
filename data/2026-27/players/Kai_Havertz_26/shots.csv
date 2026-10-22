@@ -11,3 +11,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 695958,31224,42,5,2026-09-19 14:00:00,77,26,Havertz,Viktor Gyokeres,0.868,0.474,0.2693,SavedShot,OpenPlay,RightFoot,Chipped,a
 697105,31230,51,6,2026-10-10 11:30:00,20,26,Havertz,Noni Madueke,0.911,0.451,0.3064,SavedShot,OpenPlay,Head,Cross,h
 697111,31230,51,6,2026-10-10 11:30:00,41,26,Havertz,Noni Madueke,0.917,0.568,0.0927,MissedShots,OpenPlay,Head,Cross,h
+699897,31248,69,7,2026-10-18 15:30:00,36,26,Havertz,Declan Rice,0.929,0.482,0.067,MissedShots,SetPiece,Head,Aerial,a
+699898,31248,69,7,2026-10-18 15:30:00,40,26,Havertz,Martin Odegaard,0.958,0.342,0.0768,MissedShots,OpenPlay,RightFoot,Pass,a

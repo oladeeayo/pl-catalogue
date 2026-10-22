@@ -8,3 +8,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 694036,31213,34,4,2026-09-12 14:00:00,78,588,Khalaili,,0.912,0.418,0.4043,MissedShots,OpenPlay,RightFoot,None,h
 697954,31236,55,6,2026-10-11 13:00:00,73,588,Khalaili,Yeremi Pino,0.922,0.336,0.0076,BlockedShot,SetPiece,Head,Aerial,h
 697955,31236,55,6,2026-10-11 13:00:00,73,588,Khalaili,Adam Wharton,0.949,0.507,0.0792,MissedShots,FromCorner,Head,Aerial,h
+699535,31245,63,7,2026-10-18 13:00:00,11,588,Khalaili,Jaydee Canvot,0.883,0.256,0.0306,SavedShot,OpenPlay,RightFoot,Pass,a
+699543,31245,63,7,2026-10-18 13:00:00,43,588,Khalaili,Chris Richards,0.937,0.35,0.0175,MissedShots,OpenPlay,Head,Pass,a

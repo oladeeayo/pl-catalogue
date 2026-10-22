@@ -2,3 +2,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 688612,31183,5,1,2026-08-22 14:00:00,3,534,Hume,Noah Sadiki,0.758,0.531,0.02,MissedShots,FromCorner,RightFoot,BallTouch,a
 688623,31183,5,1,2026-08-22 14:00:00,46,534,Hume,Reinildo,0.918,0.384,0.0338,MissedShots,OpenPlay,Head,Cross,a
 696495,31222,45,5,2026-09-20 13:00:00,90,534,Hume,Enzo Le Fée,0.937,0.564,0.0973,MissedShots,FromCorner,Head,Cross,a
+699581,31246,61,7,2026-10-18 13:00:00,79,534,Hume,,0.855,0.342,0.0427,MissedShots,SetPiece,RightFoot,None,a

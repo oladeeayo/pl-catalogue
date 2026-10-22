@@ -5,3 +5,6 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 690391,31192,13,2,2026-08-29 14:00:00,37,492,Awoniyi,,0.96,0.519,0.6399,SavedShot,OpenPlay,LeftFoot,None,h
 692314,31202,26,3,2026-09-05 14:00:00,7,492,Awoniyi,,0.811,0.521,0.2945,MissedShots,OpenPlay,RightFoot,BallRecovery,a
 694489,31217,38,4,2026-09-13 13:00:00,20,492,Awoniyi,Jack Rudoni,0.896,0.643,0.0936,MissedShots,OpenPlay,RightFoot,TakeOn,h
+700148,31249,70,7,2026-10-19 19:00:00,66,492,Awoniyi,Milan van Ewijk,0.899,0.512,0.0793,MissedShots,OpenPlay,Head,Cross,a
+700153,31249,70,7,2026-10-19 19:00:00,84,492,Awoniyi,Jay Dasilva,0.881,0.511,0.0504,MissedShots,OpenPlay,Head,Cross,a
+700155,31249,70,7,2026-10-19 19:00:00,91,492,Awoniyi,Ephron Mason-Clark,0.958,0.553,0.0585,MissedShots,OpenPlay,Head,Clearance,a

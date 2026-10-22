@@ -3,3 +3,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 696664,31229,50,5,2026-09-20 15:30:00,28,265,Berge,Alex Iwobi,0.803,0.444,0.0441,SavedShot,OpenPlay,RightFoot,Pass,h
 697363,31233,57,6,2026-10-10 14:00:00,27,265,Berge,,0.747,0.433,0.0596,BlockedShot,DirectFreekick,RightFoot,Standard,a
 697365,31233,57,6,2026-10-10 14:00:00,29,265,Berge,Oscar Bobb,0.896,0.325,0.0723,SavedShot,OpenPlay,RightFoot,Pass,a
+699055,31241,65,7,2026-10-17 14:00:00,24,265,Berge,Oscar Bobb,0.94,0.284,0.0415,BlockedShot,OpenPlay,RightFoot,Pass,h

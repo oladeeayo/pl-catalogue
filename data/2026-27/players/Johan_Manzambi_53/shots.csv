@@ -10,3 +10,6 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 697327,31231,52,6,2026-10-10 14:00:00,59,53,Manzambi,Aaron Wan-Bissaka,0.881,0.711,0.0411,MissedShots,OpenPlay,RightFoot,Pass,h
 697329,31231,52,6,2026-10-10 14:00:00,69,53,Manzambi,Nicolas Jackson,0.868,0.666,0.0824,BlockedShot,OpenPlay,RightFoot,Pass,h
 697334,31231,52,6,2026-10-10 14:00:00,82,53,Manzambi,,0.737,0.577,0.0526,BlockedShot,DirectFreekick,RightFoot,Standard,h
+699262,31244,68,7,2026-10-17 16:30:00,15,53,Manzambi,Nicolas Jackson,0.84,0.354,0.0524,BlockedShot,OpenPlay,LeftFoot,Pass,a
+699269,31244,68,7,2026-10-17 16:30:00,35,53,Manzambi,João Gomes,0.943,0.546,0.4279,Goal,OpenPlay,Head,Cross,a
+699272,31244,68,7,2026-10-17 16:30:00,53,53,Manzambi,,0.877,0.309,0.0607,BlockedShot,OpenPlay,LeftFoot,None,a

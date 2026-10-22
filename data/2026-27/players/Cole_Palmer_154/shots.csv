@@ -16,3 +16,9 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 694019,31212,33,4,2026-09-12 14:00:00,96,154,Palmer,,0.757,0.277,0.0423,MissedShots,DirectFreekick,LeftFoot,Standard,h
 695620,31220,41,5,2026-09-18 19:00:00,67,154,Palmer,Danny Welbeck,0.846,0.517,0.0538,BlockedShot,OpenPlay,LeftFoot,HeadPass,a
 695622,31220,41,5,2026-09-18 19:00:00,77,154,Palmer,,0.892,0.559,0.0908,BlockedShot,OpenPlay,LeftFoot,TakeOn,a
+698790,31240,64,7,2026-10-17 11:30:00,14,154,Palmer,Pedro Neto,0.735,0.497,0.0191,SavedShot,OpenPlay,LeftFoot,Pass,a
+698800,31240,64,7,2026-10-17 11:30:00,52,154,Palmer,Pedro Neto,0.773,0.344,0.0234,BlockedShot,OpenPlay,LeftFoot,Pass,a
+698803,31240,64,7,2026-10-17 11:30:00,56,154,Palmer,Morgan Rogers,0.797,0.73,0.0275,MissedShots,OpenPlay,LeftFoot,Pass,a
+698806,31240,64,7,2026-10-17 11:30:00,81,154,Palmer,Josh Acheampong,0.725,0.38,0.0155,MissedShots,FromCorner,LeftFoot,BallTouch,a
+698808,31240,64,7,2026-10-17 11:30:00,85,154,Palmer,,0.867,0.471,0.0167,MissedShots,OpenPlay,Head,Rebound,a
+698809,31240,64,7,2026-10-17 11:30:00,86,154,Palmer,Morgan Rogers,0.946,0.683,0.0861,BlockedShot,OpenPlay,LeftFoot,Pass,a

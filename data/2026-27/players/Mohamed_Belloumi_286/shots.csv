@@ -14,3 +14,6 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 695927,31223,46,5,2026-09-19 14:00:00,79,286,Belloumi,Lucas Gourna Douath,0.773,0.357,0.0397,BlockedShot,OpenPlay,LeftFoot,Pass,a
 697980,31237,56,6,2026-10-11 13:00:00,73,286,Belloumi,Elliot Stroud,0.863,0.538,0.0915,Goal,OpenPlay,LeftFoot,TakeOn,h
 697981,31237,56,6,2026-10-11 13:00:00,79,286,Belloumi,Sorba Thomas,0.846,0.528,0.09,BlockedShot,OpenPlay,LeftFoot,Pass,h
+699056,31241,65,7,2026-10-17 14:00:00,25,286,Belloumi,,0.755,0.483,0.0208,BlockedShot,OpenPlay,LeftFoot,None,a
+699071,31241,65,7,2026-10-17 14:00:00,78,286,Belloumi,Hidemasa Morita,0.746,0.313,0.0119,MissedShots,OpenPlay,LeftFoot,TakeOn,a
+699072,31241,65,7,2026-10-17 14:00:00,90,286,Belloumi,,0.676,0.52,0.0311,MissedShots,DirectFreekick,LeftFoot,Standard,a

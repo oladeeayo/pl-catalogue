@@ -1,3 +1,4 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
 689382,31188,9,1,2026-08-23 15:30:00,56,369,Ngumoha,Jeremie Frimpong,0.851,0.328,0.0507,BlockedShot,OpenPlay,LeftFoot,Pass,a
 694071,31214,35,4,2026-09-12 14:00:00,93,369,Ngumoha,Jeremie Frimpong,0.926,0.566,0.3357,MissedShots,OpenPlay,RightFoot,Cross,h
+699016,31242,62,7,2026-10-17 14:00:00,68,369,Ngumoha,Florian Wirtz,0.859,0.291,0.0248,BlockedShot,FromCorner,LeftFoot,Pass,a

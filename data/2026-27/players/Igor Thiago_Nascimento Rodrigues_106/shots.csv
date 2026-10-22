@@ -13,3 +13,6 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 695615,31220,41,5,2026-09-18 19:00:00,58,106,Thiago,,0.757,0.491,0.0224,MissedShots,OpenPlay,RightFoot,None,h
 695625,31220,41,5,2026-09-18 19:00:00,82,106,Thiago,,0.888,0.462,0.5216,Goal,OpenPlay,RightFoot,Rebound,h
 697323,31231,52,6,2026-10-10 14:00:00,53,106,Thiago,Michael Kayode,0.914,0.426,0.0983,MissedShots,OpenPlay,RightFoot,Cross,a
+698999,31242,62,7,2026-10-17 14:00:00,27,106,Thiago,,0.89,0.546,0.1246,BlockedShot,OpenPlay,RightFoot,None,h
+699000,31242,62,7,2026-10-17 14:00:00,32,106,Thiago,Kristoffer Ajer,0.97,0.564,0.1059,MissedShots,SetPiece,Head,HeadPass,h
+699019,31242,62,7,2026-10-17 14:00:00,72,106,Thiago,,0.93,0.548,0.0912,MissedShots,OpenPlay,RightFoot,None,h

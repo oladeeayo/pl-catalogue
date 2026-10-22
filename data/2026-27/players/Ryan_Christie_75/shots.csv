@@ -4,3 +4,6 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 696428,31228,49,5,2026-09-20 13:00:00,52,75,Christie,Rayan,0.959,0.467,0.593,MissedShots,OpenPlay,LeftFoot,Cross,h
 696429,31228,49,5,2026-09-20 13:00:00,54,75,Christie,Alex Scott,0.83,0.715,0.0292,MissedShots,OpenPlay,LeftFoot,Pass,h
 697348,31232,53,6,2026-10-10 14:00:00,35,75,Christie,,0.713,0.606,0.0083,SavedShot,OpenPlay,LeftFoot,Rebound,a
+699572,31246,61,7,2026-10-18 13:00:00,51,75,Christie,Adrien Truffert,0.869,0.515,0.1196,BlockedShot,OpenPlay,RightFoot,Cross,h
+699574,31246,61,7,2026-10-18 13:00:00,56,75,Christie,Evanilson,0.878,0.601,0.0893,BlockedShot,OpenPlay,LeftFoot,None,h
+699577,31246,61,7,2026-10-18 13:00:00,61,75,Christie,Lewis Cook,0.941,0.652,0.0135,MissedShots,FromCorner,Head,Cross,h

@@ -4,3 +4,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 694041,31213,34,4,2026-09-12 14:00:00,89,640,Flemming,,0.962,0.458,0.6429,Goal,OpenPlay,RightFoot,Rebound,a
 694042,31213,34,4,2026-09-12 14:00:00,91,640,Flemming,Florentino Luís,0.791,0.453,0.0537,SavedShot,OpenPlay,RightFoot,Interception,a
 696025,31226,43,5,2026-09-19 14:00:00,93,640,Flemming,,0.878,0.63,0.0564,MissedShots,OpenPlay,RightFoot,None,a
+699044,31243,67,7,2026-10-17 14:00:00,79,640,Flemming,Jacob Greaves,0.865,0.614,0.0247,SavedShot,OpenPlay,LeftFoot,HeadPass,a
+699048,31243,67,7,2026-10-17 14:00:00,89,640,Flemming,,0.885,0.5,0.7612,Goal,Penalty,RightFoot,Standard,a

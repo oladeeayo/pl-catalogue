@@ -8,3 +8,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 697943,31236,55,6,2026-10-11 13:00:00,50,469,N.Williams,,0.79,0.531,0.0363,BlockedShot,OpenPlay,RightFoot,Rebound,a
 697952,31236,55,6,2026-10-11 13:00:00,67,469,N.Williams,Ibrahim Sangare,0.816,0.667,0.0358,ShotOnPost,OpenPlay,RightFoot,Pass,a
 697953,31236,55,6,2026-10-11 13:00:00,69,469,N.Williams,Liam Delap,0.781,0.509,0.025,BlockedShot,OpenPlay,RightFoot,Pass,a
+699899,31248,69,7,2026-10-18 15:30:00,44,469,N.Williams,,0.769,0.519,0.0821,BlockedShot,DirectFreekick,RightFoot,Standard,h

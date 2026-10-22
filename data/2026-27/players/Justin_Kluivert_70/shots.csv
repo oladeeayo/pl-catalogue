@@ -9,3 +9,6 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 693943,31210,32,4,2026-09-12 14:00:00,36,70,Kluivert,Alex Scott,0.873,0.677,0.0406,SavedShot,OpenPlay,RightFoot,Pass,h
 693945,31210,32,4,2026-09-12 14:00:00,37,70,Kluivert,,0.838,0.54,0.0551,Goal,OpenPlay,LeftFoot,None,h
 693948,31210,32,4,2026-09-12 14:00:00,47,70,Kluivert,Marcus Tavernier,0.819,0.325,0.0332,SavedShot,OpenPlay,RightFoot,Pass,h
+699584,31246,61,7,2026-10-18 13:00:00,89,70,Kluivert,Ben Doak,0.913,0.447,0.1442,BlockedShot,OpenPlay,RightFoot,Pass,h
+699585,31246,61,7,2026-10-18 13:00:00,90,70,Kluivert,,0.957,0.658,0.0784,MissedShots,OpenPlay,RightFoot,None,h
+699586,31246,61,7,2026-10-18 13:00:00,91,70,Kluivert,,0.872,0.609,0.4137,MissedShots,OpenPlay,LeftFoot,None,h

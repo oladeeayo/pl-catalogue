@@ -2,3 +2,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 696489,31222,45,5,2026-09-20 13:00:00,77,400,Doku,Antoine Semenyo,0.864,0.534,0.1168,BlockedShot,OpenPlay,RightFoot,Pass,h
 698258,31238,58,6,2026-10-11 15:30:00,64,400,Doku,Enzo Fernández,0.875,0.706,0.0415,BlockedShot,OpenPlay,RightFoot,Pass,a
 698260,31238,58,6,2026-10-11 15:30:00,67,400,Doku,Elliot Anderson,0.838,0.652,0.0569,Goal,OpenPlay,RightFoot,Chipped,a
+699034,31243,67,7,2026-10-17 14:00:00,39,400,Doku,,0.858,0.544,0.0863,BlockedShot,OpenPlay,LeftFoot,Rebound,h

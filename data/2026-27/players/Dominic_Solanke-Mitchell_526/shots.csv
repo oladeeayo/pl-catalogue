@@ -8,3 +8,6 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 697623,31235,59,6,2026-10-10 16:30:00,5,526,Solanke,Marcos Senesi,0.824,0.493,0.0707,BlockedShot,OpenPlay,LeftFoot,Pass,a
 697631,31235,59,6,2026-10-10 16:30:00,50,526,Solanke,Sávio,0.927,0.433,0.3492,MissedShots,OpenPlay,RightFoot,Cross,a
 697643,31235,59,6,2026-10-10 16:30:00,91,526,Solanke,Sandro Tonali,0.929,0.488,0.3619,Goal,OpenPlay,Head,Cross,a
+700133,31249,70,7,2026-10-19 19:00:00,11,526,Solanke,,0.833,0.429,0.0561,BlockedShot,OpenPlay,RightFoot,None,h
+700138,31249,70,7,2026-10-19 19:00:00,38,526,Solanke,Sandro Tonali,0.911,0.592,0.1431,MissedShots,OpenPlay,LeftFoot,Throughball,h
+700147,31249,70,7,2026-10-19 19:00:00,63,526,Solanke,Jan Paul van Hecke,0.892,0.415,0.1421,BlockedShot,OpenPlay,LeftFoot,TakeOn,h

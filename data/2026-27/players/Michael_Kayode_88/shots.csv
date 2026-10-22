@@ -5,3 +5,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 688747,31185,2,1,2026-08-22 16:30:00,48,88,Kayode,,0.962,0.478,0.6674,Goal,FromCorner,RightFoot,Rebound,h
 691116,31197,17,2,2026-08-30 13:00:00,71,88,Kayode,Yehor Yarmolyuk,0.738,0.412,0.023,BlockedShot,OpenPlay,LeftFoot,Pass,a
 692401,31205,22,3,2026-09-05 14:00:00,3,88,Kayode,,0.749,0.397,0.0168,BlockedShot,OpenPlay,RightFoot,None,h
+698996,31242,62,7,2026-10-17 14:00:00,18,88,Kayode,Dango Ouattara,0.856,0.3,0.0355,BlockedShot,OpenPlay,LeftFoot,Pass,h

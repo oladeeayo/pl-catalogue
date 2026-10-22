@@ -5,3 +5,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 696445,31225,44,5,2026-09-20 13:00:00,21,345,Tanaka,,0.913,0.429,0.1186,MissedShots,OpenPlay,LeftFoot,Rebound,h
 696451,31225,44,5,2026-09-20 13:00:00,33,345,Tanaka,,0.711,0.5,0.0122,MissedShots,OpenPlay,RightFoot,None,h
 697116,31230,51,6,2026-10-10 11:30:00,52,345,Tanaka,Ethan Ampadu,0.781,0.54,0.0349,SavedShot,OpenPlay,RightFoot,Pass,a
+699512,31247,66,7,2026-10-18 13:00:00,36,345,Tanaka,Dominic Calvert-Lewin,0.769,0.434,0.0117,SavedShot,OpenPlay,RightFoot,Aerial,h
+699518,31247,66,7,2026-10-18 13:00:00,55,345,Tanaka,,0.811,0.617,0.0402,MissedShots,OpenPlay,RightFoot,None,h

@@ -3,3 +3,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 692292,31206,23,3,2026-09-05 14:00:00,45,113,F.Kadıoğlu,Yasin Ayari,0.733,0.47,0.0174,BlockedShot,SetPiece,RightFoot,Pass,h
 692300,31206,23,3,2026-09-05 14:00:00,64,113,F.Kadıoğlu,,0.845,0.458,0.0616,SavedShot,SetPiece,RightFoot,Rebound,h
 695939,31224,42,5,2026-09-19 14:00:00,2,113,F.Kadıoğlu,,0.76,0.398,0.0203,MissedShots,OpenPlay,LeftFoot,None,h
+699542,31245,63,7,2026-10-18 13:00:00,37,113,F.Kadıoğlu,Pascal Groß,0.773,0.344,0.0213,SavedShot,OpenPlay,RightFoot,Pass,h

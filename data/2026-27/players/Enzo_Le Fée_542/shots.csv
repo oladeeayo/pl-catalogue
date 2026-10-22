@@ -10,3 +10,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 694268,31216,36,4,2026-09-12 19:00:00,43,542,E.Le Fée,Granit Xhaka,0.77,0.327,0.0194,MissedShots,FromCorner,LeftFoot,Pass,h
 694271,31216,36,4,2026-09-12 19:00:00,55,542,E.Le Fée,,0.885,0.5,0.7612,SavedShot,Penalty,RightFoot,Standard,h
 697475,31234,60,6,2026-10-10 14:00:00,79,542,E.Le Fée,Noah Sadiki,0.806,0.651,0.0424,BlockedShot,SetPiece,RightFoot,LayOff,h
+699580,31246,61,7,2026-10-18 13:00:00,72,542,E.Le Fée,Granit Xhaka,0.711,0.388,0.0085,MissedShots,OpenPlay,RightFoot,HeadPass,a

@@ -14,3 +14,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 696427,31228,49,5,2026-09-20 13:00:00,40,379,Isak,Florian Wirtz,0.763,0.516,0.0286,MissedShots,OpenPlay,RightFoot,LayOff,a
 696431,31228,49,5,2026-09-20 13:00:00,56,379,Isak,,0.923,0.513,0.5136,Goal,OpenPlay,RightFoot,Rebound,a
 696434,31228,49,5,2026-09-20 13:00:00,69,379,Isak,Cody Gakpo,0.865,0.481,0.1394,BlockedShot,OpenPlay,RightFoot,Throughball,a
+698998,31242,62,7,2026-10-17 14:00:00,22,379,Isak,Alexis Mac Allister,0.919,0.538,0.0627,MissedShots,OpenPlay,Head,Aerial,a
+699017,31242,62,7,2026-10-17 14:00:00,69,379,Isak,Bradley Barcola,0.945,0.551,0.1323,Goal,OpenPlay,LeftFoot,HeadPass,a

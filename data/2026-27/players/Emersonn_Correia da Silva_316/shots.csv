@@ -10,3 +10,6 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 696006,31226,43,5,2026-09-19 14:00:00,34,316,Emersonn,Jack Clarke,0.927,0.43,0.0391,MissedShots,OpenPlay,Head,Aerial,a
 697372,31233,57,6,2026-10-10 14:00:00,57,316,Emersonn,Julio Enciso,0.927,0.468,0.3102,ShotOnPost,OpenPlay,Head,Cross,h
 697375,31233,57,6,2026-10-10 14:00:00,60,316,Emersonn,Florentino Luís,0.914,0.534,0.0469,MissedShots,OpenPlay,Head,Aerial,h
+699029,31243,67,7,2026-10-17 14:00:00,28,316,Emersonn,Christian Walton,0.726,0.51,0.0141,MissedShots,OpenPlay,RightFoot,Aerial,a
+699038,31243,67,7,2026-10-17 14:00:00,54,316,Emersonn,Leif Davis,0.966,0.584,0.2384,MissedShots,FromCorner,Head,Cross,a
+699042,31243,67,7,2026-10-17 14:00:00,66,316,Emersonn,Exequiel Palacios,0.893,0.311,0.0901,MissedShots,OpenPlay,RightFoot,Pass,a

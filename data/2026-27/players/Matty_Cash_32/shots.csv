@@ -1,2 +1,4 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
 691706,31199,20,2,2026-08-31 19:00:00,64,32,Cash,John McGinn,0.892,0.389,0.0784,BlockedShot,OpenPlay,LeftFoot,Pass,h
+699263,31244,68,7,2026-10-17 16:30:00,15,32,Cash,Johan Manzambi,0.934,0.323,0.073,MissedShots,OpenPlay,RightFoot,Pass,a
+699275,31244,68,7,2026-10-17 16:30:00,67,32,Cash,Nicolas Jackson,0.765,0.352,0.0181,MissedShots,FromCorner,RightFoot,BallTouch,a

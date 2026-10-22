@@ -13,3 +13,6 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 696657,31229,50,5,2026-09-20 15:30:00,19,268,King,David Affengruber,0.868,0.332,0.0546,MissedShots,OpenPlay,RightFoot,Pass,h
 696662,31229,50,5,2026-09-20 15:30:00,27,268,King,Alex Iwobi,0.926,0.407,0.3019,SavedShot,OpenPlay,RightFoot,Cross,h
 696669,31229,50,5,2026-09-20 15:30:00,31,268,King,Alex Iwobi,0.912,0.336,0.1142,SavedShot,OpenPlay,RightFoot,Chipped,h
+699053,31241,65,7,2026-10-17 14:00:00,15,268,King,Alex Iwobi,0.929,0.301,0.0581,BlockedShot,OpenPlay,RightFoot,Pass,h
+699061,31241,65,7,2026-10-17 14:00:00,41,268,King,Oscar Bobb,0.967,0.282,0.0587,SavedShot,OpenPlay,RightFoot,Pass,h
+699063,31241,65,7,2026-10-17 14:00:00,52,268,King,Shea Charles,0.877,0.409,0.349,SavedShot,OpenPlay,RightFoot,Pass,h

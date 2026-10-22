@@ -13,3 +13,7 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 695949,31224,42,5,2026-09-19 14:00:00,44,138,Kostoulas,Diego Gómez,0.756,0.419,0.0486,Goal,OpenPlay,RightFoot,Pass,h
 695950,31224,42,5,2026-09-19 14:00:00,50,138,Kostoulas,Pascal Groß,0.806,0.338,0.0877,MissedShots,OpenPlay,RightFoot,Pass,h
 697457,31234,60,6,2026-10-10 14:00:00,19,138,Kostoulas,Pascal Groß,0.71,0.609,0.0132,BlockedShot,OpenPlay,RightFoot,BallTouch,a
+699538,31245,63,7,2026-10-18 13:00:00,19,138,Kostoulas,Maxim De Cuyper,0.739,0.441,0.0467,SavedShot,OpenPlay,RightFoot,BallRecovery,h
+699544,31245,63,7,2026-10-18 13:00:00,46,138,Kostoulas,Luka Vuskovic,0.821,0.499,0.1355,MissedShots,OpenPlay,RightFoot,Chipped,h
+699546,31245,63,7,2026-10-18 13:00:00,48,138,Kostoulas,,0.936,0.486,0.6247,Goal,OpenPlay,LeftFoot,Rebound,h
+699548,31245,63,7,2026-10-18 13:00:00,61,138,Kostoulas,Olivier Boscagli,0.804,0.609,0.0311,BlockedShot,SetPiece,RightFoot,Pass,h

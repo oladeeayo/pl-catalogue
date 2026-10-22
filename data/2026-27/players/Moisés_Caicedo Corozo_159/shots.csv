@@ -1,2 +1,3 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
 697349,31232,53,6,2026-10-10 14:00:00,42,159,Caicedo,Jordan Henderson,0.861,0.498,0.0314,MissedShots,SetPiece,Head,Cross,h
+698796,31240,64,7,2026-10-17 11:30:00,39,159,Caicedo,Jordan Henderson,0.866,0.367,0.0236,ShotOnPost,FromCorner,RightFoot,Chipped,a

@@ -8,3 +8,6 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 694046,31214,35,4,2026-09-12 14:00:00,21,377,Munoz,Dominik Szoboszlai,0.981,0.606,0.1808,SavedShot,FromCorner,Head,Cross,h
 698242,31238,58,6,2026-10-11 15:30:00,1,377,Munoz,Ronald Araújo,0.936,0.274,0.0534,BlockedShot,OpenPlay,RightFoot,TakeOn,h
 698245,31238,58,6,2026-10-11 15:30:00,32,377,Munoz,Ryan Gravenberch,0.763,0.268,0.0172,SavedShot,OpenPlay,LeftFoot,Pass,h
+699013,31242,62,7,2026-10-17 14:00:00,61,377,Munoz,Florian Wirtz,0.88,0.343,0.184,Goal,OpenPlay,LeftFoot,TakeOn,a
+699014,31242,62,7,2026-10-17 14:00:00,64,377,Munoz,,0.893,0.385,0.0549,MissedShots,FromCorner,LeftFoot,BallTouch,a
+699018,31242,62,7,2026-10-17 14:00:00,71,377,Munoz,Treymaurice Nyoni,0.78,0.61,0.0244,SavedShot,SetPiece,RightFoot,Pass,a

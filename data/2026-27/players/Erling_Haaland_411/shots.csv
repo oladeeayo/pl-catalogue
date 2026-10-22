@@ -21,3 +21,8 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 696493,31222,45,5,2026-09-20 13:00:00,86,411,Haaland,,0.86,0.336,0.0357,BlockedShot,FromCorner,LeftFoot,None,h
 698256,31238,58,6,2026-10-11 15:30:00,59,411,Haaland,Antoine Semenyo,0.895,0.354,0.2641,MissedShots,OpenPlay,RightFoot,Pass,a
 698259,31238,58,6,2026-10-11 15:30:00,64,411,Haaland,,0.889,0.419,0.0885,Goal,OpenPlay,LeftFoot,Rebound,a
+699030,31243,67,7,2026-10-17 14:00:00,32,411,Haaland,Phil Foden,0.917,0.644,0.1242,BlockedShot,OpenPlay,LeftFoot,Throughball,h
+699031,31243,67,7,2026-10-17 14:00:00,33,411,Haaland,Rúben Dias,0.88,0.394,0.0802,BlockedShot,OpenPlay,LeftFoot,Chipped,h
+699032,31243,67,7,2026-10-17 14:00:00,33,411,Haaland,Mateo Kovacic,0.916,0.54,0.3396,Goal,OpenPlay,Head,Cross,h
+699043,31243,67,7,2026-10-17 14:00:00,68,411,Haaland,Iliman Ndiaye,0.906,0.538,0.6521,Goal,OpenPlay,LeftFoot,TakeOn,h
+699050,31243,67,7,2026-10-17 14:00:00,100,411,Haaland,Enzo Fernández,0.876,0.339,0.1166,BlockedShot,OpenPlay,LeftFoot,Chipped,h

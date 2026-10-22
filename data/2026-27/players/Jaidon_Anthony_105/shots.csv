@@ -6,3 +6,7 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 695617,31220,41,5,2026-09-18 19:00:00,60,105,Anthony,Jannik Schuster,0.988,0.526,0.8324,Goal,FromCorner,Head,HeadPass,h
 697316,31231,52,6,2026-10-10 14:00:00,31,105,Anthony,Keane Lewis-Potter,0.858,0.364,0.0817,SavedShot,OpenPlay,RightFoot,TakeOn,a
 697330,31231,52,6,2026-10-10 14:00:00,72,105,Anthony,Mathias Jensen,0.954,0.585,0.1144,MissedShots,OpenPlay,Head,Cross,a
+698993,31242,62,7,2026-10-17 14:00:00,6,105,Anthony,Keane Lewis-Potter,0.826,0.751,0.0217,BlockedShot,OpenPlay,RightFoot,Chipped,h
+699002,31242,62,7,2026-10-17 14:00:00,43,105,Anthony,Keane Lewis-Potter,0.847,0.655,0.0521,BlockedShot,OpenPlay,RightFoot,Pass,h
+699008,31242,62,7,2026-10-17 14:00:00,52,105,Anthony,,0.856,0.532,0.0491,SavedShot,OpenPlay,RightFoot,Aerial,h
+699010,31242,62,7,2026-10-17 14:00:00,57,105,Anthony,,0.85,0.496,0.0926,MissedShots,OpenPlay,RightFoot,None,h

@@ -8,3 +8,6 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 697929,31236,55,6,2026-10-11 13:00:00,17,472,Murillo,Ousmane Diomande,0.837,0.519,0.0655,BlockedShot,SetPiece,LeftFoot,BallTouch,a
 697931,31236,55,6,2026-10-11 13:00:00,19,472,Murillo,,0.836,0.658,0.0343,MissedShots,SetPiece,LeftFoot,None,a
 697946,31236,55,6,2026-10-11 13:00:00,48,472,Murillo,,0.949,0.421,0.0424,SavedShot,OpenPlay,Head,Aerial,a
+699901,31248,69,7,2026-10-18 15:30:00,47,472,Murillo,Xaver Schlager,0.877,0.575,0.0763,BlockedShot,FromCorner,LeftFoot,Rebound,h
+699906,31248,69,7,2026-10-18 15:30:00,53,472,Murillo,James McAtee,0.898,0.475,0.0573,SavedShot,FromCorner,Head,Cross,h
+699915,31248,69,7,2026-10-18 15:30:00,91,472,Murillo,Neco Williams,0.876,0.646,0.0413,MissedShots,OpenPlay,RightFoot,TakeOn,h

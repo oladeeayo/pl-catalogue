@@ -2,3 +2,7 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 694053,31214,35,4,2026-09-12 14:00:00,42,627,Barcola,Dominik Szoboszlai,0.915,0.567,0.3173,MissedShots,OpenPlay,RightFoot,Cross,h
 696422,31228,49,5,2026-09-20 13:00:00,32,627,Barcola,Alexander Isak,0.85,0.666,0.0479,SavedShot,OpenPlay,RightFoot,Pass,a
 698251,31238,58,6,2026-10-11 15:30:00,47,627,Barcola,,0.84,0.459,0.0592,BlockedShot,OpenPlay,RightFoot,Rebound,h
+698997,31242,62,7,2026-10-17 14:00:00,19,627,Barcola,,0.806,0.528,0.4552,MissedShots,OpenPlay,RightFoot,BallRecovery,a
+699001,31242,62,7,2026-10-17 14:00:00,36,627,Barcola,Florian Wirtz,0.806,0.582,0.0454,MissedShots,OpenPlay,RightFoot,Pass,a
+699015,31242,62,7,2026-10-17 14:00:00,65,627,Barcola,Florian Wirtz,0.866,0.493,0.0916,MissedShots,OpenPlay,RightFoot,BallTouch,a
+699021,31242,62,7,2026-10-17 14:00:00,78,627,Barcola,,0.872,0.684,0.0337,ShotOnPost,FromCorner,RightFoot,None,a

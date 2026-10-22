@@ -7,3 +7,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 692358,31203,28,3,2026-09-05 14:00:00,70,401,Marmoush,Antonín Kinsky,0.84,0.705,0.0461,MissedShots,OpenPlay,RightFoot,Pass,a
 694164,31215,37,4,2026-09-12 16:30:00,9,401,Marmoush,Sávio,0.716,0.442,0.0157,BlockedShot,OpenPlay,RightFoot,Pass,h
 695686,31221,48,5,2026-09-19 11:30:00,74,401,Marmoush,Sávio,0.816,0.656,0.041,BlockedShot,OpenPlay,RightFoot,Pass,h
+700143,31249,70,7,2026-10-19 19:00:00,53,401,Marmoush,,0.855,0.758,0.0223,SavedShot,OpenPlay,RightFoot,None,h
+700145,31249,70,7,2026-10-19 19:00:00,57,401,Marmoush,Andrew Robertson,0.808,0.647,0.0346,Goal,OpenPlay,RightFoot,Pass,h

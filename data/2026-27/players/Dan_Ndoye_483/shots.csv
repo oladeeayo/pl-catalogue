@@ -14,3 +14,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 697932,31236,55,6,2026-10-11 13:00:00,20,483,Ndoye,Morgan Gibbs-White,0.934,0.585,0.3129,SavedShot,OpenPlay,Head,Cross,a
 697944,31236,55,6,2026-10-11 13:00:00,50,483,Ndoye,,0.906,0.598,0.357,MissedShots,OpenPlay,RightFoot,Rebound,a
 697951,31236,55,6,2026-10-11 13:00:00,64,483,Ndoye,Matz Sels,0.895,0.642,0.2231,MissedShots,OpenPlay,LeftFoot,Pass,a
+699894,31248,69,7,2026-10-18 15:30:00,18,483,Ndoye,Liam Delap,0.857,0.681,0.0387,MissedShots,OpenPlay,RightFoot,Pass,h
+699907,31248,69,7,2026-10-18 15:30:00,62,483,Ndoye,Murillo,0.908,0.319,0.0847,BlockedShot,OpenPlay,LeftFoot,Pass,h

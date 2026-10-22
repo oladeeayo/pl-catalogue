@@ -1,3 +1,5 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
 695689,31221,48,5,2026-09-19 11:30:00,80,515,Maddison,Jan Paul van Hecke,0.873,0.492,0.0308,MissedShots,OpenPlay,Head,Aerial,h
 695692,31221,48,5,2026-09-19 11:30:00,92,515,Maddison,,0.939,0.835,0.0592,SavedShot,DirectFreekick,RightFoot,Standard,h
+700134,31249,70,7,2026-10-19 19:00:00,13,515,Maddison,Mohammed Kudus,0.812,0.342,0.029,Goal,OpenPlay,RightFoot,Pass,h
+700137,31249,70,7,2026-10-19 19:00:00,38,515,Maddison,Archie Gray,0.868,0.279,0.0437,BlockedShot,OpenPlay,LeftFoot,Pass,h

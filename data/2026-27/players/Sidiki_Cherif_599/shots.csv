@@ -2,3 +2,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 698532,31239,54,6,2026-10-12 19:00:00,28,599,Cherif,Milan van Ewijk,0.861,0.324,0.1125,SavedShot,OpenPlay,RightFoot,BallRecovery,h
 698538,31239,54,6,2026-10-12 19:00:00,47,599,Cherif,,0.812,0.508,0.066,Goal,OpenPlay,RightFoot,None,h
 698541,31239,54,6,2026-10-12 19:00:00,54,599,Cherif,,0.891,0.589,0.4294,BlockedShot,OpenPlay,RightFoot,None,h
+700136,31249,70,7,2026-10-19 19:00:00,35,599,Cherif,,0.694,0.465,0.0196,BlockedShot,OpenPlay,RightFoot,Dispossessed,a

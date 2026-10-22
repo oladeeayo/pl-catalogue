@@ -11,3 +11,7 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 697311,31231,52,6,2026-10-10 14:00:00,11,166,N.Jackson,,0.937,0.401,0.386,Goal,OpenPlay,RightFoot,Rebound,h
 697317,31231,52,6,2026-10-10 14:00:00,46,166,N.Jackson,Johan Manzambi,0.875,0.618,0.0934,MissedShots,OpenPlay,RightFoot,Pass,h
 697319,31231,52,6,2026-10-10 14:00:00,49,166,N.Jackson,Matteo Ruggeri,0.853,0.712,0.0308,SavedShot,OpenPlay,RightFoot,Pass,h
+699260,31244,68,7,2026-10-17 16:30:00,8,166,N.Jackson,Alysson Edward,0.855,0.448,0.3566,SavedShot,OpenPlay,RightFoot,Pass,a
+699266,31244,68,7,2026-10-17 16:30:00,28,166,N.Jackson,Johan Manzambi,0.863,0.607,0.0819,BlockedShot,OpenPlay,RightFoot,Pass,a
+699278,31244,68,7,2026-10-17 16:30:00,72,166,N.Jackson,Ibrahim Mbaye,0.875,0.658,0.0989,BlockedShot,OpenPlay,RightFoot,Pass,a
+699288,31244,68,7,2026-10-17 16:30:00,93,166,N.Jackson,John McGinn,0.874,0.354,0.1088,BlockedShot,OpenPlay,RightFoot,Pass,a

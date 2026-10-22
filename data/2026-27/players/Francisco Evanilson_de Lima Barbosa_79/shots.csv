@@ -10,3 +10,9 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 697353,31232,53,6,2026-10-10 14:00:00,50,79,Evanilson,,0.975,0.498,0.7915,Goal,FromCorner,RightFoot,None,a
 697354,31232,53,6,2026-10-10 14:00:00,60,79,Evanilson,Ben Doak,0.767,0.587,0.0259,MissedShots,OpenPlay,LeftFoot,Pass,a
 697357,31232,53,6,2026-10-10 14:00:00,84,79,Evanilson,Ben Doak,0.885,0.436,0.0357,MissedShots,OpenPlay,Head,Aerial,a
+699556,31246,61,7,2026-10-18 13:00:00,1,79,Evanilson,Lewis Cook,0.753,0.462,0.0238,BlockedShot,OpenPlay,LeftFoot,Pass,h
+699564,31246,61,7,2026-10-18 13:00:00,32,79,Evanilson,James Hill,0.892,0.391,0.1165,BlockedShot,OpenPlay,RightFoot,Pass,h
+699568,31246,61,7,2026-10-18 13:00:00,45,79,Evanilson,Marcus Tavernier,0.859,0.82,0.113,MissedShots,OpenPlay,LeftFoot,Throughball,h
+699570,31246,61,7,2026-10-18 13:00:00,47,79,Evanilson,,0.888,0.593,0.6311,Goal,OpenPlay,LeftFoot,TakeOn,h
+699571,31246,61,7,2026-10-18 13:00:00,51,79,Evanilson,Adam Smith,0.949,0.57,0.0664,MissedShots,OpenPlay,Head,Aerial,h
+699578,31246,61,7,2026-10-18 13:00:00,68,79,Evanilson,,0.904,0.442,0.1193,MissedShots,OpenPlay,RightFoot,None,h

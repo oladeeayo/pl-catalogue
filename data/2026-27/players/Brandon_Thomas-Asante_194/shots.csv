@@ -5,3 +5,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 696142,31227,47,5,2026-09-19 16:30:00,27,194,Thomas-Asante,Jay Dasilva,0.868,0.475,0.0284,MissedShots,OpenPlay,Head,Cross,a
 696164,31227,47,5,2026-09-19 16:30:00,79,194,Thomas-Asante,Matt Grimes,0.906,0.57,0.0742,MissedShots,SetPiece,Head,Cross,a
 698549,31239,54,6,2026-10-12 19:00:00,83,194,Thomas-Asante,,0.745,0.403,0.0199,BlockedShot,OpenPlay,RightFoot,TakeOn,h
+700130,31249,70,7,2026-10-19 19:00:00,0,194,Thomas-Asante,Sidiki Chérif,0.968,0.303,0.0585,MissedShots,OpenPlay,RightFoot,HeadPass,a
+700131,31249,70,7,2026-10-19 19:00:00,7,194,Thomas-Asante,,0.906,0.603,0.0751,BlockedShot,SetPiece,RightFoot,None,a

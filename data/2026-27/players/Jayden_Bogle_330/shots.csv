@@ -6,3 +6,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 696448,31225,44,5,2026-09-20 13:00:00,28,330,Bogle,Gabriel Gudmundsson,0.894,0.361,0.04,BlockedShot,OpenPlay,RightFoot,Cross,h
 696450,31225,44,5,2026-09-20 13:00:00,32,330,Bogle,,0.746,0.377,0.015,BlockedShot,FromCorner,LeftFoot,None,h
 697108,31230,51,6,2026-10-10 11:30:00,26,330,Bogle,,0.958,0.588,0.4702,SavedShot,OpenPlay,RightFoot,None,a
+699514,31247,66,7,2026-10-18 13:00:00,41,330,Bogle,Ethan Ampadu,0.86,0.373,0.0613,SavedShot,OpenPlay,RightFoot,Pass,h

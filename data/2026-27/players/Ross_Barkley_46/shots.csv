@@ -6,3 +6,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 692577,31207,25,3,2026-09-05 16:30:00,46,46,Barkley,Boubacar Kamara,0.718,0.487,0.0155,BlockedShot,OpenPlay,RightFoot,Pass,a
 692585,31207,25,3,2026-09-05 16:30:00,80,46,Barkley,,0.895,0.537,0.0212,MissedShots,FromCorner,Head,Aerial,a
 693972,31211,31,4,2026-09-12 14:00:00,31,46,Barkley,George Hemmings,0.778,0.697,0.0182,SavedShot,OpenPlay,RightFoot,Pass,h
+699279,31244,68,7,2026-10-17 16:30:00,73,46,Barkley,,0.813,0.542,0.0977,SavedShot,OpenPlay,RightFoot,Rebound,a

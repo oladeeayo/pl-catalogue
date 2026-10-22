@@ -6,3 +6,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 696679,31229,50,5,2026-09-20 15:30:00,62,419,Martinez,,0.073,0.492,0.0,OwnGoal,OpenPlay,RightFoot,Save,a
 696688,31229,50,5,2026-09-20 15:30:00,80,419,Martinez,,0.818,0.528,0.0398,MissedShots,FromCorner,LeftFoot,None,a
 696691,31229,50,5,2026-09-20 15:30:00,92,419,Martinez,,0.924,0.334,0.0455,BlockedShot,FromCorner,RightFoot,TakeOn,a
+699507,31247,66,7,2026-10-18 13:00:00,11,419,Martinez,,0.762,0.579,0.0234,BlockedShot,OpenPlay,RightFoot,None,a
