@@ -1,3 +1,9 @@
+# --- pipeline code & raw captures (they live in the private plcatdataserver repo) ---
+/catalogue/
+/sources/
+/*.py
+/*.txt
+
 # --- other projects living in this folder ---
 /bible-video/
 /shorts_work/
@@ -12,17 +18,11 @@ __pycache__/
 *.cookies.json
 *.log
 
-# --- scratch/probe outputs (not curated data) ---
+# --- scratch/probe outputs ---
 pl_shooting_dom.html
 understat_rendered.html
 understat_players.html
 understat_epl.html
 
-# --- root scratch & one-off experiments (curated pipeline scripts kept) ---
-/*.py
-/*.txt
-!merge_sot_xg.py
-!fbref_scrape.py
-!fbref_extract.py
-!understat_fetch.py
-!reep_coverage.py
+# --- OS / editor ---
+.DS_Store
