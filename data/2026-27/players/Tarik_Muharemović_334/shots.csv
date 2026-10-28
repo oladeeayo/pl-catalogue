@@ -5,3 +5,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 696458,31225,44,5,2026-09-20 13:00:00,56,334,Muharemović,Ethan Ampadu,0.933,0.481,0.0724,MissedShots,OpenPlay,Head,Aerial,h
 696463,31225,44,5,2026-09-20 13:00:00,86,334,Muharemović,,0.863,0.483,0.0797,BlockedShot,OpenPlay,LeftFoot,None,h
 699516,31247,66,7,2026-10-18 13:00:00,50,334,Muharemović,Anton Stach,0.912,0.486,0.0344,MissedShots,FromCorner,Head,Aerial,h
+701527,31259,80,8,2026-10-25 16:30:00,55,334,Muharemović,Harry Wilson,0.94,0.57,0.2687,SavedShot,FromCorner,Head,Cross,a

@@ -14,3 +14,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 698249,31238,58,6,2026-10-11 15:30:00,45,366,Wirtz,,0.782,0.462,0.0327,BlockedShot,OpenPlay,RightFoot,None,h
 698254,31238,58,6,2026-10-11 15:30:00,54,366,Wirtz,Ryan Gravenberch,0.78,0.458,0.0738,MissedShots,OpenPlay,RightFoot,BallTouch,h
 699004,31242,62,7,2026-10-17 14:00:00,48,366,Wirtz,,0.858,0.343,0.0369,BlockedShot,FromCorner,RightFoot,None,a
+701115,31252,78,8,2026-10-25 14:00:00,16,366,Wirtz,,0.906,0.282,0.0481,MissedShots,OpenPlay,RightFoot,Challenge,h

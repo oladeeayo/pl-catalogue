@@ -7,3 +7,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 696688,31229,50,5,2026-09-20 15:30:00,80,419,Martinez,,0.818,0.528,0.0398,MissedShots,FromCorner,LeftFoot,None,a
 696691,31229,50,5,2026-09-20 15:30:00,92,419,Martinez,,0.924,0.334,0.0455,BlockedShot,FromCorner,RightFoot,TakeOn,a
 699507,31247,66,7,2026-10-18 13:00:00,11,419,Martinez,,0.762,0.579,0.0234,BlockedShot,OpenPlay,RightFoot,None,a
+701158,31256,79,8,2026-10-25 14:00:00,67,419,Martinez,Matheus Cunha,0.722,0.621,0.0111,SavedShot,OpenPlay,LeftFoot,Pass,h

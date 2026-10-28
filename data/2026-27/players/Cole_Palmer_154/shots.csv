@@ -22,3 +22,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 698806,31240,64,7,2026-10-17 11:30:00,81,154,Palmer,Josh Acheampong,0.725,0.38,0.0155,MissedShots,FromCorner,LeftFoot,BallTouch,a
 698808,31240,64,7,2026-10-17 11:30:00,85,154,Palmer,,0.867,0.471,0.0167,MissedShots,OpenPlay,Head,Rebound,a
 698809,31240,64,7,2026-10-17 11:30:00,86,154,Palmer,Morgan Rogers,0.946,0.683,0.0861,BlockedShot,OpenPlay,LeftFoot,Pass,a
+700826,31255,73,8,2026-10-24 16:30:00,13,154,Palmer,Morgan Rogers,0.901,0.268,0.0409,SavedShot,OpenPlay,LeftFoot,Pass,h
+700837,31255,73,8,2026-10-24 16:30:00,61,154,Palmer,Pedro Neto,0.855,0.352,0.0656,BlockedShot,OpenPlay,LeftFoot,Pass,h

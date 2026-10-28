@@ -3,3 +3,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 696443,31225,44,5,2026-09-20 13:00:00,20,210,Wharton,Jaydee Canvot,0.771,0.605,0.0169,SavedShot,SetPiece,LeftFoot,None,a
 696447,31225,44,5,2026-09-20 13:00:00,26,210,Wharton,,0.809,0.529,0.0346,BlockedShot,FromCorner,LeftFoot,None,a
 696461,31225,44,5,2026-09-20 13:00:00,79,210,Wharton,Quinten Timber,0.796,0.546,0.0346,BlockedShot,OpenPlay,LeftFoot,Pass,a
+701309,31257,75,8,2026-10-25 14:00:00,62,210,Wharton,Darío Osorio,0.809,0.285,0.0217,SavedShot,OpenPlay,LeftFoot,Pass,h

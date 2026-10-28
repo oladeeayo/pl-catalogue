@@ -11,3 +11,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 697928,31236,55,6,2026-10-11 13:00:00,17,486,McAtee,,0.756,0.658,0.0526,BlockedShot,DirectFreekick,LeftFoot,Standard,a
 699902,31248,69,7,2026-10-18 15:30:00,47,486,McAtee,,0.753,0.527,0.0234,MissedShots,OpenPlay,LeftFoot,BallTouch,h
 699903,31248,69,7,2026-10-18 15:30:00,48,486,McAtee,,0.757,0.531,0.0699,MissedShots,DirectFreekick,LeftFoot,Standard,h
+700349,31250,77,8,2026-10-23 19:00:00,75,486,McAtee,Xaver Schlager,0.696,0.38,0.0122,SavedShot,OpenPlay,LeftFoot,Pass,a

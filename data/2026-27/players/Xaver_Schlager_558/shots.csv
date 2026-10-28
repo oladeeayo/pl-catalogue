@@ -9,3 +9,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 697945,31236,55,6,2026-10-11 13:00:00,48,558,Schlager,Morgan Gibbs-White,0.951,0.411,0.0871,BlockedShot,OpenPlay,LeftFoot,None,a
 697942,31236,55,6,2026-10-11 13:00:00,50,558,Schlager,,0.759,0.399,0.021,MissedShots,OpenPlay,RightFoot,None,a
 699900,31248,69,7,2026-10-18 15:30:00,47,558,Schlager,,0.728,0.573,0.0144,MissedShots,FromCorner,LeftFoot,None,h
+700343,31250,77,8,2026-10-23 19:00:00,59,558,Schlager,,0.852,0.322,0.0414,MissedShots,FromCorner,LeftFoot,Rebound,a

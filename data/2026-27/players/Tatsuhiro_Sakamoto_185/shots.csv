@@ -1,3 +1,4 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
 690393,31192,13,2,2026-08-29 14:00:00,69,185,Sakamoto,Milan van Ewijk,0.832,0.27,0.0278,BlockedShot,OpenPlay,LeftFoot,Pass,h
 700132,31249,70,7,2026-10-19 19:00:00,9,185,Sakamoto,Milan van Ewijk,0.905,0.397,0.104,BlockedShot,OpenPlay,LeftFoot,Pass,a
+700631,31253,74,8,2026-10-24 14:00:00,12,185,Sakamoto,Jack Rudoni,0.912,0.42,0.0421,MissedShots,OpenPlay,Head,Aerial,h

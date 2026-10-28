@@ -17,3 +17,7 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 699544,31245,63,7,2026-10-18 13:00:00,46,138,Kostoulas,Luka Vuskovic,0.821,0.499,0.1355,MissedShots,OpenPlay,RightFoot,Chipped,h
 699546,31245,63,7,2026-10-18 13:00:00,48,138,Kostoulas,,0.936,0.486,0.6247,Goal,OpenPlay,LeftFoot,Rebound,h
 699548,31245,63,7,2026-10-18 13:00:00,61,138,Kostoulas,Olivier Boscagli,0.804,0.609,0.0311,BlockedShot,SetPiece,RightFoot,Pass,h
+701121,31252,78,8,2026-10-25 14:00:00,27,138,Kostoulas,Costinha,0.918,0.476,0.1311,BlockedShot,OpenPlay,RightFoot,Pass,a
+701128,31252,78,8,2026-10-25 14:00:00,45,138,Kostoulas,Diego Gómez,0.873,0.265,0.0316,SavedShot,OpenPlay,RightFoot,Pass,a
+701130,31252,78,8,2026-10-25 14:00:00,46,138,Kostoulas,Diego Gómez,0.928,0.484,0.1094,BlockedShot,OpenPlay,RightFoot,End,a
+701138,31252,78,8,2026-10-25 14:00:00,82,138,Kostoulas,Georginio Rutter,0.955,0.598,0.1226,MissedShots,OpenPlay,RightFoot,Pass,a

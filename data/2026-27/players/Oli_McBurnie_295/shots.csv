@@ -8,3 +8,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 695921,31223,46,5,2026-09-19 14:00:00,62,295,McBurnie,Sorba Thomas,0.864,0.36,0.06,BlockedShot,OpenPlay,LeftFoot,LayOff,a
 695929,31223,46,5,2026-09-19 14:00:00,80,295,McBurnie,Lucas Herrington,0.923,0.45,0.12,BlockedShot,OpenPlay,RightFoot,Rebound,a
 695933,31223,46,5,2026-09-19 14:00:00,84,295,McBurnie,Mohamed Ali-Cho,0.918,0.511,0.0533,BlockedShot,OpenPlay,Head,Aerial,a
+701177,31258,76,8,2026-10-25 14:00:00,23,295,McBurnie,,0.885,0.5,0.7612,Goal,Penalty,RightFoot,Standard,h

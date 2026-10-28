@@ -4,3 +4,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 697356,31232,53,6,2026-10-10 14:00:00,69,101,Henderson,,0.715,0.501,0.0441,Goal,DirectFreekick,RightFoot,Standard,h
 698791,31240,64,7,2026-10-17 11:30:00,20,101,Henderson,Pedro Neto,0.845,0.451,0.0789,BlockedShot,OpenPlay,RightFoot,Pass,a
 698812,31240,64,7,2026-10-17 11:30:00,89,101,Henderson,,0.748,0.462,0.0625,BlockedShot,DirectFreekick,RightFoot,Standard,a
+700831,31255,73,8,2026-10-24 16:30:00,35,101,Henderson,Cole Palmer,0.818,0.497,0.0609,SavedShot,OpenPlay,RightFoot,Pass,h

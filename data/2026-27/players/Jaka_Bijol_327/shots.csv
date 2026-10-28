@@ -1,3 +1,4 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
 688635,31184,6,1,2026-08-22 14:00:00,19,327,Bijol,,0.968,0.397,0.0378,BlockedShot,OpenPlay,Head,Aerial,a
 688640,31184,6,1,2026-08-22 14:00:00,45,327,Bijol,,0.898,0.392,0.0453,BlockedShot,OpenPlay,LeftFoot,Aerial,a
+701519,31259,80,8,2026-10-25 16:30:00,5,327,Bijol,Harry Wilson,0.857,0.506,0.0244,BlockedShot,SetPiece,Head,Cross,a

@@ -3,3 +3,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 689373,31188,9,1,2026-08-23 15:30:00,31,465,Osula,,0.756,0.515,0.0163,BlockedShot,SetPiece,LeftFoot,Rebound,h
 698553,31239,54,6,2026-10-12 19:00:00,89,465,Osula,Nico González,0.884,0.649,0.0431,MissedShots,OpenPlay,LeftFoot,Chipped,a
 699274,31244,68,7,2026-10-17 16:30:00,65,465,Osula,Lewis Miley,0.902,0.543,0.0717,MissedShots,OpenPlay,Head,Cross,h
+701299,31257,75,8,2026-10-25 14:00:00,8,465,Osula,,0.796,0.501,0.0456,BlockedShot,OpenPlay,RightFoot,BallRecovery,a
+701305,31257,75,8,2026-10-25 14:00:00,46,465,Osula,Jacob Murphy,0.943,0.462,0.508,Goal,OpenPlay,LeftFoot,Cross,a

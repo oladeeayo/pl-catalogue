@@ -1,3 +1,4 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
 692348,31203,28,3,2026-09-05 14:00:00,30,474,Jair Cunha,,0.8,0.334,0.0132,MissedShots,OpenPlay,RightFoot,Aerial,h
 696148,31227,47,5,2026-09-19 16:30:00,34,474,Jair Cunha,,0.779,0.556,0.0241,MissedShots,OpenPlay,RightFoot,Rebound,h
+700330,31250,77,8,2026-10-23 19:00:00,6,474,Jair Cunha,Nikola Milenkovic,0.887,0.467,0.0838,SavedShot,SetPiece,LeftFoot,HeadPass,a

@@ -7,3 +7,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 696459,31225,44,5,2026-09-20 13:00:00,70,211,Yeremy,Adam Wharton,0.727,0.568,0.0193,MissedShots,OpenPlay,RightFoot,Pass,a
 697950,31236,55,6,2026-10-11 13:00:00,58,211,Yeremy,,0.921,0.563,0.4048,Goal,OpenPlay,RightFoot,Rebound,h
 699537,31245,63,7,2026-10-18 13:00:00,19,211,Yeremy,,0.751,0.627,0.0548,BlockedShot,DirectFreekick,RightFoot,Standard,a
+701317,31257,75,8,2026-10-25 14:00:00,90,211,Yeremy,Darío Osorio,0.766,0.542,0.0292,BlockedShot,OpenPlay,RightFoot,Pass,h

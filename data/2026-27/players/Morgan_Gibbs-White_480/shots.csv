@@ -10,3 +10,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 693993,31211,31,4,2026-09-12 14:00:00,95,480,Gibbs-White,,0.74,0.399,0.052,MissedShots,DirectFreekick,RightFoot,Standard,a
 697935,31236,55,6,2026-10-11 13:00:00,31,480,Gibbs-White,Xaver Schlager,0.864,0.313,0.0812,MissedShots,OpenPlay,RightFoot,Pass,a
 697936,31236,55,6,2026-10-11 13:00:00,34,480,Gibbs-White,Daniel Muñoz,0.79,0.34,0.0284,BlockedShot,OpenPlay,RightFoot,Pass,a
+700335,31250,77,8,2026-10-23 19:00:00,24,480,Gibbs-White,Xaver Schlager,0.864,0.693,0.1115,MissedShots,OpenPlay,RightFoot,Chipped,a
+700338,31250,77,8,2026-10-23 19:00:00,30,480,Gibbs-White,Dan Ndoye,0.929,0.539,0.6621,BlockedShot,OpenPlay,LeftFoot,Pass,a

@@ -3,3 +3,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 695690,31221,48,5,2026-09-19 11:30:00,85,519,Gallagher,Mohammed Kudus,0.959,0.413,0.3785,Goal,OpenPlay,RightFoot,Pass,h
 697625,31235,59,6,2026-10-10 16:30:00,18,519,Gallagher,Dominic Solanke,0.953,0.682,0.0546,BlockedShot,OpenPlay,RightFoot,Pass,a
 697629,31235,59,6,2026-10-10 16:30:00,41,519,Gallagher,,0.956,0.445,0.522,SavedShot,OpenPlay,RightFoot,Dispossessed,a
+700839,31255,73,8,2026-10-24 16:30:00,65,519,Gallagher,Jan Paul van Hecke,0.701,0.517,0.0112,BlockedShot,OpenPlay,RightFoot,TakeOn,a
+700844,31255,73,8,2026-10-24 16:30:00,84,519,Gallagher,Mohammed Kudus,0.945,0.295,0.0671,SavedShot,OpenPlay,RightFoot,Pass,a

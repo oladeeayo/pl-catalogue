@@ -1931,3 +1931,263 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player,assisted_name,x,y,xg,result
 700155,31249,70,7,2026-10-19 19:00:00,91,Awoniyi,Ephron Mason-Clark,0.958,0.553,0.0585,MissedShots,OpenPlay,Head,Clearance,a
 700156,31249,70,7,2026-10-19 19:00:00,91,Tel,Antonín Kinsky,0.903,0.733,0.0498,MissedShots,OpenPlay,RightFoot,Pass,h
 700157,31249,70,7,2026-10-19 19:00:00,95,Davies,Dominic Solanke,0.814,0.497,0.0702,Goal,OpenPlay,LeftFoot,BallTouch,h
+700329,31250,77,8,2026-10-23 19:00:00,4,Enciso,,0.755,0.548,0.0321,MissedShots,OpenPlay,RightFoot,TakeOn,h
+700330,31250,77,8,2026-10-23 19:00:00,6,Jair Cunha,Nikola Milenkovic,0.887,0.467,0.0838,SavedShot,SetPiece,LeftFoot,HeadPass,a
+700331,31250,77,8,2026-10-23 19:00:00,7,Delap,Morgan Gibbs-White,0.883,0.355,0.0816,MissedShots,OpenPlay,RightFoot,Pass,a
+700332,31250,77,8,2026-10-23 19:00:00,8,Fatawu,Exequiel Palacios,0.86,0.279,0.0342,MissedShots,OpenPlay,LeftFoot,Pass,h
+700333,31250,77,8,2026-10-23 19:00:00,12,N.Williams,Daniel Muñoz,0.931,0.526,0.4403,Goal,OpenPlay,RightFoot,Cross,a
+700334,31250,77,8,2026-10-23 19:00:00,18,Enciso,,0.746,0.555,0.0599,MissedShots,DirectFreekick,RightFoot,Standard,h
+700335,31250,77,8,2026-10-23 19:00:00,24,Gibbs-White,Xaver Schlager,0.864,0.693,0.1115,MissedShots,OpenPlay,RightFoot,Chipped,a
+700336,31250,77,8,2026-10-23 19:00:00,25,Philogene,Emersonn,0.892,0.519,0.3621,SavedShot,OpenPlay,RightFoot,HeadPass,h
+700337,31250,77,8,2026-10-23 19:00:00,27,Enciso,Exequiel Palacios,0.779,0.503,0.0326,SavedShot,OpenPlay,LeftFoot,TakeOn,h
+700338,31250,77,8,2026-10-23 19:00:00,30,Gibbs-White,Dan Ndoye,0.929,0.539,0.6621,BlockedShot,OpenPlay,LeftFoot,Pass,a
+700339,31250,77,8,2026-10-23 19:00:00,32,Ndoye,Neco Williams,0.945,0.528,0.0729,MissedShots,FromCorner,Head,Aerial,a
+700340,31250,77,8,2026-10-23 19:00:00,40,Enciso,,0.828,0.552,0.2659,Goal,OpenPlay,LeftFoot,BallRecovery,h
+700341,31250,77,8,2026-10-23 19:00:00,59,N.Williams,,0.844,0.657,0.0319,BlockedShot,FromCorner,RightFoot,None,a
+700342,31250,77,8,2026-10-23 19:00:00,59,Murillo,,0.855,0.539,0.0684,SavedShot,FromCorner,LeftFoot,Rebound,a
+700343,31250,77,8,2026-10-23 19:00:00,59,Schlager,,0.852,0.322,0.0414,MissedShots,FromCorner,LeftFoot,Rebound,a
+700344,31250,77,8,2026-10-23 19:00:00,62,Murillo,Neco Williams,0.927,0.466,0.1049,MissedShots,FromCorner,Head,Cross,a
+700345,31250,77,8,2026-10-23 19:00:00,63,Ndoye,,0.936,0.655,0.067,MissedShots,OpenPlay,LeftFoot,None,a
+700346,31250,77,8,2026-10-23 19:00:00,63,Muñoz,,0.933,0.329,0.0539,MissedShots,OpenPlay,RightFoot,Rebound,a
+700347,31250,77,8,2026-10-23 19:00:00,72,Delap,,0.945,0.497,0.4744,MissedShots,OpenPlay,Head,None,a
+700348,31250,77,8,2026-10-23 19:00:00,73,Delap,Morgan Gibbs-White,0.786,0.428,0.0755,MissedShots,OpenPlay,RightFoot,BallRecovery,a
+700349,31250,77,8,2026-10-23 19:00:00,75,McAtee,Xaver Schlager,0.696,0.38,0.0122,SavedShot,OpenPlay,LeftFoot,Pass,a
+700350,31250,77,8,2026-10-23 19:00:00,85,Milenković,Morgan Gibbs-White,0.919,0.518,0.0586,MissedShots,SetPiece,Head,Aerial,a
+700351,31250,77,8,2026-10-23 19:00:00,89,Hudson-Odoi,,0.88,0.631,0.3244,MissedShots,OpenPlay,LeftFoot,None,a
+700352,31250,77,8,2026-10-23 19:00:00,91,Clarke,,0.836,0.511,0.0701,MissedShots,OpenPlay,RightFoot,BlockedPass,h
+700389,31251,72,8,2026-10-24 11:30:00,3,Maatsen,John McGinn,0.874,0.656,0.0215,MissedShots,FromCorner,LeftFoot,Chipped,h
+700390,31251,72,8,2026-10-24 11:30:00,5,Alysson Edward,John McGinn,0.85,0.556,0.0517,BlockedShot,FromCorner,LeftFoot,Pass,h
+700391,31251,72,8,2026-10-24 11:30:00,5,N.Jackson,John McGinn,0.939,0.658,0.1233,Goal,OpenPlay,RightFoot,TakeOn,h
+700392,31251,72,8,2026-10-24 11:30:00,11,Enzo,Josko Gvardiol,0.847,0.528,0.0333,BlockedShot,FromCorner,RightFoot,HeadPass,a
+700393,31251,72,8,2026-10-24 11:30:00,12,Ndiaye,Mathis Cherki,0.831,0.329,0.0365,SavedShot,FromCorner,LeftFoot,TakeOn,a
+700394,31251,72,8,2026-10-24 11:30:00,18,N.Jackson,,0.771,0.372,0.0652,MissedShots,OpenPlay,RightFoot,None,h
+700395,31251,72,8,2026-10-24 11:30:00,20,Cherki,Jéremy Doku,0.89,0.566,0.3948,SavedShot,OpenPlay,LeftFoot,Pass,a
+700396,31251,72,8,2026-10-24 11:30:00,23,Khusanov,Enzo Fernández,0.788,0.311,0.0223,SavedShot,OpenPlay,RightFoot,Pass,a
+700397,31251,72,8,2026-10-24 11:30:00,27,Ndiaye,Mathis Cherki,0.865,0.333,0.0527,ShotOnPost,OpenPlay,LeftFoot,Pass,a
+700398,31251,72,8,2026-10-24 11:30:00,33,Manzambi,,0.811,0.669,0.0873,MissedShots,DirectFreekick,RightFoot,Standard,h
+700399,31251,72,8,2026-10-24 11:30:00,35,Doku,Elliot Anderson,0.868,0.687,0.0473,BlockedShot,OpenPlay,RightFoot,Pass,a
+700400,31251,72,8,2026-10-24 11:30:00,39,Alysson Edward,Matthew Cash,0.878,0.401,0.1155,BlockedShot,OpenPlay,LeftFoot,Pass,h
+700401,31251,72,8,2026-10-24 11:30:00,46,Maatsen,John McGinn,0.883,0.679,0.0996,BlockedShot,OpenPlay,LeftFoot,Pass,h
+700402,31251,72,8,2026-10-24 11:30:00,51,Haaland,Iliman Ndiaye,0.951,0.517,0.5311,Goal,SetPiece,Head,Aerial,a
+700403,31251,72,8,2026-10-24 11:30:00,55,Gvardiol,Jéremy Doku,0.926,0.658,0.3327,SavedShot,OpenPlay,LeftFoot,Throughball,a
+700404,31251,72,8,2026-10-24 11:30:00,58,Doku,Elliot Anderson,0.806,0.583,0.0996,MissedShots,OpenPlay,RightFoot,Chipped,a
+700405,31251,72,8,2026-10-24 11:30:00,59,N.Jackson,Ibrahim Mbaye,0.845,0.457,0.0817,Goal,OpenPlay,RightFoot,Pass,h
+700406,31251,72,8,2026-10-24 11:30:00,64,Gvardiol,Enzo Fernández,0.918,0.458,0.0342,MissedShots,FromCorner,Head,Aerial,a
+700407,31251,72,8,2026-10-24 11:30:00,67,Gvardiol,,0.926,0.51,0.5323,SavedShot,OpenPlay,LeftFoot,None,a
+700408,31251,72,8,2026-10-24 11:30:00,85,Foden,Josko Gvardiol,0.794,0.613,0.031,BlockedShot,OpenPlay,LeftFoot,Pass,a
+700409,31251,72,8,2026-10-24 11:30:00,88,Haaland,Phil Foden,0.923,0.462,0.0428,BlockedShot,OpenPlay,Head,Aerial,a
+700410,31251,72,8,2026-10-24 11:30:00,88,Doku,Ryan McAidoo,0.903,0.652,0.0502,MissedShots,OpenPlay,RightFoot,Cross,a
+700411,31251,72,8,2026-10-24 11:30:00,92,Haaland,Elliot Anderson,0.913,0.46,0.0444,SavedShot,OpenPlay,Head,Aerial,a
+700627,31253,74,8,2026-10-24 14:00:00,1,Thomas-Asante,,0.716,0.521,0.0126,BlockedShot,OpenPlay,LeftFoot,None,h
+700628,31253,74,8,2026-10-24 14:00:00,2,Thomas,Jack Rudoni,0.908,0.409,0.0141,MissedShots,FromCorner,Head,Aerial,h
+700629,31253,74,8,2026-10-24 14:00:00,2,Pinnock,Matt Grimes,0.882,0.541,0.0463,MissedShots,FromCorner,Head,Cross,h
+700652,31254,71,8,2026-10-24 14:00:00,3,Rice,Ben White,0.804,0.342,0.0262,BlockedShot,OpenPlay,RightFoot,Pass,h
+700653,31254,71,8,2026-10-24 14:00:00,5,Konsa,Declan Rice,0.955,0.561,0.0625,BlockedShot,FromCorner,Head,Aerial,h
+700654,31254,71,8,2026-10-24 14:00:00,6,Gabriel,Martin Odegaard,0.935,0.45,0.049,SavedShot,FromCorner,Head,Goal,h
+700655,31254,71,8,2026-10-24 14:00:00,6,Konsa,Viktor Gyokeres,0.975,0.54,0.6546,Goal,FromCorner,RightFoot,None,h
+700656,31254,71,8,2026-10-24 14:00:00,10,Garner,Thierno Barry,0.763,0.361,0.0233,SavedShot,OpenPlay,RightFoot,LayOff,a
+700630,31253,74,8,2026-10-24 14:00:00,12,Gonzalo,Oscar Bobb,0.929,0.342,0.0808,BlockedShot,OpenPlay,RightFoot,Pass,a
+700631,31253,74,8,2026-10-24 14:00:00,12,Sakamoto,Jack Rudoni,0.912,0.42,0.0421,MissedShots,OpenPlay,Head,Aerial,h
+700632,31253,74,8,2026-10-24 14:00:00,13,Charles,Oscar Bobb,0.849,0.684,0.0443,SavedShot,OpenPlay,LeftFoot,Pass,a
+700657,31254,71,8,2026-10-24 14:00:00,16,George,Kiernan Dewsbury-Hall,0.901,0.727,0.0365,BlockedShot,OpenPlay,RightFoot,Pass,a
+700633,31253,74,8,2026-10-24 14:00:00,17,King,Oscar Bobb,0.918,0.307,0.0616,ShotOnPost,OpenPlay,RightFoot,Pass,a
+700634,31253,74,8,2026-10-24 14:00:00,17,Iwobi,,0.896,0.619,0.0732,MissedShots,OpenPlay,RightFoot,Rebound,a
+700635,31253,74,8,2026-10-24 14:00:00,19,Thomas,Jack Rudoni,0.87,0.468,0.0117,MissedShots,SetPiece,Head,Aerial,h
+700658,31254,71,8,2026-10-24 14:00:00,19,Ødegaard,Noni Madueke,0.812,0.457,0.0667,BlockedShot,OpenPlay,LeftFoot,BallTouch,h
+700636,31253,74,8,2026-10-24 14:00:00,20,Thomas-Asante,Jay Dasilva,0.919,0.546,0.0549,MissedShots,OpenPlay,Head,Aerial,h
+700659,31254,71,8,2026-10-24 14:00:00,21,Merino,Declan Rice,0.96,0.518,0.06,BlockedShot,FromCorner,Head,Challenge,h
+700637,31253,74,8,2026-10-24 14:00:00,22,Gonzalo,Joshua King,0.842,0.528,0.0929,BlockedShot,OpenPlay,RightFoot,Pass,a
+700660,31254,71,8,2026-10-24 14:00:00,23,Eze,Myles Lewis-Skelly,0.863,0.718,0.0463,MissedShots,OpenPlay,RightFoot,Pass,h
+700638,31253,74,8,2026-10-24 14:00:00,24,King,Alex Iwobi,0.926,0.321,0.0725,BlockedShot,OpenPlay,RightFoot,Pass,a
+700661,31254,71,8,2026-10-24 14:00:00,27,Madueke,Declan Rice,0.9,0.313,0.0756,MissedShots,OpenPlay,RightFoot,Pass,h
+700639,31253,74,8,2026-10-24 14:00:00,28,Thomas-Asante,,0.853,0.351,0.0494,SavedShot,OpenPlay,RightFoot,None,h
+700662,31254,71,8,2026-10-24 14:00:00,28,Merino,,0.86,0.402,0.0841,BlockedShot,OpenPlay,LeftFoot,None,h
+700663,31254,71,8,2026-10-24 14:00:00,29,Madueke,,0.841,0.361,0.0642,MissedShots,OpenPlay,RightFoot,None,h
+700664,31254,71,8,2026-10-24 14:00:00,34,Eze,Martin Odegaard,0.735,0.531,0.0244,BlockedShot,OpenPlay,RightFoot,Pass,h
+700665,31254,71,8,2026-10-24 14:00:00,39,Ødegaard,Viktor Gyokeres,0.868,0.417,0.2549,BlockedShot,OpenPlay,RightFoot,TakeOn,h
+700666,31254,71,8,2026-10-24 14:00:00,43,Barry,,0.88,0.601,0.364,SavedShot,OpenPlay,RightFoot,None,a
+700640,31253,74,8,2026-10-24 14:00:00,45,Cherif,,0.755,0.325,0.0164,MissedShots,OpenPlay,RightFoot,BallRecovery,h
+700667,31254,71,8,2026-10-24 14:00:00,47,Merino,Declan Rice,0.886,0.45,0.0572,MissedShots,SetPiece,Head,Cross,h
+700668,31254,71,8,2026-10-24 14:00:00,50,Ødegaard,,0.675,0.513,0.0118,SavedShot,FromCorner,LeftFoot,None,h
+700641,31253,74,8,2026-10-24 14:00:00,51,Rudoni,,0.786,0.285,0.0556,BlockedShot,DirectFreekick,LeftFoot,Standard,h
+700669,31254,71,8,2026-10-24 14:00:00,53,Madueke,Viktor Gyokeres,0.861,0.334,0.0686,BlockedShot,OpenPlay,RightFoot,Pass,h
+700642,31253,74,8,2026-10-24 14:00:00,55,King,,0.784,0.589,0.0306,MissedShots,OpenPlay,RightFoot,None,a
+700643,31253,74,8,2026-10-24 14:00:00,57,Bassey,Oscar Bobb,0.745,0.436,0.019,BlockedShot,OpenPlay,LeftFoot,Pass,a
+700670,31254,71,8,2026-10-24 14:00:00,57,Merino,Eberechi Eze,0.786,0.661,0.0269,BlockedShot,OpenPlay,LeftFoot,Pass,h
+700644,31253,74,8,2026-10-24 14:00:00,61,Mfuni,,0.856,0.558,0.0267,MissedShots,FromCorner,LeftFoot,Aerial,h
+700671,31254,71,8,2026-10-24 14:00:00,65,Merino,Noni Madueke,0.814,0.531,0.0741,BlockedShot,OpenPlay,LeftFoot,Pass,h
+700645,31253,74,8,2026-10-24 14:00:00,66,Castagne,Alex Iwobi,0.921,0.419,0.0224,MissedShots,FromCorner,Head,Aerial,a
+700672,31254,71,8,2026-10-24 14:00:00,67,Gabriel,Ben White,0.958,0.551,0.5481,Goal,OpenPlay,Head,Cross,h
+700646,31253,74,8,2026-10-24 14:00:00,70,Mfuni,,0.955,0.592,0.0285,SavedShot,FromCorner,Head,Aerial,h
+700647,31253,74,8,2026-10-24 14:00:00,75,King,Sander Berge,0.808,0.702,0.0212,SavedShot,OpenPlay,RightFoot,Pass,a
+700673,31254,71,8,2026-10-24 14:00:00,75,Armstrong,Tyrique George,0.914,0.638,0.0205,MissedShots,OpenPlay,Head,Chipped,a
+700648,31253,74,8,2026-10-24 14:00:00,79,Bobb,Joshua King,0.917,0.336,0.0491,Goal,FromCorner,LeftFoot,TakeOn,a
+700674,31254,71,8,2026-10-24 14:00:00,82,Dewsbury-Hall,James Garner,0.895,0.528,0.0811,MissedShots,OpenPlay,Head,Cross,a
+700649,31253,74,8,2026-10-24 14:00:00,84,Grimes,,0.807,0.408,0.0334,BlockedShot,SetPiece,LeftFoot,None,h
+700650,31253,74,8,2026-10-24 14:00:00,84,van Ewijk,,0.707,0.442,0.0114,MissedShots,SetPiece,RightFoot,Rebound,h
+700675,31254,71,8,2026-10-24 14:00:00,88,Hackney,Tyrique George,0.703,0.599,0.0091,SavedShot,OpenPlay,RightFoot,Pass,a
+700676,31254,71,8,2026-10-24 14:00:00,90,Ødegaard,Bruno Guimarães,0.705,0.555,0.0148,MissedShots,OpenPlay,LeftFoot,Pass,h
+700651,31253,74,8,2026-10-24 14:00:00,94,Muniz,Kenny Tete,0.384,0.285,0.0097,MissedShots,OpenPlay,RightFoot,BallRecovery,a
+700677,31254,71,8,2026-10-24 14:00:00,94,Barry,Harrison Armstrong,0.917,0.333,0.095,BlockedShot,OpenPlay,RightFoot,Throughball,a
+700678,31254,71,8,2026-10-24 14:00:00,94,Ødegaard,Ben White,0.795,0.243,0.0161,MissedShots,OpenPlay,LeftFoot,Pass,h
+700679,31254,71,8,2026-10-24 14:00:00,97,Alcaraz,Tyler Dibling,0.868,0.415,0.0923,MissedShots,OpenPlay,RightFoot,Pass,a
+700825,31255,73,8,2026-10-24 16:30:00,3,Robertson,,0.77,0.885,0.0265,BlockedShot,DirectFreekick,LeftFoot,Standard,a
+700826,31255,73,8,2026-10-24 16:30:00,13,Palmer,Morgan Rogers,0.901,0.268,0.0409,SavedShot,OpenPlay,LeftFoot,Pass,h
+700827,31255,73,8,2026-10-24 16:30:00,19,Kudus,Mathys Tel,0.929,0.286,0.0334,MissedShots,FromCorner,LeftFoot,Cross,a
+700828,31255,73,8,2026-10-24 16:30:00,28,Marmoush,Andrew Robertson,0.888,0.543,0.3883,SavedShot,OpenPlay,RightFoot,Pass,a
+700829,31255,73,8,2026-10-24 16:30:00,30,Kudus,Mathys Tel,0.953,0.717,0.0492,SavedShot,OpenPlay,LeftFoot,Pass,a
+700830,31255,73,8,2026-10-24 16:30:00,32,Rogers,Cole Palmer,0.917,0.667,0.1213,BlockedShot,OpenPlay,LeftFoot,Throughball,h
+700831,31255,73,8,2026-10-24 16:30:00,35,Henderson,Cole Palmer,0.818,0.497,0.0609,SavedShot,OpenPlay,RightFoot,Pass,h
+700832,31255,73,8,2026-10-24 16:30:00,37,Marmoush,Sandro Tonali,0.805,0.521,0.0517,BlockedShot,OpenPlay,RightFoot,Pass,a
+700833,31255,73,8,2026-10-24 16:30:00,37,Tonali,,0.769,0.487,0.0204,MissedShots,OpenPlay,RightFoot,Rebound,a
+700834,31255,73,8,2026-10-24 16:30:00,41,Marmoush,Mateus Fernandes,0.843,0.463,0.0245,MissedShots,OpenPlay,Head,Chipped,a
+700835,31255,73,8,2026-10-24 16:30:00,43,Neto,Jorrel Hato,0.913,0.739,0.027,SavedShot,SetPiece,LeftFoot,Pass,h
+700836,31255,73,8,2026-10-24 16:30:00,54,Tel,Mateus Fernandes,0.933,0.544,0.1104,BlockedShot,FromCorner,Head,Cross,a
+700837,31255,73,8,2026-10-24 16:30:00,61,Palmer,Pedro Neto,0.855,0.352,0.0656,BlockedShot,OpenPlay,LeftFoot,Pass,h
+700838,31255,73,8,2026-10-24 16:30:00,61,Neto,,0.855,0.444,0.0704,SavedShot,OpenPlay,RightFoot,None,h
+700839,31255,73,8,2026-10-24 16:30:00,65,Gallagher,Jan Paul van Hecke,0.701,0.517,0.0112,BlockedShot,OpenPlay,RightFoot,TakeOn,a
+700840,31255,73,8,2026-10-24 16:30:00,73,Estêvão,Jordan Henderson,0.96,0.327,0.0744,MissedShots,OpenPlay,RightFoot,Pass,h
+700841,31255,73,8,2026-10-24 16:30:00,75,Fernandes,,0.719,0.552,0.0149,BlockedShot,OpenPlay,RightFoot,Dispossessed,a
+700842,31255,73,8,2026-10-24 16:30:00,76,Penders,,0.055,0.484,0.0,OwnGoal,FromCorner,OtherBodyPart,CornerAwarded,h
+700843,31255,73,8,2026-10-24 16:30:00,81,Pedro Porro,,0.744,0.433,0.0576,BlockedShot,DirectFreekick,RightFoot,Standard,a
+700844,31255,73,8,2026-10-24 16:30:00,84,Gallagher,Mohammed Kudus,0.945,0.295,0.0671,SavedShot,OpenPlay,RightFoot,Pass,a
+700845,31255,73,8,2026-10-24 16:30:00,84,Tonali,,0.834,0.402,0.0576,MissedShots,OpenPlay,RightFoot,Rebound,a
+700846,31255,73,8,2026-10-24 16:30:00,86,Tel,,0.74,0.593,0.0307,Goal,OpenPlay,RightFoot,TakeOn,a
+700847,31255,73,8,2026-10-24 16:30:00,91,Kulusevski,Pedro Porro,0.869,0.253,0.0409,BlockedShot,OpenPlay,LeftFoot,Pass,a
+701171,31258,76,8,2026-10-25 14:00:00,0,Thiago,Michael Kayode,0.91,0.467,0.0957,MissedShots,OpenPlay,Head,Cross,a
+701172,31258,76,8,2026-10-25 14:00:00,0,Van den Berg,Michael Kayode,0.913,0.552,0.0459,SavedShot,OpenPlay,Head,Aerial,a
+701293,31257,75,8,2026-10-25 14:00:00,2,Disasi,Jaydee Canvot,0.91,0.538,0.0952,BlockedShot,SetPiece,RightFoot,BallTouch,h
+701294,31257,75,8,2026-10-25 14:00:00,2,Disasi,,0.93,0.546,0.1353,BlockedShot,SetPiece,RightFoot,Rebound,h
+701295,31257,75,8,2026-10-25 14:00:00,2,Mateta,,0.959,0.498,0.7101,SavedShot,SetPiece,LeftFoot,Rebound,h
+701296,31257,75,8,2026-10-25 14:00:00,2,Mateta,,0.958,0.493,0.6288,SavedShot,SetPiece,LeftFoot,None,h
+701144,31256,79,8,2026-10-25 14:00:00,3,Evanilson,Marcus Tavernier,0.859,0.509,0.0204,MissedShots,OpenPlay,Head,CornerAwarded,a
+701145,31256,79,8,2026-10-25 14:00:00,3,Rayan,Marcus Tavernier,0.957,0.527,0.3917,MissedShots,FromCorner,Head,Aerial,a
+701297,31257,75,8,2026-10-25 14:00:00,3,Mitchell,,0.701,0.505,0.013,BlockedShot,FromCorner,LeftFoot,None,h
+701146,31256,79,8,2026-10-25 14:00:00,5,Rayan,Evanilson,0.849,0.331,0.0994,BlockedShot,OpenPlay,LeftFoot,HeadPass,a
+701173,31258,76,8,2026-10-25 14:00:00,5,Iroegbunam,Mohamed Belloumi,0.909,0.391,0.0311,MissedShots,FromCorner,Head,Cross,h
+701298,31257,75,8,2026-10-25 14:00:00,6,Kamada,Dwight McNeil,0.806,0.393,0.0668,MissedShots,OpenPlay,RightFoot,Pass,h
+701113,31252,78,8,2026-10-25 14:00:00,7,Gakpo,Alexander Isak,0.868,0.714,0.033,SavedShot,OpenPlay,RightFoot,Pass,h
+701174,31258,76,8,2026-10-25 14:00:00,7,Belloumi,,0.745,0.437,0.0586,MissedShots,DirectFreekick,LeftFoot,Standard,h
+701299,31257,75,8,2026-10-25 14:00:00,8,Osula,,0.796,0.501,0.0456,BlockedShot,OpenPlay,RightFoot,BallRecovery,a
+701175,31258,76,8,2026-10-25 14:00:00,10,Hickey,Dango Ouattara,0.755,0.466,0.0205,SavedShot,OpenPlay,RightFoot,Pass,a
+701300,31257,75,8,2026-10-25 14:00:00,11,Mateta,Yeremi Pino,0.775,0.673,0.1408,MissedShots,OpenPlay,RightFoot,Throughball,h
+701114,31252,78,8,2026-10-25 14:00:00,13,Ayari,Pascal Groß,0.884,0.456,0.3993,MissedShots,OpenPlay,RightFoot,Pass,a
+701115,31252,78,8,2026-10-25 14:00:00,16,Wirtz,,0.906,0.282,0.0481,MissedShots,OpenPlay,RightFoot,Challenge,h
+701116,31252,78,8,2026-10-25 14:00:00,16,Groß,,0.108,0.589,0.0,OwnGoal,OpenPlay,LeftFoot,None,a
+701147,31256,79,8,2026-10-25 14:00:00,17,Dalot,Mason Mount,0.864,0.747,0.0293,MissedShots,OpenPlay,LeftFoot,Pass,h
+701117,31252,78,8,2026-10-25 14:00:00,18,Gakpo,,0.888,0.702,0.063,SavedShot,OpenPlay,LeftFoot,BallRecovery,h
+701118,31252,78,8,2026-10-25 14:00:00,18,Isak,,0.859,0.356,0.0736,MissedShots,OpenPlay,RightFoot,BallRecovery,h
+701119,31252,78,8,2026-10-25 14:00:00,20,Isak,Bradley Barcola,0.948,0.447,0.5952,Goal,OpenPlay,LeftFoot,Pass,h
+701301,31257,75,8,2026-10-25 14:00:00,20,McNeil,Yeremi Pino,0.926,0.706,0.0604,MissedShots,OpenPlay,LeftFoot,Pass,h
+701176,31258,76,8,2026-10-25 14:00:00,21,Egan,Regan Slater,0.962,0.603,0.0479,MissedShots,FromCorner,Head,Cross,h
+701177,31258,76,8,2026-10-25 14:00:00,23,McBurnie,,0.885,0.5,0.7612,Goal,Penalty,RightFoot,Standard,h
+701302,31257,75,8,2026-10-25 14:00:00,24,Barnes,Jacob Murphy,0.774,0.726,0.0157,BlockedShot,SetPiece,RightFoot,Pass,a
+701303,31257,75,8,2026-10-25 14:00:00,25,Barnes,Jacob Murphy,0.854,0.683,0.0441,BlockedShot,OpenPlay,RightFoot,Pass,a
+701120,31252,78,8,2026-10-25 14:00:00,26,Isak,Cody Gakpo,0.889,0.283,0.0984,BlockedShot,OpenPlay,LeftFoot,Pass,h
+701121,31252,78,8,2026-10-25 14:00:00,27,Kostoulas,Costinha,0.918,0.476,0.1311,BlockedShot,OpenPlay,RightFoot,Pass,a
+701148,31256,79,8,2026-10-25 14:00:00,28,Evanilson,Justin Kluivert,0.924,0.526,0.1264,MissedShots,OpenPlay,Head,Cross,a
+701304,31257,75,8,2026-10-25 14:00:00,29,Burn,Lewis Hall,0.973,0.402,0.0654,MissedShots,SetPiece,Head,Cross,a
+701122,31252,78,8,2026-10-25 14:00:00,32,Mac Allister,Florian Wirtz,0.943,0.65,0.0138,MissedShots,FromCorner,Head,Cross,h
+701123,31252,78,8,2026-10-25 14:00:00,35,Ayari,Maxim De Cuyper,0.734,0.549,0.0174,ShotOnPost,OpenPlay,RightFoot,Pass,a
+701178,31258,76,8,2026-10-25 14:00:00,35,O.Dango,Michael Kayode,0.88,0.291,0.0354,BlockedShot,OpenPlay,LeftFoot,Pass,a
+701124,31252,78,8,2026-10-25 14:00:00,36,Chema Andres,Pascal Groß,0.866,0.481,0.0296,MissedShots,OpenPlay,Head,Cross,a
+701149,31256,79,8,2026-10-25 14:00:00,37,Rayan,Justin Kluivert,0.925,0.634,0.1789,Goal,SetPiece,LeftFoot,Cross,a
+701150,31256,79,8,2026-10-25 14:00:00,39,Mbeumo,Mason Mount,0.904,0.654,0.1149,SavedShot,OpenPlay,LeftFoot,Pass,h
+701125,31252,78,8,2026-10-25 14:00:00,40,Gakpo,Alexander Isak,0.799,0.46,0.0537,MissedShots,OpenPlay,RightFoot,BallRecovery,h
+701126,31252,78,8,2026-10-25 14:00:00,42,Araujo,Alexis Mac Allister,0.914,0.264,0.0577,SavedShot,OpenPlay,LeftFoot,Pass,h
+701151,31256,79,8,2026-10-25 14:00:00,42,Tavernier,Adrien Truffert,0.924,0.512,0.5505,Goal,OpenPlay,LeftFoot,Pass,a
+701179,31258,76,8,2026-10-25 14:00:00,43,Schade,Dango Ouattara,0.902,0.572,0.1011,BlockedShot,OpenPlay,RightFoot,Pass,a
+701127,31252,78,8,2026-10-25 14:00:00,45,Boscagli,,0.822,0.601,0.0343,MissedShots,OpenPlay,LeftFoot,None,a
+701128,31252,78,8,2026-10-25 14:00:00,45,Kostoulas,Diego Gómez,0.873,0.265,0.0316,SavedShot,OpenPlay,RightFoot,Pass,a
+701129,31252,78,8,2026-10-25 14:00:00,46,Gomez,Pascal Groß,0.868,0.388,0.0721,MissedShots,OpenPlay,RightFoot,Pass,a
+701130,31252,78,8,2026-10-25 14:00:00,46,Kostoulas,Diego Gómez,0.928,0.484,0.1094,BlockedShot,OpenPlay,RightFoot,End,a
+701152,31256,79,8,2026-10-25 14:00:00,46,Baleba,,0.758,0.506,0.0229,MissedShots,OpenPlay,LeftFoot,BallTouch,h
+701180,31258,76,8,2026-10-25 14:00:00,46,Van den Berg,Michael Kayode,0.925,0.439,0.052,SavedShot,OpenPlay,Head,Pass,a
+701305,31257,75,8,2026-10-25 14:00:00,46,Osula,Jacob Murphy,0.943,0.462,0.508,Goal,OpenPlay,LeftFoot,Cross,a
+701131,31252,78,8,2026-10-25 14:00:00,47,Vuskovic,Maxim De Cuyper,0.924,0.538,0.0975,MissedShots,FromCorner,Head,Cross,a
+701153,31256,79,8,2026-10-25 14:00:00,49,Rayan,Justin Kluivert,0.907,0.342,0.2493,SavedShot,OpenPlay,LeftFoot,Pass,a
+701181,31258,76,8,2026-10-25 14:00:00,51,Belloumi,,0.952,0.679,0.1196,BlockedShot,OpenPlay,RightFoot,TakeOn,h
+701154,31256,79,8,2026-10-25 14:00:00,53,Evanilson,Tyler Adams,0.922,0.696,0.0952,MissedShots,OpenPlay,LeftFoot,Chipped,a
+701306,31257,75,8,2026-10-25 14:00:00,53,Barnes,Joe Willock,0.877,0.409,0.3675,BlockedShot,OpenPlay,RightFoot,BallTouch,a
+701132,31252,78,8,2026-10-25 14:00:00,56,Gakpo,Florian Wirtz,0.952,0.603,0.0497,BlockedShot,FromCorner,Head,Cross,h
+701155,31256,79,8,2026-10-25 14:00:00,56,Cunha,Amad Diallo Traore,0.813,0.326,0.0335,MissedShots,OpenPlay,LeftFoot,Pass,h
+701307,31257,75,8,2026-10-25 14:00:00,56,Joelinton,Jacob Murphy,0.92,0.471,0.0422,MissedShots,FromCorner,Head,Aerial,a
+701182,31258,76,8,2026-10-25 14:00:00,57,Jensen,,0.845,0.766,0.0197,BlockedShot,OpenPlay,RightFoot,Tackle,a
+701308,31257,75,8,2026-10-25 14:00:00,57,Barnes,Amar Dedic,0.872,0.484,0.123,Goal,OpenPlay,RightFoot,Pass,a
+701156,31256,79,8,2026-10-25 14:00:00,59,Mbeumo,Leny Yoro,0.88,0.345,0.0918,MissedShots,OpenPlay,RightFoot,Throughball,h
+701133,31252,78,8,2026-10-25 14:00:00,60,Vuskovic,,0.764,0.58,0.0709,MissedShots,DirectFreekick,RightFoot,Standard,a
+701134,31252,78,8,2026-10-25 14:00:00,61,Costinha,Diego Gómez,0.842,0.397,0.0614,BlockedShot,OpenPlay,RightFoot,Pass,a
+701183,31258,76,8,2026-10-25 14:00:00,62,Damsgaard,Jaidon Anthony,0.923,0.558,0.0871,MissedShots,OpenPlay,Head,Cross,a
+701184,31258,76,8,2026-10-25 14:00:00,62,O.Dango,Thiago,0.981,0.474,0.9351,Goal,OpenPlay,RightFoot,Pass,a
+701309,31257,75,8,2026-10-25 14:00:00,62,Wharton,Darío Osorio,0.809,0.285,0.0217,SavedShot,OpenPlay,LeftFoot,Pass,h
+701185,31258,76,8,2026-10-25 14:00:00,64,Belloumi,,0.96,0.643,0.0972,MissedShots,OpenPlay,LeftFoot,TakeOn,h
+701135,31252,78,8,2026-10-25 14:00:00,65,Ayari,,0.746,0.517,0.0267,MissedShots,OpenPlay,RightFoot,TakeOn,a
+701157,31256,79,8,2026-10-25 14:00:00,65,Rayan,Marcus Tavernier,0.906,0.357,0.4566,MissedShots,OpenPlay,RightFoot,TakeOn,a
+701310,31257,75,8,2026-10-25 14:00:00,65,Joelinton,Fabian Schär,0.868,0.335,0.0486,MissedShots,SetPiece,RightFoot,Pass,a
+701136,31252,78,8,2026-10-25 14:00:00,66,Gakpo,Alexander Isak,0.883,0.576,0.1346,BlockedShot,OpenPlay,RightFoot,Pass,h
+701158,31256,79,8,2026-10-25 14:00:00,67,Martinez,Matheus Cunha,0.722,0.621,0.0111,SavedShot,OpenPlay,LeftFoot,Pass,h
+701186,31258,76,8,2026-10-25 14:00:00,67,Anthony,,0.759,0.496,0.023,MissedShots,OpenPlay,LeftFoot,None,a
+701311,31257,75,8,2026-10-25 14:00:00,67,Barnes,Joelinton,0.771,0.453,0.0374,MissedShots,OpenPlay,RightFoot,Pass,a
+701187,31258,76,8,2026-10-25 14:00:00,69,Slater,Oliver McBurnie,0.711,0.526,0.0142,MissedShots,OpenPlay,RightFoot,Pass,h
+701159,31256,79,8,2026-10-25 14:00:00,70,Evanilson,Lewis Cook,0.923,0.188,0.3942,Goal,OpenPlay,RightFoot,TakeOn,a
+701188,31258,76,8,2026-10-25 14:00:00,70,Cho,Elliot Stroud,0.907,0.619,0.0977,SavedShot,OpenPlay,RightFoot,Pass,h
+701189,31258,76,8,2026-10-25 14:00:00,70,Slater,Mohamed Ali-Cho,0.786,0.697,0.0175,BlockedShot,OpenPlay,RightFoot,Pass,h
+701312,31257,75,8,2026-10-25 14:00:00,70,Osorio,Tyrick Mitchell,0.773,0.736,0.0264,SavedShot,FromCorner,LeftFoot,Pass,h
+701313,31257,75,8,2026-10-25 14:00:00,70,Richards,Adam Wharton,0.909,0.568,0.0532,MissedShots,FromCorner,Head,Cross,h
+701314,31257,75,8,2026-10-25 14:00:00,71,Disasi,,0.91,0.51,0.0463,MissedShots,FromCorner,Head,None,h
+701137,31252,78,8,2026-10-25 14:00:00,72,Barcola,Cody Gakpo,0.777,0.473,0.046,MissedShots,OpenPlay,LeftFoot,Pass,h
+701160,31256,79,8,2026-10-25 14:00:00,72,Cunha,Lisandro Martínez,0.96,0.501,0.1231,BlockedShot,FromCorner,Head,Chipped,h
+701161,31256,79,8,2026-10-25 14:00:00,72,Mount,,0.907,0.705,0.019,MissedShots,FromCorner,RightFoot,Aerial,h
+701190,31258,76,8,2026-10-25 14:00:00,73,Anthony,Dango Ouattara,0.934,0.549,0.0643,SavedShot,OpenPlay,Head,Aerial,a
+701191,31258,76,8,2026-10-25 14:00:00,74,O.Dango,Mikkel Damsgaard,0.802,0.301,0.0256,BlockedShot,OpenPlay,LeftFoot,Pass,a
+701192,31258,76,8,2026-10-25 14:00:00,74,O.Dango,Mathias Jensen,0.919,0.627,0.1554,SavedShot,FromCorner,Head,Cross,a
+701162,31256,79,8,2026-10-25 14:00:00,76,Amad,Joshua Zirkzee,0.771,0.406,0.0237,BlockedShot,OpenPlay,LeftFoot,LayOff,h
+701193,31258,76,8,2026-10-25 14:00:00,77,Belloumi,Semi Ajayi,0.732,0.549,0.0916,MissedShots,OpenPlay,LeftFoot,TakeOn,h
+701138,31252,78,8,2026-10-25 14:00:00,82,Kostoulas,Georginio Rutter,0.955,0.598,0.1226,MissedShots,OpenPlay,RightFoot,Pass,a
+701139,31252,78,8,2026-10-25 14:00:00,84,Gakpo,Milos Kerkez,0.712,0.569,0.0148,MissedShots,OpenPlay,RightFoot,Pass,h
+701163,31256,79,8,2026-10-25 14:00:00,84,Andrey Santos,,0.976,0.572,0.0943,BlockedShot,OpenPlay,Head,None,h
+701164,31256,79,8,2026-10-25 14:00:00,84,Yoro,Mason Mount,0.941,0.533,0.1198,MissedShots,FromCorner,Head,Cross,h
+701165,31256,79,8,2026-10-25 14:00:00,84,Lacey,,0.822,0.267,0.0194,BlockedShot,FromCorner,LeftFoot,Dispossessed,h
+701166,31256,79,8,2026-10-25 14:00:00,84,Yoro,Senne Lammens,0.872,0.458,0.0577,BlockedShot,FromCorner,RightFoot,Pass,h
+701315,31257,75,8,2026-10-25 14:00:00,84,Osorio,Yeremi Pino,0.818,0.534,0.115,MissedShots,OpenPlay,LeftFoot,Pass,h
+701140,31252,78,8,2026-10-25 14:00:00,86,De Cuyper,,0.818,0.154,0.0369,MissedShots,DirectFreekick,LeftFoot,Standard,a
+701167,31256,79,8,2026-10-25 14:00:00,88,Zirkzee,,0.78,0.503,0.0333,BlockedShot,OpenPlay,RightFoot,BallTouch,h
+701194,31258,76,8,2026-10-25 14:00:00,88,Gelhardt,Mohamed Ali-Cho,0.933,0.508,0.581,MissedShots,OpenPlay,LeftFoot,Pass,h
+701316,31257,75,8,2026-10-25 14:00:00,88,Osorio,,0.842,0.364,0.0193,MissedShots,FromCorner,LeftFoot,Aerial,h
+701141,31252,78,8,2026-10-25 14:00:00,89,Gomez,Charalampos Kostoulas,0.821,0.34,0.0243,BlockedShot,OpenPlay,RightFoot,Chipped,a
+701195,31258,76,8,2026-10-25 14:00:00,89,Wilson,Mikkel Damsgaard,0.862,0.671,0.0464,BlockedShot,OpenPlay,LeftFoot,Pass,a
+701317,31257,75,8,2026-10-25 14:00:00,90,Yeremy,Darío Osorio,0.766,0.542,0.0292,BlockedShot,OpenPlay,RightFoot,Pass,h
+701142,31252,78,8,2026-10-25 14:00:00,91,Georginio,Maxim De Cuyper,0.909,0.739,0.034,BlockedShot,OpenPlay,RightFoot,Pass,a
+701168,31256,79,8,2026-10-25 14:00:00,92,Lacey,Diogo Dalot,0.758,0.484,0.0244,BlockedShot,OpenPlay,RightFoot,Pass,h
+701169,31256,79,8,2026-10-25 14:00:00,92,Mount,Bryan Mbeumo,0.756,0.269,0.0093,MissedShots,OpenPlay,RightFoot,Pass,h
+701196,31258,76,8,2026-10-25 14:00:00,92,Gelhardt,Brooke Norton-Cuffy,0.784,0.336,0.0198,MissedShots,OpenPlay,LeftFoot,Pass,h
+701318,31257,75,8,2026-10-25 14:00:00,92,Disasi,,0.758,0.481,0.0164,BlockedShot,OpenPlay,RightFoot,None,h
+701143,31252,78,8,2026-10-25 14:00:00,94,De Cuyper,Pascal Groß,0.747,0.299,0.0147,BlockedShot,SetPiece,LeftFoot,Pass,a
+701170,31256,79,8,2026-10-25 14:00:00,94,Mount,Andrey Santos,0.764,0.59,0.0163,SavedShot,OpenPlay,RightFoot,Pass,h
+701319,31257,75,8,2026-10-25 14:00:00,98,Nketiah,Yeremi Pino,0.907,0.441,0.0186,MissedShots,FromCorner,Head,Aerial,h
+701518,31259,80,8,2026-10-25 16:30:00,2,Bogle,Ao Tanaka,0.799,0.415,0.0535,MissedShots,OpenPlay,RightFoot,TakeOn,a
+701519,31259,80,8,2026-10-25 16:30:00,5,Bijol,Harry Wilson,0.857,0.506,0.0244,BlockedShot,SetPiece,Head,Cross,a
+701520,31259,80,8,2026-10-25 16:30:00,6,Brobbey,Enzo Le Fée,0.813,0.523,0.061,SavedShot,OpenPlay,RightFoot,Pass,h
+701521,31259,80,8,2026-10-25 16:30:00,7,O'Nien,Enzo Le Fée,0.935,0.591,0.0587,MissedShots,FromCorner,Head,Cross,h
+701522,31259,80,8,2026-10-25 16:30:00,12,Mukiele,Noah Sadiki,0.675,0.424,0.0083,MissedShots,OpenPlay,RightFoot,LayOff,h
+701523,31259,80,8,2026-10-25 16:30:00,25,Brobbey,,0.866,0.637,0.3176,SavedShot,OpenPlay,RightFoot,BallRecovery,h
+701524,31259,80,8,2026-10-25 16:30:00,29,E.Le Fée,,0.879,0.84,0.0495,BlockedShot,DirectFreekick,RightFoot,Standard,h
+701525,31259,80,8,2026-10-25 16:30:00,30,Rigg,Noah Sadiki,0.826,0.311,0.0335,BlockedShot,OpenPlay,LeftFoot,Pass,h
+701526,31259,80,8,2026-10-25 16:30:00,50,Gudmundsson,,0.874,0.675,0.0496,MissedShots,OpenPlay,RightFoot,None,a
+701527,31259,80,8,2026-10-25 16:30:00,55,Muharemović,Harry Wilson,0.94,0.57,0.2687,SavedShot,FromCorner,Head,Cross,a
+701528,31259,80,8,2026-10-25 16:30:00,57,E.Le Fée,Chris Rigg,0.785,0.466,0.0283,BlockedShot,OpenPlay,RightFoot,Pass,h
+701529,31259,80,8,2026-10-25 16:30:00,57,N.Angulo,,0.775,0.632,0.0343,SavedShot,OpenPlay,RightFoot,TakeOn,h
+701530,31259,80,8,2026-10-25 16:30:00,59,Rigg,Granit Xhaka,0.858,0.307,0.0417,BlockedShot,OpenPlay,LeftFoot,Pass,h
+701531,31259,80,8,2026-10-25 16:30:00,59,Bogle,Brenden Aaronson,0.862,0.363,0.0633,BlockedShot,OpenPlay,RightFoot,BallRecovery,a
+701532,31259,80,8,2026-10-25 16:30:00,59,Justin,Brenden Aaronson,0.778,0.231,0.0122,MissedShots,OpenPlay,LeftFoot,Pass,a
+701533,31259,80,8,2026-10-25 16:30:00,61,N.Angulo,Enzo Le Fée,0.807,0.513,0.0455,SavedShot,OpenPlay,RightFoot,Pass,h
+701534,31259,80,8,2026-10-25 16:30:00,63,O'Nien,Enzo Le Fée,0.907,0.538,0.1028,MissedShots,SetPiece,Head,Cross,h
+701535,31259,80,8,2026-10-25 16:30:00,71,O'Nien,,0.961,0.4,0.094,MissedShots,FromCorner,LeftFoot,None,h
+701536,31259,80,8,2026-10-25 16:30:00,71,N.Angulo,Luke O&#039;Nien,0.912,0.61,0.0832,BlockedShot,FromCorner,RightFoot,Rebound,h
+701537,31259,80,8,2026-10-25 16:30:00,75,Tanaka,Jayden Bogle,0.807,0.56,0.0507,SavedShot,OpenPlay,LeftFoot,Pass,a
+701538,31259,80,8,2026-10-25 16:30:00,79,Talbi,,0.839,0.546,0.0618,BlockedShot,OpenPlay,RightFoot,None,h
+701539,31259,80,8,2026-10-25 16:30:00,82,Tutierov,Granit Xhaka,0.847,0.484,0.0109,BlockedShot,OpenPlay,Head,Aerial,h
+701540,31259,80,8,2026-10-25 16:30:00,89,Longstaff,Ethan Ampadu,0.744,0.552,0.024,SavedShot,OpenPlay,LeftFoot,Pass,a
+701541,31259,80,8,2026-10-25 16:30:00,90,Okafor,,0.862,0.602,0.0547,BlockedShot,FromCorner,RightFoot,None,a
+701542,31259,80,8,2026-10-25 16:30:00,93,Longstaff,Noah Okafor,0.897,0.538,0.4154,BlockedShot,OpenPlay,LeftFoot,Pass,a
+701543,31259,80,8,2026-10-25 16:30:00,94,Okafor,James Justin,0.9,0.651,0.0485,MissedShots,OpenPlay,RightFoot,Cross,a

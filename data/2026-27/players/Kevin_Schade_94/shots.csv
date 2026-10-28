@@ -16,3 +16,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 697312,31231,52,6,2026-10-10 14:00:00,16,94,Schade,,0.912,0.512,0.056,MissedShots,OpenPlay,Head,Aerial,a
 697318,31231,52,6,2026-10-10 14:00:00,46,94,Schade,Thiago,0.887,0.688,0.0544,MissedShots,OpenPlay,LeftFoot,BallTouch,a
 697321,31231,52,6,2026-10-10 14:00:00,48,94,Schade,Thiago,0.858,0.592,0.1111,SavedShot,OpenPlay,RightFoot,HeadPass,a
+701179,31258,76,8,2026-10-25 14:00:00,43,94,Schade,Dango Ouattara,0.902,0.572,0.1011,BlockedShot,OpenPlay,RightFoot,Pass,a

@@ -1,1 +1,5 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+701293,31257,75,8,2026-10-25 14:00:00,2,153,Disasi,Jaydee Canvot,0.91,0.538,0.0952,BlockedShot,SetPiece,RightFoot,BallTouch,h
+701294,31257,75,8,2026-10-25 14:00:00,2,153,Disasi,,0.93,0.546,0.1353,BlockedShot,SetPiece,RightFoot,Rebound,h
+701314,31257,75,8,2026-10-25 14:00:00,71,153,Disasi,,0.91,0.51,0.0463,MissedShots,FromCorner,Head,None,h
+701318,31257,75,8,2026-10-25 14:00:00,92,153,Disasi,,0.758,0.481,0.0164,BlockedShot,OpenPlay,RightFoot,None,h

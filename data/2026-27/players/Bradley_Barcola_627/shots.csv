@@ -6,3 +6,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 699001,31242,62,7,2026-10-17 14:00:00,36,627,Barcola,Florian Wirtz,0.806,0.582,0.0454,MissedShots,OpenPlay,RightFoot,Pass,a
 699015,31242,62,7,2026-10-17 14:00:00,65,627,Barcola,Florian Wirtz,0.866,0.493,0.0916,MissedShots,OpenPlay,RightFoot,BallTouch,a
 699021,31242,62,7,2026-10-17 14:00:00,78,627,Barcola,,0.872,0.684,0.0337,ShotOnPost,FromCorner,RightFoot,None,a
+701137,31252,78,8,2026-10-25 14:00:00,72,627,Barcola,Cody Gakpo,0.777,0.473,0.046,MissedShots,OpenPlay,LeftFoot,Pass,h

@@ -8,3 +8,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 698527,31239,54,6,2026-10-12 19:00:00,5,183,Rudoni,,0.885,0.5,0.7612,Goal,Penalty,LeftFoot,Standard,h
 700139,31249,70,7,2026-10-19 19:00:00,48,183,Rudoni,Caleb Yirenkyi,0.94,0.745,0.0678,MissedShots,OpenPlay,RightFoot,Pass,a
 700140,31249,70,7,2026-10-19 19:00:00,48,183,Rudoni,Brandon Thomas-Asante,0.961,0.605,0.5622,Goal,OpenPlay,RightFoot,BallTouch,a
+700641,31253,74,8,2026-10-24 14:00:00,51,183,Rudoni,,0.786,0.285,0.0556,BlockedShot,DirectFreekick,LeftFoot,Standard,h

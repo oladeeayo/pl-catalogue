@@ -7,3 +7,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 697116,31230,51,6,2026-10-10 11:30:00,52,345,Tanaka,Ethan Ampadu,0.781,0.54,0.0349,SavedShot,OpenPlay,RightFoot,Pass,a
 699512,31247,66,7,2026-10-18 13:00:00,36,345,Tanaka,Dominic Calvert-Lewin,0.769,0.434,0.0117,SavedShot,OpenPlay,RightFoot,Aerial,h
 699518,31247,66,7,2026-10-18 13:00:00,55,345,Tanaka,,0.811,0.617,0.0402,MissedShots,OpenPlay,RightFoot,None,h
+701537,31259,80,8,2026-10-25 16:30:00,75,345,Tanaka,Jayden Bogle,0.807,0.56,0.0507,SavedShot,OpenPlay,LeftFoot,Pass,a

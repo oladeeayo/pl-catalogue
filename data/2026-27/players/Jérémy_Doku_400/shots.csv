@@ -3,3 +3,6 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 698258,31238,58,6,2026-10-11 15:30:00,64,400,Doku,Enzo Fernández,0.875,0.706,0.0415,BlockedShot,OpenPlay,RightFoot,Pass,a
 698260,31238,58,6,2026-10-11 15:30:00,67,400,Doku,Elliot Anderson,0.838,0.652,0.0569,Goal,OpenPlay,RightFoot,Chipped,a
 699034,31243,67,7,2026-10-17 14:00:00,39,400,Doku,,0.858,0.544,0.0863,BlockedShot,OpenPlay,LeftFoot,Rebound,h
+700399,31251,72,8,2026-10-24 11:30:00,35,400,Doku,Elliot Anderson,0.868,0.687,0.0473,BlockedShot,OpenPlay,RightFoot,Pass,a
+700404,31251,72,8,2026-10-24 11:30:00,58,400,Doku,Elliot Anderson,0.806,0.583,0.0996,MissedShots,OpenPlay,RightFoot,Chipped,a
+700410,31251,72,8,2026-10-24 11:30:00,88,400,Doku,Ryan McAidoo,0.903,0.652,0.0502,MissedShots,OpenPlay,RightFoot,Cross,a

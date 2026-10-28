@@ -16,3 +16,6 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 696434,31228,49,5,2026-09-20 13:00:00,69,379,Isak,Cody Gakpo,0.865,0.481,0.1394,BlockedShot,OpenPlay,RightFoot,Throughball,a
 698998,31242,62,7,2026-10-17 14:00:00,22,379,Isak,Alexis Mac Allister,0.919,0.538,0.0627,MissedShots,OpenPlay,Head,Aerial,a
 699017,31242,62,7,2026-10-17 14:00:00,69,379,Isak,Bradley Barcola,0.945,0.551,0.1323,Goal,OpenPlay,LeftFoot,HeadPass,a
+701118,31252,78,8,2026-10-25 14:00:00,18,379,Isak,,0.859,0.356,0.0736,MissedShots,OpenPlay,RightFoot,BallRecovery,h
+701119,31252,78,8,2026-10-25 14:00:00,20,379,Isak,Bradley Barcola,0.948,0.447,0.5952,Goal,OpenPlay,LeftFoot,Pass,h
+701120,31252,78,8,2026-10-25 14:00:00,26,379,Isak,Cody Gakpo,0.889,0.283,0.0984,BlockedShot,OpenPlay,LeftFoot,Pass,h

@@ -5,3 +5,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 692386,31204,24,3,2026-09-05 14:00:00,53,204,Mitchell,Daichi Kamada,0.862,0.663,0.0385,BlockedShot,OpenPlay,LeftFoot,Chipped,a
 692388,31204,24,3,2026-09-05 14:00:00,53,204,Mitchell,,0.891,0.583,0.354,Goal,OpenPlay,LeftFoot,Rebound,a
 697940,31236,55,6,2026-10-11 13:00:00,47,204,Mitchell,Yeremi Pino,0.756,0.582,0.017,SavedShot,OpenPlay,LeftFoot,HeadPass,h
+701297,31257,75,8,2026-10-25 14:00:00,3,204,Mitchell,,0.701,0.505,0.013,BlockedShot,FromCorner,LeftFoot,None,h

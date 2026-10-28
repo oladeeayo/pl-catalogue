@@ -6,3 +6,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 692351,31203,28,3,2026-09-05 14:00:00,45,499,Pedro Porro,,0.749,0.338,0.0136,BlockedShot,OpenPlay,RightFoot,None,a
 692361,31203,28,3,2026-09-05 14:00:00,80,499,Pedro Porro,Jan Paul van Hecke,0.529,0.068,0.0062,MissedShots,OpenPlay,RightFoot,Pass,a
 695663,31221,48,5,2026-09-19 11:30:00,10,499,Pedro Porro,,0.722,0.376,0.0134,MissedShots,FromCorner,RightFoot,None,h
+700843,31255,73,8,2026-10-24 16:30:00,81,499,Pedro Porro,,0.744,0.433,0.0576,BlockedShot,DirectFreekick,RightFoot,Standard,a

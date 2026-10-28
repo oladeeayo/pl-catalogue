@@ -18,3 +18,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 697370,31233,57,6,2026-10-10 14:00:00,52,569,Gonzalo,Joshua King,0.905,0.52,0.4456,BlockedShot,OpenPlay,RightFoot,Pass,a
 697374,31233,57,6,2026-10-10 14:00:00,59,569,Gonzalo,Alex Iwobi,0.882,0.481,0.2157,SavedShot,OpenPlay,Head,Cross,a
 699068,31241,65,7,2026-10-17 14:00:00,73,569,Gonzalo,Alex Iwobi,0.952,0.458,0.5394,ShotOnPost,OpenPlay,Head,Cross,h
+700630,31253,74,8,2026-10-24 14:00:00,12,569,Gonzalo,Oscar Bobb,0.929,0.342,0.0808,BlockedShot,OpenPlay,RightFoot,Pass,a
+700637,31253,74,8,2026-10-24 14:00:00,22,569,Gonzalo,Joshua King,0.842,0.528,0.0929,BlockedShot,OpenPlay,RightFoot,Pass,a

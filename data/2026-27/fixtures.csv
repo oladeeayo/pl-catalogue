@@ -69,16 +69,16 @@ fixture_id,gw,kickoff_time,home_team,away_team,home_score,away_score,finished,st
 68,7,2026-10-17T16:30:00Z,Newcastle,Aston Villa,0.0,1.0,1,1,3,3,31244
 69,7,2026-10-18T15:30:00Z,Nott'm Forest,Arsenal,0.0,1.0,1,1,4,3,31248
 70,7,2026-10-19T19:00:00Z,Spurs,Coventry City,3.0,1.0,1,1,2,3,31249
-71,8,2026-10-24T14:00:00Z,Arsenal,Everton,,,0,0,3,5,31254
-72,8,2026-10-24T11:30:00Z,Aston Villa,Man City,,,0,0,4,3,31251
-73,8,2026-10-24T16:30:00Z,Chelsea,Spurs,,,0,0,2,4,31255
-74,8,2026-10-24T14:00:00Z,Coventry City,Fulham,,,0,0,2,2,31253
-75,8,2026-10-25T14:00:00Z,Crystal Palace,Newcastle,,,0,0,3,3,31257
-76,8,2026-10-25T14:00:00Z,Hull City,Brentford,,,0,0,3,2,31258
-77,8,2026-10-23T19:00:00Z,Ipswich Town,Nott'm Forest,,,0,0,3,2,31250
-78,8,2026-10-25T14:00:00Z,Liverpool,Brighton,,,0,0,3,4,31252
-79,8,2026-10-25T14:00:00Z,Man Utd,Bournemouth,,,0,0,3,4,31256
-80,8,2026-10-25T16:30:00Z,Sunderland,Leeds,,,0,0,3,3,31259
+71,8,2026-10-24T14:00:00Z,Arsenal,Everton,2.0,0.0,1,1,3,5,31254
+72,8,2026-10-24T11:30:00Z,Aston Villa,Man City,2.0,1.0,1,1,4,3,31251
+73,8,2026-10-24T16:30:00Z,Chelsea,Spurs,0.0,2.0,1,1,2,4,31255
+74,8,2026-10-24T14:00:00Z,Coventry City,Fulham,0.0,1.0,1,1,2,2,31253
+75,8,2026-10-25T14:00:00Z,Crystal Palace,Newcastle,0.0,2.0,1,1,3,3,31257
+76,8,2026-10-25T14:00:00Z,Hull City,Brentford,1.0,1.0,1,1,3,2,31258
+77,8,2026-10-23T19:00:00Z,Ipswich Town,Nott'm Forest,1.0,1.0,1,1,3,2,31250
+78,8,2026-10-25T14:00:00Z,Liverpool,Brighton,2.0,0.0,1,1,3,4,31252
+79,8,2026-10-25T14:00:00Z,Man Utd,Bournemouth,0.0,3.0,1,1,3,4,31256
+80,8,2026-10-25T16:30:00Z,Sunderland,Leeds,0.0,0.0,1,1,3,3,31259
 81,9,2026-10-31T20:00:00Z,Aston Villa,Fulham,,,0,0,2,3,31267
 82,9,2026-10-31T15:00:00Z,Bournemouth,Leeds,,,0,0,3,3,31264
 83,9,2026-10-31T15:00:00Z,Brentford,Nott'm Forest,,,0,0,3,3,31265

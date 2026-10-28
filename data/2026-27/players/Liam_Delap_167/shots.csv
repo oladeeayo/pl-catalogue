@@ -17,3 +17,6 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 699905,31248,69,7,2026-10-18 15:30:00,52,167,Delap,Jair,0.849,0.246,0.0269,BlockedShot,OpenPlay,RightFoot,Pass,h
 699909,31248,69,7,2026-10-18 15:30:00,68,167,Delap,Xaver Schlager,0.743,0.476,0.0437,SavedShot,OpenPlay,LeftFoot,Pass,h
 699916,31248,69,7,2026-10-18 15:30:00,92,167,Delap,Murillo,0.881,0.642,0.0893,BlockedShot,OpenPlay,LeftFoot,Pass,h
+700331,31250,77,8,2026-10-23 19:00:00,7,167,Delap,Morgan Gibbs-White,0.883,0.355,0.0816,MissedShots,OpenPlay,RightFoot,Pass,a
+700347,31250,77,8,2026-10-23 19:00:00,72,167,Delap,,0.945,0.497,0.4744,MissedShots,OpenPlay,Head,None,a
+700348,31250,77,8,2026-10-23 19:00:00,73,167,Delap,Morgan Gibbs-White,0.786,0.428,0.0755,MissedShots,OpenPlay,RightFoot,BallRecovery,a

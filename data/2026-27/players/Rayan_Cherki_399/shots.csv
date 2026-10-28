@@ -13,3 +13,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 698264,31238,58,6,2026-10-11 15:30:00,77,399,Cherki,Josko Gvardiol,0.956,0.526,0.7523,Goal,OpenPlay,RightFoot,TakeOn,a
 698266,31238,58,6,2026-10-11 15:30:00,88,399,Cherki,Ayyoub Bouaddi,0.813,0.563,0.0794,BlockedShot,OpenPlay,LeftFoot,Pass,a
 698268,31238,58,6,2026-10-11 15:30:00,92,399,Cherki,Ayyoub Bouaddi,0.855,0.264,0.0423,BlockedShot,OpenPlay,LeftFoot,Pass,a
+700395,31251,72,8,2026-10-24 11:30:00,20,399,Cherki,Jéremy Doku,0.89,0.566,0.3948,SavedShot,OpenPlay,LeftFoot,Pass,a

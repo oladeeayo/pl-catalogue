@@ -20,3 +20,8 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 699569,31246,61,7,2026-10-18 13:00:00,45,67,Rayan,,0.909,0.292,0.0624,MissedShots,OpenPlay,RightFoot,None,h
 699575,31246,61,7,2026-10-18 13:00:00,60,67,Rayan,Ryan Christie,0.867,0.374,0.119,BlockedShot,OpenPlay,LeftFoot,Pass,h
 699583,31246,61,7,2026-10-18 13:00:00,85,67,Rayan,,0.795,0.332,0.0253,BlockedShot,OpenPlay,LeftFoot,None,h
+701145,31256,79,8,2026-10-25 14:00:00,3,67,Rayan,Marcus Tavernier,0.957,0.527,0.3917,MissedShots,FromCorner,Head,Aerial,a
+701146,31256,79,8,2026-10-25 14:00:00,5,67,Rayan,Evanilson,0.849,0.331,0.0994,BlockedShot,OpenPlay,LeftFoot,HeadPass,a
+701149,31256,79,8,2026-10-25 14:00:00,37,67,Rayan,Justin Kluivert,0.925,0.634,0.1789,Goal,SetPiece,LeftFoot,Cross,a
+701153,31256,79,8,2026-10-25 14:00:00,49,67,Rayan,Justin Kluivert,0.907,0.342,0.2493,SavedShot,OpenPlay,LeftFoot,Pass,a
+701157,31256,79,8,2026-10-25 14:00:00,65,67,Rayan,Marcus Tavernier,0.906,0.357,0.4566,MissedShots,OpenPlay,RightFoot,TakeOn,a

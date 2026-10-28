@@ -1,2 +1,5 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
 688618,31183,5,1,2026-08-22 14:00:00,28,539,O'Nien,Trai Hume,0.716,0.497,0.0212,BlockedShot,FromCorner,LeftFoot,Pass,a
+701521,31259,80,8,2026-10-25 16:30:00,7,539,O'Nien,Enzo Le Fée,0.935,0.591,0.0587,MissedShots,FromCorner,Head,Cross,h
+701534,31259,80,8,2026-10-25 16:30:00,63,539,O'Nien,Enzo Le Fée,0.907,0.538,0.1028,MissedShots,SetPiece,Head,Cross,h
+701535,31259,80,8,2026-10-25 16:30:00,71,539,O'Nien,,0.961,0.4,0.094,MissedShots,FromCorner,LeftFoot,None,h

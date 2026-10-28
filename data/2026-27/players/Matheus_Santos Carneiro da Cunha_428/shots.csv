@@ -14,3 +14,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 696689,31229,50,5,2026-09-20 15:30:00,88,428,Cunha,Patrick Dorgu,0.752,0.708,0.0157,Goal,OpenPlay,RightFoot,Pass,a
 697642,31235,59,6,2026-10-10 16:30:00,89,428,Cunha,Diogo Dalot,0.866,0.455,0.1114,BlockedShot,OpenPlay,RightFoot,Pass,h
 699531,31247,66,7,2026-10-18 13:00:00,93,428,Cunha,Mason Mount,0.752,0.336,0.0195,BlockedShot,OpenPlay,RightFoot,Pass,a
+701155,31256,79,8,2026-10-25 14:00:00,56,428,Cunha,Amad Diallo Traore,0.813,0.326,0.0335,MissedShots,OpenPlay,LeftFoot,Pass,h
+701160,31256,79,8,2026-10-25 14:00:00,72,428,Cunha,Lisandro Martínez,0.96,0.501,0.1231,BlockedShot,FromCorner,Head,Chipped,h

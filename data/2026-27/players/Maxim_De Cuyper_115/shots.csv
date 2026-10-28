@@ -7,3 +7,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 694514,31217,38,4,2026-09-13 13:00:00,88,115,De Cuyper,Matt O&#039;Riley,0.75,0.469,0.0292,MissedShots,OpenPlay,LeftFoot,Pass,a
 695960,31224,42,5,2026-09-19 14:00:00,79,115,De Cuyper,,0.796,0.398,0.024,MissedShots,FromCorner,LeftFoot,None,h
 697463,31234,60,6,2026-10-10 14:00:00,52,115,De Cuyper,Pascal Groß,0.88,0.62,0.2838,Goal,OpenPlay,LeftFoot,Pass,a
+701140,31252,78,8,2026-10-25 14:00:00,86,115,De Cuyper,,0.818,0.154,0.0369,MissedShots,DirectFreekick,LeftFoot,Standard,a
+701143,31252,78,8,2026-10-25 14:00:00,94,115,De Cuyper,Pascal Groß,0.747,0.299,0.0147,BlockedShot,SetPiece,LeftFoot,Pass,a

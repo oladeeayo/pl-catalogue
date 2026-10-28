@@ -4,3 +4,6 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 697125,31230,51,6,2026-10-10 11:30:00,91,16,Madueke,Bukayo Saka,0.812,0.544,0.0671,BlockedShot,OpenPlay,LeftFoot,Pass,h
 699904,31248,69,7,2026-10-18 15:30:00,52,16,Madueke,Gabriel,0.804,0.672,0.0268,BlockedShot,OpenPlay,RightFoot,Chipped,a
 699912,31248,69,7,2026-10-18 15:30:00,79,16,Madueke,Declan Rice,0.866,0.725,0.036,Goal,OpenPlay,RightFoot,Pass,a
+700661,31254,71,8,2026-10-24 14:00:00,27,16,Madueke,Declan Rice,0.9,0.313,0.0756,MissedShots,OpenPlay,RightFoot,Pass,h
+700663,31254,71,8,2026-10-24 14:00:00,29,16,Madueke,,0.841,0.361,0.0642,MissedShots,OpenPlay,RightFoot,None,h
+700669,31254,71,8,2026-10-24 14:00:00,53,16,Madueke,Viktor Gyokeres,0.861,0.334,0.0686,BlockedShot,OpenPlay,RightFoot,Pass,h

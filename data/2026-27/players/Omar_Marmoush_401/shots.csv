@@ -9,3 +9,6 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 695686,31221,48,5,2026-09-19 11:30:00,74,401,Marmoush,Sávio,0.816,0.656,0.041,BlockedShot,OpenPlay,RightFoot,Pass,h
 700143,31249,70,7,2026-10-19 19:00:00,53,401,Marmoush,,0.855,0.758,0.0223,SavedShot,OpenPlay,RightFoot,None,h
 700145,31249,70,7,2026-10-19 19:00:00,57,401,Marmoush,Andrew Robertson,0.808,0.647,0.0346,Goal,OpenPlay,RightFoot,Pass,h
+700828,31255,73,8,2026-10-24 16:30:00,28,401,Marmoush,Andrew Robertson,0.888,0.543,0.3883,SavedShot,OpenPlay,RightFoot,Pass,a
+700832,31255,73,8,2026-10-24 16:30:00,37,401,Marmoush,Sandro Tonali,0.805,0.521,0.0517,BlockedShot,OpenPlay,RightFoot,Pass,a
+700834,31255,73,8,2026-10-24 16:30:00,41,401,Marmoush,Mateus Fernandes,0.843,0.463,0.0245,MissedShots,OpenPlay,Head,Chipped,a

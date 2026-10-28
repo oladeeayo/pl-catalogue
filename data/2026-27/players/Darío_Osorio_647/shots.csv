@@ -1,1 +1,4 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+701312,31257,75,8,2026-10-25 14:00:00,70,647,Osorio,Tyrick Mitchell,0.773,0.736,0.0264,SavedShot,FromCorner,LeftFoot,Pass,h
+701315,31257,75,8,2026-10-25 14:00:00,84,647,Osorio,Yeremi Pino,0.818,0.534,0.115,MissedShots,OpenPlay,LeftFoot,Pass,h
+701316,31257,75,8,2026-10-25 14:00:00,88,647,Osorio,,0.842,0.364,0.0193,MissedShots,FromCorner,LeftFoot,Aerial,h

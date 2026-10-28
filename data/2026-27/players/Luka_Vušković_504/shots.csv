@@ -12,3 +12,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 699547,31245,63,7,2026-10-18 13:00:00,56,504,Vuskovic,,0.801,0.602,0.0287,MissedShots,SetPiece,RightFoot,None,h
 699550,31245,63,7,2026-10-18 13:00:00,68,504,Vuskovic,,0.879,0.388,0.0134,MissedShots,SetPiece,Head,Aerial,h
 699553,31245,63,7,2026-10-18 13:00:00,83,504,Vuskovic,Maxim De Cuyper,0.973,0.57,0.3538,SavedShot,FromCorner,Head,Cross,h
+701131,31252,78,8,2026-10-25 14:00:00,47,504,Vuskovic,Maxim De Cuyper,0.924,0.538,0.0975,MissedShots,FromCorner,Head,Cross,a
+701133,31252,78,8,2026-10-25 14:00:00,60,504,Vuskovic,,0.764,0.58,0.0709,MissedShots,DirectFreekick,RightFoot,Standard,a

@@ -6,3 +6,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 695667,31221,48,5,2026-09-19 11:30:00,23,525,Fernandes,Sandro Tonali,0.762,0.31,0.0203,MissedShots,OpenPlay,RightFoot,Pass,h
 695677,31221,48,5,2026-09-19 11:30:00,49,525,Fernandes,Andrew Robertson,0.853,0.668,0.0343,MissedShots,OpenPlay,LeftFoot,Chipped,h
 700152,31249,70,7,2026-10-19 19:00:00,81,525,Fernandes,,0.77,0.5,0.0421,SavedShot,OpenPlay,RightFoot,None,h
+700841,31255,73,8,2026-10-24 16:30:00,75,525,Fernandes,,0.719,0.552,0.0149,BlockedShot,OpenPlay,RightFoot,Dispossessed,a

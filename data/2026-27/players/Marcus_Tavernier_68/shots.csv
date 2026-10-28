@@ -15,3 +15,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 699557,31246,61,7,2026-10-18 13:00:00,5,68,Tavernier,Evanilson,0.914,0.518,0.3423,Goal,OpenPlay,Head,Pass,h
 699559,31246,61,7,2026-10-18 13:00:00,19,68,Tavernier,,0.775,0.379,0.0722,MissedShots,DirectFreekick,LeftFoot,Standard,h
 699576,31246,61,7,2026-10-18 13:00:00,60,68,Tavernier,Ryan Christie,0.912,0.592,0.4159,SavedShot,OpenPlay,RightFoot,Pass,h
+701151,31256,79,8,2026-10-25 14:00:00,42,68,Tavernier,Adrien Truffert,0.924,0.512,0.5505,Goal,OpenPlay,LeftFoot,Pass,a

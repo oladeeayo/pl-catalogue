@@ -7,3 +7,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 697460,31234,60,6,2026-10-10 14:00:00,38,533,Mukiele,Kevin Danso,0.653,0.313,0.0096,SavedShot,OpenPlay,RightFoot,Pass,h
 697470,31234,60,6,2026-10-10 14:00:00,73,533,Mukiele,Noah Sadiki,0.753,0.445,0.0228,BlockedShot,OpenPlay,RightFoot,Pass,h
 697474,31234,60,6,2026-10-10 14:00:00,77,533,Mukiele,Kevin Danso,0.761,0.429,0.0256,BlockedShot,OpenPlay,RightFoot,Pass,h
+701522,31259,80,8,2026-10-25 16:30:00,12,533,Mukiele,Noah Sadiki,0.675,0.424,0.0083,MissedShots,OpenPlay,RightFoot,LayOff,h

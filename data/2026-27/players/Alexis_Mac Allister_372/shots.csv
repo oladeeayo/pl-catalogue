@@ -10,3 +10,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 699007,31242,62,7,2026-10-17 14:00:00,48,372,Mac Allister,Florian Wirtz,0.781,0.481,0.0416,BlockedShot,OpenPlay,RightFoot,TakeOn,a
 699011,31242,62,7,2026-10-17 14:00:00,58,372,Mac Allister,Milos Kerkez,0.765,0.712,0.0248,SavedShot,OpenPlay,RightFoot,TakeOn,a
 699022,31242,62,7,2026-10-17 14:00:00,92,372,Mac Allister,,0.804,0.333,0.082,MissedShots,DirectFreekick,RightFoot,Standard,a
+701122,31252,78,8,2026-10-25 14:00:00,32,372,Mac Allister,Florian Wirtz,0.943,0.65,0.0138,MissedShots,FromCorner,Head,Cross,h

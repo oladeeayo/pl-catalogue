@@ -9,3 +9,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 692877,31208,30,3,2026-09-06 13:00:00,82,242,George,Hayden Hackney,0.885,0.298,0.0483,Goal,OpenPlay,RightFoot,Pass,h
 694175,31215,37,4,2026-09-12 16:30:00,53,242,George,,0.9,0.676,0.0433,BlockedShot,FromCorner,LeftFoot,None,a
 696024,31226,43,5,2026-09-19 14:00:00,88,242,George,Tyler Dibling,0.772,0.633,0.0219,BlockedShot,OpenPlay,RightFoot,Chipped,h
+700657,31254,71,8,2026-10-24 14:00:00,16,242,George,Kiernan Dewsbury-Hall,0.901,0.727,0.0365,BlockedShot,OpenPlay,RightFoot,Pass,a

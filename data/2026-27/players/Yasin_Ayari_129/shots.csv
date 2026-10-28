@@ -15,3 +15,6 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 699539,31245,63,7,2026-10-18 13:00:00,22,129,Ayari,Lewis Dunk,0.773,0.32,0.0338,SavedShot,OpenPlay,RightFoot,Pass,h
 699540,31245,63,7,2026-10-18 13:00:00,32,129,Ayari,Maxim De Cuyper,0.809,0.5,0.0769,BlockedShot,OpenPlay,RightFoot,Pass,h
 699545,31245,63,7,2026-10-18 13:00:00,48,129,Ayari,,0.859,0.476,0.0932,BlockedShot,OpenPlay,RightFoot,None,h
+701114,31252,78,8,2026-10-25 14:00:00,13,129,Ayari,Pascal Groß,0.884,0.456,0.3993,MissedShots,OpenPlay,RightFoot,Pass,a
+701123,31252,78,8,2026-10-25 14:00:00,35,129,Ayari,Maxim De Cuyper,0.734,0.549,0.0174,ShotOnPost,OpenPlay,RightFoot,Pass,a
+701135,31252,78,8,2026-10-25 14:00:00,65,129,Ayari,,0.746,0.517,0.0267,MissedShots,OpenPlay,RightFoot,TakeOn,a

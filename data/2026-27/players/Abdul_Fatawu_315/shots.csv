@@ -3,3 +3,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 691990,31200,21,3,2026-09-04 19:00:00,55,315,Fatawu,Julio Enciso,0.788,0.247,0.0141,MissedShots,OpenPlay,LeftFoot,Pass,h
 695999,31226,43,5,2026-09-19 14:00:00,18,315,Fatawu,,0.898,0.213,0.0183,SavedShot,FromCorner,LeftFoot,None,a
 696000,31226,43,5,2026-09-19 14:00:00,25,315,Fatawu,,0.423,0.274,0.0094,MissedShots,OpenPlay,LeftFoot,BallRecovery,a
+700332,31250,77,8,2026-10-23 19:00:00,8,315,Fatawu,Exequiel Palacios,0.86,0.279,0.0342,MissedShots,OpenPlay,LeftFoot,Pass,h

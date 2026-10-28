@@ -1,2 +1,3 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
 693952,31210,32,4,2026-09-12 14:00:00,54,90,Hickey,Thiago,0.966,0.315,0.0416,MissedShots,OpenPlay,RightFoot,TakeOn,a
+701175,31258,76,8,2026-10-25 14:00:00,10,90,Hickey,Dango Ouattara,0.755,0.466,0.0205,SavedShot,OpenPlay,RightFoot,Pass,a

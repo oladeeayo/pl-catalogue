@@ -2,3 +2,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 691602,31196,16,2,2026-08-30 13:00:00,68,114,Boscagli,,0.822,0.399,0.043,SavedShot,OpenPlay,RightFoot,None,a
 694485,31217,38,4,2026-09-13 13:00:00,12,114,Boscagli,Malick Yalcouyé,0.441,0.474,0.0097,MissedShots,OpenPlay,LeftFoot,BallRecovery,a
 695946,31224,42,5,2026-09-19 14:00:00,44,114,Boscagli,,0.725,0.535,0.0144,BlockedShot,FromCorner,LeftFoot,None,h
+701127,31252,78,8,2026-10-25 14:00:00,45,114,Boscagli,,0.822,0.601,0.0343,MissedShots,OpenPlay,LeftFoot,None,a

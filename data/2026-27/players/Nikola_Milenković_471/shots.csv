@@ -1,3 +1,4 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
 688637,31184,6,1,2026-08-22 14:00:00,32,471,Milenković,Murillo,0.901,0.484,0.0464,MissedShots,OpenPlay,Head,Aerial,h
 688639,31184,6,1,2026-08-22 14:00:00,40,471,Milenković,James McAtee,0.905,0.489,0.0775,ShotOnPost,FromCorner,Head,Cross,h
+700350,31250,77,8,2026-10-23 19:00:00,85,471,Milenković,Morgan Gibbs-White,0.919,0.518,0.0586,MissedShots,SetPiece,Head,Aerial,a

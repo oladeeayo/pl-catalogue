@@ -4,3 +4,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 693072,31209,29,3,2026-09-06 15:30:00,55,13,Rice,Bukayo Saka,0.771,0.473,0.0429,BlockedShot,OpenPlay,RightFoot,LayOff,h
 695965,31224,42,5,2026-09-19 14:00:00,92,13,Rice,Riccardo Calafiori,0.7,0.381,0.0076,MissedShots,OpenPlay,LeftFoot,None,a
 699910,31248,69,7,2026-10-18 15:30:00,71,13,Rice,Jurriën Timber,0.886,0.416,0.1103,MissedShots,OpenPlay,RightFoot,Pass,a
+700652,31254,71,8,2026-10-24 14:00:00,3,13,Rice,Ben White,0.804,0.342,0.0262,BlockedShot,OpenPlay,RightFoot,Pass,h

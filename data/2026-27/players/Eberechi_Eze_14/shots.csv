@@ -1,2 +1,4 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
 688516,31180,1,1,2026-08-21 19:00:00,94,14,Eze,,0.699,0.526,0.0375,MissedShots,DirectFreekick,RightFoot,Standard,h
+700660,31254,71,8,2026-10-24 14:00:00,23,14,Eze,Myles Lewis-Skelly,0.863,0.718,0.0463,MissedShots,OpenPlay,RightFoot,Pass,h
+700664,31254,71,8,2026-10-24 14:00:00,34,14,Eze,Martin Odegaard,0.735,0.531,0.0244,BlockedShot,OpenPlay,RightFoot,Pass,h

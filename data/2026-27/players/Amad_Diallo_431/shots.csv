@@ -3,3 +3,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 697630,31235,59,6,2026-10-10 16:30:00,48,431,Amad,,0.792,0.322,0.0178,MissedShots,FromCorner,LeftFoot,None,h
 699525,31247,66,7,2026-10-18 13:00:00,75,431,Amad,Diogo Dalot,0.847,0.356,0.0824,BlockedShot,OpenPlay,LeftFoot,Pass,a
 699528,31247,66,7,2026-10-18 13:00:00,87,431,Amad,Diogo Dalot,0.821,0.252,0.0228,MissedShots,OpenPlay,LeftFoot,Pass,a
+701162,31256,79,8,2026-10-25 14:00:00,76,431,Amad,Joshua Zirkzee,0.771,0.406,0.0237,BlockedShot,OpenPlay,LeftFoot,LayOff,h

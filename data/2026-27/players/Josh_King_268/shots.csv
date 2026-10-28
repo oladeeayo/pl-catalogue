@@ -16,3 +16,7 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 699053,31241,65,7,2026-10-17 14:00:00,15,268,King,Alex Iwobi,0.929,0.301,0.0581,BlockedShot,OpenPlay,RightFoot,Pass,h
 699061,31241,65,7,2026-10-17 14:00:00,41,268,King,Oscar Bobb,0.967,0.282,0.0587,SavedShot,OpenPlay,RightFoot,Pass,h
 699063,31241,65,7,2026-10-17 14:00:00,52,268,King,Shea Charles,0.877,0.409,0.349,SavedShot,OpenPlay,RightFoot,Pass,h
+700633,31253,74,8,2026-10-24 14:00:00,17,268,King,Oscar Bobb,0.918,0.307,0.0616,ShotOnPost,OpenPlay,RightFoot,Pass,a
+700638,31253,74,8,2026-10-24 14:00:00,24,268,King,Alex Iwobi,0.926,0.321,0.0725,BlockedShot,OpenPlay,RightFoot,Pass,a
+700642,31253,74,8,2026-10-24 14:00:00,55,268,King,,0.784,0.589,0.0306,MissedShots,OpenPlay,RightFoot,None,a
+700647,31253,74,8,2026-10-24 14:00:00,75,268,King,Sander Berge,0.808,0.702,0.0212,SavedShot,OpenPlay,RightFoot,Pass,a

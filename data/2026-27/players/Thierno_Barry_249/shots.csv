@@ -24,3 +24,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 698793,31240,64,7,2026-10-17 11:30:00,26,249,Barry,Jack Grealish,0.912,0.499,0.2744,SavedShot,FromCorner,Head,Cross,h
 698795,31240,64,7,2026-10-17 11:30:00,36,249,Barry,Vitalii Mykolenko,0.886,0.509,0.1262,SavedShot,OpenPlay,RightFoot,Pass,h
 698811,31240,64,7,2026-10-17 11:30:00,87,249,Barry,Vitalii Mykolenko,0.908,0.462,0.0408,SavedShot,OpenPlay,Head,Aerial,h
+700666,31254,71,8,2026-10-24 14:00:00,43,249,Barry,,0.88,0.601,0.364,SavedShot,OpenPlay,RightFoot,None,a
+700677,31254,71,8,2026-10-24 14:00:00,94,249,Barry,Harrison Armstrong,0.917,0.333,0.095,BlockedShot,OpenPlay,RightFoot,Throughball,a

@@ -6,3 +6,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 697968,31237,56,6,2026-10-11 13:00:00,43,340,Gelhardt,Oliver McBurnie,0.894,0.388,0.1047,BlockedShot,OpenPlay,LeftFoot,Pass,h
 697970,31237,56,6,2026-10-11 13:00:00,45,340,Gelhardt,John Egan,0.856,0.37,0.0567,SavedShot,OpenPlay,RightFoot,Chipped,h
 697974,31237,56,6,2026-10-11 13:00:00,47,340,Gelhardt,Sorba Thomas,0.916,0.619,0.5526,Goal,OpenPlay,LeftFoot,Throughball,h
+701194,31258,76,8,2026-10-25 14:00:00,88,340,Gelhardt,Mohamed Ali-Cho,0.933,0.508,0.581,MissedShots,OpenPlay,LeftFoot,Pass,h
+701196,31258,76,8,2026-10-25 14:00:00,92,340,Gelhardt,Brooke Norton-Cuffy,0.784,0.336,0.0198,MissedShots,OpenPlay,LeftFoot,Pass,h

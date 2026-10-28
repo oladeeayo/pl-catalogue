@@ -18,3 +18,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 697346,31232,53,6,2026-10-10 14:00:00,26,40,Rogers,,0.858,0.472,0.0921,BlockedShot,OpenPlay,RightFoot,None,h
 698801,31240,64,7,2026-10-17 11:30:00,55,40,Rogers,Pedro Neto,0.897,0.529,0.1373,BlockedShot,OpenPlay,RightFoot,Pass,a
 698802,31240,64,7,2026-10-17 11:30:00,55,40,Rogers,Moisés Caicedo,0.765,0.703,0.0201,MissedShots,FromCorner,RightFoot,Pass,a
+700830,31255,73,8,2026-10-24 16:30:00,32,40,Rogers,Cole Palmer,0.917,0.667,0.1213,BlockedShot,OpenPlay,LeftFoot,Throughball,h

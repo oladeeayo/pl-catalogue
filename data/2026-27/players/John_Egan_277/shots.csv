@@ -2,3 +2,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 694018,31212,33,4,2026-09-12 14:00:00,93,277,Egan,Mohamed Ali-Cho,0.915,0.44,0.0234,MissedShots,FromCorner,Head,Aerial,a
 695916,31223,46,5,2026-09-19 14:00:00,45,277,Egan,,0.502,0.499,0.0053,SavedShot,OpenPlay,RightFoot,Start,a
 697979,31237,56,6,2026-10-11 13:00:00,70,277,Egan,,0.871,0.639,0.0526,MissedShots,OpenPlay,RightFoot,None,h
+701176,31258,76,8,2026-10-25 14:00:00,21,277,Egan,Regan Slater,0.962,0.603,0.0479,MissedShots,FromCorner,Head,Cross,h

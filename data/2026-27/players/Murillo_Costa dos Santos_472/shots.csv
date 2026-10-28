@@ -11,3 +11,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 699901,31248,69,7,2026-10-18 15:30:00,47,472,Murillo,Xaver Schlager,0.877,0.575,0.0763,BlockedShot,FromCorner,LeftFoot,Rebound,h
 699906,31248,69,7,2026-10-18 15:30:00,53,472,Murillo,James McAtee,0.898,0.475,0.0573,SavedShot,FromCorner,Head,Cross,h
 699915,31248,69,7,2026-10-18 15:30:00,91,472,Murillo,Neco Williams,0.876,0.646,0.0413,MissedShots,OpenPlay,RightFoot,TakeOn,h
+700342,31250,77,8,2026-10-23 19:00:00,59,472,Murillo,,0.855,0.539,0.0684,SavedShot,FromCorner,LeftFoot,Rebound,a
+700344,31250,77,8,2026-10-23 19:00:00,62,472,Murillo,Neco Williams,0.927,0.466,0.1049,MissedShots,FromCorner,Head,Cross,a

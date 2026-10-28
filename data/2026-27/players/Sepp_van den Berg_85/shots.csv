@@ -1,1 +1,3 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+701172,31258,76,8,2026-10-25 14:00:00,0,85,Van den Berg,Michael Kayode,0.913,0.552,0.0459,SavedShot,OpenPlay,Head,Aerial,a
+701180,31258,76,8,2026-10-25 14:00:00,46,85,Van den Berg,Michael Kayode,0.925,0.439,0.052,SavedShot,OpenPlay,Head,Pass,a

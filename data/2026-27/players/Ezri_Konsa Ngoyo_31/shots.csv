@@ -1,2 +1,4 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
 695951,31224,42,5,2026-09-19 14:00:00,54,31,Konsa,Bukayo Saka,0.946,0.495,0.0776,BlockedShot,FromCorner,Head,Aerial,a
+700653,31254,71,8,2026-10-24 14:00:00,5,31,Konsa,Declan Rice,0.955,0.561,0.0625,BlockedShot,FromCorner,Head,Aerial,h
+700655,31254,71,8,2026-10-24 14:00:00,6,31,Konsa,Viktor Gyokeres,0.975,0.54,0.6546,Goal,FromCorner,RightFoot,None,h

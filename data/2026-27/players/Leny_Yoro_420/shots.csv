@@ -1,1 +1,3 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+701164,31256,79,8,2026-10-25 14:00:00,84,420,Yoro,Mason Mount,0.941,0.533,0.1198,MissedShots,FromCorner,Head,Cross,h
+701166,31256,79,8,2026-10-25 14:00:00,84,420,Yoro,Senne Lammens,0.872,0.458,0.0577,BlockedShot,FromCorner,RightFoot,Pass,h

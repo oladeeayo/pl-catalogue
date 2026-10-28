@@ -6,3 +6,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 697103,31230,51,6,2026-10-10 11:30:00,7,332,Justin,Anton Stach,0.873,0.412,0.0241,BlockedShot,SetPiece,Head,Cross,a
 697115,31230,51,6,2026-10-10 11:30:00,51,332,Justin,Jayden Bogle,0.794,0.348,0.0239,MissedShots,OpenPlay,LeftFoot,Pass,a
 697117,31230,51,6,2026-10-10 11:30:00,54,332,Justin,Gabriel Gudmundsson,0.923,0.314,0.2492,Goal,OpenPlay,RightFoot,Cross,a
+701532,31259,80,8,2026-10-25 16:30:00,59,332,Justin,Brenden Aaronson,0.778,0.231,0.0122,MissedShots,OpenPlay,LeftFoot,Pass,a

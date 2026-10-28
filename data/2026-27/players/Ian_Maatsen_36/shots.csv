@@ -4,3 +4,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 691703,31199,20,2,2026-08-31 19:00:00,46,36,Maatsen,Ross Barkley,0.919,0.718,0.0403,MissedShots,OpenPlay,LeftFoot,Chipped,h
 693967,31211,31,4,2026-09-12 14:00:00,6,36,Maatsen,Aaron Wan-Bissaka,0.849,0.528,0.0963,BlockedShot,OpenPlay,LeftFoot,Pass,h
 693968,31211,31,4,2026-09-12 14:00:00,7,36,Maatsen,Boubacar Kamara,0.862,0.688,0.0485,SavedShot,OpenPlay,LeftFoot,Pass,h
+700389,31251,72,8,2026-10-24 11:30:00,3,36,Maatsen,John McGinn,0.874,0.656,0.0215,MissedShots,FromCorner,LeftFoot,Chipped,h
+700401,31251,72,8,2026-10-24 11:30:00,46,36,Maatsen,John McGinn,0.883,0.679,0.0996,BlockedShot,OpenPlay,LeftFoot,Pass,h

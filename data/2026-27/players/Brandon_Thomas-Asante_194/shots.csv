@@ -7,3 +7,6 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 698549,31239,54,6,2026-10-12 19:00:00,83,194,Thomas-Asante,,0.745,0.403,0.0199,BlockedShot,OpenPlay,RightFoot,TakeOn,h
 700130,31249,70,7,2026-10-19 19:00:00,0,194,Thomas-Asante,Sidiki Chérif,0.968,0.303,0.0585,MissedShots,OpenPlay,RightFoot,HeadPass,a
 700131,31249,70,7,2026-10-19 19:00:00,7,194,Thomas-Asante,,0.906,0.603,0.0751,BlockedShot,SetPiece,RightFoot,None,a
+700627,31253,74,8,2026-10-24 14:00:00,1,194,Thomas-Asante,,0.716,0.521,0.0126,BlockedShot,OpenPlay,LeftFoot,None,h
+700636,31253,74,8,2026-10-24 14:00:00,20,194,Thomas-Asante,Jay Dasilva,0.919,0.546,0.0549,MissedShots,OpenPlay,Head,Aerial,h
+700639,31253,74,8,2026-10-24 14:00:00,28,194,Thomas-Asante,,0.853,0.351,0.0494,SavedShot,OpenPlay,RightFoot,None,h

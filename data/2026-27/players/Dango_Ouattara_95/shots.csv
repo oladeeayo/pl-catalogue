@@ -4,3 +4,7 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 691113,31197,17,2,2026-08-30 13:00:00,69,95,O.Dango,Mamadou Sangaré,0.758,0.287,0.0148,BlockedShot,OpenPlay,LeftFoot,TakeOn,a
 693965,31210,32,4,2026-09-12 14:00:00,95,95,O.Dango,,0.772,0.364,0.021,BlockedShot,OpenPlay,LeftFoot,None,a
 697336,31231,52,6,2026-10-10 14:00:00,85,95,O.Dango,Mamadou Sangaré,0.875,0.317,0.0349,MissedShots,SetPiece,LeftFoot,Pass,a
+701178,31258,76,8,2026-10-25 14:00:00,35,95,O.Dango,Michael Kayode,0.88,0.291,0.0354,BlockedShot,OpenPlay,LeftFoot,Pass,a
+701184,31258,76,8,2026-10-25 14:00:00,62,95,O.Dango,Thiago,0.981,0.474,0.9351,Goal,OpenPlay,RightFoot,Pass,a
+701191,31258,76,8,2026-10-25 14:00:00,74,95,O.Dango,Mikkel Damsgaard,0.802,0.301,0.0256,BlockedShot,OpenPlay,LeftFoot,Pass,a
+701192,31258,76,8,2026-10-25 14:00:00,74,95,O.Dango,Mathias Jensen,0.919,0.627,0.1554,SavedShot,FromCorner,Head,Cross,a

@@ -1,1 +1,2 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+700351,31250,77,8,2026-10-23 19:00:00,89,482,Hudson-Odoi,,0.88,0.631,0.3244,MissedShots,OpenPlay,LeftFoot,None,a

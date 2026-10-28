@@ -10,3 +10,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 699002,31242,62,7,2026-10-17 14:00:00,43,105,Anthony,Keane Lewis-Potter,0.847,0.655,0.0521,BlockedShot,OpenPlay,RightFoot,Pass,h
 699008,31242,62,7,2026-10-17 14:00:00,52,105,Anthony,,0.856,0.532,0.0491,SavedShot,OpenPlay,RightFoot,Aerial,h
 699010,31242,62,7,2026-10-17 14:00:00,57,105,Anthony,,0.85,0.496,0.0926,MissedShots,OpenPlay,RightFoot,None,h
+701186,31258,76,8,2026-10-25 14:00:00,67,105,Anthony,,0.759,0.496,0.023,MissedShots,OpenPlay,LeftFoot,None,a
+701190,31258,76,8,2026-10-25 14:00:00,73,105,Anthony,Dango Ouattara,0.934,0.549,0.0643,SavedShot,OpenPlay,Head,Aerial,a

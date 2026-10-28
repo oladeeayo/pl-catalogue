@@ -6,3 +6,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 696460,31225,44,5,2026-09-20 13:00:00,74,336,Okafor,,0.789,0.573,0.0349,MissedShots,OpenPlay,RightFoot,None,h
 697104,31230,51,6,2026-10-10 11:30:00,7,336,Okafor,,0.852,0.593,0.0554,BlockedShot,SetPiece,RightFoot,Rebound,a
 699520,31247,66,7,2026-10-18 13:00:00,62,336,Okafor,Anton Stach,0.904,0.705,0.0327,MissedShots,FromCorner,LeftFoot,Cross,h
+701541,31259,80,8,2026-10-25 16:30:00,90,336,Okafor,,0.862,0.602,0.0547,BlockedShot,FromCorner,RightFoot,None,a
+701543,31259,80,8,2026-10-25 16:30:00,94,336,Okafor,James Justin,0.9,0.651,0.0485,MissedShots,OpenPlay,RightFoot,Cross,a

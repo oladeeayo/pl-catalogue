@@ -1,3 +1,5 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
 698551,31239,54,6,2026-10-12 19:00:00,84,656,Mfuni,Victor Torp,0.956,0.451,0.0713,SavedShot,FromCorner,Head,Aerial,h
 698552,31239,54,6,2026-10-12 19:00:00,85,656,Mfuni,Jay Dasilva,0.844,0.642,0.0788,Goal,OpenPlay,LeftFoot,Pass,h
+700644,31253,74,8,2026-10-24 14:00:00,61,656,Mfuni,,0.856,0.558,0.0267,MissedShots,FromCorner,LeftFoot,Aerial,h
+700646,31253,74,8,2026-10-24 14:00:00,70,656,Mfuni,,0.955,0.592,0.0285,SavedShot,FromCorner,Head,Aerial,h

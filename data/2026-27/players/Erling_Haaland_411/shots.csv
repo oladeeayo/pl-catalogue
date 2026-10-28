@@ -26,3 +26,6 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 699032,31243,67,7,2026-10-17 14:00:00,33,411,Haaland,Mateo Kovacic,0.916,0.54,0.3396,Goal,OpenPlay,Head,Cross,h
 699043,31243,67,7,2026-10-17 14:00:00,68,411,Haaland,Iliman Ndiaye,0.906,0.538,0.6521,Goal,OpenPlay,LeftFoot,TakeOn,h
 699050,31243,67,7,2026-10-17 14:00:00,100,411,Haaland,Enzo Fernández,0.876,0.339,0.1166,BlockedShot,OpenPlay,LeftFoot,Chipped,h
+700402,31251,72,8,2026-10-24 11:30:00,51,411,Haaland,Iliman Ndiaye,0.951,0.517,0.5311,Goal,SetPiece,Head,Aerial,a
+700409,31251,72,8,2026-10-24 11:30:00,88,411,Haaland,Phil Foden,0.923,0.462,0.0428,BlockedShot,OpenPlay,Head,Aerial,a
+700411,31251,72,8,2026-10-24 11:30:00,92,411,Haaland,Elliot Anderson,0.913,0.46,0.0444,SavedShot,OpenPlay,Head,Aerial,a

@@ -11,3 +11,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 698797,31240,64,7,2026-10-17 11:30:00,45,156,Neto,Cole Palmer,0.751,0.324,0.0146,SavedShot,OpenPlay,LeftFoot,Pass,a
 698799,31240,64,7,2026-10-17 11:30:00,45,156,Neto,,0.889,0.471,0.4175,Goal,OpenPlay,LeftFoot,None,a
 698813,31240,64,7,2026-10-17 11:30:00,89,156,Neto,,0.863,0.45,0.0775,Goal,SetPiece,LeftFoot,Rebound,a
+700835,31255,73,8,2026-10-24 16:30:00,43,156,Neto,Jorrel Hato,0.913,0.739,0.027,SavedShot,SetPiece,LeftFoot,Pass,h
+700838,31255,73,8,2026-10-24 16:30:00,61,156,Neto,,0.855,0.444,0.0704,SavedShot,OpenPlay,RightFoot,None,h

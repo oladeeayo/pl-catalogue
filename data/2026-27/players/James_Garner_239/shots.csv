@@ -3,3 +3,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 696004,31226,43,5,2026-09-19 14:00:00,32,239,Garner,,0.811,0.524,0.051,BlockedShot,OpenPlay,RightFoot,Rebound,h
 696008,31226,43,5,2026-09-19 14:00:00,43,239,Garner,Harrison Armstrong,0.782,0.354,0.0333,BlockedShot,OpenPlay,RightFoot,Pass,h
 697959,31237,56,6,2026-10-11 13:00:00,4,239,Garner,,0.711,0.532,0.0419,MissedShots,DirectFreekick,RightFoot,Standard,a
+700656,31254,71,8,2026-10-24 14:00:00,10,239,Garner,Thierno Barry,0.763,0.361,0.0233,SavedShot,OpenPlay,RightFoot,LayOff,a

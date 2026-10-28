@@ -1,1 +1,2 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+700847,31255,73,8,2026-10-24 16:30:00,91,521,Kulusevski,Pedro Porro,0.869,0.253,0.0409,BlockedShot,OpenPlay,LeftFoot,Pass,a

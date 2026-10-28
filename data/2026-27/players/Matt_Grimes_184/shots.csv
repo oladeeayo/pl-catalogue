@@ -3,3 +3,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 692333,31202,26,3,2026-09-05 14:00:00,69,184,Grimes,Loum Tchaouna,0.767,0.443,0.0164,MissedShots,OpenPlay,LeftFoot,HeadPass,a
 694500,31217,38,4,2026-09-13 13:00:00,41,184,Grimes,,0.768,0.483,0.0284,BlockedShot,OpenPlay,LeftFoot,None,h
 696137,31227,47,5,2026-09-19 16:30:00,14,184,Grimes,Ephron Mason-Clark,0.777,0.703,0.0149,MissedShots,OpenPlay,LeftFoot,Pass,a
+700649,31253,74,8,2026-10-24 14:00:00,84,184,Grimes,,0.807,0.408,0.0334,BlockedShot,SetPiece,LeftFoot,None,h

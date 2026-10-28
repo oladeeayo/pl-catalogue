@@ -1,3 +1,4 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
 697112,31230,51,6,2026-10-10 11:30:00,43,331,Gudmundsson,Jayden Bogle,0.974,0.654,0.0254,SavedShot,OpenPlay,LeftFoot,Cross,a
 697120,31230,51,6,2026-10-10 11:30:00,63,331,Gudmundsson,,0.716,0.482,0.0103,MissedShots,OpenPlay,LeftFoot,Aerial,a
+701526,31259,80,8,2026-10-25 16:30:00,50,331,Gudmundsson,,0.874,0.675,0.0496,MissedShots,OpenPlay,RightFoot,None,a

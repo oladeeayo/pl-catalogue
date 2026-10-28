@@ -1,2 +1,3 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
 697634,31235,59,6,2026-10-10 16:30:00,61,440,Zirkzee,Bruno Fernandes,0.964,0.605,0.0823,BlockedShot,SetPiece,LeftFoot,Chipped,h
+701167,31256,79,8,2026-10-25 14:00:00,88,440,Zirkzee,,0.78,0.503,0.0333,BlockedShot,OpenPlay,RightFoot,BallTouch,h

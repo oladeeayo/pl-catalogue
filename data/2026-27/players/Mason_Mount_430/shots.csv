@@ -1,3 +1,6 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
 696690,31229,50,5,2026-09-20 15:30:00,90,430,Mount,Harry Maguire,0.86,0.398,0.0435,BlockedShot,OpenPlay,RightFoot,Cross,a
 699526,31247,66,7,2026-10-18 13:00:00,75,430,Mount,Bruno Fernandes,0.836,0.501,0.0528,BlockedShot,FromCorner,RightFoot,Pass,a
+701161,31256,79,8,2026-10-25 14:00:00,72,430,Mount,,0.907,0.705,0.019,MissedShots,FromCorner,RightFoot,Aerial,h
+701169,31256,79,8,2026-10-25 14:00:00,92,430,Mount,Bryan Mbeumo,0.756,0.269,0.0093,MissedShots,OpenPlay,RightFoot,Pass,h
+701170,31256,79,8,2026-10-25 14:00:00,94,430,Mount,Andrey Santos,0.764,0.59,0.0163,SavedShot,OpenPlay,RightFoot,Pass,h

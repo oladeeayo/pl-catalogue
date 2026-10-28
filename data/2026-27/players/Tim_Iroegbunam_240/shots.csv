@@ -1,3 +1,4 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
 695930,31223,46,5,2026-09-19 14:00:00,81,240,Iroegbunam,,0.916,0.574,0.0836,MissedShots,OpenPlay,RightFoot,None,a
 695938,31223,46,5,2026-09-19 14:00:00,94,240,Iroegbunam,Mohamed Ali-Cho,0.803,0.299,0.0201,BlockedShot,OpenPlay,RightFoot,Pass,a
+701173,31258,76,8,2026-10-25 14:00:00,5,240,Iroegbunam,Mohamed Belloumi,0.909,0.391,0.0311,MissedShots,FromCorner,Head,Cross,h

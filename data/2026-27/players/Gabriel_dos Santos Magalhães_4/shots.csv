@@ -6,3 +6,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 694263,31216,36,4,2026-09-12 19:00:00,22,4,Gabriel,Declan Rice,0.72,0.615,0.0152,MissedShots,OpenPlay,LeftFoot,Pass,a
 699895,31248,69,7,2026-10-18 15:30:00,25,4,Gabriel,,0.912,0.517,0.1095,BlockedShot,FromCorner,LeftFoot,None,a
 699908,31248,69,7,2026-10-18 15:30:00,66,4,Gabriel,Declan Rice,0.955,0.531,0.371,MissedShots,FromCorner,Head,Aerial,a
+700654,31254,71,8,2026-10-24 14:00:00,6,4,Gabriel,Martin Odegaard,0.935,0.45,0.049,SavedShot,FromCorner,Head,Goal,h
+700672,31254,71,8,2026-10-24 14:00:00,67,4,Gabriel,Ben White,0.958,0.551,0.5481,Goal,OpenPlay,Head,Cross,h

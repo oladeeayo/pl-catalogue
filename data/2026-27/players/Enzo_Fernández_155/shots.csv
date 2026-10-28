@@ -7,3 +7,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 698246,31238,58,6,2026-10-11 15:30:00,34,155,Enzo,Mathis Cherki,0.775,0.64,0.0198,SavedShot,OpenPlay,RightFoot,Pass,a
 699041,31243,67,7,2026-10-17 14:00:00,63,155,Enzo,,0.724,0.521,0.0483,MissedShots,DirectFreekick,RightFoot,Standard,h
 699045,31243,67,7,2026-10-17 14:00:00,84,155,Enzo,Erling Haaland,0.897,0.555,0.4571,SavedShot,OpenPlay,RightFoot,Pass,h
+700392,31251,72,8,2026-10-24 11:30:00,11,155,Enzo,Josko Gvardiol,0.847,0.528,0.0333,BlockedShot,FromCorner,RightFoot,HeadPass,a

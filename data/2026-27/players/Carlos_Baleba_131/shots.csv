@@ -2,3 +2,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 697635,31235,59,6,2026-10-10 16:30:00,61,131,Baleba,,0.853,0.374,0.0435,MissedShots,FromCorner,RightFoot,None,h
 697645,31235,59,6,2026-10-10 16:30:00,98,131,Baleba,Diogo Dalot,0.779,0.525,0.0318,MissedShots,OpenPlay,LeftFoot,Pass,h
 699519,31247,66,7,2026-10-18 13:00:00,58,131,Baleba,Andrey Santos,0.704,0.677,0.0131,MissedShots,OpenPlay,LeftFoot,Pass,a
+701152,31256,79,8,2026-10-25 14:00:00,46,131,Baleba,,0.758,0.506,0.0229,MissedShots,OpenPlay,LeftFoot,BallTouch,h

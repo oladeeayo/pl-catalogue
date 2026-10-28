@@ -3,3 +3,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 692365,31204,24,3,2026-09-05 14:00:00,3,258,Castagne,Joachim Andersen,0.841,0.322,0.0389,MissedShots,OpenPlay,RightFoot,Pass,h
 692375,31204,24,3,2026-09-05 14:00:00,27,258,Castagne,Oscar Bobb,0.969,0.397,0.0565,MissedShots,FromCorner,RightFoot,Cross,h
 692377,31204,24,3,2026-09-05 14:00:00,32,258,Castagne,Oscar Bobb,0.929,0.445,0.4874,SavedShot,OpenPlay,LeftFoot,Pass,h
+700645,31253,74,8,2026-10-24 14:00:00,66,258,Castagne,Alex Iwobi,0.921,0.419,0.0224,MissedShots,FromCorner,Head,Aerial,a

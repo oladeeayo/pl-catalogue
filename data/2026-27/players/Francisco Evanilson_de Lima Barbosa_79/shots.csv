@@ -16,3 +16,7 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 699570,31246,61,7,2026-10-18 13:00:00,47,79,Evanilson,,0.888,0.593,0.6311,Goal,OpenPlay,LeftFoot,TakeOn,h
 699571,31246,61,7,2026-10-18 13:00:00,51,79,Evanilson,Adam Smith,0.949,0.57,0.0664,MissedShots,OpenPlay,Head,Aerial,h
 699578,31246,61,7,2026-10-18 13:00:00,68,79,Evanilson,,0.904,0.442,0.1193,MissedShots,OpenPlay,RightFoot,None,h
+701144,31256,79,8,2026-10-25 14:00:00,3,79,Evanilson,Marcus Tavernier,0.859,0.509,0.0204,MissedShots,OpenPlay,Head,CornerAwarded,a
+701148,31256,79,8,2026-10-25 14:00:00,28,79,Evanilson,Justin Kluivert,0.924,0.526,0.1264,MissedShots,OpenPlay,Head,Cross,a
+701154,31256,79,8,2026-10-25 14:00:00,53,79,Evanilson,Tyler Adams,0.922,0.696,0.0952,MissedShots,OpenPlay,LeftFoot,Chipped,a
+701159,31256,79,8,2026-10-25 14:00:00,70,79,Evanilson,Lewis Cook,0.923,0.188,0.3942,Goal,OpenPlay,RightFoot,TakeOn,a

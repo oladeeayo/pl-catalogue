@@ -10,3 +10,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 696476,31222,45,5,2026-09-20 13:00:00,49,552,Brobbey,Enzo Le Fée,0.787,0.333,0.0287,SavedShot,OpenPlay,RightFoot,HeadPass,a
 696481,31222,45,5,2026-09-20 13:00:00,58,552,Brobbey,Nilson Angulo,0.986,0.472,0.9301,Goal,OpenPlay,RightFoot,Rebound,a
 696487,31222,45,5,2026-09-20 13:00:00,69,552,Brobbey,,0.918,0.479,0.0919,MissedShots,OpenPlay,LeftFoot,None,a
+701520,31259,80,8,2026-10-25 16:30:00,6,552,Brobbey,Enzo Le Fée,0.813,0.523,0.061,SavedShot,OpenPlay,RightFoot,Pass,h
+701523,31259,80,8,2026-10-25 16:30:00,25,552,Brobbey,,0.866,0.637,0.3176,SavedShot,OpenPlay,RightFoot,BallRecovery,h

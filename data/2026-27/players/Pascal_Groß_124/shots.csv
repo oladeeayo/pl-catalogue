@@ -12,3 +12,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 697473,31234,60,6,2026-10-10 14:00:00,77,124,Groß,,0.399,0.416,0.0098,MissedShots,OpenPlay,RightFoot,BallRecovery,a
 699536,31245,63,7,2026-10-18 13:00:00,15,124,Groß,Olivier Boscagli,0.898,0.545,0.1407,BlockedShot,OpenPlay,RightFoot,Pass,h
 699541,31245,63,7,2026-10-18 13:00:00,33,124,Groß,,0.846,0.643,0.0359,MissedShots,FromCorner,LeftFoot,None,h
+701116,31252,78,8,2026-10-25 14:00:00,16,124,Groß,,0.108,0.589,0.0,OwnGoal,OpenPlay,LeftFoot,None,a
