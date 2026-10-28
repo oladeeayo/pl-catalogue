@@ -111,19 +111,19 @@ subset(df, club == "Arsenal")
 
 ## What you get
 
-Season **2026/27**, GW1–7 loaded (exported 2026-10-22) — live numbers are in
+Season **2026/27**, GW1–8 loaded (exported 2026-10-28) — live numbers are in
 [`data/2026-27/manifest.json`](data/2026-27/manifest.json):
 
 | | |
 |---|---|
-| **Players / clubs / fixtures** | 668 / 20 / 380 |
-| **Player-fixture rows** | 4,551 |
-| **Shot events** | 1,932 (with xG, coordinates, body part, assister) |
-| **Season metric rows** | 38,245 (Opta, FBref, Understat) |
+| **Players / clubs / fixtures** | 669 / 20 / 380 |
+| **Player-fixture rows** | 5,220 |
+| **Shot events** | 2,192 (with xG, coordinates, body part, assister) |
+| **Season metric rows** | 38,379 (Opta, FBref, Understat) |
 | **Market-value snapshots** | 1,062 |
 | **Transfer rows** | 1,899 (5 seasons, fees, loans) |
-| **Expected-points rows** | 25,384 (forecast + actual + error) |
-| **CSV files** | 4,693 |
+| **Expected-points rows** | 25,422 (forecast + actual + error) |
+| **CSV files** | 4,701 |
 
 ```
 data/2026-27/
@@ -133,7 +133,7 @@ data/2026-27/
 │   ├── gw1.csv … gwN.csv        # every player's row in that gameweek
 │   ├── merged_gw.csv            # all gameweeks stacked
 │   └── xP1.csv                  # expected points: every player × every GW, forecast vs actual
-├── players/<Name_id>/           # one folder per player (668 folders)
+├── players/<Name_id>/           # one folder per player (669 folders)
 │   ├── profile.csv              # their row from players.csv
 │   ├── gw.csv                   # their per-GW rows
 │   ├── season_stats.csv         # their FBref + Understat season metrics (long format)
