@@ -1,24 +1,24 @@
 {
   "season": "2026-27",
-  "exported_at": "2026-10-28T01:47:07",
+  "exported_at": "2026-11-04T08:29:10",
   "gw_range": [
     1,
-    8
+    9
   ],
   "counts": {
-    "players": 669,
+    "players": 670,
     "clubs": 20,
     "fixtures": 380,
-    "player_fixture_rows": 5220,
+    "player_fixture_rows": 5890,
     "shots": 2192,
     "market_rows": 1062,
-    "season_stats_rows": 38379,
+    "season_stats_rows": 38565,
     "history_rows": 2112,
-    "xp_rows": 25422,
-    "transfer_rows": 1899,
+    "xp_rows": 25460,
+    "transfer_rows": 1902,
     "club_stats_rows": 2440,
-    "player_folders": 669,
-    "csv_files": 4701
+    "player_folders": 670,
+    "csv_files": 4709
   },
   "sources": [
     "fpl",

@@ -1,1 +1,2 @@
 row_key,saison_id,tm_club_id,club_name,direction,tm_id,player_name,age,position,market_value_eur,from_club,to_club,fee_eur,fee_text,fee_type,transfer_id,player_id,fetched_at,fpl_name
+2026:289:in:6,2026,289,Sunderland AFC,in,1079078,Timur Tuterov,21,Left Winger,300000.0,Sunderland AFC U21,Sunderland AFC,,-,unknown,6658969,668.0,2026-11-03T23:50:28+00:00,Tutierov
