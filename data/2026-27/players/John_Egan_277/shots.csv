@@ -3,3 +3,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 695916,31223,46,5,2026-09-19 14:00:00,45,277,Egan,,0.502,0.499,0.0053,SavedShot,OpenPlay,RightFoot,Start,a
 697979,31237,56,6,2026-10-11 13:00:00,70,277,Egan,,0.871,0.639,0.0526,MissedShots,OpenPlay,RightFoot,None,h
 701176,31258,76,8,2026-10-25 14:00:00,21,277,Egan,Regan Slater,0.962,0.603,0.0479,MissedShots,FromCorner,Head,Cross,h
+2990688675,31262,86,9,2026-10-31 15:00:00,36,277,Egan,,0.961,0.427,0.122,MissedShots,FromCorner,Head,Pass,h
+2994329383,31270,91,10,2026-11-07 15:00:00,1,277,Egan,,0.969,0.396,0.0608,MissedShots,FromCorner,Head,Pass,a

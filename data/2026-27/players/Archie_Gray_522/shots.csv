@@ -3,3 +3,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 694183,31215,37,4,2026-09-12 16:30:00,84,522,Gray,Sávio,0.928,0.432,0.0534,MissedShots,OpenPlay,Head,Aerial,h
 695665,31221,48,5,2026-09-19 11:30:00,20,522,Gray,Sávio,0.955,0.337,0.2615,SavedShot,OpenPlay,RightFoot,Pass,h
 700135,31249,70,7,2026-10-19 19:00:00,15,522,Gray,James Maddison,0.848,0.411,0.1158,BlockedShot,OpenPlay,LeftFoot,Pass,h
+2990933587,31266,90,9,2026-10-31 17:30:00,24,522,Gray,Kudus,0.957,0.591,0.1319,Goal,FromCorner,Head,Cross,h
+2994283809,31276,97,10,2026-11-07 12:30:00,93,522,Gray,Williams-Barnett,0.898,0.491,0.071,MissedShots,OpenPlay,Head,Cross,a

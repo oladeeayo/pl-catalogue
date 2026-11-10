@@ -5,3 +5,6 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 696462,31225,44,5,2026-09-20 13:00:00,84,214,Kamada,,0.953,0.402,0.3196,MissedShots,OpenPlay,Head,None,a
 697939,31236,55,6,2026-10-11 13:00:00,40,214,Kamada,Quinten Timber,0.932,0.526,0.5423,Goal,OpenPlay,LeftFoot,None,h
 701298,31257,75,8,2026-10-25 14:00:00,6,214,Kamada,Dwight McNeil,0.806,0.393,0.0668,MissedShots,OpenPlay,RightFoot,Pass,h
+2990913285,31266,90,9,2026-10-31 17:30:00,8,214,Kamada,Mateta,0.795,0.489,0.0351,SavedShot,OpenPlay,LeftFoot,Pass,a
+2995359985,31272,93,10,2026-11-08 14:00:00,32,214,Kamada,,0.935,0.493,0.227,MissedShots,OpenPlay,RightFoot,Save,h
+2995357801,31272,93,10,2026-11-08 14:00:00,37,214,Kamada,Mitchell,0.934,0.383,0.1312,SavedShot,OpenPlay,RightFoot,Cross,h

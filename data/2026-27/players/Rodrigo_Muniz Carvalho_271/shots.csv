@@ -3,3 +3,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 692396,31204,24,3,2026-09-05 14:00:00,85,271,Muniz,Ryan Sessegnon,0.883,0.56,0.0893,SavedShot,OpenPlay,LeftFoot,Pass,h
 692398,31204,24,3,2026-09-05 14:00:00,87,271,Muniz,Joshua King,0.923,0.45,0.1137,MissedShots,OpenPlay,RightFoot,Chipped,h
 700651,31253,74,8,2026-10-24 14:00:00,94,271,Muniz,Kenny Tete,0.384,0.285,0.0097,MissedShots,OpenPlay,RightFoot,BallRecovery,a
+2994504855,31274,95,10,2026-11-07 15:00:00,82,271,Muniz,,0.951,0.57,0.1407,Goal,OpenPlay,RightFoot,TakeOn,h
+2994522147,31274,95,10,2026-11-07 15:00:00,90,271,Muniz,Iwobi,0.884,0.385,0.0099,MissedShots,SetPiece,Head,Chipped,h

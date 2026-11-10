@@ -5,3 +5,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 691340,31198,18,2,2026-08-30 15:30:00,67,432,Mainoo,,0.774,0.636,0.0226,BlockedShot,OpenPlay,RightFoot,None,h
 694682,31218,39,4,2026-09-13 15:30:00,50,432,Mainoo,Bruno Fernandes,0.766,0.579,0.0227,ShotOnPost,OpenPlay,RightFoot,Pass,h
 696668,31229,50,5,2026-09-20 15:30:00,30,432,Mainoo,,0.834,0.501,0.0586,BlockedShot,FromCorner,RightFoot,Rebound,a
+2995583173,31277,98,10,2026-11-08 16:30:00,26,432,Mainoo,,0.811,0.466,0.1352,SavedShot,OpenPlay,RightFoot,Interception,h

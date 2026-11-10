@@ -13,3 +13,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 697111,31230,51,6,2026-10-10 11:30:00,41,26,Havertz,Noni Madueke,0.917,0.568,0.0927,MissedShots,OpenPlay,Head,Cross,h
 699897,31248,69,7,2026-10-18 15:30:00,36,26,Havertz,Declan Rice,0.929,0.482,0.067,MissedShots,SetPiece,Head,Aerial,a
 699898,31248,69,7,2026-10-18 15:30:00,40,26,Havertz,Martin Odegaard,0.958,0.342,0.0768,MissedShots,OpenPlay,RightFoot,Pass,a
+2991786481,31268,87,9,2026-11-01 16:30:00,15,26,Havertz,,0.963,0.555,0.6308,Goal,OpenPlay,LeftFoot,BallRecovery,a

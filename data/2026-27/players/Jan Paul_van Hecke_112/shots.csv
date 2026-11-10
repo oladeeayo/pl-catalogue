@@ -4,3 +4,9 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 692356,31203,28,3,2026-09-05 14:00:00,58,112,Van Hecke,Mathys Tel,0.977,0.394,0.0477,MissedShots,FromCorner,RightFoot,Cross,a
 694161,31215,37,4,2026-09-12 16:30:00,4,112,Van Hecke,Andrew Robertson,0.958,0.387,0.2947,MissedShots,SetPiece,RightFoot,Chipped,h
 695695,31221,48,5,2026-09-19 11:30:00,97,112,Van Hecke,Andrew Robertson,0.932,0.449,0.3565,Goal,SetPiece,Head,Chipped,h
+2990985477,31266,90,9,2026-10-31 17:30:00,46,112,Van Hecke,Robertson,0.953,0.555,0.2263,MissedShots,FromCorner,Head,Cross,h
+2990997037,31266,90,9,2026-10-31 17:30:00,56,112,Van Hecke,,0.92,0.515,0.1609,MissedShots,SetPiece,LeftFoot,Cross,h
+2991003043,31266,90,9,2026-10-31 17:30:00,60,112,Van Hecke,Van de Ven,0.721,0.421,0.0242,MissedShots,OpenPlay,RightFoot,Pass,h
+2991014323,31266,90,9,2026-10-31 17:30:00,72,112,Van Hecke,Fernandes,0.955,0.464,0.1778,SavedShot,FromCorner,Head,Aerial,h
+2991014365,31266,90,9,2026-10-31 17:30:00,72,112,Van Hecke,,0.983,0.468,0.4283,Goal,FromCorner,Head,Rebound,h
+2994279695,31276,97,10,2026-11-07 12:30:00,90,112,Van Hecke,Robertson,0.909,0.526,0.0653,SavedShot,SetPiece,Head,Aerial,a

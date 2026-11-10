@@ -5,3 +5,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 696469,31222,45,5,2026-09-20 13:00:00,19,481,Anderson,,0.746,0.48,0.0166,MissedShots,FromCorner,RightFoot,None,h
 698262,31238,58,6,2026-10-11 15:30:00,71,481,Anderson,,0.812,0.417,0.0316,MissedShots,FromCorner,LeftFoot,None,a
 698269,31238,58,6,2026-10-11 15:30:00,93,481,Anderson,Mathis Cherki,0.776,0.595,0.0153,MissedShots,FromCorner,RightFoot,TakeOn,a
+2994636351,31278,99,10,2026-11-07 17:30:00,41,481,Anderson,,0.843,0.542,0.0886,SavedShot,FromCorner,RightFoot,Pass,a

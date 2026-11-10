@@ -7,3 +7,8 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 700661,31254,71,8,2026-10-24 14:00:00,27,16,Madueke,Declan Rice,0.9,0.313,0.0756,MissedShots,OpenPlay,RightFoot,Pass,h
 700663,31254,71,8,2026-10-24 14:00:00,29,16,Madueke,,0.841,0.361,0.0642,MissedShots,OpenPlay,RightFoot,None,h
 700669,31254,71,8,2026-10-24 14:00:00,53,16,Madueke,Viktor Gyokeres,0.861,0.334,0.0686,BlockedShot,OpenPlay,RightFoot,Pass,h
+2991869379,31268,87,9,2026-11-01 16:30:00,64,16,Madueke,,0.752,0.34,0.0262,SavedShot,OpenPlay,LeftFoot,Foul,a
+2994464039,31270,91,10,2026-11-07 15:00:00,56,16,Madueke,Ødegaard,0.905,0.311,0.0416,SavedShot,OpenPlay,RightFoot,Pass,h
+2994487995,31270,91,10,2026-11-07 15:00:00,71,16,Madueke,J.Timber,0.881,0.28,0.0202,SavedShot,OpenPlay,LeftFoot,Pass,h
+2994503283,31270,91,10,2026-11-07 15:00:00,80,16,Madueke,,0.88,0.311,0.0142,SavedShot,FromCorner,RightFoot,Rebound,h
+2994529299,31270,91,10,2026-11-07 15:00:00,92,16,Madueke,,0.918,0.491,0.2933,MissedShots,OpenPlay,LeftFoot,Cross,h

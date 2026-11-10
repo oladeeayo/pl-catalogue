@@ -1,1 +1,6 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+2990669943,31261,85,9,2026-10-31 15:00:00,30,655,Gboho,,0.772,0.309,0.0201,SavedShot,OpenPlay,LeftFoot,Clearance,h
+2990760461,31261,85,9,2026-10-31 15:00:00,58,655,Gboho,,0.927,0.289,0.0327,SavedShot,OpenPlay,RightFoot,Pass,h
+2993845467,31273,94,10,2026-11-06 20:00:00,24,655,Gboho,,0.698,0.671,0.0159,MissedShots,OpenPlay,RightFoot,Pass,a
+2993879759,31273,94,10,2026-11-06 20:00:00,45,655,Gboho,,0.76,0.53,0.0467,SavedShot,OpenPlay,LeftFoot,BallRecovery,a
+2993883893,31273,94,10,2026-11-06 20:00:00,51,655,Gboho,,0.929,0.554,0.1373,Goal,OpenPlay,RightFoot,Pass,a

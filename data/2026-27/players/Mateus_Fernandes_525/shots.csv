@@ -7,3 +7,6 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 695677,31221,48,5,2026-09-19 11:30:00,49,525,Fernandes,Andrew Robertson,0.853,0.668,0.0343,MissedShots,OpenPlay,LeftFoot,Chipped,h
 700152,31249,70,7,2026-10-19 19:00:00,81,525,Fernandes,,0.77,0.5,0.0421,SavedShot,OpenPlay,RightFoot,None,h
 700841,31255,73,8,2026-10-24 16:30:00,75,525,Fernandes,,0.719,0.552,0.0149,BlockedShot,OpenPlay,RightFoot,Dispossessed,a
+2990985201,31266,90,9,2026-10-31 17:30:00,46,525,Fernandes,,0.838,0.599,0.0198,SavedShot,FromCorner,RightFoot,Cross,h
+2990987439,31266,90,9,2026-10-31 17:30:00,48,525,Fernandes,,0.803,0.282,0.0188,MissedShots,OpenPlay,RightFoot,BlockedPass,h
+2990995467,31266,90,9,2026-10-31 17:30:00,54,525,Fernandes,,0.778,0.418,0.0434,SavedShot,OpenPlay,LeftFoot,Cross,h

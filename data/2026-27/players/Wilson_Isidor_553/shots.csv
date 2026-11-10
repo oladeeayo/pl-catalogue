@@ -6,3 +6,6 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 692418,31205,22,3,2026-09-05 14:00:00,78,553,Isidor,,0.762,0.436,0.0713,SavedShot,DirectFreekick,RightFoot,Standard,a
 697458,31234,60,6,2026-10-10 14:00:00,21,553,Isidor,Enzo Le Fée,0.951,0.577,0.1155,BlockedShot,OpenPlay,RightFoot,Cross,h
 697471,31234,60,6,2026-10-10 14:00:00,74,553,Isidor,Enzo Le Fée,0.805,0.476,0.0349,BlockedShot,OpenPlay,RightFoot,Cross,h
+2990848785,31261,85,9,2026-10-31 15:00:00,96,553,Isidor,O'Nien,0.878,0.438,0.016,MissedShots,OpenPlay,OtherBodyPart,Aerial,a
+2995454909,31279,100,10,2026-11-08 14:00:00,76,553,Isidor,,0.907,0.529,0.6199,SavedShot,OpenPlay,RightFoot,Pass,h
+2995456763,31279,100,10,2026-11-08 14:00:00,77,553,Isidor,E.Le Fée,0.913,0.469,0.1029,MissedShots,FromCorner,Head,Aerial,h

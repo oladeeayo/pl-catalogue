@@ -17,3 +17,6 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 699277,31244,68,7,2026-10-17 16:30:00,68,464,Wissa,,0.902,0.551,0.0818,BlockedShot,OpenPlay,RightFoot,None,h
 699281,31244,68,7,2026-10-17 16:30:00,79,464,Wissa,Joelinton,0.906,0.363,0.0765,MissedShots,OpenPlay,RightFoot,Pass,h
 699285,31244,68,7,2026-10-17 16:30:00,84,464,Wissa,Harvey Barnes,0.88,0.378,0.12,MissedShots,OpenPlay,RightFoot,Pass,h
+2992569797,31269,89,9,2026-11-02 20:00:00,84,464,Wissa,,0.754,0.503,0.0511,SavedShot,OpenPlay,RightFoot,Clearance,h
+2992572419,31269,89,9,2026-11-02 20:00:00,89,464,Wissa,,0.906,0.536,0.3468,SavedShot,OpenPlay,RightFoot,Chipped,h
+2994462509,31274,95,10,2026-11-07 15:00:00,57,464,Wissa,,0.971,0.336,0.0434,MissedShots,OpenPlay,RightFoot,Rebound,a

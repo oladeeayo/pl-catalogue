@@ -3,3 +3,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 692373,31204,24,3,2026-09-05 14:00:00,23,254,Robinson,Shea Charles,0.793,0.691,0.0311,BlockedShot,OpenPlay,RightFoot,Pass,h
 692380,31204,24,3,2026-09-05 14:00:00,37,254,Robinson,Shea Charles,0.828,0.648,0.0458,MissedShots,OpenPlay,RightFoot,Pass,h
 694052,31214,35,4,2026-09-12 14:00:00,36,254,Robinson,Oscar Bobb,0.914,0.555,0.0465,MissedShots,OpenPlay,Head,Chipped,a
+2991153513,31267,81,9,2026-10-31 20:00:00,79,254,Robinson,,0.899,0.601,0.1505,SavedShot,OpenPlay,LeftFoot,Dispossessed,a

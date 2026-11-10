@@ -1,3 +1,4 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
 693074,31209,29,3,2026-09-06 15:30:00,60,144,Gusto,Pedro Neto,0.811,0.381,0.0382,MissedShots,OpenPlay,RightFoot,Pass,a
 694002,31212,33,4,2026-09-12 14:00:00,46,144,Gusto,Pedro Neto,0.81,0.536,0.0252,BlockedShot,FromCorner,LeftFoot,HeadPass,h
+2995449045,31279,100,10,2026-11-08 14:00:00,74,144,Gusto,Palmer,0.867,0.35,0.0574,SavedShot,OpenPlay,RightFoot,Pass,a

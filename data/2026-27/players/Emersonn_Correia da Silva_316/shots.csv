@@ -13,3 +13,7 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 699029,31243,67,7,2026-10-17 14:00:00,28,316,Emersonn,Christian Walton,0.726,0.51,0.0141,MissedShots,OpenPlay,RightFoot,Aerial,a
 699038,31243,67,7,2026-10-17 14:00:00,54,316,Emersonn,Leif Davis,0.966,0.584,0.2384,MissedShots,FromCorner,Head,Cross,a
 699042,31243,67,7,2026-10-17 14:00:00,66,316,Emersonn,Exequiel Palacios,0.893,0.311,0.0901,MissedShots,OpenPlay,RightFoot,Pass,a
+2990649515,31262,86,9,2026-10-31 15:00:00,20,316,Emersonn,,0.943,0.573,0.0687,SavedShot,FromCorner,Head,Aerial,a
+2990758677,31262,86,9,2026-10-31 15:00:00,54,316,Emersonn,Enciso,0.898,0.623,0.126,MissedShots,OpenPlay,LeftFoot,Pass,a
+2995310659,31275,96,10,2026-11-08 14:00:00,10,316,Emersonn,,0.769,0.515,0.0314,MissedShots,OpenPlay,RightFoot,Clearance,h
+2995317389,31275,96,10,2026-11-08 14:00:00,14,316,Emersonn,Davis,0.861,0.609,0.0079,MissedShots,SetPiece,Head,Pass,h

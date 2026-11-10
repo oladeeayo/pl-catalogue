@@ -2,3 +2,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 690387,31192,13,2,2026-08-29 14:00:00,20,576,Stroud,Hidemasa Morita,0.733,0.612,0.0186,MissedShots,OpenPlay,LeftFoot,Pass,a
 692580,31207,25,3,2026-09-05 16:30:00,50,576,Stroud,Lucas Gourna Douath,0.937,0.735,0.0403,MissedShots,OpenPlay,LeftFoot,Pass,h
 694003,31212,33,4,2026-09-12 14:00:00,46,576,Stroud,,0.74,0.6,0.014,MissedShots,OpenPlay,LeftFoot,Aerial,a
+2994361471,31270,91,10,2026-11-07 15:00:00,17,576,Stroud,McBurnie,0.921,0.696,0.0257,SavedShot,OpenPlay,LeftFoot,HeadPass,a
+2994384811,31270,91,10,2026-11-07 15:00:00,30,576,Stroud,,0.769,0.606,0.0229,MissedShots,FromCorner,LeftFoot,Pass,a

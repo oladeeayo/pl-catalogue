@@ -29,3 +29,11 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 700402,31251,72,8,2026-10-24 11:30:00,51,411,Haaland,Iliman Ndiaye,0.951,0.517,0.5311,Goal,SetPiece,Head,Aerial,a
 700409,31251,72,8,2026-10-24 11:30:00,88,411,Haaland,Phil Foden,0.923,0.462,0.0428,BlockedShot,OpenPlay,Head,Aerial,a
 700411,31251,72,8,2026-10-24 11:30:00,92,411,Haaland,Elliot Anderson,0.913,0.46,0.0444,SavedShot,OpenPlay,Head,Aerial,a
+2990666947,31263,88,9,2026-10-31 15:00:00,29,411,Haaland,Doku,0.914,0.579,0.0929,SavedShot,OpenPlay,LeftFoot,HeadPass,h
+2990697261,31263,88,9,2026-10-31 15:00:00,41,411,Haaland,Gvardiol,0.878,0.611,0.1286,SavedShot,OpenPlay,LeftFoot,Pass,h
+2990773235,31263,88,9,2026-10-31 15:00:00,61,411,Haaland,,0.853,0.573,0.0895,SavedShot,OpenPlay,LeftFoot,Rebound,h
+2990774333,31263,88,9,2026-10-31 15:00:00,61,411,Haaland,Enzo,0.954,0.439,0.1629,SavedShot,FromCorner,Head,Pass,h
+2994622281,31278,99,10,2026-11-07 17:30:00,31,411,Haaland,Guéhi,0.909,0.69,0.0835,SavedShot,OpenPlay,LeftFoot,Chipped,a
+2994635479,31278,99,10,2026-11-07 17:30:00,40,411,Haaland,Khusanov,0.961,0.638,0.3362,SavedShot,OpenPlay,LeftFoot,TakeOn,a
+2994642921,31278,99,10,2026-11-07 17:30:00,45,411,Haaland,Enzo,0.933,0.301,0.0082,MissedShots,FromCorner,LeftFoot,LayOff,a
+2994675615,31278,99,10,2026-11-07 17:30:00,56,411,Haaland,Matheus N.,0.854,0.527,0.0688,MissedShots,OpenPlay,RightFoot,Cross,a

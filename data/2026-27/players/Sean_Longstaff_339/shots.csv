@@ -1,3 +1,5 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
 701540,31259,80,8,2026-10-25 16:30:00,89,339,Longstaff,Ethan Ampadu,0.744,0.552,0.024,SavedShot,OpenPlay,LeftFoot,Pass,a
 701542,31259,80,8,2026-10-25 16:30:00,93,339,Longstaff,Noah Okafor,0.897,0.538,0.4154,BlockedShot,OpenPlay,LeftFoot,Pass,a
+2990801459,31264,82,9,2026-10-31 15:00:00,73,339,Longstaff,Wilson,0.754,0.542,0.0278,SavedShot,OpenPlay,LeftFoot,LayOff,a
+2994256527,31276,97,10,2026-11-07 12:30:00,74,339,Longstaff,Bogle,0.908,0.43,0.0802,SavedShot,OpenPlay,RightFoot,Cross,h

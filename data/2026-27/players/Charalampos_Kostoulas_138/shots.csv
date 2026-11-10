@@ -21,3 +21,6 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 701128,31252,78,8,2026-10-25 14:00:00,45,138,Kostoulas,Diego Gómez,0.873,0.265,0.0316,SavedShot,OpenPlay,RightFoot,Pass,a
 701130,31252,78,8,2026-10-25 14:00:00,46,138,Kostoulas,Diego Gómez,0.928,0.484,0.1094,BlockedShot,OpenPlay,RightFoot,End,a
 701138,31252,78,8,2026-10-25 14:00:00,82,138,Kostoulas,Georginio Rutter,0.955,0.598,0.1226,MissedShots,OpenPlay,RightFoot,Pass,a
+2995322887,31271,92,10,2026-11-08 14:00:00,16,138,Kostoulas,,0.807,0.501,0.142,SavedShot,OpenPlay,RightFoot,Aerial,h
+2995401525,31271,92,10,2026-11-08 14:00:00,48,138,Kostoulas,,0.883,0.53,0.0531,SavedShot,OpenPlay,Head,Aerial,h
+2995410975,31271,92,10,2026-11-08 14:00:00,54,138,Kostoulas,De Cuyper,0.943,0.654,0.0443,SavedShot,FromCorner,RightFoot,Cross,h

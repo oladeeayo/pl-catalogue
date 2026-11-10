@@ -13,3 +13,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 696418,31228,49,5,2026-09-20 13:00:00,9,368,Szoboszlai,,0.762,0.522,0.0749,MissedShots,DirectFreekick,RightFoot,Standard,a
 696425,31228,49,5,2026-09-20 13:00:00,34,368,Szoboszlai,,0.727,0.468,0.0496,MissedShots,DirectFreekick,RightFoot,Standard,a
 698994,31242,62,7,2026-10-17 14:00:00,7,368,Szoboszlai,Florian Wirtz,0.813,0.478,0.0607,MissedShots,OpenPlay,RightFoot,Pass,a
+2995317821,31272,93,10,2026-11-08 14:00:00,13,368,Szoboszlai,,0.728,0.454,0.0193,MissedShots,OpenPlay,LeftFoot,HeadPass,a

@@ -18,3 +18,7 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 701306,31257,75,8,2026-10-25 14:00:00,53,453,Barnes,Joe Willock,0.877,0.409,0.3675,BlockedShot,OpenPlay,RightFoot,BallTouch,a
 701308,31257,75,8,2026-10-25 14:00:00,57,453,Barnes,Amar Dedic,0.872,0.484,0.123,Goal,OpenPlay,RightFoot,Pass,a
 701311,31257,75,8,2026-10-25 14:00:00,67,453,Barnes,Joelinton,0.771,0.453,0.0374,MissedShots,OpenPlay,RightFoot,Pass,a
+2992520497,31269,89,9,2026-11-02 20:00:00,36,453,Barnes,Willock,0.789,0.655,0.0315,SavedShot,OpenPlay,RightFoot,Pass,h
+2994363121,31274,95,10,2026-11-07 15:00:00,18,453,Barnes,J.Murphy,0.933,0.415,0.2591,SavedShot,OpenPlay,RightFoot,Cross,a
+2994387299,31274,95,10,2026-11-07 15:00:00,31,453,Barnes,Osula,0.914,0.65,0.3534,SavedShot,OpenPlay,RightFoot,Chipped,a
+2994444497,31274,95,10,2026-11-07 15:00:00,47,453,Barnes,Wissa,0.837,0.495,0.0505,MissedShots,OpenPlay,RightFoot,Pass,a

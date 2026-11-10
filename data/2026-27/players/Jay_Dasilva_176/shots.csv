@@ -2,3 +2,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 690398,31192,13,2,2026-08-29 14:00:00,90,176,Dasilva,Milan van Ewijk,0.916,0.524,0.0954,SavedShot,OpenPlay,Head,Cross,h
 696141,31227,47,5,2026-09-19 16:30:00,24,176,Dasilva,,0.813,0.553,0.0175,MissedShots,SetPiece,LeftFoot,Aerial,a
 696156,31227,47,5,2026-09-19 16:30:00,54,176,Dasilva,Carl Rushworth,0.9,0.678,0.2845,Goal,OpenPlay,LeftFoot,Chipped,a
+2993855995,31273,94,10,2026-11-06 20:00:00,34,176,Dasilva,,0.781,0.57,0.0324,SavedShot,FromCorner,LeftFoot,Pass,a

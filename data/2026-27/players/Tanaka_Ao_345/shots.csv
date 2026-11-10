@@ -8,3 +8,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 699512,31247,66,7,2026-10-18 13:00:00,36,345,Tanaka,Dominic Calvert-Lewin,0.769,0.434,0.0117,SavedShot,OpenPlay,RightFoot,Aerial,h
 699518,31247,66,7,2026-10-18 13:00:00,55,345,Tanaka,,0.811,0.617,0.0402,MissedShots,OpenPlay,RightFoot,None,h
 701537,31259,80,8,2026-10-25 16:30:00,75,345,Tanaka,Jayden Bogle,0.807,0.56,0.0507,SavedShot,OpenPlay,LeftFoot,Pass,a
+2994160893,31276,97,10,2026-11-07 12:30:00,4,345,Tanaka,,0.741,0.566,0.0129,MissedShots,SetPiece,RightFoot,Cross,h
+2994232489,31276,97,10,2026-11-07 12:30:00,52,345,Tanaka,,0.887,0.536,0.3166,MissedShots,OpenPlay,RightFoot,Start,h

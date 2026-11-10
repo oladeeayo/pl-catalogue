@@ -8,3 +8,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 696659,31229,50,5,2026-09-20 15:30:00,23,417,Dalot,Bruno Fernandes,0.766,0.483,0.0262,MissedShots,OpenPlay,LeftFoot,Pass,a
 696682,31229,50,5,2026-09-20 15:30:00,69,417,Dalot,Bruno Fernandes,0.875,0.534,0.0448,MissedShots,SetPiece,Head,Cross,a
 701147,31256,79,8,2026-10-25 14:00:00,17,417,Dalot,Mason Mount,0.864,0.747,0.0293,MissedShots,OpenPlay,LeftFoot,Pass,h
+2995586107,31277,98,10,2026-11-08 16:30:00,28,417,Dalot,,0.718,0.483,0.0142,MissedShots,FromCorner,RightFoot,Pass,h

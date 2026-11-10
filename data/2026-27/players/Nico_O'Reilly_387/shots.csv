@@ -3,3 +3,6 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 690081,31190,11,2,2026-08-28 19:00:00,21,387,O'Reilly,,0.684,0.514,0.0096,MissedShots,OpenPlay,LeftFoot,TakeOn,a
 696492,31222,45,5,2026-09-20 13:00:00,85,387,O'Reilly,Jéremy Doku,0.912,0.52,0.55,SavedShot,OpenPlay,LeftFoot,Throughball,h
 699039,31243,67,7,2026-10-17 14:00:00,55,387,O'Reilly,Phil Foden,0.958,0.558,0.3953,MissedShots,FromCorner,Head,Cross,h
+2990790469,31263,88,9,2026-10-31 15:00:00,69,387,O'Reilly,Doku,0.906,0.556,0.063,MissedShots,FromCorner,Head,Cross,h
+2990833283,31263,88,9,2026-10-31 15:00:00,88,387,O'Reilly,,0.905,0.521,0.1156,MissedShots,OpenPlay,Head,Rebound,h
+2994669627,31278,99,10,2026-11-07 17:30:00,48,387,O'Reilly,Matheus N.,0.953,0.438,0.2335,MissedShots,OpenPlay,Head,BallTouch,a

@@ -8,3 +8,7 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 700156,31249,70,7,2026-10-19 19:00:00,91,514,Tel,Antonín Kinsky,0.903,0.733,0.0498,MissedShots,OpenPlay,RightFoot,Pass,h
 700836,31255,73,8,2026-10-24 16:30:00,54,514,Tel,Mateus Fernandes,0.933,0.544,0.1104,BlockedShot,FromCorner,Head,Cross,a
 700846,31255,73,8,2026-10-24 16:30:00,86,514,Tel,,0.74,0.593,0.0307,Goal,OpenPlay,RightFoot,TakeOn,a
+2990931209,31266,90,9,2026-10-31 17:30:00,21,514,Tel,,0.839,0.662,0.0408,SavedShot,OpenPlay,RightFoot,Tackle,h
+2990984587,31266,90,9,2026-10-31 17:30:00,45,514,Tel,Solanke,0.816,0.442,0.0613,SavedShot,OpenPlay,RightFoot,Pass,h
+2991009325,31266,90,9,2026-10-31 17:30:00,66,514,Tel,Van de Ven,0.808,0.617,0.031,MissedShots,OpenPlay,LeftFoot,Pass,h
+2991011451,31266,90,9,2026-10-31 17:30:00,69,514,Tel,Marmoush,0.899,0.66,0.1324,SavedShot,OpenPlay,RightFoot,Pass,h

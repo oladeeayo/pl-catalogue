@@ -5,3 +5,9 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 695965,31224,42,5,2026-09-19 14:00:00,92,13,Rice,Riccardo Calafiori,0.7,0.381,0.0076,MissedShots,OpenPlay,LeftFoot,None,a
 699910,31248,69,7,2026-10-18 15:30:00,71,13,Rice,Jurriën Timber,0.886,0.416,0.1103,MissedShots,OpenPlay,RightFoot,Pass,a
 700652,31254,71,8,2026-10-24 14:00:00,3,13,Rice,Ben White,0.804,0.342,0.0262,BlockedShot,OpenPlay,RightFoot,Pass,h
+2991785281,31268,87,9,2026-11-01 16:30:00,14,13,Rice,Tzolis,0.744,0.689,0.0217,MissedShots,OpenPlay,RightFoot,Cross,a
+2991799657,31268,87,9,2026-11-01 16:30:00,24,13,Rice,Ødegaard,0.855,0.354,0.0565,SavedShot,OpenPlay,RightFoot,Cross,a
+2991826563,31268,87,9,2026-11-01 16:30:00,45,13,Rice,J.Timber,0.757,0.479,0.0463,SavedShot,OpenPlay,RightFoot,LayOff,a
+2994379245,31270,91,10,2026-11-07 15:00:00,27,13,Rice,,0.788,0.395,0.0521,MissedShots,OpenPlay,RightFoot,BallRecovery,h
+2994392695,31270,91,10,2026-11-07 15:00:00,34,13,Rice,Ødegaard,0.786,0.738,0.0159,SavedShot,SetPiece,RightFoot,Pass,h
+2994417715,31270,91,10,2026-11-07 15:00:00,45,13,Rice,Madueke,0.904,0.51,0.0589,SavedShot,OpenPlay,Head,Pass,h

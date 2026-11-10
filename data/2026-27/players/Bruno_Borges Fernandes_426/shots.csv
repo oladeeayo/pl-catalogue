@@ -22,3 +22,11 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 699521,31247,66,7,2026-10-18 13:00:00,64,426,B.Fernandes,Leny Yoro,0.883,0.307,0.0549,MissedShots,OpenPlay,RightFoot,Pass,a
 699523,31247,66,7,2026-10-18 13:00:00,70,426,B.Fernandes,Diogo Dalot,0.78,0.711,0.0161,SavedShot,OpenPlay,RightFoot,Pass,a
 699527,31247,66,7,2026-10-18 13:00:00,87,426,B.Fernandes,Noussair Mazraoui,0.714,0.39,0.0164,BlockedShot,FromCorner,RightFoot,Pass,a
+2990456253,31260,84,9,2026-10-31 12:30:00,18,426,B.Fernandes,Mbeumo,0.888,0.605,0.2748,MissedShots,OpenPlay,LeftFoot,Pass,a
+2990464155,31260,84,9,2026-10-31 12:30:00,30,426,B.Fernandes,Martinez,0.916,0.303,0.0189,SavedShot,FromCorner,RightFoot,Cross,a
+2995552345,31277,98,10,2026-11-08 16:30:00,9,426,B.Fernandes,Tielemans,0.806,0.56,0.0499,MissedShots,OpenPlay,RightFoot,Pass,h
+2995563263,31277,98,10,2026-11-08 16:30:00,15,426,B.Fernandes,,0.885,0.5,0.7884,Goal,Penalty,RightFoot,Standard,h
+2995581655,31277,98,10,2026-11-08 16:30:00,25,426,B.Fernandes,,0.785,0.472,0.0901,SavedShot,OpenPlay,LeftFoot,Pass,h
+2995606765,31277,98,10,2026-11-08 16:30:00,41,426,B.Fernandes,Mazraoui,0.768,0.231,0.0192,SavedShot,OpenPlay,RightFoot,Pass,h
+2995673405,31277,98,10,2026-11-08 16:30:00,69,426,B.Fernandes,Cunha,0.824,0.752,0.0286,MissedShots,OpenPlay,RightFoot,Pass,h
+2995681533,31277,98,10,2026-11-08 16:30:00,76,426,B.Fernandes,Dorgu,0.885,0.812,0.0154,SavedShot,FromCorner,RightFoot,Pass,h

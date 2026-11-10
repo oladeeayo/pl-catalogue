@@ -5,3 +5,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 691114,31197,17,2,2026-08-30 13:00:00,70,565,M.Sangaré,,0.846,0.515,0.044,BlockedShot,OpenPlay,LeftFoot,Aerial,a
 692406,31205,22,3,2026-09-05 14:00:00,48,565,M.Sangaré,Keane Lewis-Potter,0.962,0.411,0.1057,MissedShots,OpenPlay,Head,Cross,h
 692409,31205,22,3,2026-09-05 14:00:00,52,565,M.Sangaré,Dango Ouattara,0.723,0.502,0.0165,MissedShots,OpenPlay,LeftFoot,Pass,h
+2990602117,31265,83,9,2026-10-31 15:00:00,3,565,M.Sangaré,,0.856,0.426,0.0422,MissedShots,FromCorner,RightFoot,Aerial,h
+2990659393,31265,83,9,2026-10-31 15:00:00,26,565,M.Sangaré,,0.806,0.527,0.0262,MissedShots,FromCorner,LeftFoot,Cross,h

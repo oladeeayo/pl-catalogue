@@ -1,2 +1,6 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
 701126,31252,78,8,2026-10-25 14:00:00,42,579,Araujo,Alexis Mac Allister,0.914,0.264,0.0577,SavedShot,OpenPlay,LeftFoot,Pass,h
+2991803203,31268,87,9,2026-11-01 16:30:00,27,579,Araujo,Kerkez,0.875,0.407,0.0094,SavedShot,FromCorner,Head,Aerial,h
+2991881853,31268,87,9,2026-11-01 16:30:00,76,579,Araujo,Virgil,0.952,0.562,0.1513,SavedShot,OpenPlay,RightFoot,HeadPass,h
+2995376467,31272,93,10,2026-11-08 14:00:00,47,579,Araujo,,0.97,0.521,0.7573,SavedShot,FromCorner,LeftFoot,Rebound,a
+2995416433,31272,93,10,2026-11-08 14:00:00,58,579,Araujo,Szoboszlai,0.911,0.503,0.0474,MissedShots,FromCorner,Head,BallTouch,a

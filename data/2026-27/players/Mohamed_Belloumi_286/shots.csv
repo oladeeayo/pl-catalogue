@@ -21,3 +21,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 701181,31258,76,8,2026-10-25 14:00:00,51,286,Belloumi,,0.952,0.679,0.1196,BlockedShot,OpenPlay,RightFoot,TakeOn,h
 701185,31258,76,8,2026-10-25 14:00:00,64,286,Belloumi,,0.96,0.643,0.0972,MissedShots,OpenPlay,LeftFoot,TakeOn,h
 701193,31258,76,8,2026-10-25 14:00:00,77,286,Belloumi,Semi Ajayi,0.732,0.549,0.0916,MissedShots,OpenPlay,LeftFoot,TakeOn,h
+2990823625,31262,86,9,2026-10-31 15:00:00,83,286,Belloumi,,0.799,0.406,0.0743,SavedShot,OpenPlay,LeftFoot,Pass,h

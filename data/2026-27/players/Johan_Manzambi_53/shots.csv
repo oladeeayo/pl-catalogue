@@ -14,3 +14,6 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 699269,31244,68,7,2026-10-17 16:30:00,35,53,Manzambi,João Gomes,0.943,0.546,0.4279,Goal,OpenPlay,Head,Cross,a
 699272,31244,68,7,2026-10-17 16:30:00,53,53,Manzambi,,0.877,0.309,0.0607,BlockedShot,OpenPlay,LeftFoot,None,a
 700398,31251,72,8,2026-10-24 11:30:00,33,53,Manzambi,,0.811,0.669,0.0873,MissedShots,DirectFreekick,RightFoot,Standard,h
+2991078457,31267,81,9,2026-10-31 20:00:00,6,53,Manzambi,,0.843,0.601,0.0779,SavedShot,OpenPlay,RightFoot,Pass,h
+2991105589,31267,81,9,2026-10-31 20:00:00,34,53,Manzambi,Alysson,0.765,0.673,0.021,SavedShot,OpenPlay,RightFoot,Pass,h
+2995661627,31277,98,10,2026-11-08 16:30:00,59,53,Manzambi,N.Jackson,0.827,0.564,0.1114,SavedShot,OpenPlay,RightFoot,Pass,a

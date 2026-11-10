@@ -3,3 +3,6 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 688623,31183,5,1,2026-08-22 14:00:00,46,534,Hume,Reinildo,0.918,0.384,0.0338,MissedShots,OpenPlay,Head,Cross,a
 696495,31222,45,5,2026-09-20 13:00:00,90,534,Hume,Enzo Le Fée,0.937,0.564,0.0973,MissedShots,FromCorner,Head,Cross,a
 699581,31246,61,7,2026-10-18 13:00:00,79,534,Hume,,0.855,0.342,0.0427,MissedShots,SetPiece,RightFoot,None,a
+2990634955,31261,85,9,2026-10-31 15:00:00,15,534,Hume,,0.857,0.421,0.1195,MissedShots,FromCorner,RightFoot,Pass,a
+2995316675,31279,100,10,2026-11-08 14:00:00,12,534,Hume,Talbi,0.865,0.457,0.0668,SavedShot,OpenPlay,LeftFoot,Cross,h
+2995348999,31279,100,10,2026-11-08 14:00:00,31,534,Hume,,0.911,0.448,0.2485,MissedShots,OpenPlay,LeftFoot,Pass,h

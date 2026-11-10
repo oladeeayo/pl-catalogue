@@ -1,1 +1,3 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+2990458169,31260,84,9,2026-10-31 12:30:00,21,151,Acheampong,Estêvão,0.922,0.274,0.042,SavedShot,OpenPlay,RightFoot,Pass,h
+2990515497,31260,84,9,2026-10-31 12:30:00,68,151,Acheampong,Palmer,0.769,0.671,0.0186,SavedShot,FromCorner,LeftFoot,Pass,h

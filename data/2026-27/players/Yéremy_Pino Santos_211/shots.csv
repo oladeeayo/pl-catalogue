@@ -8,3 +8,9 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 697950,31236,55,6,2026-10-11 13:00:00,58,211,Yeremy,,0.921,0.563,0.4048,Goal,OpenPlay,RightFoot,Rebound,h
 699537,31245,63,7,2026-10-18 13:00:00,19,211,Yeremy,,0.751,0.627,0.0548,BlockedShot,DirectFreekick,RightFoot,Standard,a
 701317,31257,75,8,2026-10-25 14:00:00,90,211,Yeremy,Darío Osorio,0.766,0.542,0.0292,BlockedShot,OpenPlay,RightFoot,Pass,h
+2995324345,31272,93,10,2026-11-08 14:00:00,17,211,Yeremy,Mitchell,0.894,0.589,0.0826,ShotOnPost,OpenPlay,LeftFoot,Pass,h
+2995324641,31272,93,10,2026-11-08 14:00:00,17,211,Yeremy,,0.933,0.609,0.0395,SavedShot,OpenPlay,Head,Aerial,h
+2995348565,31272,93,10,2026-11-08 14:00:00,32,211,Yeremy,,0.886,0.685,0.058,MissedShots,OpenPlay,LeftFoot,Pass,h
+2995368627,31272,93,10,2026-11-08 14:00:00,43,211,Yeremy,,0.828,0.697,0.0197,SavedShot,FromCorner,LeftFoot,Pass,h
+2995439303,31272,93,10,2026-11-08 14:00:00,73,211,Yeremy,Lerma,0.765,0.628,0.0253,SavedShot,OpenPlay,RightFoot,Pass,h
+2995445581,31272,93,10,2026-11-08 14:00:00,76,211,Yeremy,,0.915,0.478,0.3957,SavedShot,OpenPlay,RightFoot,BallRecovery,h

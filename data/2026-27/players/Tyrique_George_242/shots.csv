@@ -10,3 +10,8 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 694175,31215,37,4,2026-09-12 16:30:00,53,242,George,,0.9,0.676,0.0433,BlockedShot,FromCorner,LeftFoot,None,a
 696024,31226,43,5,2026-09-19 14:00:00,88,242,George,Tyler Dibling,0.772,0.633,0.0219,BlockedShot,OpenPlay,RightFoot,Chipped,h
 700657,31254,71,8,2026-10-24 14:00:00,16,242,George,Kiernan Dewsbury-Hall,0.901,0.727,0.0365,BlockedShot,OpenPlay,RightFoot,Pass,a
+2992511369,31269,89,9,2026-11-02 20:00:00,25,242,George,Tarkowski,0.734,0.664,0.0213,MissedShots,OpenPlay,RightFoot,Pass,a
+2992544931,31269,89,9,2026-11-02 20:00:00,48,242,George,Dewsbury-Hall,0.914,0.683,0.1006,SavedShot,SetPiece,RightFoot,Pass,a
+2993827141,31273,94,10,2026-11-06 20:00:00,9,242,George,,0.825,0.709,0.0262,SavedShot,OpenPlay,RightFoot,Aerial,h
+2993896917,31273,94,10,2026-11-06 20:00:00,78,242,George,Johnson,0.727,0.64,0.0214,MissedShots,OpenPlay,RightFoot,Pass,h
+2993898593,31273,94,10,2026-11-06 20:00:00,83,242,George,,0.921,0.705,0.0227,SavedShot,OpenPlay,LeftFoot,Pass,h

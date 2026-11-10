@@ -2,3 +2,7 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 694272,31216,36,4,2026-09-12 19:00:00,57,452,Bruno G.,Declan Rice,0.772,0.522,0.0313,Goal,OpenPlay,RightFoot,Pass,a
 694277,31216,36,4,2026-09-12 19:00:00,74,452,Bruno G.,Kai Havertz,0.876,0.717,0.0504,MissedShots,OpenPlay,RightFoot,Pass,a
 697122,31230,51,6,2026-10-10 11:30:00,69,452,Bruno G.,Declan Rice,0.822,0.523,0.0588,Goal,OpenPlay,RightFoot,Pass,h
+2991797987,31268,87,9,2026-11-01 16:30:00,23,452,Bruno G.,Madueke,0.859,0.321,0.0329,MissedShots,OpenPlay,RightFoot,Pass,a
+2991858285,31268,87,9,2026-11-01 16:30:00,54,452,Bruno G.,Madueke,0.847,0.28,0.0469,MissedShots,OpenPlay,RightFoot,Pass,a
+2994448407,31270,91,10,2026-11-07 15:00:00,48,452,Bruno G.,,0.867,0.29,0.0279,SavedShot,SetPiece,RightFoot,Clearance,h
+2994458809,31270,91,10,2026-11-07 15:00:00,54,452,Bruno G.,Tzolis,0.762,0.513,0.0494,SavedShot,OpenPlay,RightFoot,Pass,h

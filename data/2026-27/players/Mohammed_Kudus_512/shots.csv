@@ -8,3 +8,7 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 700151,31249,70,7,2026-10-19 19:00:00,79,512,Kudus,Archie Gray,0.849,0.276,0.0405,MissedShots,OpenPlay,LeftFoot,Pass,h
 700827,31255,73,8,2026-10-24 16:30:00,19,512,Kudus,Mathys Tel,0.929,0.286,0.0334,MissedShots,FromCorner,LeftFoot,Cross,a
 700829,31255,73,8,2026-10-24 16:30:00,30,512,Kudus,Mathys Tel,0.953,0.717,0.0492,SavedShot,OpenPlay,LeftFoot,Pass,a
+2990931755,31266,90,9,2026-10-31 17:30:00,22,512,Kudus,Tel,0.971,0.385,0.2039,MissedShots,OpenPlay,RightFoot,Pass,h
+2990948177,31266,90,9,2026-10-31 17:30:00,32,512,Kudus,Gray,0.909,0.388,0.0055,MissedShots,FromCorner,OtherBodyPart,HeadPass,h
+2991030365,31266,90,9,2026-10-31 17:30:00,89,512,Kudus,Williams-Barnett,0.964,0.427,0.5505,MissedShots,OpenPlay,LeftFoot,Pass,h
+2994180823,31276,97,10,2026-11-07 12:30:00,26,512,Kudus,Pedro Porro,0.738,0.436,0.0362,SavedShot,OpenPlay,LeftFoot,Pass,a

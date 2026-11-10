@@ -15,3 +15,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 701132,31252,78,8,2026-10-25 14:00:00,56,367,Gakpo,Florian Wirtz,0.952,0.603,0.0497,BlockedShot,FromCorner,Head,Cross,h
 701136,31252,78,8,2026-10-25 14:00:00,66,367,Gakpo,Alexander Isak,0.883,0.576,0.1346,BlockedShot,OpenPlay,RightFoot,Pass,h
 701139,31252,78,8,2026-10-25 14:00:00,84,367,Gakpo,Milos Kerkez,0.712,0.569,0.0148,MissedShots,OpenPlay,RightFoot,Pass,h
+2991801281,31268,87,9,2026-11-01 16:30:00,26,367,Gakpo,Mac Allister,0.887,0.389,0.0422,SavedShot,SetPiece,RightFoot,Pass,h

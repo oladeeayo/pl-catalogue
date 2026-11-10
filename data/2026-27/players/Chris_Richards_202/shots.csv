@@ -3,3 +3,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 692367,31204,24,3,2026-09-05 14:00:00,17,202,Richards,Axel Disasi,0.819,0.501,0.0335,SavedShot,FromCorner,RightFoot,Pass,a
 697957,31236,55,6,2026-10-11 13:00:00,91,202,Richards,Adam Wharton,0.917,0.459,0.0829,MissedShots,FromCorner,Head,Cross,h
 701313,31257,75,8,2026-10-25 14:00:00,70,202,Richards,Adam Wharton,0.909,0.568,0.0532,MissedShots,FromCorner,Head,Cross,h
+2995466559,31272,93,10,2026-11-08 14:00:00,85,202,Richards,,0.926,0.562,0.0592,MissedShots,FromCorner,Head,Pass,h

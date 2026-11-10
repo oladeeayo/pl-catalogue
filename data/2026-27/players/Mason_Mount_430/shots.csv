@@ -4,3 +4,6 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 701161,31256,79,8,2026-10-25 14:00:00,72,430,Mount,,0.907,0.705,0.019,MissedShots,FromCorner,RightFoot,Aerial,h
 701169,31256,79,8,2026-10-25 14:00:00,92,430,Mount,Bryan Mbeumo,0.756,0.269,0.0093,MissedShots,OpenPlay,RightFoot,Pass,h
 701170,31256,79,8,2026-10-25 14:00:00,94,430,Mount,Andrey Santos,0.764,0.59,0.0163,SavedShot,OpenPlay,RightFoot,Pass,h
+2995696805,31277,98,10,2026-11-08 16:30:00,88,430,Mount,,0.916,0.528,0.5151,ShotOnPost,OpenPlay,LeftFoot,CornerAwarded,h
+2995703433,31277,98,10,2026-11-08 16:30:00,93,430,Mount,,0.85,0.505,0.1399,MissedShots,OpenPlay,LeftFoot,Cross,h
+2995705035,31277,98,10,2026-11-08 16:30:00,95,430,Mount,,0.912,0.437,0.0576,MissedShots,OpenPlay,Head,Cross,h

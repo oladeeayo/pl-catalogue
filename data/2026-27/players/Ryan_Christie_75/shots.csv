@@ -7,3 +7,7 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 699572,31246,61,7,2026-10-18 13:00:00,51,75,Christie,Adrien Truffert,0.869,0.515,0.1196,BlockedShot,OpenPlay,RightFoot,Cross,h
 699574,31246,61,7,2026-10-18 13:00:00,56,75,Christie,Evanilson,0.878,0.601,0.0893,BlockedShot,OpenPlay,LeftFoot,None,h
 699577,31246,61,7,2026-10-18 13:00:00,61,75,Christie,Lewis Cook,0.941,0.652,0.0135,MissedShots,FromCorner,Head,Cross,h
+2990634945,31264,82,9,2026-10-31 15:00:00,16,75,Christie,,0.807,0.467,0.0745,SavedShot,OpenPlay,LeftFoot,BlockedPass,h
+2995324105,31275,96,10,2026-11-08 14:00:00,17,75,Christie,Tavernier,0.961,0.388,0.0426,MissedShots,FromCorner,Head,Pass,a
+2995335809,31275,96,10,2026-11-08 14:00:00,24,75,Christie,Rayan,0.761,0.529,0.0306,MissedShots,OpenPlay,LeftFoot,Pass,a
+2995391617,31275,96,10,2026-11-08 14:00:00,45,75,Christie,,0.899,0.634,0.0576,SavedShot,OpenPlay,LeftFoot,Pass,a

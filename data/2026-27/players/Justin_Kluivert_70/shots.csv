@@ -12,3 +12,6 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 699584,31246,61,7,2026-10-18 13:00:00,89,70,Kluivert,Ben Doak,0.913,0.447,0.1442,BlockedShot,OpenPlay,RightFoot,Pass,h
 699585,31246,61,7,2026-10-18 13:00:00,90,70,Kluivert,,0.957,0.658,0.0784,MissedShots,OpenPlay,RightFoot,None,h
 699586,31246,61,7,2026-10-18 13:00:00,91,70,Kluivert,,0.872,0.609,0.4137,MissedShots,OpenPlay,LeftFoot,None,h
+2990786823,31264,82,9,2026-10-31 15:00:00,65,70,Kluivert,Rayan,0.875,0.417,0.0405,SavedShot,OpenPlay,LeftFoot,Pass,h
+2995357489,31275,96,10,2026-11-08 14:00:00,38,70,Kluivert,,0.685,0.409,0.0162,SavedShot,OpenPlay,RightFoot,Pass,a
+2995392163,31275,96,10,2026-11-08 14:00:00,46,70,Kluivert,Rayan,0.962,0.3,0.016,SavedShot,OpenPlay,RightFoot,Pass,a

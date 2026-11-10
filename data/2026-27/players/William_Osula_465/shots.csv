@@ -5,3 +5,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 699274,31244,68,7,2026-10-17 16:30:00,65,465,Osula,Lewis Miley,0.902,0.543,0.0717,MissedShots,OpenPlay,Head,Cross,h
 701299,31257,75,8,2026-10-25 14:00:00,8,465,Osula,,0.796,0.501,0.0456,BlockedShot,OpenPlay,RightFoot,BallRecovery,a
 701305,31257,75,8,2026-10-25 14:00:00,46,465,Osula,Jacob Murphy,0.943,0.462,0.508,Goal,OpenPlay,LeftFoot,Cross,a
+2992569193,31269,89,9,2026-11-02 20:00:00,83,465,Osula,J.Murphy,0.874,0.458,0.0455,MissedShots,OpenPlay,Head,Pass,h

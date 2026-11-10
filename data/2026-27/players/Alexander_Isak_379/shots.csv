@@ -19,3 +19,8 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 701118,31252,78,8,2026-10-25 14:00:00,18,379,Isak,,0.859,0.356,0.0736,MissedShots,OpenPlay,RightFoot,BallRecovery,h
 701119,31252,78,8,2026-10-25 14:00:00,20,379,Isak,Bradley Barcola,0.948,0.447,0.5952,Goal,OpenPlay,LeftFoot,Pass,h
 701120,31252,78,8,2026-10-25 14:00:00,26,379,Isak,Cody Gakpo,0.889,0.283,0.0984,BlockedShot,OpenPlay,LeftFoot,Pass,h
+2991812811,31268,87,9,2026-11-01 16:30:00,35,379,Isak,,0.867,0.646,0.0518,MissedShots,OpenPlay,LeftFoot,Pass,h
+2991859019,31268,87,9,2026-11-01 16:30:00,55,379,Isak,Kerkez,0.912,0.689,0.052,MissedShots,OpenPlay,LeftFoot,Pass,h
+2995297909,31272,93,10,2026-11-08 14:00:00,3,379,Isak,,0.91,0.652,0.0545,SavedShot,OpenPlay,LeftFoot,Chipped,a
+2995466061,31272,93,10,2026-11-08 14:00:00,86,379,Isak,,0.849,0.468,0.3058,SavedShot,OpenPlay,RightFoot,Pass,a
+2995470719,31272,93,10,2026-11-08 14:00:00,88,379,Isak,Wirtz,0.918,0.587,0.1465,Goal,OpenPlay,RightFoot,BallRecovery,a

@@ -1,2 +1,3 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
 688554,31181,4,1,2026-08-22 11:30:00,66,422,Mazraoui,Luke Shaw,0.957,0.431,0.0906,MissedShots,OpenPlay,RightFoot,Cross,a
+2995585345,31277,98,10,2026-11-08 16:30:00,28,422,Mazraoui,B.Fernandes,0.857,0.273,0.0173,SavedShot,OpenPlay,RightFoot,Pass,h

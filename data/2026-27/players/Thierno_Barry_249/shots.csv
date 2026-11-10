@@ -26,3 +26,12 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 698811,31240,64,7,2026-10-17 11:30:00,87,249,Barry,Vitalii Mykolenko,0.908,0.462,0.0408,SavedShot,OpenPlay,Head,Aerial,h
 700666,31254,71,8,2026-10-24 14:00:00,43,249,Barry,,0.88,0.601,0.364,SavedShot,OpenPlay,RightFoot,None,a
 700677,31254,71,8,2026-10-24 14:00:00,94,249,Barry,Harrison Armstrong,0.917,0.333,0.095,BlockedShot,OpenPlay,RightFoot,Throughball,a
+2992509841,31269,89,9,2026-11-02 20:00:00,23,249,Barry,Branthwaite,0.917,0.53,0.2023,MissedShots,SetPiece,LeftFoot,HeadPass,a
+2992513333,31269,89,9,2026-11-02 20:00:00,27,249,Barry,,0.908,0.577,0.0929,MissedShots,OpenPlay,RightFoot,Card,a
+2992544973,31269,89,9,2026-11-02 20:00:00,48,249,Barry,,0.988,0.496,0.9948,Goal,SetPiece,RightFoot,Rebound,a
+2993826381,31273,94,10,2026-11-06 20:00:00,8,249,Barry,George,0.962,0.327,0.0505,SavedShot,OpenPlay,RightFoot,Pass,h
+2993886373,31273,94,10,2026-11-06 20:00:00,55,249,Barry,,0.929,0.464,0.2166,Goal,OpenPlay,Head,Clearance,h
+2993887545,31273,94,10,2026-11-06 20:00:00,57,249,Barry,Dewsbury-Hall,0.912,0.539,0.0443,MissedShots,SetPiece,OtherBodyPart,Rebound,h
+2993889035,31273,94,10,2026-11-06 20:00:00,60,249,Barry,,0.977,0.451,0.2503,Goal,OpenPlay,LeftFoot,Cross,h
+2993890001,31273,94,10,2026-11-06 20:00:00,60,249,Barry,George,0.967,0.452,0.1224,MissedShots,OpenPlay,OtherBodyPart,Pass,h
+2993898603,31273,94,10,2026-11-06 20:00:00,83,249,Barry,,0.921,0.546,0.2339,MissedShots,OpenPlay,Head,Dispossessed,h

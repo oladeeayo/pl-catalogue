@@ -1,2 +1,6 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
 699280,31244,68,7,2026-10-17 16:30:00,77,618,Goretzka,,0.798,0.387,0.05,BlockedShot,OpenPlay,RightFoot,None,a
+2991078013,31267,81,9,2026-10-31 20:00:00,6,618,Goretzka,McGinn,0.899,0.454,0.0374,MissedShots,FromCorner,Head,Cross,h
+2991085117,31267,81,9,2026-10-31 20:00:00,11,618,Goretzka,McGinn,0.904,0.481,0.044,SavedShot,FromCorner,Head,Pass,h
+2991092983,31267,81,9,2026-10-31 20:00:00,21,618,Goretzka,Kamara,0.809,0.37,0.0424,SavedShot,OpenPlay,RightFoot,BallRecovery,h
+2995650999,31277,98,10,2026-11-08 16:30:00,52,618,Goretzka,,0.975,0.468,0.2663,Goal,SetPiece,LeftFoot,TakeOn,a

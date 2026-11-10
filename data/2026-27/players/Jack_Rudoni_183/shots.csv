@@ -9,3 +9,10 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 700139,31249,70,7,2026-10-19 19:00:00,48,183,Rudoni,Caleb Yirenkyi,0.94,0.745,0.0678,MissedShots,OpenPlay,RightFoot,Pass,a
 700140,31249,70,7,2026-10-19 19:00:00,48,183,Rudoni,Brandon Thomas-Asante,0.961,0.605,0.5622,Goal,OpenPlay,RightFoot,BallTouch,a
 700641,31253,74,8,2026-10-24 14:00:00,51,183,Rudoni,,0.786,0.285,0.0556,BlockedShot,DirectFreekick,LeftFoot,Standard,h
+2990706675,31261,85,9,2026-10-31 15:00:00,44,183,Rudoni,,0.911,0.342,0.0358,MissedShots,OpenPlay,LeftFoot,HeadPass,h
+2990744305,31261,85,9,2026-10-31 15:00:00,51,183,Rudoni,,0.79,0.656,0.0468,Goal,OpenPlay,LeftFoot,Pass,h
+2990803443,31261,85,9,2026-10-31 15:00:00,77,183,Rudoni,,0.797,0.477,0.0598,SavedShot,OpenPlay,RightFoot,TakeOn,h
+2990844387,31261,85,9,2026-10-31 15:00:00,94,183,Rudoni,,0.792,0.285,0.0459,SavedShot,DirectFreekick,LeftFoot,Standard,h
+2993841033,31273,94,10,2026-11-06 20:00:00,20,183,Rudoni,,0.878,0.528,0.0451,MissedShots,OpenPlay,Head,Cross,a
+2993861345,31273,94,10,2026-11-06 20:00:00,40,183,Rudoni,Awoniyi,0.793,0.351,0.0311,MissedShots,OpenPlay,RightFoot,Pass,a
+2993887717,31273,94,10,2026-11-06 20:00:00,58,183,Rudoni,,0.858,0.33,0.0418,SavedShot,OpenPlay,RightFoot,Cross,a

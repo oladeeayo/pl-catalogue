@@ -25,3 +25,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 701149,31256,79,8,2026-10-25 14:00:00,37,67,Rayan,Justin Kluivert,0.925,0.634,0.1789,Goal,SetPiece,LeftFoot,Cross,a
 701153,31256,79,8,2026-10-25 14:00:00,49,67,Rayan,Justin Kluivert,0.907,0.342,0.2493,SavedShot,OpenPlay,LeftFoot,Pass,a
 701157,31256,79,8,2026-10-25 14:00:00,65,67,Rayan,Marcus Tavernier,0.906,0.357,0.4566,MissedShots,OpenPlay,RightFoot,TakeOn,a
+2990786939,31264,82,9,2026-10-31 15:00:00,65,67,Rayan,,0.908,0.318,0.0539,MissedShots,OpenPlay,LeftFoot,Rebound,h
+2995333637,31275,96,10,2026-11-08 14:00:00,23,67,Rayan,,0.848,0.339,0.0228,MissedShots,OpenPlay,LeftFoot,Aerial,a

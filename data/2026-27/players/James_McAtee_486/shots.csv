@@ -12,3 +12,7 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 699902,31248,69,7,2026-10-18 15:30:00,47,486,McAtee,,0.753,0.527,0.0234,MissedShots,OpenPlay,LeftFoot,BallTouch,h
 699903,31248,69,7,2026-10-18 15:30:00,48,486,McAtee,,0.757,0.531,0.0699,MissedShots,DirectFreekick,LeftFoot,Standard,h
 700349,31250,77,8,2026-10-23 19:00:00,75,486,McAtee,Xaver Schlager,0.696,0.38,0.0122,SavedShot,OpenPlay,LeftFoot,Pass,a
+2990616391,31265,83,9,2026-10-31 15:00:00,9,486,McAtee,,0.766,0.732,0.0235,SavedShot,OpenPlay,LeftFoot,Cross,a
+2990654261,31265,83,9,2026-10-31 15:00:00,23,486,McAtee,,0.851,0.365,0.094,MissedShots,OpenPlay,LeftFoot,CornerAwarded,a
+2990805289,31265,83,9,2026-10-31 15:00:00,78,486,McAtee,Muñoz,0.76,0.417,0.0277,SavedShot,OpenPlay,LeftFoot,Pass,a
+2994609187,31278,99,10,2026-11-07 17:30:00,19,486,McAtee,Gibbs-White,0.847,0.518,0.2062,MissedShots,OpenPlay,LeftFoot,Pass,h

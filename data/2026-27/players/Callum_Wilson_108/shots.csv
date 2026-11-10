@@ -2,3 +2,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 688763,31185,2,1,2026-08-22 16:30:00,90,108,Wilson,Mikkel Damsgaard,0.963,0.342,0.0847,BlockedShot,OpenPlay,RightFoot,Pass,h
 691125,31197,17,2,2026-08-30 13:00:00,90,108,Wilson,,0.844,0.461,0.0666,BlockedShot,OpenPlay,RightFoot,None,a
 701195,31258,76,8,2026-10-25 14:00:00,89,108,Wilson,Mikkel Damsgaard,0.862,0.671,0.0464,BlockedShot,OpenPlay,LeftFoot,Pass,a
+2990838481,31265,83,9,2026-10-31 15:00:00,92,108,Wilson,Lewis-Potter,0.87,0.605,0.0237,MissedShots,SetPiece,Head,Cross,h

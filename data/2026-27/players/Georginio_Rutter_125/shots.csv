@@ -4,3 +4,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 695961,31224,42,5,2026-09-19 14:00:00,79,125,Georginio,Maxim De Cuyper,0.908,0.638,0.0669,MissedShots,FromCorner,RightFoot,Rebound,h
 699552,31245,63,7,2026-10-18 13:00:00,73,125,Georginio,Maxim De Cuyper,0.763,0.606,0.0347,SavedShot,OpenPlay,RightFoot,Pass,h
 701142,31252,78,8,2026-10-25 14:00:00,91,125,Georginio,Maxim De Cuyper,0.909,0.739,0.034,BlockedShot,OpenPlay,RightFoot,Pass,a
+2990827015,31263,88,9,2026-10-31 15:00:00,85,125,Georginio,,0.915,0.699,0.04,SavedShot,OpenPlay,RightFoot,Interception,a

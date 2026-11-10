@@ -1,3 +1,5 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
 699560,31246,61,7,2026-10-18 13:00:00,21,60,Hill,António Silva,0.766,0.243,0.0182,MissedShots,OpenPlay,RightFoot,Pass,h
 699561,31246,61,7,2026-10-18 13:00:00,21,60,Hill,Marcus Tavernier,0.772,0.413,0.0329,MissedShots,OpenPlay,RightFoot,Pass,h
+2990690805,31264,82,9,2026-10-31 15:00:00,39,60,Hill,Kluivert,0.945,0.34,0.0136,SavedShot,FromCorner,Head,Pass,h
+2995410723,31275,96,10,2026-11-08 14:00:00,58,60,Hill,,0.977,0.405,0.3484,MissedShots,SetPiece,Head,Rebound,a

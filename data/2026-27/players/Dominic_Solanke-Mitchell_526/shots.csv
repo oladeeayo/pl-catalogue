@@ -11,3 +11,7 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 700133,31249,70,7,2026-10-19 19:00:00,11,526,Solanke,,0.833,0.429,0.0561,BlockedShot,OpenPlay,RightFoot,None,h
 700138,31249,70,7,2026-10-19 19:00:00,38,526,Solanke,Sandro Tonali,0.911,0.592,0.1431,MissedShots,OpenPlay,LeftFoot,Throughball,h
 700147,31249,70,7,2026-10-19 19:00:00,63,526,Solanke,Jan Paul van Hecke,0.892,0.415,0.1421,BlockedShot,OpenPlay,LeftFoot,TakeOn,h
+2990924159,31266,90,9,2026-10-31 17:30:00,16,526,Solanke,Marmoush,0.844,0.624,0.0321,SavedShot,OpenPlay,RightFoot,Pass,h
+2990935777,31266,90,9,2026-10-31 17:30:00,26,526,Solanke,,0.942,0.515,0.1864,MissedShots,SetPiece,Head,Clearance,h
+2990989541,31266,90,9,2026-10-31 17:30:00,50,526,Solanke,Pedro Porro,0.849,0.481,0.0851,SavedShot,OpenPlay,RightFoot,Pass,h
+2990999875,31266,90,9,2026-10-31 17:30:00,58,526,Solanke,Tel,0.853,0.575,0.0598,SavedShot,OpenPlay,LeftFoot,Pass,h

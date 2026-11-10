@@ -12,3 +12,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 700144,31249,70,7,2026-10-19 19:00:00,54,455,Tonali,,0.79,0.503,0.0388,MissedShots,OpenPlay,LeftFoot,None,h
 700833,31255,73,8,2026-10-24 16:30:00,37,455,Tonali,,0.769,0.487,0.0204,MissedShots,OpenPlay,RightFoot,Rebound,a
 700845,31255,73,8,2026-10-24 16:30:00,84,455,Tonali,,0.834,0.402,0.0576,MissedShots,OpenPlay,RightFoot,Rebound,a
+2991016563,31266,90,9,2026-10-31 17:30:00,75,455,Tonali,,0.772,0.348,0.0342,MissedShots,OpenPlay,RightFoot,Pass,h

@@ -3,3 +3,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 696021,31226,43,5,2026-09-19 14:00:00,84,318,Philogene,Zian Flemming,0.787,0.703,0.0189,BlockedShot,OpenPlay,RightFoot,Pass,a
 697360,31233,57,6,2026-10-10 14:00:00,18,318,Philogene,Sasa Lukic,0.881,0.752,0.0326,SavedShot,OpenPlay,RightFoot,Pass,h
 700336,31250,77,8,2026-10-23 19:00:00,25,318,Philogene,Emersonn,0.892,0.519,0.3621,SavedShot,OpenPlay,RightFoot,HeadPass,h
+2990765031,31262,86,9,2026-10-31 15:00:00,57,318,Philogene,Enciso,0.723,0.576,0.0265,SavedShot,OpenPlay,RightFoot,Pass,a
+2995313033,31275,96,10,2026-11-08 14:00:00,11,318,Philogene,,0.774,0.507,0.0413,SavedShot,OpenPlay,RightFoot,Pass,h

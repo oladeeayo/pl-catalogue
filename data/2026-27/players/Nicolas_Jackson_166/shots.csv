@@ -18,3 +18,7 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 700391,31251,72,8,2026-10-24 11:30:00,5,166,N.Jackson,John McGinn,0.939,0.658,0.1233,Goal,OpenPlay,RightFoot,TakeOn,h
 700394,31251,72,8,2026-10-24 11:30:00,18,166,N.Jackson,,0.771,0.372,0.0652,MissedShots,OpenPlay,RightFoot,None,h
 700405,31251,72,8,2026-10-24 11:30:00,59,166,N.Jackson,Ibrahim Mbaye,0.845,0.457,0.0817,Goal,OpenPlay,RightFoot,Pass,h
+2991108927,31267,81,9,2026-10-31 20:00:00,38,166,N.Jackson,,0.914,0.566,0.2889,Goal,OpenPlay,RightFoot,TakeOn,h
+2991129845,31267,81,9,2026-10-31 20:00:00,48,166,N.Jackson,McGinn,0.844,0.673,0.0375,SavedShot,OpenPlay,RightFoot,Chipped,h
+2995540141,31277,98,10,2026-11-08 16:30:00,3,166,N.Jackson,,0.973,0.487,0.8831,Goal,SetPiece,RightFoot,Clearance,a
+2995651291,31277,98,10,2026-11-08 16:30:00,52,166,N.Jackson,,0.973,0.508,0.4125,MissedShots,SetPiece,LeftFoot,Rebound,a

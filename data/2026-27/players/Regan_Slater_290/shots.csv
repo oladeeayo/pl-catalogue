@@ -6,3 +6,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 699062,31241,65,7,2026-10-17 14:00:00,42,290,Slater,,0.793,0.421,0.0334,MissedShots,OpenPlay,RightFoot,None,a
 701187,31258,76,8,2026-10-25 14:00:00,69,290,Slater,Oliver McBurnie,0.711,0.526,0.0142,MissedShots,OpenPlay,RightFoot,Pass,h
 701189,31258,76,8,2026-10-25 14:00:00,70,290,Slater,Mohamed Ali-Cho,0.786,0.697,0.0175,BlockedShot,OpenPlay,RightFoot,Pass,h
+2990814401,31262,86,9,2026-10-31 15:00:00,79,290,Slater,,0.847,0.488,0.0144,MissedShots,OpenPlay,Head,Foul,h

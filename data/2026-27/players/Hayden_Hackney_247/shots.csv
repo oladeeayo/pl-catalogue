@@ -2,3 +2,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 688598,31182,3,1,2026-08-22 14:00:00,48,247,Hackney,Tyrique George,0.895,0.756,0.0381,BlockedShot,FromCorner,RightFoot,Pass,h
 692881,31208,30,3,2026-09-06 13:00:00,93,247,Hackney,Tyrique George,0.907,0.726,0.045,MissedShots,OpenPlay,RightFoot,Pass,h
 700675,31254,71,8,2026-10-24 14:00:00,88,247,Hackney,Tyrique George,0.703,0.599,0.0091,SavedShot,OpenPlay,RightFoot,Pass,a
+2993902123,31273,94,10,2026-11-06 20:00:00,95,247,Hackney,,0.868,0.54,0.0485,SavedShot,OpenPlay,Head,TakeOn,h

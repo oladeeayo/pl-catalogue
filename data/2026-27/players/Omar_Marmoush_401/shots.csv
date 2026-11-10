@@ -12,3 +12,9 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 700828,31255,73,8,2026-10-24 16:30:00,28,401,Marmoush,Andrew Robertson,0.888,0.543,0.3883,SavedShot,OpenPlay,RightFoot,Pass,a
 700832,31255,73,8,2026-10-24 16:30:00,37,401,Marmoush,Sandro Tonali,0.805,0.521,0.0517,BlockedShot,OpenPlay,RightFoot,Pass,a
 700834,31255,73,8,2026-10-24 16:30:00,41,401,Marmoush,Mateus Fernandes,0.843,0.463,0.0245,MissedShots,OpenPlay,Head,Chipped,a
+2990952467,31266,90,9,2026-10-31 17:30:00,40,401,Marmoush,Fernandes,0.752,0.519,0.0299,SavedShot,OpenPlay,RightFoot,Pass,h
+2990988657,31266,90,9,2026-10-31 17:30:00,49,401,Marmoush,Robertson,0.895,0.56,0.0612,SavedShot,OpenPlay,Head,Cross,h
+2990998805,31266,90,9,2026-10-31 17:30:00,57,401,Marmoush,Van Hecke,0.749,0.442,0.0188,SavedShot,OpenPlay,RightFoot,Pass,h
+2991010401,31266,90,9,2026-10-31 17:30:00,67,401,Marmoush,Fernandes,0.969,0.353,0.0296,SavedShot,OpenPlay,RightFoot,Throughball,h
+2994179547,31276,97,10,2026-11-07 12:30:00,24,401,Marmoush,,0.847,0.526,0.1356,SavedShot,OpenPlay,RightFoot,BlockedPass,a
+2994185437,31276,97,10,2026-11-07 12:30:00,32,401,Marmoush,,0.936,0.609,0.0266,MissedShots,FromCorner,Head,Aerial,a

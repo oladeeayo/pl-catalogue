@@ -3,3 +3,6 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 692305,31206,23,3,2026-09-05 14:00:00,75,347,Nmecha,Harry Wilson,0.86,0.513,0.0855,BlockedShot,OpenPlay,LeftFoot,BallTouch,a
 692313,31206,23,3,2026-09-05 14:00:00,89,347,Nmecha,Harry Wilson,0.909,0.644,0.0767,MissedShots,OpenPlay,RightFoot,BallTouch,a
 699529,31247,66,7,2026-10-18 13:00:00,90,347,Nmecha,Tarik Muharemovic,0.936,0.469,0.1217,BlockedShot,OpenPlay,RightFoot,HeadPass,h
+2990799535,31264,82,9,2026-10-31 15:00:00,72,347,Nmecha,,0.808,0.629,0.0482,SavedShot,OpenPlay,RightFoot,BallRecovery,a
+2994193463,31276,97,10,2026-11-07 12:30:00,39,347,Nmecha,Bogle,0.92,0.517,0.0882,SavedShot,OpenPlay,Head,Pass,h
+2994242325,31276,97,10,2026-11-07 12:30:00,60,347,Nmecha,Bogle,0.899,0.615,0.0717,SavedShot,OpenPlay,RightFoot,Pass,h

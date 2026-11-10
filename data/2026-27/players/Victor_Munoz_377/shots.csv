@@ -11,3 +11,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 699013,31242,62,7,2026-10-17 14:00:00,61,377,Munoz,Florian Wirtz,0.88,0.343,0.184,Goal,OpenPlay,LeftFoot,TakeOn,a
 699014,31242,62,7,2026-10-17 14:00:00,64,377,Munoz,,0.893,0.385,0.0549,MissedShots,FromCorner,LeftFoot,BallTouch,a
 699018,31242,62,7,2026-10-17 14:00:00,71,377,Munoz,Treymaurice Nyoni,0.78,0.61,0.0244,SavedShot,SetPiece,RightFoot,Pass,a
+2991898137,31268,87,9,2026-11-01 16:30:00,90,377,Munoz,Virgil,0.898,0.299,0.0338,SavedShot,OpenPlay,RightFoot,Chipped,h

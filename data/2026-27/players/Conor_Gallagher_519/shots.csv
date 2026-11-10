@@ -5,3 +5,7 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 697629,31235,59,6,2026-10-10 16:30:00,41,519,Gallagher,,0.956,0.445,0.522,SavedShot,OpenPlay,RightFoot,Dispossessed,a
 700839,31255,73,8,2026-10-24 16:30:00,65,519,Gallagher,Jan Paul van Hecke,0.701,0.517,0.0112,BlockedShot,OpenPlay,RightFoot,TakeOn,a
 700844,31255,73,8,2026-10-24 16:30:00,84,519,Gallagher,Mohammed Kudus,0.945,0.295,0.0671,SavedShot,OpenPlay,RightFoot,Pass,a
+2991014185,31266,90,9,2026-10-31 17:30:00,72,519,Gallagher,,0.893,0.656,0.0501,SavedShot,FromCorner,RightFoot,BallTouch,h
+2991020705,31266,90,9,2026-10-31 17:30:00,80,519,Gallagher,,0.905,0.487,0.2827,SavedShot,OpenPlay,RightFoot,Cross,h
+2991026501,31266,90,9,2026-10-31 17:30:00,81,519,Gallagher,Kudus,0.968,0.445,0.1546,SavedShot,FromCorner,Head,CornerAwarded,h
+2994247699,31276,97,10,2026-11-07 12:30:00,67,519,Gallagher,Gray,0.76,0.501,0.0458,MissedShots,OpenPlay,RightFoot,Pass,a

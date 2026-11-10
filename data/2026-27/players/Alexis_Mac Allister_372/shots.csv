@@ -11,3 +11,8 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 699011,31242,62,7,2026-10-17 14:00:00,58,372,Mac Allister,Milos Kerkez,0.765,0.712,0.0248,SavedShot,OpenPlay,RightFoot,TakeOn,a
 699022,31242,62,7,2026-10-17 14:00:00,92,372,Mac Allister,,0.804,0.333,0.082,MissedShots,DirectFreekick,RightFoot,Standard,a
 701122,31252,78,8,2026-10-25 14:00:00,32,372,Mac Allister,Florian Wirtz,0.943,0.65,0.0138,MissedShots,FromCorner,Head,Cross,h
+2991808651,31268,87,9,2026-11-01 16:30:00,32,372,Mac Allister,,0.782,0.25,0.0158,MissedShots,OpenPlay,RightFoot,HeadPass,h
+2991821653,31268,87,9,2026-11-01 16:30:00,42,372,Mac Allister,Kerkez,0.912,0.503,0.1355,MissedShots,OpenPlay,Head,Cross,h
+2995293785,31272,93,10,2026-11-08 14:00:00,0,372,Mac Allister,,0.737,0.421,0.0251,SavedShot,OpenPlay,RightFoot,BallRecovery,a
+2995312401,31272,93,10,2026-11-08 14:00:00,10,372,Mac Allister,Szoboszlai,0.918,0.609,0.021,MissedShots,SetPiece,Head,Aerial,a
+2995360941,31272,93,10,2026-11-08 14:00:00,39,372,Mac Allister,Szoboszlai,0.929,0.439,0.1232,Goal,SetPiece,Head,Cross,a

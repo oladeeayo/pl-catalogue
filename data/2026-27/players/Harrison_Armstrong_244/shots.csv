@@ -6,3 +6,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 697964,31237,56,6,2026-10-11 13:00:00,33,244,Armstrong,Kiernan Dewsbury-Hall,0.897,0.504,0.4481,BlockedShot,OpenPlay,RightFoot,None,a
 697975,31237,56,6,2026-10-11 13:00:00,50,244,Armstrong,Jack Grealish,0.801,0.717,0.0209,SavedShot,OpenPlay,RightFoot,Pass,a
 700673,31254,71,8,2026-10-24 14:00:00,75,244,Armstrong,Tyrique George,0.914,0.638,0.0205,MissedShots,OpenPlay,Head,Chipped,a
+2992529581,31269,89,9,2026-11-02 20:00:00,47,244,Armstrong,,0.875,0.558,0.3516,MissedShots,OpenPlay,RightFoot,End,a
+2993881875,31273,94,10,2026-11-06 20:00:00,48,244,Armstrong,Röhl,0.908,0.313,0.0406,SavedShot,OpenPlay,RightFoot,Pass,h

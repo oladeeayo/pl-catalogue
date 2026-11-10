@@ -9,3 +9,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 699028,31243,67,7,2026-10-17 14:00:00,22,398,Foden,Nico O&#039;Reilly,0.887,0.454,0.0325,MissedShots,OpenPlay,Head,Aerial,h
 699040,31243,67,7,2026-10-17 14:00:00,56,398,Foden,Enzo Fernández,0.782,0.539,0.0461,BlockedShot,OpenPlay,LeftFoot,Pass,h
 700408,31251,72,8,2026-10-24 11:30:00,85,398,Foden,Josko Gvardiol,0.794,0.613,0.031,BlockedShot,OpenPlay,LeftFoot,Pass,a
+2994696463,31278,99,10,2026-11-07 17:30:00,78,398,Foden,Cherki,0.78,0.357,0.0209,SavedShot,SetPiece,LeftFoot,Pass,a
+2994709247,31278,99,10,2026-11-07 17:30:00,90,398,Foden,Ndiaye,0.818,0.327,0.0191,SavedShot,OpenPlay,LeftFoot,Pass,a

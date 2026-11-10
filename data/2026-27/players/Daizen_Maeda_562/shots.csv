@@ -3,3 +3,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 691317,31198,18,2,2026-08-30 15:30:00,22,562,Maeda,Leif Davis,0.866,0.693,0.1087,SavedShot,OpenPlay,LeftFoot,Throughball,a
 691984,31200,21,3,2026-09-04 19:00:00,34,562,Maeda,Leif Davis,0.959,0.686,0.0599,SavedShot,OpenPlay,LeftFoot,Pass,h
 699027,31243,67,7,2026-10-17 14:00:00,20,562,Maeda,Guemissongui Ouattara,0.892,0.389,0.1709,Goal,OpenPlay,LeftFoot,Pass,a
+2990800633,31262,86,9,2026-10-31 15:00:00,73,562,Maeda,Enciso,0.854,0.282,0.0363,SavedShot,OpenPlay,RightFoot,Chipped,a
+2990838571,31262,86,9,2026-10-31 15:00:00,89,562,Maeda,Enciso,0.923,0.419,0.0582,MissedShots,OpenPlay,Head,Cross,a

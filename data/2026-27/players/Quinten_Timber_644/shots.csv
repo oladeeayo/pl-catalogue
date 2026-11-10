@@ -5,3 +5,6 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 696441,31225,44,5,2026-09-20 13:00:00,5,644,Timber,Takehiro Tomiyasu,0.78,0.252,0.0187,MissedShots,OpenPlay,RightFoot,Pass,a
 696449,31225,44,5,2026-09-20 13:00:00,31,644,Timber,,0.87,0.528,0.0932,BlockedShot,OpenPlay,RightFoot,Dispossessed,a
 697927,31236,55,6,2026-10-11 13:00:00,10,644,Timber,Daichi Kamada,0.819,0.528,0.0985,MissedShots,OpenPlay,LeftFoot,Pass,h
+2995363687,31272,93,10,2026-11-08 14:00:00,40,644,Timber,Mitchell,0.869,0.648,0.0525,SavedShot,OpenPlay,RightFoot,Pass,h
+2995364983,31272,93,10,2026-11-08 14:00:00,41,644,Timber,Yeremy,0.76,0.585,0.0415,SavedShot,OpenPlay,RightFoot,Pass,h
+2995395965,31272,93,10,2026-11-08 14:00:00,45,644,Timber,Kamada,0.691,0.487,0.0165,MissedShots,OpenPlay,RightFoot,Pass,h

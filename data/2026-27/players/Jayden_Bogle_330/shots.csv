@@ -9,3 +9,6 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 699514,31247,66,7,2026-10-18 13:00:00,41,330,Bogle,Ethan Ampadu,0.86,0.373,0.0613,SavedShot,OpenPlay,RightFoot,Pass,h
 701518,31259,80,8,2026-10-25 16:30:00,2,330,Bogle,Ao Tanaka,0.799,0.415,0.0535,MissedShots,OpenPlay,RightFoot,TakeOn,a
 701531,31259,80,8,2026-10-25 16:30:00,59,330,Bogle,Brenden Aaronson,0.862,0.363,0.0633,BlockedShot,OpenPlay,RightFoot,BallRecovery,a
+2994249913,31276,97,10,2026-11-07 12:30:00,70,330,Bogle,,0.846,0.452,0.0526,SavedShot,FromCorner,LeftFoot,Pass,h
+2994249945,31276,97,10,2026-11-07 12:30:00,70,330,Bogle,,0.856,0.446,0.0299,MissedShots,FromCorner,RightFoot,Rebound,h
+2994250011,31276,97,10,2026-11-07 12:30:00,70,330,Bogle,,0.847,0.45,0.0266,MissedShots,FromCorner,RightFoot,BallTouch,h

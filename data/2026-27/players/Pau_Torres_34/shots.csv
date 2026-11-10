@@ -1,1 +1,4 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+2991156791,31267,81,9,2026-10-31 20:00:00,83,34,Pau,,0.916,0.478,0.155,MissedShots,FromCorner,Head,Interception,h
+2991161063,31267,81,9,2026-10-31 20:00:00,89,34,Pau,Buendía,0.917,0.454,0.1074,MissedShots,SetPiece,Head,Cross,h
+2995603245,31277,98,10,2026-11-08 16:30:00,39,34,Pau,McGinn,0.917,0.505,0.0847,MissedShots,SetPiece,Head,Pass,a

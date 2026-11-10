@@ -3,3 +3,8 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 688495,31180,1,1,2026-08-21 19:00:00,7,557,Tzolis,Ben White,0.845,0.505,0.0515,BlockedShot,FromCorner,LeftFoot,Pass,h
 688507,31180,1,1,2026-08-21 19:00:00,60,557,Tzolis,Martin Odegaard,0.873,0.633,0.079,BlockedShot,OpenPlay,RightFoot,BallTouch,h
 688509,31180,1,1,2026-08-21 19:00:00,64,557,Tzolis,,0.813,0.603,0.0296,SavedShot,FromCorner,RightFoot,None,h
+2991876705,31268,87,9,2026-11-01 16:30:00,72,557,Tzolis,Madueke,0.852,0.667,0.0329,SavedShot,OpenPlay,RightFoot,Pass,a
+2994362819,31270,91,10,2026-11-07 15:00:00,18,557,Tzolis,Calafiori,0.875,0.77,0.0321,SavedShot,OpenPlay,RightFoot,Pass,h
+2994395091,31270,91,10,2026-11-07 15:00:00,35,557,Tzolis,J.Timber,0.915,0.542,0.0684,SavedShot,OpenPlay,Head,Pass,h
+2994399959,31270,91,10,2026-11-07 15:00:00,37,557,Tzolis,,0.914,0.555,0.1064,MissedShots,OpenPlay,RightFoot,CornerAwarded,h
+2994468341,31270,91,10,2026-11-07 15:00:00,58,557,Tzolis,,0.906,0.723,0.0157,SavedShot,OpenPlay,RightFoot,Aerial,h

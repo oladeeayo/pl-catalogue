@@ -1,1 +1,3 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+2990748615,31265,83,9,2026-10-31 15:00:00,53,489,Yates,,0.933,0.529,0.2803,MissedShots,OpenPlay,Head,Dispossessed,a
+2994685619,31278,99,10,2026-11-07 17:30:00,66,489,Yates,Murillo,0.821,0.646,0.022,SavedShot,OpenPlay,RightFoot,Pass,h

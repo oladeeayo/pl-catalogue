@@ -19,3 +19,8 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 696018,31226,43,5,2026-09-19 14:00:00,75,236,Dewsbury-Hall,Tyler Dibling,0.953,0.573,0.3731,MissedShots,OpenPlay,Head,Cross,h
 697977,31237,56,6,2026-10-11 13:00:00,54,236,Dewsbury-Hall,Ainsley Maitland-Niles,0.951,0.458,0.3377,Goal,FromCorner,Head,Chipped,a
 700674,31254,71,8,2026-10-24 14:00:00,82,236,Dewsbury-Hall,James Garner,0.895,0.528,0.0811,MissedShots,OpenPlay,Head,Cross,a
+2992495981,31269,89,9,2026-11-02 20:00:00,7,236,Dewsbury-Hall,Armstrong,0.74,0.57,0.0269,MissedShots,OpenPlay,LeftFoot,HeadPass,a
+2992526429,31269,89,9,2026-11-02 20:00:00,43,236,Dewsbury-Hall,Barry,0.852,0.419,0.0854,MissedShots,OpenPlay,RightFoot,HeadPass,a
+2992554879,31269,89,9,2026-11-02 20:00:00,61,236,Dewsbury-Hall,,0.743,0.383,0.0412,SavedShot,OpenPlay,LeftFoot,Save,a
+2993888587,31273,94,10,2026-11-06 20:00:00,59,236,Dewsbury-Hall,,0.855,0.382,0.0395,SavedShot,OpenPlay,LeftFoot,Pass,h
+2993897625,31273,94,10,2026-11-06 20:00:00,80,236,Dewsbury-Hall,,0.954,0.68,0.1398,Goal,OpenPlay,LeftFoot,Interception,h

@@ -6,3 +6,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 701529,31259,80,8,2026-10-25 16:30:00,57,551,N.Angulo,,0.775,0.632,0.0343,SavedShot,OpenPlay,RightFoot,TakeOn,h
 701533,31259,80,8,2026-10-25 16:30:00,61,551,N.Angulo,Enzo Le Fée,0.807,0.513,0.0455,SavedShot,OpenPlay,RightFoot,Pass,h
 701536,31259,80,8,2026-10-25 16:30:00,71,551,N.Angulo,Luke O&#039;Nien,0.912,0.61,0.0832,BlockedShot,FromCorner,RightFoot,Rebound,h
+2990732433,31261,85,9,2026-10-31 15:00:00,46,551,N.Angulo,Xhaka,0.894,0.73,0.0281,SavedShot,OpenPlay,RightFoot,Pass,a

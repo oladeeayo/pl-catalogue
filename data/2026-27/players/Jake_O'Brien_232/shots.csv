@@ -1,1 +1,3 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+2992528629,31269,89,9,2026-11-02 20:00:00,46,232,O'Brien,Dewsbury-Hall,0.97,0.406,0.1134,MissedShots,OpenPlay,Head,Pass,a
+2992555463,31269,89,9,2026-11-02 20:00:00,62,232,O'Brien,Garner,0.949,0.432,0.0854,SavedShot,FromCorner,Head,Aerial,a

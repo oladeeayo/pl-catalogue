@@ -3,3 +3,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 689389,31188,9,1,2026-08-23 15:30:00,67,454,Elanga,Lewis Miley,0.772,0.276,0.0243,SavedShot,OpenPlay,LeftFoot,Pass,h
 690568,31194,15,2,2026-08-29 16:30:00,0,454,Elanga,Amar Dedic,0.948,0.325,0.0636,MissedShots,OpenPlay,RightFoot,HeadPass,a
 690586,31194,15,2,2026-08-29 16:30:00,61,454,Elanga,Amar Dedic,0.873,0.431,0.0776,Goal,OpenPlay,LeftFoot,HeadPass,a
+2992551847,31269,89,9,2026-11-02 20:00:00,57,454,Elanga,Joelinton,0.724,0.367,0.016,SavedShot,OpenPlay,LeftFoot,Pass,h
+2992557729,31269,89,9,2026-11-02 20:00:00,65,454,Elanga,,0.99,0.449,0.3375,ShotOnPost,OpenPlay,LeftFoot,Pass,h

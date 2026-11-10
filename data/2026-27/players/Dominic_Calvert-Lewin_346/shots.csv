@@ -13,3 +13,8 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 699513,31247,66,7,2026-10-18 13:00:00,38,346,Calvert-Lewin,Jayden Bogle,0.875,0.458,0.0376,MissedShots,OpenPlay,Head,Chipped,h
 699515,31247,66,7,2026-10-18 13:00:00,49,346,Calvert-Lewin,James Justin,0.894,0.501,0.0413,MissedShots,OpenPlay,OtherBodyPart,Aerial,h
 699517,31247,66,7,2026-10-18 13:00:00,50,346,Calvert-Lewin,Tarik Muharemovic,0.939,0.522,0.5574,Goal,FromCorner,RightFoot,Rebound,h
+2990622677,31264,82,9,2026-10-31 15:00:00,10,346,Calvert-Lewin,Justin,0.951,0.502,0.2985,SavedShot,OpenPlay,RightFoot,HeadPass,a
+2990842707,31264,82,9,2026-10-31 15:00:00,82,346,Calvert-Lewin,Wilson,0.919,0.638,0.009,MissedShots,FromCorner,Head,Pass,a
+2994227597,31276,97,10,2026-11-07 12:30:00,49,346,Calvert-Lewin,Longstaff,0.926,0.45,0.0655,SavedShot,FromCorner,Head,Pass,h
+2994227635,31276,97,10,2026-11-07 12:30:00,49,346,Calvert-Lewin,,0.949,0.462,0.2455,MissedShots,FromCorner,RightFoot,Rebound,h
+2994248687,31276,97,10,2026-11-07 12:30:00,68,346,Calvert-Lewin,,0.809,0.517,0.0445,MissedShots,OpenPlay,LeftFoot,BallRecovery,h

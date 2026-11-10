@@ -12,3 +12,7 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 699049,31243,67,7,2026-10-17 14:00:00,95,237,Ndiaye,Erling Haaland,0.846,0.454,0.0892,MissedShots,OpenPlay,LeftFoot,BallTouch,h
 700393,31251,72,8,2026-10-24 11:30:00,12,237,Ndiaye,Mathis Cherki,0.831,0.329,0.0365,SavedShot,FromCorner,LeftFoot,TakeOn,a
 700397,31251,72,8,2026-10-24 11:30:00,27,237,Ndiaye,Mathis Cherki,0.865,0.333,0.0527,ShotOnPost,OpenPlay,LeftFoot,Pass,a
+2990649177,31263,88,9,2026-10-31 15:00:00,21,237,Ndiaye,Anderson,0.932,0.515,0.1315,MissedShots,FromCorner,Head,Pass,h
+2990657251,31263,88,9,2026-10-31 15:00:00,24,237,Ndiaye,Khusanov,0.903,0.316,0.0487,SavedShot,OpenPlay,RightFoot,TakeOn,h
+2990748327,31263,88,9,2026-10-31 15:00:00,51,237,Ndiaye,,0.896,0.296,0.0458,SavedShot,OpenPlay,RightFoot,Foul,h
+2990803807,31263,88,9,2026-10-31 15:00:00,75,237,Ndiaye,O'Reilly,0.968,0.387,0.1904,ShotOnPost,OpenPlay,RightFoot,Cross,h

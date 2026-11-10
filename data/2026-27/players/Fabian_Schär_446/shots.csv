@@ -1,1 +1,5 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+2992553337,31269,89,9,2026-11-02 20:00:00,59,446,Schär,,0.779,0.358,0.0173,MissedShots,OpenPlay,RightFoot,Pass,h
+2992553371,31269,89,9,2026-11-02 20:00:00,59,446,Schär,,0.788,0.352,0.0256,MissedShots,OpenPlay,LeftFoot,Pass,h
+2992557821,31269,89,9,2026-11-02 20:00:00,65,446,Schär,,0.842,0.295,0.0169,SavedShot,OpenPlay,RightFoot,BallTouch,h
+2992573209,31269,89,9,2026-11-02 20:00:00,91,446,Schär,J.Murphy,0.969,0.601,0.0608,MissedShots,FromCorner,Head,Chipped,h

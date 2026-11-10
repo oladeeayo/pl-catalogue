@@ -1,3 +1,5 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
 688585,31182,3,1,2026-08-22 14:00:00,9,241,McNeil,Jean-Philippe Mateta,0.757,0.505,0.025,BlockedShot,OpenPlay,LeftFoot,Pass,a
 701301,31257,75,8,2026-10-25 14:00:00,20,241,McNeil,Yeremi Pino,0.926,0.706,0.0604,MissedShots,OpenPlay,LeftFoot,Pass,h
+2991004575,31266,90,9,2026-10-31 17:30:00,62,241,McNeil,Kamada,0.895,0.468,0.1092,SavedShot,OpenPlay,LeftFoot,Chipped,a
+2995469977,31272,93,10,2026-11-08 14:00:00,88,241,McNeil,,0.774,0.258,0.0159,SavedShot,OpenPlay,LeftFoot,TakeOn,h

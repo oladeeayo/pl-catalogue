@@ -11,3 +11,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 697322,31231,52,6,2026-10-10 14:00:00,49,86,Lewis-Potter,El Hadji Malick Diouf,0.849,0.702,0.0346,BlockedShot,OpenPlay,RightFoot,Pass,a
 699003,31242,62,7,2026-10-17 14:00:00,43,86,Lewis-Potter,Thiago,0.903,0.532,0.2599,Goal,OpenPlay,Head,Chipped,h
 699020,31242,62,7,2026-10-17 14:00:00,76,86,Lewis-Potter,Michael Kayode,0.857,0.489,0.0261,MissedShots,OpenPlay,Head,Cross,h
+2995314889,31271,92,10,2026-11-08 14:00:00,12,86,Lewis-Potter,Thiago,0.712,0.566,0.0124,SavedShot,OpenPlay,RightFoot,Pass,a

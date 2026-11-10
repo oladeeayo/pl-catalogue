@@ -7,3 +7,6 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 692585,31207,25,3,2026-09-05 16:30:00,80,46,Barkley,,0.895,0.537,0.0212,MissedShots,FromCorner,Head,Aerial,a
 693972,31211,31,4,2026-09-12 14:00:00,31,46,Barkley,George Hemmings,0.778,0.697,0.0182,SavedShot,OpenPlay,RightFoot,Pass,h
 699279,31244,68,7,2026-10-17 16:30:00,73,46,Barkley,,0.813,0.542,0.0977,SavedShot,OpenPlay,RightFoot,Rebound,a
+2991163821,31267,81,9,2026-10-31 20:00:00,93,46,Barkley,,0.858,0.403,0.0206,SavedShot,SetPiece,RightFoot,BallTouch,h
+2995688393,31277,98,10,2026-11-08 16:30:00,81,46,Barkley,,0.905,0.462,0.0566,MissedShots,SetPiece,Head,Pass,a
+2995693823,31277,98,10,2026-11-08 16:30:00,86,46,Barkley,,0.769,0.566,0.036,SavedShot,OpenPlay,LeftFoot,Pass,a

@@ -5,3 +5,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 691349,31198,18,2,2026-08-30 15:30:00,85,415,Dorgu,Bryan Mbeumo,0.968,0.591,0.1869,SavedShot,OpenPlay,Head,Cross,h
 691352,31198,18,2,2026-08-30 15:30:00,96,415,Dorgu,Benjamin Sesko,0.856,0.695,0.0985,SavedShot,OpenPlay,LeftFoot,Pass,h
 696692,31229,50,5,2026-09-20 15:30:00,93,415,Dorgu,Bryan Mbeumo,0.961,0.563,0.0639,MissedShots,FromCorner,Head,Aerial,a
+2995705471,31277,98,10,2026-11-08 16:30:00,95,415,Dorgu,B.Fernandes,0.973,0.481,0.35,Goal,FromCorner,Head,Cross,h

@@ -10,3 +10,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 697113,31230,51,6,2026-10-10 11:30:00,44,335,Stach,Ethan Ampadu,0.911,0.633,0.0205,MissedShots,OpenPlay,Head,Pass,a
 699524,31247,66,7,2026-10-18 13:00:00,71,335,Stach,,0.849,0.562,0.0667,MissedShots,OpenPlay,LeftFoot,None,h
 699530,31247,66,7,2026-10-18 13:00:00,90,335,Stach,,0.895,0.405,0.0836,BlockedShot,OpenPlay,LeftFoot,None,h
+2990836579,31264,82,9,2026-10-31 15:00:00,87,335,Stach,,0.735,0.607,0.0673,MissedShots,DirectFreekick,RightFoot,Standard,a
+2990843269,31264,82,9,2026-10-31 15:00:00,90,335,Stach,,0.813,0.523,0.0626,MissedShots,OpenPlay,LeftFoot,Pass,a

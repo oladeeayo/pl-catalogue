@@ -1,1 +1,4 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+2990458637,31260,84,9,2026-10-31 12:30:00,21,145,Fofana,Colwill,0.909,0.519,0.0778,SavedShot,FromCorner,Head,HeadPass,h
+2990474471,31260,84,9,2026-10-31 12:30:00,41,145,Fofana,,0.916,0.479,0.0561,SavedShot,FromCorner,Head,BallRecovery,h
+2995432177,31279,100,10,2026-11-08 14:00:00,65,145,Fofana,Gusto,0.903,0.487,0.0584,MissedShots,SetPiece,Head,Aerial,a

@@ -1,2 +1,4 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
 691110,31197,17,2,2026-08-30 13:00:00,62,260,Wilson,,0.713,0.378,0.0127,BlockedShot,OpenPlay,LeftFoot,BallRecovery,h
+2990629331,31264,82,9,2026-10-31 15:00:00,14,260,Wilson,Bogle,0.74,0.433,0.0523,MissedShots,OpenPlay,LeftFoot,Pass,a
+2990713209,31264,82,9,2026-10-31 15:00:00,48,260,Wilson,,0.754,0.447,0.0729,MissedShots,DirectFreekick,LeftFoot,HeadPass,a

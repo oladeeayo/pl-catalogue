@@ -6,3 +6,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 700403,31251,72,8,2026-10-24 11:30:00,55,391,Gvardiol,Jéremy Doku,0.926,0.658,0.3327,SavedShot,OpenPlay,LeftFoot,Throughball,a
 700406,31251,72,8,2026-10-24 11:30:00,64,391,Gvardiol,Enzo Fernández,0.918,0.458,0.0342,MissedShots,FromCorner,Head,Aerial,a
 700407,31251,72,8,2026-10-24 11:30:00,67,391,Gvardiol,,0.926,0.51,0.5323,SavedShot,OpenPlay,LeftFoot,None,a
+2990633837,31263,88,9,2026-10-31 15:00:00,15,391,Gvardiol,Anderson,0.891,0.525,0.026,MissedShots,FromCorner,Head,Aerial,h

@@ -1,3 +1,6 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
 697634,31235,59,6,2026-10-10 16:30:00,61,440,Zirkzee,Bruno Fernandes,0.964,0.605,0.0823,BlockedShot,SetPiece,LeftFoot,Chipped,h
 701167,31256,79,8,2026-10-25 14:00:00,88,440,Zirkzee,,0.78,0.503,0.0333,BlockedShot,OpenPlay,RightFoot,BallTouch,h
+2990535057,31260,84,9,2026-10-31 12:30:00,83,440,Zirkzee,Yoro,0.734,0.503,0.035,SavedShot,OpenPlay,RightFoot,Pass,a
+2990546649,31260,84,9,2026-10-31 12:30:00,91,440,Zirkzee,Yoro,0.944,0.277,0.0301,SavedShot,OpenPlay,RightFoot,Pass,a
+2995699967,31277,98,10,2026-11-08 16:30:00,91,440,Zirkzee,Dorgu,0.905,0.534,0.1998,Goal,OpenPlay,LeftFoot,Cross,h

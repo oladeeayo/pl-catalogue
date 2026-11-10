@@ -22,3 +22,12 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 700334,31250,77,8,2026-10-23 19:00:00,18,591,Enciso,,0.746,0.555,0.0599,MissedShots,DirectFreekick,RightFoot,Standard,h
 700337,31250,77,8,2026-10-23 19:00:00,27,591,Enciso,Exequiel Palacios,0.779,0.503,0.0326,SavedShot,OpenPlay,LeftFoot,TakeOn,h
 700340,31250,77,8,2026-10-23 19:00:00,40,591,Enciso,,0.828,0.552,0.2659,Goal,OpenPlay,LeftFoot,BallRecovery,h
+2990619175,31262,86,9,2026-10-31 15:00:00,8,591,Enciso,,0.704,0.62,0.0144,SavedShot,OpenPlay,RightFoot,LayOff,a
+2990774979,31262,86,9,2026-10-31 15:00:00,60,591,Enciso,,0.721,0.591,0.0341,SavedShot,DirectFreekick,RightFoot,Standard,a
+2990793723,31262,86,9,2026-10-31 15:00:00,70,591,Enciso,,0.917,0.583,0.0796,MissedShots,OpenPlay,Head,Cross,a
+2990801547,31262,86,9,2026-10-31 15:00:00,73,591,Enciso,,0.808,0.499,0.0377,Goal,OpenPlay,LeftFoot,TakeOn,a
+2990832179,31262,86,9,2026-10-31 15:00:00,86,591,Enciso,,0.846,0.454,0.119,MissedShots,OpenPlay,RightFoot,Rebound,a
+2995310165,31275,96,10,2026-11-08 14:00:00,10,591,Enciso,,0.806,0.348,0.0229,SavedShot,OpenPlay,RightFoot,Pass,h
+2995336717,31275,96,10,2026-11-08 14:00:00,25,591,Enciso,,0.722,0.419,0.0174,SavedShot,OpenPlay,RightFoot,Pass,h
+2995462775,31275,96,10,2026-11-08 14:00:00,88,591,Enciso,,0.796,0.634,0.0756,MissedShots,DirectFreekick,RightFoot,Standard,h
+2995471787,31275,96,10,2026-11-08 14:00:00,93,591,Enciso,,0.744,0.464,0.0664,MissedShots,DirectFreekick,RightFoot,Standard,h

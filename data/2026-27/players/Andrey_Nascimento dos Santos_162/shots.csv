@@ -1,2 +1,3 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
 701163,31256,79,8,2026-10-25 14:00:00,84,162,Andrey Santos,,0.976,0.572,0.0943,BlockedShot,OpenPlay,Head,None,h
+2990447785,31260,84,9,2026-10-31 12:30:00,8,162,Andrey Santos,B.Fernandes,0.777,0.617,0.038,MissedShots,OpenPlay,LeftFoot,Pass,a

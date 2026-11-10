@@ -10,3 +10,7 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 699069,31241,65,7,2026-10-17 14:00:00,73,264,Bobb,,0.905,0.654,0.0733,MissedShots,OpenPlay,LeftFoot,Rebound,h
 699070,31241,65,7,2026-10-17 14:00:00,77,264,Bobb,Antonee Robinson,0.759,0.406,0.0189,MissedShots,OpenPlay,LeftFoot,HeadPass,h
 700648,31253,74,8,2026-10-24 14:00:00,79,264,Bobb,Joshua King,0.917,0.336,0.0491,Goal,FromCorner,LeftFoot,TakeOn,a
+2991101829,31267,81,9,2026-10-31 20:00:00,31,264,Bobb,Robinson,0.898,0.468,0.3706,SavedShot,OpenPlay,RightFoot,Pass,a
+2991140029,31267,81,9,2026-10-31 20:00:00,60,264,Bobb,,0.898,0.315,0.0281,SavedShot,OpenPlay,LeftFoot,LayOff,a
+2994353113,31274,95,10,2026-11-07 15:00:00,13,264,Bobb,,0.902,0.336,0.0685,SavedShot,OpenPlay,LeftFoot,Pass,h
+2994373151,31274,95,10,2026-11-07 15:00:00,23,264,Bobb,,0.864,0.327,0.0246,SavedShot,OpenPlay,LeftFoot,BallTouch,h

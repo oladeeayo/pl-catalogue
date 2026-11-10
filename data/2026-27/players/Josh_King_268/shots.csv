@@ -20,3 +20,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 700638,31253,74,8,2026-10-24 14:00:00,24,268,King,Alex Iwobi,0.926,0.321,0.0725,BlockedShot,OpenPlay,RightFoot,Pass,a
 700642,31253,74,8,2026-10-24 14:00:00,55,268,King,,0.784,0.589,0.0306,MissedShots,OpenPlay,RightFoot,None,a
 700647,31253,74,8,2026-10-24 14:00:00,75,268,King,Sander Berge,0.808,0.702,0.0212,SavedShot,OpenPlay,RightFoot,Pass,a
+2994399177,31274,95,10,2026-11-07 15:00:00,36,268,King,Iwobi,0.806,0.481,0.0358,SavedShot,OpenPlay,RightFoot,Pass,h
+2994417789,31274,95,10,2026-11-07 15:00:00,45,268,King,,0.939,0.57,0.1175,MissedShots,OpenPlay,Head,Cross,h

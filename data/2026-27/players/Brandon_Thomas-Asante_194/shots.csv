@@ -10,3 +10,4 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 700627,31253,74,8,2026-10-24 14:00:00,1,194,Thomas-Asante,,0.716,0.521,0.0126,BlockedShot,OpenPlay,LeftFoot,None,h
 700636,31253,74,8,2026-10-24 14:00:00,20,194,Thomas-Asante,Jay Dasilva,0.919,0.546,0.0549,MissedShots,OpenPlay,Head,Aerial,h
 700639,31253,74,8,2026-10-24 14:00:00,28,194,Thomas-Asante,,0.853,0.351,0.0494,SavedShot,OpenPlay,RightFoot,None,h
+2993895357,31273,94,10,2026-11-06 20:00:00,73,194,Thomas-Asante,,0.898,0.519,0.0423,MissedShots,OpenPlay,Head,Cross,a

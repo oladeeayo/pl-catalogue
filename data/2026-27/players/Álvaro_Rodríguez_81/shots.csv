@@ -1,2 +1,4 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
 697358,31232,53,6,2026-10-10 14:00:00,87,81,Rodríguez,,0.816,0.658,0.0333,BlockedShot,OpenPlay,LeftFoot,BallRecovery,a
+2990842135,31264,82,9,2026-10-31 15:00:00,90,81,Rodríguez,Hill,0.824,0.479,0.145,SavedShot,OpenPlay,LeftFoot,TakeOn,h
+2995481495,31275,96,10,2026-11-08 14:00:00,99,81,Rodríguez,Adli,0.914,0.632,0.2958,SavedShot,OpenPlay,LeftFoot,Pass,a

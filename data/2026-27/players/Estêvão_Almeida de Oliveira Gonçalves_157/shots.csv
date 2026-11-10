@@ -2,3 +2,9 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 693082,31209,29,3,2026-09-06 15:30:00,88,157,Estêvão,Cole Palmer,0.843,0.278,0.0297,SavedShot,OpenPlay,LeftFoot,Pass,a
 694017,31212,33,4,2026-09-12 14:00:00,90,157,Estêvão,Danny Welbeck,0.965,0.331,0.0734,SavedShot,OpenPlay,RightFoot,Pass,h
 700840,31255,73,8,2026-10-24 16:30:00,73,157,Estêvão,Jordan Henderson,0.96,0.327,0.0744,MissedShots,OpenPlay,RightFoot,Pass,h
+2990447101,31260,84,9,2026-10-31 12:30:00,7,157,Estêvão,Palmer,0.763,0.315,0.0291,MissedShots,OpenPlay,LeftFoot,Pass,h
+2990477161,31260,84,9,2026-10-31 12:30:00,44,157,Estêvão,Lavia,0.91,0.298,0.0388,SavedShot,OpenPlay,RightFoot,Pass,h
+2990514047,31260,84,9,2026-10-31 12:30:00,66,157,Estêvão,Rogers,0.836,0.288,0.017,MissedShots,OpenPlay,LeftFoot,Pass,h
+2990528889,31260,84,9,2026-10-31 12:30:00,78,157,Estêvão,,0.85,0.434,0.0533,SavedShot,OpenPlay,LeftFoot,Cross,h
+2990535747,31260,84,9,2026-10-31 12:30:00,83,157,Estêvão,Palmer,0.823,0.283,0.0243,SavedShot,OpenPlay,LeftFoot,Pass,h
+2990537745,31260,84,9,2026-10-31 12:30:00,84,157,Estêvão,Rogers,0.796,0.424,0.0573,SavedShot,OpenPlay,LeftFoot,Chipped,h

@@ -3,3 +3,6 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 701521,31259,80,8,2026-10-25 16:30:00,7,539,O'Nien,Enzo Le Fée,0.935,0.591,0.0587,MissedShots,FromCorner,Head,Cross,h
 701534,31259,80,8,2026-10-25 16:30:00,63,539,O'Nien,Enzo Le Fée,0.907,0.538,0.1028,MissedShots,SetPiece,Head,Cross,h
 701535,31259,80,8,2026-10-25 16:30:00,71,539,O'Nien,,0.961,0.4,0.094,MissedShots,FromCorner,LeftFoot,None,h
+2990770851,31261,85,9,2026-10-31 15:00:00,62,539,O'Nien,Roefs,0.858,0.37,0.0403,SavedShot,OpenPlay,LeftFoot,Pass,a
+2990801079,31261,85,9,2026-10-31 15:00:00,76,539,O'Nien,,0.872,0.348,0.049,SavedShot,SetPiece,RightFoot,HeadPass,a
+2990809377,31261,85,9,2026-10-31 15:00:00,79,539,O'Nien,,0.864,0.444,0.0811,SavedShot,OpenPlay,LeftFoot,Pass,a

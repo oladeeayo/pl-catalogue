@@ -1,3 +1,5 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
 701307,31257,75,8,2026-10-25 14:00:00,56,458,Joelinton,Jacob Murphy,0.92,0.471,0.0422,MissedShots,FromCorner,Head,Aerial,a
 701310,31257,75,8,2026-10-25 14:00:00,65,458,Joelinton,Fabian Schär,0.868,0.335,0.0486,MissedShots,SetPiece,RightFoot,Pass,a
+2992504383,31269,89,9,2026-11-02 20:00:00,15,458,Joelinton,,0.823,0.433,0.0576,SavedShot,OpenPlay,LeftFoot,Pass,h
+2992523227,31269,89,9,2026-11-02 20:00:00,39,458,Joelinton,Willock,0.744,0.325,0.0254,MissedShots,OpenPlay,RightFoot,HeadPass,h

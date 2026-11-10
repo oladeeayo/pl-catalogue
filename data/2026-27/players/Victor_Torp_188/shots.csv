@@ -1,1 +1,5 @@
 shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y,xg,result,situation,shot_type,last_action,h_a
+2990665513,31261,85,9,2026-10-31 15:00:00,28,188,Torp,,0.708,0.364,0.0327,MissedShots,DirectFreekick,RightFoot,HeadPass,h
+2993851887,31273,94,10,2026-11-06 20:00:00,31,188,Torp,,0.749,0.648,0.0183,MissedShots,OpenPlay,RightFoot,Pass,a
+2993857187,31273,94,10,2026-11-06 20:00:00,36,188,Torp,Pinnock,0.883,0.526,0.1487,MissedShots,OpenPlay,RightFoot,Pass,a
+2993864591,31273,94,10,2026-11-06 20:00:00,43,188,Torp,,0.718,0.579,0.0348,SavedShot,DirectFreekick,RightFoot,Tackle,a

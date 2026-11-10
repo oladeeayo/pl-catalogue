@@ -13,3 +13,5 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 700668,31254,71,8,2026-10-24 14:00:00,50,15,Ødegaard,,0.675,0.513,0.0118,SavedShot,FromCorner,LeftFoot,None,h
 700676,31254,71,8,2026-10-24 14:00:00,90,15,Ødegaard,Bruno Guimarães,0.705,0.555,0.0148,MissedShots,OpenPlay,LeftFoot,Pass,h
 700678,31254,71,8,2026-10-24 14:00:00,94,15,Ødegaard,Ben White,0.795,0.243,0.0161,MissedShots,OpenPlay,LeftFoot,Pass,h
+2994399679,31270,91,10,2026-11-07 15:00:00,37,15,Ødegaard,,0.721,0.376,0.0199,SavedShot,OpenPlay,LeftFoot,Tackle,h
+2994488079,31270,91,10,2026-11-07 15:00:00,71,15,Ødegaard,,0.964,0.436,0.2196,Goal,OpenPlay,RightFoot,Rebound,h

@@ -18,3 +18,8 @@ shot_id,us_match_id,fixture_id,gw,date,minute,player_id,player,assisted_name,x,y
 701114,31252,78,8,2026-10-25 14:00:00,13,129,Ayari,Pascal Groß,0.884,0.456,0.3993,MissedShots,OpenPlay,RightFoot,Pass,a
 701123,31252,78,8,2026-10-25 14:00:00,35,129,Ayari,Maxim De Cuyper,0.734,0.549,0.0174,ShotOnPost,OpenPlay,RightFoot,Pass,a
 701135,31252,78,8,2026-10-25 14:00:00,65,129,Ayari,,0.746,0.517,0.0267,MissedShots,OpenPlay,RightFoot,TakeOn,a
+2990619407,31263,88,9,2026-10-31 15:00:00,10,129,Ayari,,0.927,0.496,0.5213,Goal,SetPiece,LeftFoot,BallTouch,a
+2995370497,31271,92,10,2026-11-08 14:00:00,44,129,Ayari,,0.737,0.597,0.0273,SavedShot,OpenPlay,RightFoot,CornerAwarded,h
+2995440863,31271,92,10,2026-11-08 14:00:00,73,129,Ayari,Boscagli,0.818,0.664,0.0411,SavedShot,OpenPlay,RightFoot,Pass,h
+2995442457,31271,92,10,2026-11-08 14:00:00,74,129,Ayari,,0.869,0.349,0.0361,MissedShots,FromCorner,RightFoot,Rebound,h
+2995447305,31271,92,10,2026-11-08 14:00:00,76,129,Ayari,Groß,0.844,0.46,0.113,SavedShot,OpenPlay,RightFoot,TakeOn,h
